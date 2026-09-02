@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Baie yon moun saj, e l ap vin pi saj ⟨ankò⟩; fè konnen ⟨pou⟩ yon moun jis, e l ap ogmante konnen.",
+  "tokens": [
+    {
+      "surface": "תֵּן",
+      "gloss": "Baie"
+    },
+    {
+      "surface": "לְחָכָם",
+      "gloss": "pou yon moun saj"
+    },
+    {
+      "surface": "וְיֶחְכַּם",
+      "gloss": "e l ap vin pi saj"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "⟨ankò⟩"
+    },
+    {
+      "surface": "הוֹדַע",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "לְצַדִּיק",
+      "gloss": "pou yon moun jis"
+    },
+    {
+      "surface": "וְיוֹסֶף",
+      "gloss": "e l ap ogmante"
+    },
+    {
+      "surface": "לֶקַח",
+      "gloss": "konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:26:05.798580906Z",
+  "model": "glm-5.3"
+}

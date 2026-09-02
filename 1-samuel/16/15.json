@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E sèvitè Chaoul yo di l: Gade koulye a, se yon rouach Elohim ki move ap epouvante ou.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koulye a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rouach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "move"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "ap epouvante ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:11.913137248Z",
+  "model": "glm-5.3"
+}

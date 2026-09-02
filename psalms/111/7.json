@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 111,
+  "translation": "Zèv men l yo se ⟨verite⟩ ak jistis; tout komandman l yo fidèl.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Zèv"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "men l yo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨verite⟩"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ak jistis"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "fidèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "komandman l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:42.583916137Z",
+  "model": "glm-5.3"
+}

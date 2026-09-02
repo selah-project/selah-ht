@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Yawe Elohim fòme ⟨את⟩ nonm nan ak pousyè soti nan tè a, e li soufle nan nen li souf lavi, e nonm nan vin yon nefech vivan.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "fòme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonm nan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nonm nan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "soufle"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "nan nen li"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "souf"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "vin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nonm nan"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "yon nefech"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:45.635305119Z",
+  "model": "glm-5.3"
+}

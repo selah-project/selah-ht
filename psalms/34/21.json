@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Yawe kenbe tout zo sèvitè l yo; youn ⟨nan⟩ yo pa kase.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "zo sèvitè l yo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "youn"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "⟨nan⟩ yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "kase"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:22.546638623Z",
+  "model": "glm-5.3"
+}

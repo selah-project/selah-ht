@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi Moche pran ⟨את⟩ baton an devan Yawe, jan ⟨li⟩ te kòmande l.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baton an"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "baton an"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "te kòmande l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:31:25.797996862Z",
+  "model": "glm-5.3"
+}

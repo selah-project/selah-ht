@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Pran ⟨את⟩ tèt byen pran an, prizonye yo, nan moun ak nan bèt — ou, ak Elazar prèt la, ak chèf Paran yo nan asanble a.",
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt byen pran an"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "byen pran"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "prizonye yo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nan moun"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ak nan bèt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ak Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "ak chèf"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nan asanble a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:38:05.073197867Z",
+  "model": "glm-5.3"
+}

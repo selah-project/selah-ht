@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E l bati ⟨את⟩ Tadmor nan dezè, ak ⟨את⟩ tout vil depo yo ke l te bati nan Khamat.",
+  "tokens": [
+    {
+      "surface": "וַיִּבֶן֙",
+      "gloss": "E l bati"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תַּדְמֹ֖ר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "nan dezè"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout vil depo yo"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עָרֵ֣י",
+      "gloss": "vil"
+    },
+    {
+      "surface": "הַמַּסְכְּנ֔וֹת",
+      "gloss": "depo yo"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בָּנָ֖ה",
+      "gloss": "te bati"
+    },
+    {
+      "surface": "בַּחֲמָֽת",
+      "gloss": "nan Khamat"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:59.775005029Z",
+  "model": "glm-5.3"
+}

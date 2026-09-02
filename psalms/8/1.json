@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Pou chèf mizisyen an, sou Gtit, yon mizmor pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gtit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:27.314681667Z",
+  "model": "glm-5.3"
+}

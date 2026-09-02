@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi pitit Yisrayèl yo fè ⟨את⟩ Paka la nan tan li te fenèt pou li a.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paka la"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paka la"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "nan tan li te fenèt pou li a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:26:03.665541252Z",
+  "model": "glm-5.3"
+}

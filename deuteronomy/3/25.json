@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Ann pase, souple, epi wè ⟨את⟩ tè a bon an ki nan lòt bò Yardèn la, mòn bon sa a, ak Levanòn.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Ann pase"
+    },
+    {
+      "surface": "נא",
+      "gloss": "souple"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "epi wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a bon an"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "bon an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "nan lòt bò"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardèn la"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ak Levanòn"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:01.353483143Z",
+  "model": "glm-5.3"
+}

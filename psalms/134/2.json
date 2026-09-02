@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 134,
+  "translation": "Releve men nou vann ⟨van sen⟩ a, epi beni ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Releve"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "vann sen"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "epi beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:55.385767529Z",
+  "model": "glm-5.3"
+}

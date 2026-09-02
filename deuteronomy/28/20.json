@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Yawe ap voye ⟨את⟩ malèdiksyon an, ⟨את⟩ dezòd la, ak ⟨את⟩ repwoch la sou ou, nan tout sa men ou aplike pou fè, jouk lè w ap detwi, epi jouk w ap pèdi byen vit, paske w fè move devan move zak ou yo, paske w kite m.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ap voye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malèdiksyon an"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "malèdiksyon an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dezòd la"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "dezòd la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "repwoch la"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "repwoch la"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sa w aplike"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "w fè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "lè w ap detwi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "epi jouk"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "w ap pèdi"
+    },
+    {
+      "surface": "mahir_text",
+      "gloss": "byen vit"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "zak ou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paské-zan"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "w kite m"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:39.854338856Z",
+  "model": "glm-5.3"
+}

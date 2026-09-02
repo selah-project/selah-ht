@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Mwen wè esklav monte sou chwal, e chèf yo ap mache kòm esklav sou tè a.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mwen wè"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "esklav"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "chwal"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "e chèf yo"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "kòm esklav"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:37.659557558Z",
+  "model": "glm-5.3"
+}

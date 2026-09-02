@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 78:55",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "E li chase nasyon yo devan yo, li fè yo tonbe nan kòd eritaj la, e li fè tribi Yisrayèl abite nan tant yo.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "chase"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "devan yo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "ויפילם",
+      "gloss": "fè tonbe"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "nan kòd"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "eritaj"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "fè abite"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "nan tant yo"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribi yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:28.692590548Z",
+  "model": "glm-5.3"
+}

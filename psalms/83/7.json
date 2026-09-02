@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Tant Edòm yo ak Ismaèl yo, Moab ak Hagarit yo,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Tant"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edòm"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ak Ismaèl yo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ak Hagarit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:02.530977136Z",
+  "model": "glm-5.3"
+}

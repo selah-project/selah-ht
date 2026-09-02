@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi moun ki dòmi nan kay la ap lave ⟨את⟩ rad ⟨li⟩, epi moun ki manje nan kay la ap lave ⟨את⟩ rad ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "moun ki dòmi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay la"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ap lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad li"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "moun ki manje"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay la"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ap lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad li"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:02.291023654Z",
+  "model": "glm-5.3"
+}

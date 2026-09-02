@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "e Yoyada fè Yonatan vin monn, e Yonatan fè Yadoua vin monn.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "e Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè … vin monn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "e Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè … vin monn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadoua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadoua"
+    }
+  ],
+  "timestamp": "2026-09-02T21:11:06.766289115Z",
+  "model": "glm-5.3"
+}

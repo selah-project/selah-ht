@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E pitit Yisrael yo kanpe nan Gilgal, e yo fè ⟨את⟩ Pesach la katòzèm jou nan mwa a, nan aswè a, nan plenn Yericho yo.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "E ... kanpe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit ... yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "nan Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "E yo fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach la"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach la"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "katòz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "èm"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nan mwa a"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "nan aswè a"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "nan plenn ... yo"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    }
+  ],
+  "timestamp": "2026-09-02T16:59:54.152930570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Bouche m plen ak louanj ou, ak majeste ou tout jou a.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "plen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Bouche m"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "louanj ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "majeste ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:28.003720803Z",
+  "model": "glm-5.3"
+}

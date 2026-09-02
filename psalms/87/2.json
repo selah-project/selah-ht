@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 87,
+  "translation": "Yawe renmen pòt Tsiyòn yo pi pase tout kay Yaakov yo.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pi pase tout"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:31.892754862Z",
+  "model": "glm-5.3"
+}

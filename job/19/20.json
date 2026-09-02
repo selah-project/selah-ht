@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Zo mwen kole sou po mwen ak sou vyann mwen, e m chape ⟨ak⟩ po ⟨dan⟩ mwen.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "sou po mwen"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "ak sou vyann mwen"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "kole"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "Zo mwen"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "e m chape"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "⟨ak⟩ po"
+    },
+    {
+      "surface": "שני",
+      "gloss": "⟨dan⟩ mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:37:23.130765331Z",
+  "model": "glm-5.3"
+}

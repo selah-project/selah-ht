@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Beni panyen ou a, epi beni kwi farin ou a.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "panyen ou"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "epi kwi farin ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:19.476482200Z",
+  "model": "glm-5.3"
+}

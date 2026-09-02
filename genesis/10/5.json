@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Nan men sa yo zile nasyon yo separe nan peyi yo, chak moun dapre lang pa l, dapre fanmi yo, nan nasyon yo.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Nan men sa yo"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "separe"
+    },
+    {
+      "surface": "איי",
+      "gloss": "zile yo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "nan peyi yo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "dapre lang pa l"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "nan nasyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:47.405586867Z",
+  "model": "glm-5.3"
+}

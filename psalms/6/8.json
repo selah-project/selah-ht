@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Zye mwen ap fèblé de chagren; ⟨li⟩ ap vye de tout lènmi m yo.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "ap fèblé"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "de chagren"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Zye mwen"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ap vye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "lènmi m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:13.060807062Z",
+  "model": "glm-5.3"
+}

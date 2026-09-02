@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "Nan rebuk ou, Elohim Jakòb la, charyè ak chval tonbe nan dòmi fon.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Nan rebuk ou"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakòb"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "tonbe nan dòmi fon"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ak charyè"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ak chval"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:36.119686942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Èske yo sonnen chofè nan yon vil, epi pèp la pa treme? Èske gen malè nan yon vil, epi Yawe pa fè l?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Èske"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "sonnen"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "chofè"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan yon vil"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "epi pèp la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "treme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Èske"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "malè"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan yon vil"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "epi Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:37:03.945207998Z",
+  "model": "glm-5.3"
+}

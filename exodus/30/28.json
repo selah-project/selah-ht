@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "ak ⟨את⟩ lotèl ofrann boule a ak ⟨את⟩ tout zouti li yo, ak ⟨את⟩ basen an ak ⟨את⟩ pye li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lotèl ofrann boule a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lotèl"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrann boule"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zouti li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "basen an"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "basen an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pye li"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pye li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:29.640223365Z",
+  "model": "glm-5.3"
+}

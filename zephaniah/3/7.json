@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Mwen te di: ‘Sèlman ou ap pè ⟨את⟩ mwen, ou pran avètisman, e pa ⟨ap⟩ koupe kay li, tout sa mwen te vizite sou li’; men yo te levi byen bonè, yo kòwonpi tout aksyon yo.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Mwen te di"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ou ap pè"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "אותי se ⟨את⟩ ak pwonon -i: ‘mwen’ (objè ‘pè’ la)"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "ou pran"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "avètisman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "mwen te vizite"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "men"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "yo te levi byen bonè"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "yo kòwonpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "aksyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:06.173068867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Fanm saj yo bati kay li, men sote a ak de men l òdètèye l.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "saj"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "men sote a"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ak de men l"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "òdètèye l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:32.409231947Z",
+  "model": "glm-5.3"
+}

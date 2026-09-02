@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E moun nòb la konsilite bagay nòb, e li kanpe sou bagay nòb.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "e moun nòb"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "bagay nòb"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "konsilite"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "bagay nòb"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:30.725195844Z",
+  "model": "glm-5.3"
+}

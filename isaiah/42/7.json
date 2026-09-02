@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "pou louvri je avèg yo, pou fè prizonye a soti nan dijon an, pou fè moun ki chita nan fè nwa soti nan kay prizòn an —",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "pou louvri"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "je yo"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "avèg"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "pou fè soti"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "nan dijon an"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "prizonye a"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "prizòn"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun ki chita"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nan fè nwa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:17.184405547Z",
+  "model": "glm-5.3"
+}

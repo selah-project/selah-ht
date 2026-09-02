@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edòm, ak ⟨את⟩ Moav, ak ⟨את⟩ pitit Amon yo",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edòm"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edòm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit Amon yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-09-02T18:55:54.502579431Z",
+  "model": "glm-5.3"
+}

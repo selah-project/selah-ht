@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Pitit li yo dwe vin òfelen, ak madanm li vin vèv.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "òfelen"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ak madanm li"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vèv"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:35.056815260Z",
+  "model": "glm-5.3"
+}

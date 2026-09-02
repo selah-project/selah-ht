@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yo jwenn ⟨את⟩ Adòni-Bezek nan Bezek, epi yo fè lagè kont li, epi yo bat ⟨את⟩ Kenaànyen an ak ⟨את⟩ Perizen an.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "Yo jwenn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adòni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adòni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "nan Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "yo fè lagè"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kont li"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "yo bat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaànyen an"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaànyen an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Perizen an"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizen an"
+    }
+  ],
+  "timestamp": "2026-09-02T21:48:50.591216657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Chet te viv apre l fè ⟨את⟩ Enoch sèt ane ak uit san ane, epi l fè pitit gason ak pitit fi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "te viv"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "l fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoch"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoch"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ak uit"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi l fè"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ak pitit fi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:47.856355552Z",
+  "model": "glm-5.3"
+}

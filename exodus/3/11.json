@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Moche di ba HaElohim: Kiyès m ye, pou m ale jwenn Paro, e pou m pote ⟨את⟩ pitit Yisrael yo soti nan Mitsrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e pou"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "pote soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrael yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:39.817748092Z",
+  "model": "glm-5.3"
+}

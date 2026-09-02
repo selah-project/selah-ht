@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Yawe simante ⟨את⟩ yo soti kote sa a sou figi tout tè a, e yo sispann bati vil la.",
+  "tokens": [
+    {
+      "surface": "וַיָּפֶץ",
+      "gloss": "simante"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "מִשָּׁם",
+      "gloss": "soti kote sa a"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "figi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וַיַּחְדְּלוּ",
+      "gloss": "sispann"
+    },
+    {
+      "surface": "לִבְנֹת",
+      "gloss": "bati"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "vil la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:36.599230473Z",
+  "model": "glm-5.3"
+}

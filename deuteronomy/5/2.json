@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Yawe, Elohim pa nou, fè yon kontra ak nou nan Khorev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim pa nou"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "fè"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ak nou"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "yon kontra"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nan Khorev"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:59.627455347Z",
+  "model": "glm-5.3"
+}

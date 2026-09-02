@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Epi moun ki jis kontan, yo sote lamòd devan Elohim, yo rayi kontantman ak lajwa.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Epi moun ki jis"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "sote lamòd"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "yo rayi kontantman"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ak lajwa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:03.519831800Z",
+  "model": "glm-5.3"
+}

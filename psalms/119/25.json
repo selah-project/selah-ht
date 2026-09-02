@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Nanm mwen kole ak pousyè: fè m viv dapre pawòl ou.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "kole"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ak pousyè"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "fè m viv"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "dapre pawòl ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:17.148720636Z",
+  "model": "glm-5.3"
+}

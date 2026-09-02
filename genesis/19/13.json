@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Paske nou se moun k ap detwi ⟨את⟩ kote sa a, paske kri yo vin gwo devan ⟨את⟩ vi Yawe, e Yawe voye nou pou nou detwi l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "k ap detwi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kote sa a"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "vin gwo"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kri yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vi Yawe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "devan vi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "e li voye nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "pou nou detwi l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:19:27.797808623Z",
+  "model": "glm-5.3"
+}

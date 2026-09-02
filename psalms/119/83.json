@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Paske mwen vin tankou yonout nan lafimen, men chwa ou yo mwen pa bliye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mwen vin"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "tankou yonout"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "nan lafimen"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "chwa ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "mwen bliye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:57.396981973Z",
+  "model": "glm-5.3"
+}

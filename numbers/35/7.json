@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Tout vil yo ke n ap bay Levi yo se karan-uit vil — ⟨את⟩ yo menm ak ⟨את⟩ teren louvri yo.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הֶעָרִים",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תִּתְּנוּ",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לַלְוִיִּם",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "אַרְבָּעִים",
+      "gloss": "karan"
+    },
+    {
+      "surface": "וּשְׁמֹנֶה",
+      "gloss": "ak uit"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "אֶתְהֶן",
+      "gloss": "⟨את⟩",
+      "marks": "yo menm (vil karan-uit yo)"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "teren louvri yo"
+    },
+    {
+      "surface": "מִגְרְשֵׁיהֶן",
+      "gloss": "teren louvri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:40:58.828087970Z",
+  "model": "glm-5.3"
+}

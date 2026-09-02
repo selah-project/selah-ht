@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Efròn reponn ⟨את⟩ Avraham pou l di l:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efròn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:13.490871032Z",
+  "model": "glm-5.3"
+}

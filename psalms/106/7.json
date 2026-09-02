@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Zansèt nou yo nan Mitsrayim pa t konprann miray ou yo; yo pa t sonje ⟨את⟩ kantite hesed ou yo; epi yo rebèl bò lanme a, nan Lanmè Suf la.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Zansèt nou yo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "t konprann"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "miray ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "t sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kantite hesed ou yo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kantite"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed ou yo"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "epi yo rebèl"
+    },
+    {
+      "surface": "על",
+      "gloss": "bò"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanme a"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nan Lanmè"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:28.143165799Z",
+  "model": "glm-5.3"
+}

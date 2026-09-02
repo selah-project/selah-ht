@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "E kè yo pa te kanpe dwat avèk li, e yo pa te rete fidèl nan alyans li.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "E kè yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kanpe dwat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avèk li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "rete fidèl"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "nan alyans li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:59.754156769Z",
+  "model": "glm-5.3"
+}

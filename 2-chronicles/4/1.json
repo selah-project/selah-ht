@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Li fè yon otèl nan kwiv, ven koud longè l, ven koud lajè l, e dis koud wotè l.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otèl"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kwiv"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "koud"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "longè l"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e ven"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "koud"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lajè l"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e dis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "koud"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "wotè l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:26:35.228975738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E li pale ak pitit gason li yo, pou l di: Chakète ⟨את⟩ bourik la pou mwen. E yo chakète l.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "li pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "chakète"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bourik la"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "bourik la"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "yo chakète l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:25.327090927Z",
+  "model": "glm-5.3"
+}

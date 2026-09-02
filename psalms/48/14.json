@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Mete kè nou sou ranpa ⟨li⟩, pase revize chato li yo, pou nou ka konte sa pou jenerasyon k ap vini ⟨a⟩.",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "Mete"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "kè nou"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "sou ranpa li"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "pase revize"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "chato li yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "nou ka konte sa"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "k ap vini a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:09.631145138Z",
+  "model": "glm-5.3"
+}

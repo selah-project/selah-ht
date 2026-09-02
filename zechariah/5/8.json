@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi li di: Sa a ⟨se⟩ mechanste a. Epi li voye ⟨את⟩ li nan mitan efa a, epi li voye ⟨את⟩ wòch plon an sou bouch li.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "mechanste a"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "epi li voye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (fanm nan)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mitan"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa a"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "epi li voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wòch plon an"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "plon an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:46:52.131265574Z",
+  "model": "glm-5.3"
+}

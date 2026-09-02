@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Pitit gason Elifaz yo te ye: Teman, Omar, Tsefo, Gatàm, ak Kenaz.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "Omar"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "Tsefo"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ak Gatàm"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "ak Kenaz"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:17.360509505Z",
+  "model": "glm-5.3"
+}

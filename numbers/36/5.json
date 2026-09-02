@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E Moche kòmande ⟨את⟩ pitit Yisrayèl dapre bouch Yawe, pou l di: jan sa, tribi pitit Yocef pale dwat.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "E kòmande"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrayèl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "על",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jan sa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:30.039176114Z",
+  "model": "glm-5.3"
+}

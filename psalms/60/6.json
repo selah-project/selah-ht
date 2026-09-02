@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Ou bay moun ki pè ou yon drapo, pou l leve, devan ⟨arech la⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "ou bay"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "moun ki pè ou"
+    },
+    {
+      "surface": "נס",
+      "gloss": "yon drapo"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "pou l leve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "arech la"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:31.724304747Z",
+  "model": "glm-5.3"
+}

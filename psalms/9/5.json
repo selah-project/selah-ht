@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Paske ou fè jijman m an ak kòz m; ou chita sou ⟨yon⟩ chèz, jij dwat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman m an"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "ak kòz m"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ou chita"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "sou chèz"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "jij"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dwat"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:08.080866809Z",
+  "model": "glm-5.3"
+}

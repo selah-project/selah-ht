@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Men sou Kayin ak sou ofrann li pa gade. Kayin fache anpil, e figi a tonbe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Men sou"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ofrann li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "fache"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:23.900565405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Paskè nou fin fini nan kòlè ⟨w⟩ la, epi nan fizi ⟨w⟩ la nou vin pè.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "paskè"
+    },
+    {
+      "surface": "כָלִינוּ",
+      "gloss": "nou fin fini"
+    },
+    {
+      "surface": "בְּאַפֶּךָ",
+      "gloss": "nan kòlè w"
+    },
+    {
+      "surface": "וּבַחֲמָתְךָ",
+      "gloss": "epi nan fizi w"
+    },
+    {
+      "surface": "נִבְהָלְנוּ",
+      "gloss": "nou vin pè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:09.114251167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi li pote ⟨את⟩ korban pèp la, epi li pran ⟨את⟩ kabrit bouke a, ofran peche a ki pou pèp la, epi li bay li kou, epi li fè l ofran peche, tankou premye a.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban pèp la"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabrit bouke a"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kabrit bouke"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofran peche a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pou pèp la"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "bay li kou"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "fè l ofran peche"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "tankou premye a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:28.020623041Z",
+  "model": "glm-5.3"
+}

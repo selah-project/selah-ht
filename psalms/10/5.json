@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Wout li fèm nan tout tan; jijman ou yo an wo, lwen devan l; tout ènmi l yo — li soufle sou ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "fèm"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "wout li"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "an wo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jijman ou yo"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "lwen devan l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "ènmi l yo"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "soufle sou"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:50.319538308Z",
+  "model": "glm-5.3"
+}

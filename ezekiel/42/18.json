@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "⟨את⟩ van sid la mezire: senk san kàn, ak kàn mezire a.",
+  "tokens": [
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "van sid la"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "van"
+    },
+    {
+      "surface": "הַדָּרוֹם",
+      "gloss": "sid la"
+    },
+    {
+      "surface": "מָדַד",
+      "gloss": "mezire"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "senk"
+    },
+    {
+      "surface": "מֵאוֹת",
+      "gloss": "san"
+    },
+    {
+      "surface": "קָנִים",
+      "gloss": "kàn"
+    },
+    {
+      "surface": "בִּקְנֵה",
+      "gloss": "ak kàn"
+    },
+    {
+      "surface": "הַמִּדָּה",
+      "gloss": "mezire a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:28:59.307521515Z",
+  "model": "glm-5.3"
+}

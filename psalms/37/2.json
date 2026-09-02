@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Paske yo ap koupe byen vit tankou zèb, epi yo ap fenennen tankou vejetasyon fre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "tankou zèb"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "byen vit"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "yo ap koupe"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "epi tankou"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "vejetasyon fre"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "yo ap fenennen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:33.402666814Z",
+  "model": "glm-5.3"
+}

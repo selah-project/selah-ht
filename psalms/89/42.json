@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Tout moun k ap pase sou chemen an pilaje l; li vin yon ouj pou voizèn li yo.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "pilaje l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kipase"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "li vin"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ouj"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "pou voizèn li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:08.527248395Z",
+  "model": "glm-5.3"
+}

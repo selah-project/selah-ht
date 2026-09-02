@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Lè sa a Yehochoua tounen, epi li pran ⟨את⟩ Chatzor, epi li frape ⟨את⟩ wa li a ak epe, paske Chatzor, depi tan lontan, se tèt tout wayòm sa yo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "lè"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "wa li a"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "wa li a"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ak epe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "depi tan lontan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:05:14.696212847Z",
+  "model": "glm-5.3"
+}

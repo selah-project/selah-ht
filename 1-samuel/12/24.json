@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Sèlman, rwete Yawe ⟨את⟩ ak sèvi ⟨את⟩ l ak verite, ak tout kè nou, paske gade ⟨את⟩ sa li fè gran avèk nou.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "rwete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ak sèvi l"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ak verite"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "kè nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "fè gran"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avèk nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:04.440116511Z",
+  "model": "glm-5.3"
+}

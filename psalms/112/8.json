@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 112,
+  "translation": "Kè l ap sipòte solid, li pa pè, jouk l ap gade adversè li yo.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "ap sipòte solid"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "Kè l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨l⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "adversè li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:40.532969270Z",
+  "model": "glm-5.3"
+}

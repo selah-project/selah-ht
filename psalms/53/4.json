@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Tout antye a tounen do, ansanm yo vin sal; pa gen moun ki fè byen — pa gen, menm pa yon sèl.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "tout antye a"
+    },
+    {
+      "surface": "סג",
+      "gloss": "tounen do"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "vin sal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "pa yon sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:20.189566010Z",
+  "model": "glm-5.3"
+}

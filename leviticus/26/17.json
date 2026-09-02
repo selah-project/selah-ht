@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E M ap mete figi m kont nou, e nou ap frape tonbe devan enmi nou yo, e moun k ap rayi nou yo ap domine sou nou, e nou ap kouri chape panden pa gen moun k ap pouse ⟨את⟩ nou.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "E M ap mete"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi m"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kont nou"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "nou ap frape tonbe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "enmi nou yo"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "yo ap domine"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "moun k ap rayi nou"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "nou ap kouri chape"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "panden pa gen"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "moun k ap pouse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:54.952134479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Yo pa fè kalvite sou tèt yo, kwen bàb yo pa raze ⟨yo⟩, e nan kò yo ⟨yo⟩ pa fè ⟨את⟩ koupe — yon entansyon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "fè kalvite"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kalvite"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "sou tèt yo"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "ak kwen"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "bàb yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "raze"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "e nan kò yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "fè koupe"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "yon entansyon"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:25.210459160Z",
+  "model": "glm-5.3"
+}

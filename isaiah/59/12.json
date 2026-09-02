@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Paske rebelyon nou yo miltiye devan ou, e peche nou yo bay temwayaj kont nou; paske rebelyon nou yo ⟨את⟩ ak nou, e fòt nou yo, nou konnen yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "miltiye"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "rebelyon nou yo"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "e peche nou yo"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "bay temwayaj"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kont nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "rebelyon nou yo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ak nou",
+      "marks": "ak nou"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "e fòt nou yo"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "nou konnen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:53.896569028Z",
+  "model": "glm-5.3"
+}

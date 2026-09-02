@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Sanblan ⟨l⟩ tankou yon lyon ki swaf pou devore, e tankou yon jèn lyon k chita kache nan kachèt yo.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "sanblan l"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "tankou yon lyon"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "ki swaf"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "pou devore"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "e tankou yon jèn lyon"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "k chita kache"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "nan kachèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:12.454058924Z",
+  "model": "glm-5.3"
+}

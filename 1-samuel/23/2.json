@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E David mande Yawe konsèy, li di : Èske m ap ale, èske m ap frape Filisityen yo sa yo ? E Yawe di bay David : Ale, ou ap frape Filisityen yo, e ou ap delivre ⟨את⟩ Keila.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "mande"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Èske m ap ale"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "e m ap frape"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filisityen yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "e ou ap frape"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filisityen yo"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "e ou ap delivre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:07.681150063Z",
+  "model": "glm-5.3"
+}

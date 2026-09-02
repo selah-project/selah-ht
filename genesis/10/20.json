@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Se pitit Cham yo sa yo, dapre fanmi yo, dapre lang yo, nan peyi yo, nan nasyon yo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "dapre lang yo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "nan peyi yo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "nan nasyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:08.294759557Z",
+  "model": "glm-5.3"
+}

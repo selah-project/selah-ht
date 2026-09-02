@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Tout pèp la wè ⟨את⟩ son yo, ⟨את⟩ flam yo, ⟨את⟩ son kòne a, ak ⟨את⟩ montay la ki te fumen; pèp la wè ⟨sa⟩, yo tranble, e yo kanpe byen lwen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son yo"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "son yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "flam yo"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "flam yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "son kòne a"
+    },
+    {
+      "surface": "קול",
+      "gloss": "son"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "kòne a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "montay la"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "montay la"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ki te fumen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yo wè"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "yo tranble"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "yo kanpe"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "byen lwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:04.534710058Z",
+  "model": "glm-5.3"
+}

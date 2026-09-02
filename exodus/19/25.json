@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi Moche desann bò pèp la, epi li pale ak yo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ak yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:19.968000299Z",
+  "model": "glm-5.3"
+}

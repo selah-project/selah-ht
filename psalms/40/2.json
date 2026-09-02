@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Espere — m te espere Yawe, e li pentan bò kote m, e l tande kri mwen an.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Espere"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "m te espere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "e li pentan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bò kote m"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e l tande"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kri mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:33.236517264Z",
+  "model": "glm-5.3"
+}

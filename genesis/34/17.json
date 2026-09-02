@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Epi si nou pa vle tande bò kote nou pou nou sirkonsi, n ap pran ⟨את⟩ pitit fi nou an, epi n ap mache ale.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Epi si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bò kote nou"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "sirkonsi"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "n ap pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit fi nou an"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "pitit fi nou an"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "n ap mache ale"
+    }
+  ],
+  "timestamp": "2026-09-02T15:30:19.704812097Z",
+  "model": "glm-5.3"
+}

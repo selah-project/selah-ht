@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "ak ⟨את⟩ lanmè a, youn sèl, ak ⟨את⟩ douze bèf yo anba lanmè a,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lanmè a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn sèl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "douze bèf yo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bèf yo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "douze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dis-de)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:58.363006540Z",
+  "model": "glm-5.3"
+}

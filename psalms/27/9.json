@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Pa kache figi w depi mwen; pa vire sèvitè w ale ak kòlè; se ou menm ki te sekou mwen; pa kite m ale, epi pa abandone m, Elohim delivrans mwen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kache"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi w"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "depi mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תט",
+      "gloss": "vire"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ak kòlè"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvitè w"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "sekou mwen"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ou te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "kite m ale"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abandone m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "delivrans mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:06.554758073Z",
+  "model": "glm-5.3"
+}

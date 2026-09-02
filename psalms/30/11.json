@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Koute, Yawe, e montre mwen gras; Yawe, kanpe kòm èd pou mwen.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e montre mwen gras"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "kòm èd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:12.763367643Z",
+  "model": "glm-5.3"
+}

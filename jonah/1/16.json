@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi mes yo kreye ⟨את⟩ Yawe — yon krentif gwo anpil — e yo ofri yon sakrifis ba Yawe, e yo fè pwomès.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Epi mes yo kreye"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mes yo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "krentif"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "e yo ofri"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "yon sakrifis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ba Yawe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "e yo fè"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "pwomès"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:26.516032117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Chatan reponn ⟨את⟩ Yawe, e li di: Pou yon pye po yon moun bay tout sa li genyen, pou l sove lavi l.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Chatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "עור",
+      "gloss": "po"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pou"
+    },
+    {
+      "surface": "עור",
+      "gloss": "po"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nonm lan genyen"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "li bay"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pou"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lavi l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:43.111688705Z",
+  "model": "glm-5.3"
+}

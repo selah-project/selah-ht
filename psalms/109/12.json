@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Pa gen moun ki pale hesed pou li, e pa gen moun ki bay pitye pou òfelen li yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "gen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ki pale"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "gen"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ki bay pitye"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "pou òfelen li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:35.057255716Z",
+  "model": "glm-5.3"
+}

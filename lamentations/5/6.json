@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Nou bay men an bay Mitsrayim, pou l bay Achour, jis pou nou jwenn manje.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nou bay"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "pou nou jwenn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:34.993281379Z",
+  "model": "glm-5.3"
+}

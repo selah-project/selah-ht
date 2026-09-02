@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yawe di ba mwen: Pa di: mwen se yon jenn gason; paske tout kote m ap voye ou, ou prale, e ⟨את⟩ tout sa m ap kòmande ou, ou pral pale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jenn gason"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "m ap voye ou"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ou prale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa m ap kòmande ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "m ap kòmande ou"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ou pral pale"
+    }
+  ],
+  "timestamp": "2026-09-02T18:45:05.492702042Z",
+  "model": "glm-5.3"
+}

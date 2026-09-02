@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "E papa nou an tripe m, e l chanje ⟨את⟩ salè m dis fwa; men Elohim pa kite l fè mal avèk m.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "e papa nou"
+    },
+    {
+      "surface": "התל",
+      "gloss": "tripe m"
+    },
+    {
+      "surface": "בי",
+      "gloss": "m"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "e l chanje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salè mwen"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "salè mwen"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men … pa"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "fè mal"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avèk m"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:31.706701753Z",
+  "model": "glm-5.3"
+}

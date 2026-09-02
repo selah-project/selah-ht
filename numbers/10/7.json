@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Men lè y ap reyini ⟨את⟩asanble a, nou ap sonen, men nou pa bay tèt son.",
+  "tokens": [
+    {
+      "surface": "וּבְהַקְהִיל",
+      "gloss": "lè y ap reyini"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "asanble a"
+    },
+    {
+      "surface": "הַקָּהָל",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "תִּתְקְעוּ",
+      "gloss": "nou ap sonen"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "men nou pa"
+    },
+    {
+      "surface": "תָרִיעוּ",
+      "gloss": "bay tèt son"
+    }
+  ],
+  "timestamp": "2026-09-02T16:25:17.680374605Z",
+  "model": "glm-5.3"
+}

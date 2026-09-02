@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "Fè lwanj Yah, fè lwanj ⟨את⟩ Yawe depi nan syèl yo, fè lwanj li nan wotè yo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Fè lwanj"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "fè lwanj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "fè lwanj li"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "nan wotè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:20.558704395Z",
+  "model": "glm-5.3"
+}

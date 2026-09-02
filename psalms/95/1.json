@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 95,
+  "translation": "Vini, annou chante pou Yawe, annou fè bri pou woch delivrans nou an.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "annou chante"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "annou fè bri"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "pou woch"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "delivrans nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:03.352985723Z",
+  "model": "glm-5.3"
+}

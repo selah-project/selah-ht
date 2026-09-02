@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Paske yo pa konprann zèv Yawe a, ni trèvay men l yo; l ap demolition yo ⟨את⟩ epi l ap pa rebati yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alade (zèv)"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "zèv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni alade (trèvay)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "trèvay"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "men l yo"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "l ap demolition yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi l ap pa"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "rebati yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.587014791Z",
+  "model": "glm-5.3"
+}

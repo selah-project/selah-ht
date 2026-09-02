@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Paske nan li kè nou kontan, paske nan Non sankte a nou mete konfyans.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "kè nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan Non"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sankte a"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "nou mete konfyans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:15.203077400Z",
+  "model": "glm-5.3"
+}

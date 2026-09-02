@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E men non moun yo k ap kanpe ⟨את⟩ ak nou: pou Reouven, Elitsour, pitit Chedeor.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E men"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ak nou",
+      "marks": "ak nou"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "pou Reouven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsour"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Chedeor"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:12.507389651Z",
+  "model": "glm-5.3"
+}

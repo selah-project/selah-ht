@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "paske zansèt yo pa t soti rankontre ⟨את⟩ pitit Yisrael yo ak pen ak dlo, e yo te anboche kont yo ⟨את⟩ Bilam pou l maledi yo; men Elohim nou an vire malediksyon an vin benediksyon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "soti rankontre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrael yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "ak pen"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "e yo te anboche"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kont yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "pou l maledi yo"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "e li vire"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "malediksyon an"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "vin benediksyon"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:26.528659796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Ou pa fè ⟨ak⟩ yo ni ak dye yo a okontra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ou fè okontra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "ni ak dye yo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "okontra"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:47.341373659Z",
+  "model": "glm-5.3"
+}

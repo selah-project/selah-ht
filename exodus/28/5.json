@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Y ap pran ⟨את⟩ lò a, ak ⟨את⟩ blè a, ak ⟨את⟩ viyole a, ak ⟨את⟩ kouchon koulè wouj vif la, ak ⟨את⟩ lin fin an.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Y"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ap pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lò a"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "blè a"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "blè a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "viyole a"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "viyole a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kouchon koulè wouj vif la"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kouchon koulè"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wouj vif la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lin fin an"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lin fin an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:58.656820771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Si fè a émou, e ⟨bò a⟩ pa fè ⟨byen⟩, ⟨sa⟩ mande plis fòs; men avantaj pou fè bagch yo mache byen, se sajès.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "émou"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "fè a"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fas\/bò"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "pa fè byen"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "ak fòs"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "ap vin pi gran"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ak avantaj"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "fè bagch yo mache byen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:27.028824054Z",
+  "model": "glm-5.3"
+}

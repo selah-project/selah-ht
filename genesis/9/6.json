@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Moun ki vide san moun nan, pa men moun san l ap vide; paske nan imaj Elohim ⟨li⟩ fè ⟨את⟩ moun nan.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "moun ki vide"
+    },
+    {
+      "surface": "דם",
+      "gloss": "san"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pa men moun"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san l"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ap vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "nan imaj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun nan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:20.397003567Z",
+  "model": "glm-5.3"
+}

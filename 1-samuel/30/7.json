@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E David di bay Ebyatar kòwegan an, pitit Ahimelek: Pòte epod la vini ba m, souple. E Ebyatar pote ⟨את⟩ epod la bay David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòwegan an"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "pòte vini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "souple"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba m"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "epod la"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epod la"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "epod la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:13.008649287Z",
+  "model": "glm-5.3"
+}

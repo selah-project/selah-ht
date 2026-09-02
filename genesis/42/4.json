@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Men ⟨את⟩ Benyamin, frè Yosèf, Yaakov pat voye ⟨את⟩ frè l yo ansanm, paske li te di: pou yon malè pa rive sou li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Benyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè l yo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "li te di"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou... pa"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "rive sou li"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "malè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:33.312576671Z",
+  "model": "glm-5.3"
+}

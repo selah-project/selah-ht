@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Kè yo epè ⟨kou⟩ grès; mwen menm, nan lwa ou a mwen jwenn plezi.",
+  "tokens": [
+    {
+      "surface": "טָפַ֣שׁ",
+      "gloss": "vin epè"
+    },
+    {
+      "surface": "כַּחֵ֣לֶב",
+      "gloss": "kou grès"
+    },
+    {
+      "surface": "לִבָּ֑ם",
+      "gloss": "kè yo"
+    },
+    {
+      "surface": "אֲ֝נִ֗י",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "תּוֹרָתְךָ֥",
+      "gloss": "lwa ou a"
+    },
+    {
+      "surface": "שִֽׁעֲשָֽׁעְתִּי",
+      "gloss": "mwen jwenn plezi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:08.803535972Z",
+  "model": "glm-5.3"
+}

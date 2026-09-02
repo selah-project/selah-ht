@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Tanpri pote yon ti ponyen dlo, lave pye nou, e fatra ana non pye nou anba pyebwa a.",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "pote"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yon ti ponyen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "lave"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "pye nou"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "fatra ana non pye nou"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pyebwa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:43.505409067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E nou menm di: chemen Adònay pa byen mezire. Chak moun dapre chemen l m ap jije ⟨את⟩ nou, kay Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "E nou menm di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "byen mezire"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "dapre chemen l"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "m ap jije"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "kay Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T19:23:51.916663670Z",
+  "model": "glm-5.3"
+}

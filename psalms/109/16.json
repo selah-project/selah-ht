@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Paske li pa sonje fè hesed, epi li pouse chase moun pòv la ak moun ki gen bezwen, ak moun ki gen kè kabriken, pou touye ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "fè"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "epi li pouse chase"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ak moun ki gen bezwen"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ak moun ki gen kè kabriken"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "pou touye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:16.007749046Z",
+  "model": "glm-5.3"
+}

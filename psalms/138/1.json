@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 138,
+  "translation": "Pou David. M ap rekonèt ou ak tout kè mwen, devan dye yo m ap chante pou ou.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pou David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "m ap rekonèt ou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye yo"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "m ap chante pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:56.501193074Z",
+  "model": "glm-5.3"
+}

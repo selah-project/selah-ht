@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Lè tout ⟨moun⟩ Yavech-Gilad tande ⟨את⟩ tout sa Filichtim yo te fè Chaoul,",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "י ביש",
+      "gloss": "Yavech"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filichtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Chaoul"
+    }
+  ],
+  "timestamp": "2026-09-02T21:17:03.015647839Z",
+  "model": "glm-5.3"
+}

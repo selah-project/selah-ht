@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Gwo fon an kòm yon rad ou te kouvri ⟨l⟩ avèk; sou mòn yo dlo yo kanpe.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Gwo fon"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kòm yon rad"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "ou kouvri l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:21.971144446Z",
+  "model": "glm-5.3"
+}

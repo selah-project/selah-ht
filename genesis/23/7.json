@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Avraham kanpe, epi li bese kò a devan pèp tè a, devan pitit Chet yo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "bese kò a devan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "devan pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "devan pitit"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:21.389050639Z",
+  "model": "glm-5.3"
+}

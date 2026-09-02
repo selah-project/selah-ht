@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 14:10",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "David mande Elohim konsèy, li di Èske m ap moute kont Filistin yo, èske w ap livre yo nan men m? E Yawe di l Moute, e m ap mete yo nan men w.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "mande konsèy"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nan Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "Èske m ap moute"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "פלשתיים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "èske w ap mete"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "nan men m"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Moute"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "e m ap mete"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "yo nan men w"
+    }
+  ],
+  "timestamp": "2026-09-02T21:18:12.990079561Z",
+  "model": "glm-5.3"
+}

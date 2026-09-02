@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Yo travèse ⟨את⟩ Yarden an, e yo kanpe nan Aroèr, nan kote dwat vil la ki annan mitan ravin Gad la, e yo rive jouk nan Yaèzèr.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "yo travèse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden an"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "yo kanpe"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "nan Aroèr"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kote dwat"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "annan mitan"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ravin an"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e yo rive jouk nan"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaèzèr"
+    }
+  ],
+  "timestamp": "2026-09-02T17:52:20.501731840Z",
+  "model": "glm-5.3"
+}

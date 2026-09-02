@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi yon nonm ki kouch avèk ⟨את⟩ tant li, nued tonton l li dekouvri; pèche yo yo ap pote; san pitit yo pral mouri.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi yon nonm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "kouch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant li"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "tant li"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nued"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "tonton l"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "dekouvri"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "pèche yo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "yo ap pote"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "san pitit"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "yo pral mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:46.002726350Z",
+  "model": "glm-5.3"
+}

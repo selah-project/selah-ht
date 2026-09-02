@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "M ap mete kay Mwen an nan mitan nou, e nanm Mwen an pap vwaye ⟨את⟩nou.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "M ap mete"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "kay Mwen an"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "pap vwaye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm Mwen an"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:56.433928558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Beni Yawe, paske l tande vwa lapriyè mwen an.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "l tande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lapriyè mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:25.735949430Z",
+  "model": "glm-5.3"
+}

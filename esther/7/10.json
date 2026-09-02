@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi yo pendye ⟨את⟩ Haman sou pyebwa a li te prepare pou Mardochay, e kòlè wa a kalme.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "yo pendye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pyebwa a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li te prepare"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "pou Mardochay"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "kalme"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:13.111457615Z",
+  "model": "glm-5.3"
+}

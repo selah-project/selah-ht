@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim rele tè sèk la Tè, ak rasannman ⟨dlo yo⟩ rele Lamè; epi Elohim wè ke ⟨li⟩ bon.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "tè sèk la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Tè"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ak rasannman"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Lamè"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:12.801016373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E Yawe reponn ⟨את⟩ Iyòv, e di:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyòv"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyòv"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    }
+  ],
+  "timestamp": "2026-09-02T20:43:14.516825292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 79,
+  "translation": "Nou vin yon wont pou vwazin nou yo, yon mok ak yon mespriz pou moun ki antoure nou yo.",
+  "tokens": [
+    {
+      "surface": "הָיִ֣ינוּ",
+      "gloss": "Nou vin"
+    },
+    {
+      "surface": "חֶ֭רְפָּה",
+      "gloss": "yon wont"
+    },
+    {
+      "surface": "לִשְׁכֵנֵ֑ינוּ",
+      "gloss": "pou vwazin nou yo"
+    },
+    {
+      "surface": "לַ֥עַג",
+      "gloss": "yon mok"
+    },
+    {
+      "surface": "וָ֝קֶ֗לֶס",
+      "gloss": "ak yon mespriz"
+    },
+    {
+      "surface": "לִסְבִיבוֹתֵֽינוּ",
+      "gloss": "pou moun ki antoure nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:16.491139688Z",
+  "model": "glm-5.3"
+}

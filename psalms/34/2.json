@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "M ap beni ⟨את⟩ Yawe nan tout tan; louwanj li toujou nan bouch m.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "M ap beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "louwanj li"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nan bouch m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:47.149443218Z",
+  "model": "glm-5.3"
+}

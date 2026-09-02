@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 123,
+  "translation": "Anpil satisfèt nanm nou genyen ak mok moun ki konfòtab yo, ak mepriz moun ki anvanse yo.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "satisfèt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "genyen"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nanm nou"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "mok"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "moun ki konfòtab yo"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "mepriz"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "moun ki anvanse yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:11.717936915Z",
+  "model": "glm-5.3"
+}

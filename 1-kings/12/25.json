@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E Yarovam bati ⟨את⟩ Chekem nan mòn Efrayim, e rete ladan l; l soti kote sa a, e bati ⟨את⟩ Penouel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "e bati"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e rete"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e soti"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kote sa a"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penouel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penouel"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:30.170211435Z",
+  "model": "glm-5.3"
+}

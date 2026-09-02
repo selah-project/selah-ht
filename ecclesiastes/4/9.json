@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pi bon de a pase youn sèl, paske yo gen bon sakle nan travay yo.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Pi bon"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "de a"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pase"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn sèl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sakle"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "nan travay yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:49.913246422Z",
+  "model": "glm-5.3"
+}

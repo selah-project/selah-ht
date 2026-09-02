@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "E kounye a koute, Yaakov, sèvitè mwen, epi Yisrael, mwen chwazi l.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E kounye a"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè mwen"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "epi Yisrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mwen chwazi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:40.329380245Z",
+  "model": "glm-5.3"
+}

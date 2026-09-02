@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Bèf la konnen mèt li, ak bourik la konnen kabann manje mèt li, men Yisrayèl pa konnen, pèp mwen pa konprann.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Bèf la"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "mèt li"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ak bourik la"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "kabann manje"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "mèt li"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "konprann"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:53.276606564Z",
+  "model": "glm-5.3"
+}

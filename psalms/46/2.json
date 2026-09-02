@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Elohim ⟨se⟩ yon refij pou nou ak yon fòs, yon èd nan trobl ki jwenn byen fasil.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "yon refij"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ak yon fòs"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "yon èd"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "nan trobl"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ki jwenn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "byen fasil"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:32.424174213Z",
+  "model": "glm-5.3"
+}

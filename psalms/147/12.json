@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Glorifye ⟨את⟩ Yawe, è Yerouchalayim; fè louwanj Elohim ou, è Tsiyòn.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Glorifye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "fè louwanj"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:18.855026013Z",
+  "model": "glm-5.3"
+}

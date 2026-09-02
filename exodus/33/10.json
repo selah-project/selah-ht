@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E tout pèp la te wè ⟨את⟩ kolòn nàj la kanpe devan pòta tant la, e tout pèp la te kanpe, e chak moun te plogue atè devan pòta tant pa yo.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "E ... te wè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolòn nàj la"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "kolòn"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nàj la"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "devan pòta"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "e ... te kanpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "e ... te plogue atè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "devan pòta"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tant pa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:04.992479008Z",
+  "model": "glm-5.3"
+}

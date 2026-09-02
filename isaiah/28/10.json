@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Paske lòd sou lòd, lòd sou lòd; liy sou liy, liy sou liy; yon ti kras isit la, yon ti kras la a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "צו",
+      "gloss": "lòd"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "sou lòd"
+    },
+    {
+      "surface": "צו",
+      "gloss": "lòd"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "sou lòd"
+    },
+    {
+      "surface": "קו",
+      "gloss": "liy"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sou liy"
+    },
+    {
+      "surface": "קו",
+      "gloss": "liy"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sou liy"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "yon ti kras"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isit la"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "yon ti kras"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:32.506944131Z",
+  "model": "glm-5.3"
+}

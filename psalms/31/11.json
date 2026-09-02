@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Paskè lavi m fini nan doulè, ak lane m nan soupir; fòs m anbraye akòz fòt m, ak zo m ap fèb.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paskè"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fini"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "nan doulè"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "lavi m"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "ak lane m"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "nan soupir"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "anbraye"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "akòz fòt m"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fòs m"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ak zo m"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "ap fèb"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:18.944441532Z",
+  "model": "glm-5.3"
+}

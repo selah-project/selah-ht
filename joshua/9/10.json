@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "ak ⟨את⟩ tout sa li fè ak de wa Amori yo, ki te nan lòt bò Yarden an — Sihon, wa Hechbòn la, ak Og, wa Bachan an, ki te nan Achtarot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa li fè ak de wa Amori yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ak de"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amori yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "nan lòt bò"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hechbòn"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ak Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bachan an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "nan Achtarot"
+    }
+  ],
+  "timestamp": "2026-09-02T17:03:09.477384095Z",
+  "model": "glm-5.3"
+}

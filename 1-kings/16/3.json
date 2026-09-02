@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Men mwen pral debare Bacha ak tout kay li a, e m ap bay ⟨את⟩ kay ou la menm jan ak kay Yarovam, pitit gason Nevat la.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "men mwen"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "pral debare"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e ak"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li a"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e m ap bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay ou la"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "menm jan ak kay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:14.710476057Z",
+  "model": "glm-5.3"
+}

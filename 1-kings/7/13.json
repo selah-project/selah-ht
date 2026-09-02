@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Wa a Chelomo voye chèche, e li pran ⟨את⟩ Hiram soti nan Tsòr.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "soti nan Tsòr"
+    }
+  ],
+  "timestamp": "2026-09-02T17:57:15.106584645Z",
+  "model": "glm-5.3"
+}

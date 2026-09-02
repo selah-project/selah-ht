@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Li boule ⟨את⟩ kay Yawe a, ⟨את⟩ kay wa a, ⟨את⟩ tout kay Yerouchalayim yo — tout gran kay, li boule l ak dife.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "boule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "boule"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ak dife"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:01.792873632Z",
+  "model": "glm-5.3"
+}

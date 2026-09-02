@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Beni ⟨ou⟩ ye, Yawe; anseñe m lwa ou yo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ou⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "anseñe m"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "lwa ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:24.472233083Z",
+  "model": "glm-5.3"
+}

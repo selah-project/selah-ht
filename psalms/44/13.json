@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Ou vann pèp ou san richès, e ou pa ogmante anyen ak pri yo.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Ou vann"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "san"
+    },
+    {
+      "surface": "הון",
+      "gloss": "richès"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ou pa"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "ogmante"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "ak pri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:03.655297495Z",
+  "model": "glm-5.3"
+}

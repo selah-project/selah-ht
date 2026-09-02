@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 79,
+  "translation": "Paske ⟨yo⟩ devore ⟨את⟩ Yaakov, e ⟨את⟩ kote li rete a ⟨yo⟩ fin ravaje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "devore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kote li rete a"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "kote li rete a"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ravaje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:13.849282722Z",
+  "model": "glm-5.3"
+}

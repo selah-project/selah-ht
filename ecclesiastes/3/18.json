@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 3:18",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Mwen di mwen nan kè mwen sou kont pitit moun yo: HaElohim ap teste yo, e pou yo wè ke yo menm se bèt — yo menm menm.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nan kè mwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "kont"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "לברם",
+      "gloss": "ap teste"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "epi pou wè"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ke yo menm"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo menm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo menm menm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:29.100224017Z",
+  "model": "glm-5.3"
+}

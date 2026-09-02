@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Kont ou, ou pou kont ou sèlman, mwen peche, epi mal devan je ou mwen fè, pou ou ka dwe jis nan pawòl ou, pou ou ka dwe san blame nan jijman ou.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kont ou"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ou pou kont ou sèlman"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mwen peche"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "epi mal"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "devan je ou"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mwen fè"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ou ka dwe jis"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "nan pawòl ou"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ou ka dwe san blame"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "nan jijman ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:50.514846823Z",
+  "model": "glm-5.3"
+}

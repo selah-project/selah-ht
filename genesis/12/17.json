@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi Yawe frape Paro ak ⟨את⟩ madigra gwo yo, e ⟨את⟩ kay li, sou kont Chevayi, madanm Avraham.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "frape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "madigra"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "gwo yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kay li"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kont"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Chevayi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "madanm"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:41.419939978Z",
+  "model": "glm-5.3"
+}

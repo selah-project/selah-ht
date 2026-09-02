@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Li di nan kè l: El bliye, l kache figè l, l ap janm wè pou tout tan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nan kè l"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "kache"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figè l"
+    },
+    {
+      "surface": "בל",
+      "gloss": "janm"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:14.966312162Z",
+  "model": "glm-5.3"
+}

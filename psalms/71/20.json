@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Ou ki fè m wè detres anpil ak move bagay, ou ap tounen — ou fè m viv ankò; e depi fon tè a ou ap tounen — ou ap monte m.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "ou fè m wè"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "detres"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ak move bagay"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ou ap tounen"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "ou fè m viv"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "e depi fon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ou ap tounen"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ou ap monte m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:26.058594620Z",
+  "model": "glm-5.3"
+}

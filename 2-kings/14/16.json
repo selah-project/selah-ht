@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E Yehoach dòmi ak papa l yo, e yo antere l nan Chomron ak wa Izrayèl yo; e Yarovam, pitit li, reyne sou plas li.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoach"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e yo antere l"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "nan Chomron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "reyne"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sou plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:30.455585251Z",
+  "model": "glm-5.3"
+}

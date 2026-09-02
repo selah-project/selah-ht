@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "e kohen an fè ⟨את⟩ li vin jwenn, e fè l kanpe devan Yawe",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "e fè vin jwenn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (madanm nan)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen an"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "e fè l kanpe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:23:17.036429562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 99,
+  "translation": "Ke yo fè lwanj non ou — gran, redoutab, sen ⟨li⟩ ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ke yo fè lwanj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "redoutab"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:03.759791857Z",
+  "model": "glm-5.3"
+}

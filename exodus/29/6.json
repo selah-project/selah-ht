@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi ou mete mitnefèt la sou tèt li, epi ou mete ⟨את⟩ nezer sanktifye an sou mitnefèt la.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitnefèt la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tèt li"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezer sanktifye an"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sanktifye"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitnefèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:40.455643598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E kohen an ap fimen ⟨את⟩ yo sou otèl la, ofrann dife pou Yawe; se ofrann fòt sa a li ye.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ap fimen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen an"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sou otèl la"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofrann dife"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ofrann fòt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:21.649732047Z",
+  "model": "glm-5.3"
+}

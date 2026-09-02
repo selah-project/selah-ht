@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Kenbe nanm m epi delivre m; pa kite m wont, paske m pran refij ⟨nan⟩ ou.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Kenbe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "epi delivre m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "kite m wont"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m pran refij"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:59.947548301Z",
+  "model": "glm-5.3"
+}

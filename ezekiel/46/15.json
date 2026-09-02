@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Yo ap fè ⟨את⟩ agaso a, ak ⟨את⟩ ofann manje a, ak ⟨את⟩ lwè a, nan maten, chak maten — ofann montan ki pa janm sispann.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "yo ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agaso a"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "agaso a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ofann manje a"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofann manje a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lwè a"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lwè a"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "chak maten"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ofann montan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ki pa janm sispann"
+    }
+  ],
+  "timestamp": "2026-09-02T19:30:43.323862918Z",
+  "model": "glm-5.3"
+}

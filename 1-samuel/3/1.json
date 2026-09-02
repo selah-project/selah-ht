@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi jèn nan Chemouèl ap sèvi ⟨את⟩ Yawe devan Èli, e pawòl Yawe a te rar nan jou yo sa yo — pa gen vizyon ki ap pete deyò.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Epi jèn nan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Èli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "rar"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nan jou yo"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "vizyon"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "ki ap pete deyò"
+    }
+  ],
+  "timestamp": "2026-09-02T21:48:36.191133342Z",
+  "model": "glm-5.3"
+}

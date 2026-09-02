@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Pou ou yo rele, e yo chape; nan ou yo met konfyans, e yo pa wont.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Pou ou"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "yo rele"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "e yo chape"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "yo met konfyans"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "yo wont"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:44.641205215Z",
+  "model": "glm-5.3"
+}

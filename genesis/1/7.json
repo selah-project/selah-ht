@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim fè ⟨את⟩ rakia a, e l separe ant dlo ki anba rakia a ak dlo ki anwo rakia a — e sa te fèt konsa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakia a"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakia a"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "e l separe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakia a"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "anwo"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakia a"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e sa te"
+    },
+    {
+      "surface": "כן",
+      "gloss": "fèt konsa"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:02.972679792Z",
+  "model": "glm-5.3"
+}

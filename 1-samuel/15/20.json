@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi Chaoul di ba Chemouèl: Se paske m tande vwa Yawe, m ale nan wout ke Yawe voye m, m pote ⟨את⟩ Agag, wa Amalek, epi m mete ⟨את⟩ Amalek an ban.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "tande"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "voye m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "mete an ban"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:38.800203655Z",
+  "model": "glm-5.3"
+}

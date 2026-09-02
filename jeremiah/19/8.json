@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "M ap fè vil sa a vin dezè ak yon sijè pou siflè: tout moun k ap pase sou l ap pèdi tèt e ap sifle sou tout kout li yo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "m ap fè vin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vil sa a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "pou dezè"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "e pou yon sijè pou siflè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "moun k ap pase"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou l"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ap pèdi tèt"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "e ap sifle"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "kout li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:55:25.818698749Z",
+  "model": "glm-5.3"
+}

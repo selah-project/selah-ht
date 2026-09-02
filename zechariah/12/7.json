@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E Yawe ap delivre ⟨את⟩ tant Yehouda yo an premye, pou ⟨lòd sa a⟩ glwa kay David ak glwa moun k ap rete Yerouchalayim pa vin gran sou Yehouda.",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "ap delivre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant Yehouda yo"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "tant"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "an premye"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "vin gran"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ak glwa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "moun k ap rete"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T19:49:41.457378378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E wa a di: Sa a ap di: Se pitit mwen ki vivan an, e se pitit ou a ki mouri a; e sa a ap di: Non, se pitit ou a ki mouri a, e se pitit mwen ki vivan an.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se sa a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ki vivan an"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "e pitit ou"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ki mouri a"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "e sa a"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pitit ou"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ki mouri a"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e pitit mwen"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ki vivan an"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:57.586715048Z",
+  "model": "glm-5.3"
+}

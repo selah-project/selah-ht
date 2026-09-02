@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi David pè Elohim jounen sa a, li di: Kòman mwen pote ⟨את⟩ lakès Elohim la vini jiska m?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jounen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "היך",
+      "gloss": "kòman"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "jiska m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakès Elohim la"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "lakès"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:14.943611242Z",
+  "model": "glm-5.3"
+}

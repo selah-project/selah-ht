@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Se konsa Chaoul mouri, ak twa pitit gason li yo, ak tout kay li ansanm yo mouri.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ak twa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "yo mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T21:17:31.774244713Z",
+  "model": "glm-5.3"
+}

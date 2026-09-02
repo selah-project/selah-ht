@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "ak kwi bèf ki wouj, ak kwi tekach, ak bwa akasya —",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ak kwi"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ki wouj"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ak kwi"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tekach"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ak bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:12.808260477Z",
+  "model": "glm-5.3"
+}

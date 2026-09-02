@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Epi Pinechas kanpe, e li priye, e mò a sispann.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "priye"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "sispann"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "mò a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:01.612590774Z",
+  "model": "glm-5.3"
+}

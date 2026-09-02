@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Ou fin woze kòn mwen tankou kòn bovaj la; mwen fin dore ak lwil fre.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ou fin woze"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "bovaj"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "kòn mwen"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mwen fin dore"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ak lwil"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "fre"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:25.486876418Z",
+  "model": "glm-5.3"
+}

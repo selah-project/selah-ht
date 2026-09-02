@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Nanm mwen langwe, wi, li fini pou lakou Yawe yo; kè mwen ak kò mwen ap chante bò kote El k ap viv.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "langwe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "wi, tou"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "fini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "pou lakou yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ak kò mwen"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ap chante"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò kote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "k ap viv"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:51.171400305Z",
+  "model": "glm-5.3"
+}

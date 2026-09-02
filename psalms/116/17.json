@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Pou ou m ap sakrifye yon sakrifis gras, e nan non Yawe m ap rele.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Pou ou"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "m ap sakrifye"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "yon sakrifis"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "gras"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "e nan non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ap rele"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:34.979674912Z",
+  "model": "glm-5.3"
+}

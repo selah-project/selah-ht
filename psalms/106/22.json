@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "mirak nan peyi Cham, bagay ki fè pè sou Lanme Suf la.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "mirak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "bagay ki fè pè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanme"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:30.471845473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Kounye a kanpe, pou m jije ⟨את⟩ nou devan Yawe, sou tout aksyon jistis Yawe a, l ki fè ⟨את⟩ avèk nou ⟨את⟩ ak zansèt nou yo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kounye a"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "pou m jije"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ avèk nou"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "aksyon jistis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ avèk nou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ak"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "zansèt nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:45.350744156Z",
+  "model": "glm-5.3"
+}

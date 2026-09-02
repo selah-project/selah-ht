@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yo te rete la pou teste ak yo ⟨את⟩ Yisrael, pou konnen si yo t ap koute ⟨את⟩ kòmandman Yawe — kòmandman ke l te bay ⟨את⟩ zansèt yo nan men Moche.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Yo te rete la"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "pou teste"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pou konnen"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "si yo t ap koute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman Yawe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke l te bay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zansèt yo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "zansèt yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-09-02T17:13:13.859692846Z",
+  "model": "glm-5.3"
+}

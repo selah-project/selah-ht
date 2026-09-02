@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Tanpri, se pou hesed ou (kòd bonè) vini konsòle m, dapre pawòl ou bay sèvitè ou.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "se pou... vini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "konsòle m"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "dapre pawòl ou"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "bay sèvitè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:56.356557626Z",
+  "model": "glm-5.3"
+}

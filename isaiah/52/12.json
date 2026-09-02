@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Paske nou p ap soti ap kouri, ni ap chape; paske Yawe ap mache devan nou, e Elohim Izrayèl ap rasanble nou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "ap kouri"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "ni ap chape"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "ap rasanble nou"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:40:36.670480887Z",
+  "model": "glm-5.3"
+}

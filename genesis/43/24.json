@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "E gason an mennen ⟨את⟩ mesye yo nan kay Yosèf; li bay dlo, e yo lave pye yo; e li bay fònaj pou bourik yo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e ... mennen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gason an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesye yo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mesye yo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e li bay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "e yo lave"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "pye yo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e li bay"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "fònaj"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "pou bourik yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:57.237117010Z",
+  "model": "glm-5.3"
+}

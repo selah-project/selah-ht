@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Yawe ap fè ⟨את⟩ lapli tè ou vin pousyè fini ak pousyè tè; soti nan syèl yo l ap desann sou ou jiskaske ⟨ou⟩ vin detwi.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ap fè vin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapli tè ou"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "lapli"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tè ou"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "pousyè fini"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ak pousyè tè"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskaske"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "vin detwi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:03.080321348Z",
+  "model": "glm-5.3"
+}

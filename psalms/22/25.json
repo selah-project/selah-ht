@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Paske li pa meprize ni òdinè mizè a nan moun ki nan mizè a, epi li pa kache figi l depi lòt bò li; lè l rele kite l, li tande.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "meprize"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "òdinè"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "mizè a"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moun ki nan mizè a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "kache"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "depi lòt bò li"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "lè l rele"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kite l"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "li tande"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:17.793946074Z",
+  "model": "glm-5.3"
+}

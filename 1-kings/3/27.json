@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E wa a reponn, e li di: Bay li ⟨את⟩ pitit vivan an, pa touye l — se li ⟨manman l⟩.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "E ... reponn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit vivan an"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "pitit la"
+    },
+    {
+      "surface": "החי",
+      "gloss": "vivan an"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "epi pa touye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "touye l"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:08.932942907Z",
+  "model": "glm-5.3"
+}

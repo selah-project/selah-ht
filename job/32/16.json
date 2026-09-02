@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E mwen tann — paske yo pa pale, paske yo kanpe andedan, yo pa reponn ankò.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "E mwen tann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "yo kanpe andedan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:40:48.294491020Z",
+  "model": "glm-5.3"
+}

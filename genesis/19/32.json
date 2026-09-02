@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Vini, ann fè papa nou bwè ⟨את⟩ diven, e ann kouch avè l, pou n kenbe ⟨fè lavi⟩ pitit ki soti nan papa nou.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "fè bwè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa nou"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "papa nou"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diven"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "kouch"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "kenbe (fè lavi)"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "soti nan papa nou"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pitit"
+    }
+  ],
+  "timestamp": "2026-09-02T15:19:19.178404706Z",
+  "model": "glm-5.3"
+}

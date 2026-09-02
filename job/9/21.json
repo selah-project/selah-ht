@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Mwen ⟨se⟩ yon moun ki an sant, mwen pa konnen nanm mwen, mwen meprise lavi mwen.",
+  "tokens": [
+    {
+      "surface": "תָּם",
+      "gloss": "ki an sant"
+    },
+    {
+      "surface": "אָנִי",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אֵדַע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "אֶמְאַס",
+      "gloss": "mwen meprise"
+    },
+    {
+      "surface": "חַיָּי",
+      "gloss": "lavi mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:03:12.151725235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E li di: Ale, mande pou ou veso soti deyò, soti ⟨את⟩ tout vwazen ou yo — veso vid — pa fè yo kèk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Ale"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "mande"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "veso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "soti ⟨את⟩",
+      "marks": "tout vwazen ou yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "vwazen ou yo"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "veso"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "vid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "fè yo kèk"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:05.062797522Z",
+  "model": "glm-5.3"
+}

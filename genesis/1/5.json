@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim rele lumen an Jou, ak fenwa a li rele Lannwit; e fèk aswè, e fèk granmaten — yon sèl jou.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e li rele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "lumen an"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Jou"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ak fenwa a"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "li rele"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Lannwit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fèk"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aswè"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fèk"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "granmaten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:02.584619580Z",
+  "model": "glm-5.3"
+}

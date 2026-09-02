@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Paske jijman an ap tounen vin sou jistis, e tout moun kè dwat yo ap swiv l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ap tounen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "e dèyè li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "moun dwat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:45.659186905Z",
+  "model": "glm-5.3"
+}

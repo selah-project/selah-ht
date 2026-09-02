@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Yawe gade soti nan syèl la sou pitit gason moun yo, pou l wè si gen yon moun ki gen konprensyon, yon moun ki chache ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "soti nan syèl la"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "gade (lonje tèt)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou l wè"
+    },
+    {
+      "surface": "היש",
+      "gloss": "si gen"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "moun ki gen konprensyon"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ki chache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:50.855355278Z",
+  "model": "glm-5.3"
+}

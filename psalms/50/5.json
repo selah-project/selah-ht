@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Rasanble pou mwen lasid mwen yo, moun ki koupe alyans mwen an sou zavè.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Rasanble"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "lasid mwen yo"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ki koupe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alyans mwen an"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zavè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:47.119012492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Men mwen, ba ou, Yawe, mwen ap rele, e nan maten priyè m ap moute rankontre ou.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mwen ap rele"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "e nan maten"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "priyè m"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "ap moute rankontre ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:55.905719632Z",
+  "model": "glm-5.3"
+}

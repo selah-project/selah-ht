@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Konsôle, konsôle pèp m an, di Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Konsôle"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "konsôle"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp m"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:17.821465563Z",
+  "model": "glm-5.3"
+}

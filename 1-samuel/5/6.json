@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Men Yawe vin lou sou moun Achdod yo, e li detwi yo; li frape ⟨את⟩ yo ak timo, ⟨את⟩ Achdod ak ⟨את⟩ fwontyè li.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "vin lou"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "moun Achdod yo"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "detwi yo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (moun Achdod yo)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ak timo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Achdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "fwontyè li"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "fwontyè li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:27:14.063077466Z",
+  "model": "glm-5.3"
+}

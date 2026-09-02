@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Esav kouri al kontre l, anbrase l, tonbe sou kou l, bo l, e ⟨yo⟩ plere.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "kouri"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "al kontre l"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "anbrase l"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "kou l"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "bo l"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "plere"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:17.284366184Z",
+  "model": "glm-5.3"
+}

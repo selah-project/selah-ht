@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "si ou chèche l kòm ajàn, epi fouye l kòm kache trezò,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "ou chèche l"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "kòm ajàn"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "epi kòm kache trezò"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "ou fouye l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:10.151044511Z",
+  "model": "glm-5.3"
+}

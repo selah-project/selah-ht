@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Yo ap bati kay, e yo ap viv ⟨nan yo⟩; yo ap plante ven, e yo ap manje fwi yo.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ap bati"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kay"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ap viv"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ap plante"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "fwi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:44:54.771787947Z",
+  "model": "glm-5.3"
+}

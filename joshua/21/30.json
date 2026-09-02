@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi nan branch Achèr la ⟨את⟩ Michal ak ⟨את⟩ zòn louvri l yo, ⟨את⟩ Avdon ak ⟨את⟩ zòn louvri l yo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Epi nan branch"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Achèr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Michal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zòn louvri l yo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zòn louvri l yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zòn louvri l yo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zòn louvri l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:41.088598139Z",
+  "model": "glm-5.3"
+}

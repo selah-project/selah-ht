@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Frape yon mockè, epi ⟨moun⟩ senp vin pridan; reprimande yon moun ki gen entelijans, e ⟨l⟩ ap konprann konesans.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "mockè"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "epi senp"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "vin pridan"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "epi reprimande"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "pou moun ki gen entelijans"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konesans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:17.573786136Z",
+  "model": "glm-5.3"
+}

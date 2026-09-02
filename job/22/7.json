@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Ou pa bay moun ki fatige dlo, e ou kenbe pen ki gen grangou soti nan men l.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "moun ki fatige"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "ou bay (fè bwè)"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "e moun ki gen grangou"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ou kenbe (refize)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:37:39.718682216Z",
+  "model": "glm-5.3"
+}

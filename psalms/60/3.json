@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Elohim, ou rejte nou, ou kraze nou, ou fache — tounen vin jwenn nou!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ou rejte nou"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "ou kraze nou"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "ou fache"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "tounen vin jwenn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:22.239748461Z",
+  "model": "glm-5.3"
+}

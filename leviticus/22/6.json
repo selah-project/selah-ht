@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Yon ne fech ki manyen l vin pa pwòp jiska aswè a, e li pa manje nan bagè sakre yo, si se pa sèlman li lave kò l ak dlo.",
+  "tokens": [
+    {
+      "surface": "נֶפֶשׁ",
+      "gloss": "ne fech"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תִּגַּע",
+      "gloss": "manyen"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "l"
+    },
+    {
+      "surface": "וְטָמְאָה",
+      "gloss": "e vin pa pwòp"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "הָעָרֶב",
+      "gloss": "aswè a"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הַקֳּדָשִׁים",
+      "gloss": "bagè sakre yo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "pa sèlman"
+    },
+    {
+      "surface": "רָחַץ",
+      "gloss": "lave"
+    },
+    {
+      "surface": "בְּשָׂרוֹ",
+      "gloss": "kò l"
+    },
+    {
+      "surface": "בַּמָּיִם",
+      "gloss": "ak dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:35.710028688Z",
+  "model": "glm-5.3"
+}

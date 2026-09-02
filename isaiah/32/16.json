@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E jistis ap rete nan dezè a, ak kè dwat ap chita nan chan fètil la.",
+  "tokens": [
+    {
+      "surface": "וְשָׁכַן",
+      "gloss": "e ... ap rete"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "nan dezè"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "וּצְדָקָה",
+      "gloss": "ak kè dwat"
+    },
+    {
+      "surface": "בַּכַּרְמֶל",
+      "gloss": "nan chan fètil"
+    },
+    {
+      "surface": "תֵּשֵׁב",
+      "gloss": "ap chita"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:41.638457551Z",
+  "model": "glm-5.3"
+}

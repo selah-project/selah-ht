@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E pè Yawe ap fè l sant bon; se pa dapre sa zye li wè l ap jije, e se pa dapre sa zòrèy li tande l ap deside.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "e ap sant bon"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "nan pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e se pa"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "dapre sa ... wè"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zye li"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "l ap jije"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e se pa"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "dapre sa ... tande"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "zòrèy li"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "l ap deside"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:37.305628974Z",
+  "model": "glm-5.3"
+}

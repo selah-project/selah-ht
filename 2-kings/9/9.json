@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E m ap fè ⟨את⟩ kay Akhab la tankou kay Yaravam, pitit Nevat, e tankou kay Bacha, pitit Achiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Akhab la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "tankou kay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "e tankou kay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiya"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:57.070695320Z",
+  "model": "glm-5.3"
+}

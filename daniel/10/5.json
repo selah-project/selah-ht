@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Mwen leve ⟨את⟩ je m e mwen wè, e menm, yon nonm sèl ki abiyen ak twal lin, ak ren l ki sèvi ak lò fin Oufaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "mwen leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je m"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "e mwen wè"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "ki abiyen"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "ak twal lin"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "ak ren l"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ki sèvi"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ak lò fin"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Oufaz"
+    }
+  ],
+  "timestamp": "2026-09-02T21:01:42.101649331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "epi kohen nan gade ⟨את⟩ neg la, epi gade, aparans li pi fonse pase po a, epi nan li gen cheve jòn fen — epi kohen nan deklare ⟨את⟩ li pa pròp: se yon netek, se tsaraat tèt la oswa bab la li ye.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "epi kohen nan gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neg la"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "neg la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "aparans li"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "fonse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pase"
+    },
+    {
+      "surface": "העור",
+      "gloss": "po a"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "epi nan li"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "jòn"
+    },
+    {
+      "surface": "דק",
+      "gloss": "fen"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "epi kohen nan deklare li pa pròp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (moun ki gen neg la)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "yon netek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tèt la"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "bab la"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:04.901477207Z",
+  "model": "glm-5.3"
+}

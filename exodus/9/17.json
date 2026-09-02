@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Men ou ap moute tèt ou kont pèp m, pou ⟨ou⟩ pa vle voye yo ale.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "ap moute tèt ou"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "kont pèp m"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "voye yo ale"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:50.385546252Z",
+  "model": "glm-5.3"
+}

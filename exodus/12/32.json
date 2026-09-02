@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Pran menm mouton nou yo, menm bèf nou yo, jan nou pale l, ale; epi beni m ⟨את⟩ menm mwen.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "mouton nou yo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "bèf nou yo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "nou pale l"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "epi beni m"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ menm mwen",
+      "marks": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:15.190651087Z",
+  "model": "glm-5.3"
+}

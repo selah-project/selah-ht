@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Sovè nou — Yawe Tsavaot se non li — se Kadoch ⟨a⟩ Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "Sovè nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kadoch"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:35.247035515Z",
+  "model": "glm-5.3"
+}

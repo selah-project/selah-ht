@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Nan pòtay ⟨ou⟩ yo ou pral manje l : moun ki pa pè ak moun ki pè ansanm, jan gazèl la ye ak jan sèf la ye.",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "Nan pòtay ou yo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ou pral manje l"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "moun ki pa pè"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ak moun ki pè"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "jan gazèl la ye"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "ak jan sèf la ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:47:46.992705415Z",
+  "model": "glm-5.3"
+}

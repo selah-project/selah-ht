@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "ak ⟨את⟩ Kholon ak ⟨את⟩ pak patiraj li, ak ⟨את⟩ Devir ak ⟨את⟩ pak patiraj li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Kholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pak patiraj li"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pak patiraj li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pak patiraj li"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pak patiraj li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:16.999945952Z",
+  "model": "glm-5.3"
+}

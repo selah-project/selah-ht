@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Yawe pran rèn ⟨la⟩; tè a gaye jwa; anpil zil yo kontan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "pran rèn"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "gaye jwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "איים",
+      "gloss": "zil yo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:42.976422238Z",
+  "model": "glm-5.3"
+}

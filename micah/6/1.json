@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Koute kounye a ⟨את⟩ sa Yawe di: Leve, pote plent ⟨את⟩ devan mòn yo, epi kolinen yo ap tande vwa ou.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yawe di"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pote plent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ devan"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "epi yo ap tande"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "kolinen yo"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "vwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:43:03.959530723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 114,
+  "translation": "Depi devan Adònay — tranble, tè a — depi devan Eloah Yaakov!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Depi devan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "tranble"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "Depi devan"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.374513861Z",
+  "model": "glm-5.3"
+}

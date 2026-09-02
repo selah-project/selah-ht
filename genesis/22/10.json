@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E Avraham rantre ⟨את⟩ men l, e pran ⟨את⟩ kouto a, pou koupe ⟨את⟩ pitit gason l.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "rantre"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kouto a"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "kouto a"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "pou koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason l"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:33.260837720Z",
+  "model": "glm-5.3"
+}

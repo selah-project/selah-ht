@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi Yawe Elohim nou an bay nan men nou menm ⟨את⟩ Og wa Basan an ak ⟨את⟩ tout pèp li a, epi nou frape l jouk pa gen okenn sivivan ki rete pou li.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "nan men nou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og wa Basan an"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basan an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout pèp li a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li a"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "epi nou frape l"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "gen ki rete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "sivivan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:47:52.121776042Z",
+  "model": "glm-5.3"
+}

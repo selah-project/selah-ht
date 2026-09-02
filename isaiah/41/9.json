@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Ke mwen te kenbe ou soti nan kwen tè a, epi soti nan kwen lwen l yo mwen rele ou, epi mwen di ou: sèvant mwen ou ye; mwen chwazi ou, epi mwen pa rejte ou.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "te kenbe ou"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "soti nan kwen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "epi soti nan kwen l yo"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "rele ou"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvant mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "chwazi ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "rejte ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:44.441602564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Paske konsa Yawe di: nou p ap wè van, ni nou p ap wè lapli, men ravin an ap plen ak dlo, e nou menm ap bwè, ak bèt ou yo ak bèt tè ou yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "כה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "(nou p ap) wè"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "lapli"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "e ravin an"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ap plen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "e nou ap bwè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "ak bèt ou yo"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "ak bèt tè ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:21.925268871Z",
+  "model": "glm-5.3"
+}

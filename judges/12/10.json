@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi Ivtsàn mouri, e yo antere l nan Beit-Lèkhem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsàn"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "antere"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lèkhem"
+    }
+  ],
+  "timestamp": "2026-09-02T17:17:59.514815774Z",
+  "model": "glm-5.3"
+}

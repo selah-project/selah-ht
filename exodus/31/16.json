@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Pitit Yisrayèl yo prèserve ⟨את⟩ chomo a, pou fè ⟨את⟩ chomo a nan jenerasyon yo yo, kòm yon alyans pou touttan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "prèserve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chomo a"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "chomo a"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chomo a"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "chomo a"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nan jenerasyon yo yo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alyans"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pou touttan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:00.738970542Z",
+  "model": "glm-5.3"
+}

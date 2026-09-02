@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Chetsron fè ⟨את⟩ Ram, e Ram fè ⟨את⟩ Amìnadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "e Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "e Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amìnadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amìnadav"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:41.183331429Z",
+  "model": "glm-5.3"
+}

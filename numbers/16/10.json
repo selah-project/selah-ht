@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E li fè ⟨את⟩ ou pwoche, ak ⟨את⟩ tout frè ou yo, pitit Levi yo, ansanm ⟨את⟩ ak ou — e nou ap chèche sacerdòs tou?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "e li fè pwoche"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout frè ou yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ak ou"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "e nou chèche"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "sacerdòs"
+    }
+  ],
+  "timestamp": "2026-09-02T21:46:11.351081647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "yo ki di: Ann pran pou nou posede ⟨את⟩ paturaj Elohim yo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "ann pran posede"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paturaj Elohim yo"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "paturaj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:46.589997068Z",
+  "model": "glm-5.3"
+}

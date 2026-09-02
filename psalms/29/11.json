@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Yawe ap bay fòs pou pèp li, Yawe ap beni ⟨את⟩ pèp li ak lapè.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "pou pèp li"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ap beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp li"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ak lapè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:52.572570138Z",
+  "model": "glm-5.3"
+}

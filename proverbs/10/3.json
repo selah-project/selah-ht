@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Yawe pa kite nanm jis lan grangou; men swè mechan yo, li pouse l bay lwen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "kite grangou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nanm"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    },
+    {
+      "surface": "והות",
+      "gloss": "men swè"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "pouse lwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:46.128698173Z",
+  "model": "glm-5.3"
+}

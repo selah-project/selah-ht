@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Yawe p ap kite l nan men l, epi p ap deklare l koupab lè ⟨yo⟩ jije l.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "kite l"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "deklare l koupab"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "lè ⟨yo⟩ jije l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:41.564655295Z",
+  "model": "glm-5.3"
+}

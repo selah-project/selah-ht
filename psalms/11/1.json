@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Bay mèt mizik la. Yon chant pou David. Nan Yawe m refije — kijan nou di àm nanm m: fè vole, zwazo, bò mòn gwo a?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bay mèt mizik la"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Nan Yawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m refije"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kijan"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nou di"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "àm nanm m"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "fè vole"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "mòn gwo a"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "zwazo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:05.260600957Z",
+  "model": "glm-5.3"
+}

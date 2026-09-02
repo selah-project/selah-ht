@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Epi rele m nan jou detres la: m ap delivre ou, epi ou ap ban m gluwa.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Epi rele m"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "detres"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "m ap delivre ou"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "epi ou ap ban m gluwa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:05.710495574Z",
+  "model": "glm-5.3"
+}

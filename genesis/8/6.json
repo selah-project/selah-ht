@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li rive nan fen karant jou, e Noah louvri ⟨את⟩ fenèt batwo a ke li te fè.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E li rive"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "nan fen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "karant"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "e li louvri"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fenèt batwo a"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "fenèt"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "batwo a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:00.477472157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E l di: Ann ale vwayaje, ann mache, e m ap mache devan ou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E l di"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "ann ale vwayaje"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ann mache"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "e m ap mache"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "devan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:21.913360388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi David wè ke Chaoul soti pou l chèche ⟨את⟩ lavi l; epi David te nan dezè Zif, nan forè a.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pou chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavi l"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lavi l"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "epi David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "nan forè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:20.432244381Z",
+  "model": "glm-5.3"
+}

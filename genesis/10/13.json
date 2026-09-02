@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Mitsrayim fè ⟨את⟩ Loudim, ak ⟨את⟩ Anamim, ak ⟨את⟩ Lehavim, ak ⟨את⟩ Naftouhim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Epi Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loudim"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "Loudim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Lehavim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehavim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Naftouhim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftouhim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:24.133818854Z",
+  "model": "glm-5.3"
+}

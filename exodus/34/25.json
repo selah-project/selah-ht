@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Ou pa ap touye ansanm ak chouk ⟨את⟩ san zabachi mwen an; epi zabachi fèt Pak la ap pa rete jiskaswiton.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "touye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chouk"
+    },
+    {
+      "surface": "דם",
+      "gloss": "san"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "zabachi mwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ap rete"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "jiskaswiton"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zabachi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pak la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:23.766051369Z",
+  "model": "glm-5.3"
+}

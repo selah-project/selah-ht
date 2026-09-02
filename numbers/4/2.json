@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pran kont tèt pitit Kehat, nan mitan pitit Levi, dapre fanmi yo, dapre kay pè yo:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Pran kont"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dapre kay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "pè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:16.902060592Z",
+  "model": "glm-5.3"
+}

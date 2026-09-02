@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Yawe ⟨se⟩ wa depi tout tan ak pou tout tan; nasyon yo pèdi soti nan tè Li.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "depi tout tan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ak pou tout tan"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "soti nan tè Li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:38.436917344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Yè ou yo ap gade wa a nan bote l; yo ap wè ⟨yon⟩ tè ki lwen an.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "nan bote l"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "yè ou yo"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ap wè"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "lwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:36.914061580Z",
+  "model": "glm-5.3"
+}

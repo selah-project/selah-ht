@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 140,
+  "translation": "Se sèlman jis yo ki ap fè lwanj pou Non ou, moun dwat yo ap chita ⟨devan⟩ ⟨את⟩ figou a.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Se sèlman"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "jis yo"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "ap fè lwanj"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "pou Non ou"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ap chita"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "moun dwat yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figou a"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:20.375130969Z",
+  "model": "glm-5.3"
+}

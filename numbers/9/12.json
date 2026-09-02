@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Yo pap kite anyen ki soti nan li rive maten an, epi yo pap kase pyès zo ⟨nan⟩ li: dapre tout lwa Péskè la, yo fè ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "kite"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ki soti nan li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "rive"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maten an"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "epi pyès zo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "kase"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨nan⟩ li"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dapre tout"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Péskè la"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (Péskè a)"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:46.889955804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Leve! Vini ède nou, epi delivre nou, pou rezone ak hesed ou (gras ou)!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Leve!"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "Vini ède"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "epi delivre nou"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou rezone ak"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:00.761312696Z",
+  "model": "glm-5.3"
+}

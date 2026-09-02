@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Se pa sou zavè ou yo m ap reprann ou; epi boule-ofrann ou yo devan mwen toutan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "zavè ou yo"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "m ap reprann ou"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "epi boule-ofrann ou yo"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "devan mwen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:47.119610174Z",
+  "model": "glm-5.3"
+}

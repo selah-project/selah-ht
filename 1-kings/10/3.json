@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Chelomo fè l konnen ⟨את⟩ tout pawòl li yo; pa t gen yon sèl bagay kache pou wa a ke l pa fè l konnen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "epi fè konnen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "pawòl li yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te gen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "kache"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:46.706560631Z",
+  "model": "glm-5.3"
+}

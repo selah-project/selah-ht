@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Ki mennen pèp l nan dezè a, paske pou tout tan hesed li.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "ki mennen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp l"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:33.111111742Z",
+  "model": "glm-5.3"
+}

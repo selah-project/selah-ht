@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi chak nonm ⟨את⟩ kado sakre l yo ap ye pou li; sa yon nonm bay kohen an ap ye pou li.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi chak nonm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kado sakre l yo"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "kado sakre l yo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohen an"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:22:14.939720276Z",
+  "model": "glm-5.3"
+}

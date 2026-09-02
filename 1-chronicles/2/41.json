@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Chaloum fè ⟨את⟩ Yekamya, e Yekamya fè ⟨את⟩ Elichama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "E Chaloum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamya"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "e Yekamya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elichama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elichama"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:47.955758471Z",
+  "model": "glm-5.3"
+}

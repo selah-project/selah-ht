@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Ke Yawe koupe tout lèv lis yo, lang ki pale gwo bagay yo!",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "ke ... koupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lèv"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "lis"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lang"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ki pale"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gwo bagay"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:29.659918767Z",
+  "model": "glm-5.3"
+}

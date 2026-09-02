@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi li fimen monte ⟨את⟩ ofrand boule l lan, ak ⟨את⟩ ofrand farin l lan; li vide ⟨את⟩ ofrand bwè l la, epi li jete ⟨את⟩ san ofrand lapè yo — sa ki pou li — sou lotèl la.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "fimen monte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrand boule l lan"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ofrand boule l lan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ofrand farin l lan"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ofrand farin l lan"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrand bwè l la"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "ofrand bwè l la"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "jete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san ofrand lapè yo"
+    },
+    {
+      "surface": "דם",
+      "gloss": "san"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ofrand lapè yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:43.836902045Z",
+  "model": "glm-5.3"
+}

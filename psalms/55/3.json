@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Ban m atansyon ou e reponn m; mwen ap vwayaje san repo nan plent mwen, e mwen ap fè bri.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ban m atansyon ou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "e reponn m"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "mwen ap vwayaje san repo"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "nan plent mwen"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "e mwen ap fè bri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:32.181483446Z",
+  "model": "glm-5.3"
+}

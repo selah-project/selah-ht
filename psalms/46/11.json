@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Lage epi konnen se mwen ki Elohim: mwen wo ⟨pami⟩ nasyon yo, mwen wo sou tè a.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Lage"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "epi konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se…ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mwen wo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pami nasyon yo"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mwen wo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:24.254715353Z",
+  "model": "glm-5.3"
+}

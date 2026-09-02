@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Non premye pitit gason li a ⟨te⟩ Yoèl, e non dezyèm nan ⟨te⟩ Aviya; yo ⟨te⟩ jij nan Beèr-Cheva.",
+  "tokens": [
+    {
+      "surface": "וי׷הִי",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "בְּנוֹ",
+      "gloss": "pitit gason li"
+    },
+    {
+      "surface": "הַבְּכוֹר",
+      "gloss": "premye a"
+    },
+    {
+      "surface": "יוֹאֵל",
+      "gloss": "Yoèl"
+    },
+    {
+      "surface": "וְשֵׁם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "מִשְׁנֵהוּ",
+      "gloss": "dezyèm nan"
+    },
+    {
+      "surface": "אֲבִיָּה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "שֹׁפְטִים",
+      "gloss": "jij"
+    },
+    {
+      "surface": "בִּבְאֵר",
+      "gloss": "nan Beèr"
+    },
+    {
+      "surface": "שָׁבַע",
+      "gloss": "Cheva"
+    }
+  ],
+  "timestamp": "2026-09-02T22:21:17.219417132Z",
+  "model": "glm-5.3"
+}

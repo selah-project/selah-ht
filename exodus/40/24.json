@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E li mete ⟨את⟩ menora a nan tant rankont la, an fas tab la, sou kote tabènak la, bò sid.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora a"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora a"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nan tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "an fas"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tab la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kote"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènak la"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "bò sid"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:53.374298553Z",
+  "model": "glm-5.3"
+}

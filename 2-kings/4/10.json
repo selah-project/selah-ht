@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ann fè, tanpri, yon ti chanm sou do kay ak mi, e nap mete pou li la yon kabann, yon tab, yon chèz, ak yon lanp; e l ap rive, lè l vini kay nou, l ap vire ale la.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "ann fè"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "chanm sou do kay"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ak mi"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "e nap mete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "yon kabann"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "yon tab"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "yon chèz"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "ak yon lanp"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e l ap rive"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "lè l vini"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kay nou"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "l ap vire"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ale la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:41.143939377Z",
+  "model": "glm-5.3"
+}

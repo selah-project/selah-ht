@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Kòz ou, defann ⟨את⟩ zanmi w, epi sekrè yon lòt pa dekouvri.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "Kòz ou"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "defann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanmi w"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "zanmi w"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "epi sekrè"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yon lòt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "dekouvri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:05.071659930Z",
+  "model": "glm-5.3"
+}

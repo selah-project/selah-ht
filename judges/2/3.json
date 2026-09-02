@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E menm mwen te di: Mwen p ap chase ⟨את⟩ yo dèvye ou yo; e yo ap kanpe pou ou yo kòm adversè, e dye yo yo ap vin yon pyèj pou ou yo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen te di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "mwen chase deyò"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dèvye ou yo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "epi yo ap kanpe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou ou yo"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "kòm adversè"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "e dye yo yo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yo ap vin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou ou yo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "kòm yon pyèj"
+    }
+  ],
+  "timestamp": "2026-09-02T17:12:51.470973940Z",
+  "model": "glm-5.3"
+}

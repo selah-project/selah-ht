@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Si ⟨ou⟩ peche, sa ⟨ou⟩ fè ⟨li⟩? Epi si fòt ou yo miltipliye, sa ⟨ou⟩ fè ⟨pou li⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "peche"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "epi miltipliye"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "fòt ou yo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨pou li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:42:21.920264226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi kohen nan ap gade, e gade, si tsaraat la fin kouvri ⟨את⟩ tout kò moun nan, li ap deklare ⟨את⟩ maladi a pwòp: tout kò a fin vire blan — li pwòp.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "fin kouvri"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout kò moun nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kò moun nan"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ap deklare pwòp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maladi a"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "maladi a"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tout kò a"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "vire"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "blan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pwòp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:15.892510263Z",
+  "model": "glm-5.3"
+}

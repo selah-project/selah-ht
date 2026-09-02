@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Veye pou ou pa fè ⟨ofrand ou monte⟩ ou yo monte nan nenpòt kote ou wè.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Veye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou ... pa"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "fè monte"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "ofrand yo ou yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan nenpòt"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ou wè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:48:31.965471975Z",
+  "model": "glm-5.3"
+}

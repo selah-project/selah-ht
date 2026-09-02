@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 32:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Kè kontan nou, nou ki simen toupre tout dlo yo, nou ki lage pye bèf la ak bourik la!",
+  "tokens": [
+    {
+      "surface": "אשריכם",
+      "gloss": "Kè kontan nou"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "nou ki simen"
+    },
+    {
+      "surface": "על",
+      "gloss": "toupre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "משלחי",
+      "gloss": "nou ki lage"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pye"
+    },
+    {
+      "surface": "השור",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "ak bourik la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:32.627697343Z",
+  "model": "glm-5.3"
+}

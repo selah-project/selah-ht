@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi l mete sou li ⟨את⟩ plak pwatrin nan, epi l mete nan plak pwatrin nan ⟨את⟩ Ourim yo ak ⟨את⟩ Toutim yo.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Epi ... mete"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plak pwatrin nan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "plak pwatrin nan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "epi ... mete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "plak pwatrin nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ourim yo"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Ourim yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Toutim yo"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Toutim yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:43.901788235Z",
+  "model": "glm-5.3"
+}

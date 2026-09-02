@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Yo ap pote fwi ankò nan vyèys la, yo ap dwe gra ak vèt.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "yo ap pote fwi"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "nan vyèys la"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "dwe gra"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "ak vèt"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨yo ap⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:30.411156407Z",
+  "model": "glm-5.3"
+}

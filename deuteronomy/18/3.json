@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Èk sa a ap gen pou dwa kòhan yo, soti ⟨nan⟩ ⟨את⟩ pèp la — soti ⟨nan⟩ ⟨את⟩ moun k ap fè sakrifis la, swa bèf, swa mouton: yo dwe bay kòhan nan zepòl la, de machwè yo, ak trip yo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Èk sa a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap gen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pou dwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kòhan yo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "soti ⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "soti ⟨את⟩",
+      "marks": "moun k ap fè sakrifis la"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "moun k ap fè sakrifis"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "sakrifis la"
+    },
+    {
+      "surface": "אם",
+      "gloss": "swa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "אם",
+      "gloss": "swa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "yo dwe bay"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bay kòhan nan"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "zepòl la"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "de machwè yo"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "ak trip yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:18.289785383Z",
+  "model": "glm-5.3"
+}

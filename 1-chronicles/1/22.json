@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "ak ⟨את⟩ Eyval, ak ⟨את⟩ Abimael, ak ⟨את⟩ Cheva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Eyval"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Abimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Cheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheva"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:35.305960610Z",
+  "model": "glm-5.3"
+}

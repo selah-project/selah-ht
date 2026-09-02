@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi Yehudim yo aksepte ⟨את⟩ sa k yo te kòmanse fè a, ak ⟨את⟩ sa k Modekay te ekri pou yo a.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "Epi aksepte"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehudim yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa k yo te kòmanse fè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa k"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "yo te kòmanse"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "fè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa k Modekay te ekri pou yo a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa k"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "te ekri"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Modekay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "pou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:33.492496153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Ou ranmase tout kòlè ou a; ou vire do ⟨את⟩ ak chale nan nen ou a.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "ou ranmase"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "kòlè ou a"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "ou vire do"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ak chale nan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nen ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:35.723563291Z",
+  "model": "glm-5.3"
+}

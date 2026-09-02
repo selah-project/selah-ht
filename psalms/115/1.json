@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Pa pou nou, Yawe, pa pou nou — se pou non ou bay glwa, sou hesed ou, sou verite ou.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se pou"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "תן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "verite ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:25.264020674Z",
+  "model": "glm-5.3"
+}

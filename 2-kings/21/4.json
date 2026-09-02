@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E li bati otèl ⟨nan⟩ kay Yawe, ke Yawe te di: Nan Yerouchalayim m ap mete ⟨את⟩ non m.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "otèl yo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ap mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non m"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "non m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:19:23.535066104Z",
+  "model": "glm-5.3"
+}

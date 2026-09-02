@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Fè hesed (gras) ou yo parèt ekstraòdinè, ou ki sove moun ki pran refij, ak men dit ou, de nan men moun ki leve kont yo.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "fè parèt ekstraòdinè"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed ou yo"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ou ki sove"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "moun ki pran refij"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "de nan men moun ki leve kont yo"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ak men dit ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:36.662806306Z",
+  "model": "glm-5.3"
+}

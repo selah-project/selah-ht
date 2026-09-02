@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 7:21",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi ak anpil nan ansèyman pa l, l te fè l vire; ak lachè nan lèv li, l pouse l ale.",
+  "tokens": [
+    {
+      "surface": "הִּטַּתּוּ",
+      "gloss": "fè l vire"
+    },
+    {
+      "surface": "בְּרֹב",
+      "gloss": "ak anpil"
+    },
+    {
+      "surface": "לִקְחָהּ",
+      "gloss": "nan ansèyman pa l"
+    },
+    {
+      "surface": "בְּחֵלֶק",
+      "gloss": "ak lachè"
+    },
+    {
+      "surface": "שְׂפָתֶיהָ",
+      "gloss": "nan lèv li"
+    },
+    {
+      "surface": "תַּדִּיחֶנּוּ",
+      "gloss": "pouse l ale"
+    }
+  ],
+  "timestamp": "2026-09-02T22:26:13.103982621Z",
+  "model": "glm-5.3"
+}

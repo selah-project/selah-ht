@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Zakrifis Elohim ⟨se⟩ yon lespri kase: yon kè kase ak ekrase, Elohim, ou pa pran lejè.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "zakrifis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "kase"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "kase"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "ak ekrase"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "pran lejè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:48.794436096Z",
+  "model": "glm-5.3"
+}

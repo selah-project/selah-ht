@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Se sa lwa zab la, epi sou moun ki gen yon ekoulman semans ki soti de li, pou vin salte ak li.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Se sa"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zab la"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "epi sou"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ki soti"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de li"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ekoulman"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semans"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "pou vin salte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ak li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:42.821435641Z",
+  "model": "glm-5.3"
+}

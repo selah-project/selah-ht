@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Wont papa w ak wont manman w, ou pa dwe dekouvri; se manman w li ye, ou pa dwe dekouvri wont li.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "wont"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "ak wont"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "manman w"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "dekouvri"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "manman w"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "dekouvri"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "wont li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:11.228823218Z",
+  "model": "glm-5.3"
+}

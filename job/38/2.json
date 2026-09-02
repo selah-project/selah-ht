@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Kiyès ki fè konsèy la vin nwa ak pawòl ki pa gen konesans?",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מַחְשִׁיךְ",
+      "gloss": "fè vin nwa"
+    },
+    {
+      "surface": "עֵצָה",
+      "gloss": "konsèy la"
+    },
+    {
+      "surface": "בְמִלִּין",
+      "gloss": "ak pawòl"
+    },
+    {
+      "surface": "בְלִי",
+      "gloss": "ki pa gen"
+    },
+    {
+      "surface": "דַּעַת",
+      "gloss": "konesans"
+    }
+  ],
+  "timestamp": "2026-09-02T22:03:40.191471931Z",
+  "model": "glm-5.3"
+}

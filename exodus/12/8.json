@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E yo ap manje ⟨את⟩ vyann lan aswè sa a, griye ak dife; ak pen san levire ak zèb amè yo ap manje l.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "e yo ap manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyann lan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "vyann lan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nan aswè"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "griye"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ak pen san levire"
+    },
+    {
+      "surface": "על",
+      "gloss": "ak"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "zèb amè"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "yo ap manje l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:47.620961832Z",
+  "model": "glm-5.3"
+}

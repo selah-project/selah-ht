@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Yon chant, yon mizmò pou Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yon chant"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmò"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:56.848686995Z",
+  "model": "glm-5.3"
+}

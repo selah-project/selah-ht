@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Yon pri pou moun ki ap soufri la, lè l ap pèdi kouraj, devan Yawe l ap vide plent li soti.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "pri"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "pou moun ki ap soufri la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "l ap pèdi kouraj"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "l ap vide"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "plent li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:26.829292413Z",
+  "model": "glm-5.3"
+}

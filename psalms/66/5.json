@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Vini ak gade travay Elohim — li fè kè moun santi respè nan sa l fè pou pitit moun yo.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ak gade"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "travay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ki fè kè moun senti respè"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "nan sa l fè"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:32.069546572Z",
+  "model": "glm-5.3"
+}

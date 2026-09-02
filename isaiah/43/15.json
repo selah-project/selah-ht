@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Se mwen Yawe, Sent ou yo, Ki kreye Yisrael, Wa ou yo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Sent ou yo"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Ki kreye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Wa ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:14.783608152Z",
+  "model": "glm-5.3"
+}

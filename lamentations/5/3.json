@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Nou vin òfelen san papa, manman nou yo tankou vèv.",
+  "tokens": [
+    {
+      "surface": "יְתוֹמִים",
+      "gloss": "Òfelen"
+    },
+    {
+      "surface": "הָיִינוּ",
+      "gloss": "Nou vin"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "san"
+    },
+    {
+      "surface": "אָב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "אִמֹּתֵינוּ",
+      "gloss": "manman nou yo"
+    },
+    {
+      "surface": "כְּאַלְמָנוֹת",
+      "gloss": "tankou vèv"
+    }
+  ],
+  "timestamp": "2026-09-02T22:26:38.280222739Z",
+  "model": "glm-5.3"
+}

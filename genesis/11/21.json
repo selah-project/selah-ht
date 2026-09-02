@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Reou vivan apre li fè ⟨את⟩ Seroug, sèt an ak de san an, epi li fè pitit gason ak pitit fi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reou"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seroug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seroug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "an"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ak de san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi li fè"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ak pitit fi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:36.939519580Z",
+  "model": "glm-5.3"
+}

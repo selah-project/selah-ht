@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Moun ki meprize zanmi l manke kè, men moun ki gen entelijans ret tann.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "meprize"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "zanmi l"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "manke"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men moun"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ki gen entelijans"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "ret tann"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:03.165359021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Paske devan epe yo yo te fyi, devan yon epe ki dechaynen, devan yon ak ki tensionnen, ak devan pwa lagè a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "epe yo"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "yo te fyii"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epe"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "ki dechaynen"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ak devan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ak"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "ki tensionnen"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ak devan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "pwa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lagè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:55.265821651Z",
+  "model": "glm-5.3"
+}

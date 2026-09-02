@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Payi nou an devaste, vil nou yo boule ak dife; tè nou an, devan zye nou menm, etranje yo ap manje ⟨את⟩ l, epi li kanpe devaste, tankou yon ranvèse pa etranje.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "payi nou an"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "devaste"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "vil nou yo"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "boule"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ak dife"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tè nou an"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "devan zye nou"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "etranje yo"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tè nou an (glos: l)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "epi devaste"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "tankou yon ranvèse"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "pa etranje"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:23.451525865Z",
+  "model": "glm-5.3"
+}

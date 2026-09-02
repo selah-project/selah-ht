@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E nan branch matè Gad la yo ⟨את⟩ Ramot nan Gilad ak ⟨את⟩ pwatri l yo, ⟨את⟩ Mahanayim ak ⟨את⟩ pwatri l yo.",
+  "tokens": [
+    {
+      "surface": "וּמִ֨מַּטֵּה֙",
+      "gloss": "E nan branch matè"
+    },
+    {
+      "surface": "גָ֔ד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot"
+    },
+    {
+      "surface": "רָאמ֥וֹת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בַּגִּלְעָ֖ד",
+      "gloss": "nan Gilad"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pwatri l yo"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֑יהָ",
+      "gloss": "pwatri l yo"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Mahanayim"
+    },
+    {
+      "surface": "מַחֲנַ֖יִם",
+      "gloss": "Mahanayim"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pwatri l yo"
+    },
+    {
+      "surface": "מִגְרָשֶֽׁׁיהָ",
+      "gloss": "pwatri l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:35.662469823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Pa gen frè ki ka rachte yon moun ditou; li pa ka bay Elohim ranson pou li —",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "frè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ka rachte"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ka rachte (ditou)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "li pa ka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ranson pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:25.566265328Z",
+  "model": "glm-5.3"
+}

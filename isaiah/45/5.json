@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Se mwen Yawe, e pa gen ⟨lòt⟩; an deyò mwen pa gen Elohim; mwen chensiye ⟨ou⟩ byen ou pa t konnen mwen.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Se mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "an deyò mwen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "chensiye ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "byen ou pa"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "t konnen mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:41.318788237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi Oved fè ⟨את⟩ Yichai, epi Yichai fè ⟨את⟩ David.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "epi Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yichai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yichai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "epi Yichai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T20:45:37.016597155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Moun ki mouri de Yarovam nan lavil, chen yo ap manje l; e moun ki mouri nan chan, zwazo syèl yo ap manje l; paske Yawe pale.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Moun ki mouri"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "de Yarovam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "chen yo"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "e moun ki mouri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan chan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "zwazo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-09-02T21:51:17.325814473Z",
+  "model": "glm-5.3"
+}

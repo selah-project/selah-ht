@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "La yo tonbe, moun ki pratike mechansèt la; yo pouse ⟨yo⟩ atè, epi yo pa ka kanpe.",
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "La"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "yo tonbe"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "moun ki pratike"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "mechansèt la"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "yo pouse atè"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "yo ka"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:10.269042266Z",
+  "model": "glm-5.3"
+}

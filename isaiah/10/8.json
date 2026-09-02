@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Paske l di: Èske chèf mwen yo pa tout ansanm se wa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "l di"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Èske...pa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf mwen yo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "se wa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:09.685582100Z",
+  "model": "glm-5.3"
+}

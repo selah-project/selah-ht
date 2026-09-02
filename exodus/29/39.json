@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "⟨את⟩ mouton an premye ou fè nan maten, e ⟨את⟩ mouton an dezyèm ou fè ant kè swa yo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mouton an premye"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "premye"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mouton an dezyèm"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kè swa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:25.976403098Z",
+  "model": "glm-5.3"
+}

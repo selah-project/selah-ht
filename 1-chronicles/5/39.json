@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E Chaloum fè ⟨את⟩ Hilkiya, e Hilkiya fè ⟨את⟩ Azarya.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "e Chaloum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiya"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "e Hilkiya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:54.131970842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Serafim yo kanpe anlè li; chak gen sis zèl, sis zèl pou chak: ak de ⟨zèl⟩ li kouvri figi l, ak de ⟨zèl⟩ li kouvri pye l, ak de ⟨zèl⟩ li ap vole.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serafim yo"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sis"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "zèl"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sis"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "zèl"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "pou chak"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "ak de zèl"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "li kouvri"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ak de zèl"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "li kouvri"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "pye l"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ak de zèl"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "li ap vole"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:41.603159552Z",
+  "model": "glm-5.3"
+}

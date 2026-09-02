@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Èske yon lyon ap rale nan forè a pandan li pa gen pwenn? Èske yon jèn lyon ap bay vwa soti nananton li, si li pa fin trape anyen?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "ap rale"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "yon lyon"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "nan forè a"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "pandan li pa gen pwenn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "yon jèn lyon"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "soti nananton li"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "si li pa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "fin trape"
+    }
+  ],
+  "timestamp": "2026-09-02T19:36:50.143643700Z",
+  "model": "glm-5.3"
+}

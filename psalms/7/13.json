@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Si ⟨li⟩ pa tounen, li ap fize epe l; li tann zak li, e li prepare l.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "epe l"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "fize"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "zak l"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tann"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "e li prepare l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:16.730720600Z",
+  "model": "glm-5.3"
+}

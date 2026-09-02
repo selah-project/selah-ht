@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Ester pa t fè konnen ⟨את⟩ pèp l ni ⟨את⟩ kote l sòti, paske Modekay te kòmande sou li pou l pa fè konnen.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הִגִּידָה",
+      "gloss": "t fè konnen"
+    },
+    {
+      "surface": "אֶסְתֵּר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pèp l"
+    },
+    {
+      "surface": "עַמָּהּ",
+      "gloss": "pèp l"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "kote l sòti"
+    },
+    {
+      "surface": "מוֹלַדְתָּהּ",
+      "gloss": "kote l sòti"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מָרְדֳּכַי",
+      "gloss": "Modekay"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "te kòmande"
+    },
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "pou"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תַּגִּיד",
+      "gloss": "fè konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:54:29.338171775Z",
+  "model": "glm-5.3"
+}

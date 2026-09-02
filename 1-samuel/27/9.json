@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi David frape ⟨את⟩ tè a, epi li pa kite yon nonm ni yon fanm vivan; epi li pran mouton ak bèf ak bourik ak chamo ak rad, epi li tounen, epi li vini jwenn Akich.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "epi frape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "kite vivan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "epi fanm"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "epi pran"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "epi bèf"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "epi bourik"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "epi chamo"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "epi rad"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "epi tounen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "epi vini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akich"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:24.193009538Z",
+  "model": "glm-5.3"
+}

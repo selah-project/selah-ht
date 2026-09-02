@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Jistis ap mache devan ⟨li⟩, e li mete ⟨pou⟩ pa l yo vin yon wout.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Jistis"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan li"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e li mete"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "pou yon wout"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "pa l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:15.097438516Z",
+  "model": "glm-5.3"
+}

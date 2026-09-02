@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E Reou viv trant de an, e li fè ⟨את⟩ Seroug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "E ... viv"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reou"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "de"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ak trant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seroug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seroug"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:36.897636211Z",
+  "model": "glm-5.3"
+}

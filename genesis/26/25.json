@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 26:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Lè sa a li bati yon otèl ladann, li rele nan Non Yawe, e li pale tant li ladann; e sèvitè Yitshak yo fè yon fouye dlo ladann.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "bati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ladann"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otèl"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "pale"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ladann"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tant li"
+    },
+    {
+      "surface": "ויכרו",
+      "gloss": "fouye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ladann"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "באר",
+      "gloss": "dlo (fouye dlo)"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:16.337087312Z",
+  "model": "glm-5.3"
+}

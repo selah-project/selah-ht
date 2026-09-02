@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E yo te toutouni tou de, nonm lan ak fanm li a, e yo pa t wont.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E yo te"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tou de"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "toutouni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nonm lan"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ak fanm li a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "wont"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:23.537209965Z",
+  "model": "glm-5.3"
+}

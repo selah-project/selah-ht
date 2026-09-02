@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 150,
+  "translation": "Fè lwanj l pou zak fòs li yo; fè lwanj l dapre grandè l.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "fè lwanj l"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "pou zak fòs li yo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "fè lwanj l"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "grandè l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:15.480707220Z",
+  "model": "glm-5.3"
+}

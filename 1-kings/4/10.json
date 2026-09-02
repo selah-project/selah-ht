@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ben-Hesed, nan Arouvot; li genyen Sokho ak tout peyi Hefer.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "nan Arouvot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "genyen Sokho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefer"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:29.065696908Z",
+  "model": "glm-5.3"
+}

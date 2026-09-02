@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Pa kite yo di nan kè yo, Heach, nefech nou a! Pa kite yo di, Nou vale l.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa kite"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "nan kè yo"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heach"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefech nou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Pa kite"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "Nou vale l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:07.525014837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi yo anonse ba Yoav: gade, wa a ap plèd epi li ap fè dèy pou Avchalom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yo anonse"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "ba Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ap plèd"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "ap fè dèy"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    }
+  ],
+  "timestamp": "2026-09-02T17:49:44.347331925Z",
+  "model": "glm-5.3"
+}

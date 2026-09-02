@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Ou pran ⟨את⟩ de wòch choham, epi ou gravire sou yo non pitit gason Yisrael yo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wòch choham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "choham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "gravire"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:29.043272640Z",
+  "model": "glm-5.3"
+}

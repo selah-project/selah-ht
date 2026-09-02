@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Ke li ye pou li kòm yon rad ki kouvri li, e kòm yon sent ki mare l pou touttan.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ke li ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kòm yon rad"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ki kouvri li"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "e kòm yon sent"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "ki mare l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:59.311662367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Chanp an devaste, tè a fè dèy, paske ble a pilie, diven nouvo a desèche, lwil la febliye.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "devaste"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "chanp"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "fè dèy"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "pilie"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ble"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "desèche"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "diven nouvo"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "febliye"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "lwil"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:57.041564874Z",
+  "model": "glm-5.3"
+}

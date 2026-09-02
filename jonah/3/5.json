@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Moun Ninèv yo kwè nan Elohim; yo deklare yon jèn, yo mete zak, de pi gran yo jiska pi piti yo.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "kwè"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninèv"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nan Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "yo deklare"
+    },
+    {
+      "surface": "צום",
+      "gloss": "yon jèn"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "zak"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "pi gran yo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "pi piti yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:41:16.315872251Z",
+  "model": "glm-5.3"
+}

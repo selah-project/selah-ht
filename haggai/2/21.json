@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Di ak Zerubavel, gouvènè a nan Yehouda, pou l di: Se mwen menm ki ap tranble ⟨את⟩ syèl yo ak ⟨את⟩ tè a.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubavel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "gouvènè a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "nan Yehouda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen menm"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ki ap tranble"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syèl yo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:44:34.310084076Z",
+  "model": "glm-5.3"
+}

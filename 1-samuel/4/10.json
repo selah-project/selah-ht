@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Pelichtim yo fè lagè, e Yisrayèl frape, e chak moun kouri k ale nan tant li, e batay la te vin yon zak grav anpil; e trant mil sòlda ap pye tonbe nan Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "E ... fè lagè"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pleichtim yo"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "e ... frape"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "e ... kouri k ale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "nan tant li"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e ... te vin"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "batay la"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grav"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "e ... tonbe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "nan Yisrayèl"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sòlda ap pye"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:31.336927014Z",
+  "model": "glm-5.3"
+}

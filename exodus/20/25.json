@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E si ou fè yon otèl janm pou mwen, pa bati ⟨את⟩ yo an janm koupe ak zouti: paske si ou levo epe ou sou l, ou fin souile l.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "yon otèl"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "janm"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "yo (janm koupe)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "janm koupe ak zouti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "epe ou"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "ou levo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou l"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "ou fin souile l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:09.047311847Z",
+  "model": "glm-5.3"
+}

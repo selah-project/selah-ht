@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Èske sajès pa ap rele, epi entèlijans ap bay vwa l?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske ... pa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ap rele"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "epi entèlijans"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "vwa l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:16.252416430Z",
+  "model": "glm-5.3"
+}

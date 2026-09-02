@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Epi Yawe retounen ⟨את⟩ retou Iyov lè l t ap priye pou zanmi l yo; e Yawe ajoute ⟨את⟩ tout sa ki te pou Iyov, ⟨an doub⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "retou Iyov"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "retou"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "lè l t ap priye"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pou"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zanmi l yo"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa ki te pou Iyov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ki te pou Iyov"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "an doub"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:53.044963709Z",
+  "model": "glm-5.3"
+}

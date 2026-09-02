@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "epi ⟨את⟩ siy li yo ak ⟨את⟩ zèv li yo, sa l te fè nan mitan Mitsrayim, sou Paro, wa Mitsrayim, ak tout peyi l —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "siy li yo"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "siy li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zèv li yo"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zèv li yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "sou Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "peyi l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:59.742565247Z",
+  "model": "glm-5.3"
+}

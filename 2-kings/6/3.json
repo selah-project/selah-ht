@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi youn nan yo di : Dakò, tanpri, ale ak ⟨את⟩ sèvant ou yo. Epi li di : Mwen menm, m ap ale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn nan yo"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Dakò"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvant ou yo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvant ou yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mwen menm"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m ap ale"
+    }
+  ],
+  "timestamp": "2026-09-02T18:10:54.110015243Z",
+  "model": "glm-5.3"
+}

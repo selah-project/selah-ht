@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Yo fin fè pou li karant jou, paske konsa yo fin fè jou moun k ap anba a yo, e Mitsrayim yo plède ⟨את⟩ li swasan-dix jou.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "fin fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "karant"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "fin fè"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "moun k ap anba a yo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "plède"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim yo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "swasan-dix"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:16.100480882Z",
+  "model": "glm-5.3"
+}

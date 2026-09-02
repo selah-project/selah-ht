@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Vin pase, apre pawòl sa yo, yo di Yosef: Gade, papa w la maladen. Epi li pran ⟨את⟩ de (2) pitit gason li avè l, ⟨את⟩ Menache ak ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Vin pase"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ba Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "maladen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "li pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de pitit gason li"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menache"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:37:35.954243399Z",
+  "model": "glm-5.3"
+}

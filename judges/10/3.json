@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Apre li, Yair Giladyen an leve, e li jije ⟨את⟩ Yisrayèl ventnde an.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "leve"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Apre li"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladyen an"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "e li jije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ventn"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ak de"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    }
+  ],
+  "timestamp": "2026-09-02T17:17:28.057740374Z",
+  "model": "glm-5.3"
+}

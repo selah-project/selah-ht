@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Ak moun ki gen hesed ou montre hesed; ak nonm ki san defo ou montre ou san defo.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Ak"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "moun ki gen hesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ou montre hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ki san defo"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ou montre ou san defo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:03.499082411Z",
+  "model": "glm-5.3"
+}

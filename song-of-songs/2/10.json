@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Dodi m reponn e li di m: Leve, renmen mwen an, bèl mwen, ale kò ou.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "Dodi m"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "leve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kò ou"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "renmen mwen an"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "bèl mwen"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "ale kò ou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kò ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:21.758800308Z",
+  "model": "glm-5.3"
+}

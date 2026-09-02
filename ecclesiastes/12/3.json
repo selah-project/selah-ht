@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Nan jou a lè gad kay la pral tranble, epi gason fò yo pral kwochi, epi moulen yo pral kanpe paske yo vin ti kras, epi moun ki gade nan fenèt yo pral vin nwa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nan jou a"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "tranble"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "gad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "epi … kwochi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gason"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "fò yo"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "epi … kanpe"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "moulen yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pask"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "vin ti kras"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "epi … vin nwa"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "moun ki gade"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "nan fenèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:10.685870348Z",
+  "model": "glm-5.3"
+}

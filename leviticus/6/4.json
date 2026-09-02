@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E l ap retire ⟨את⟩ rad l yo, e l ap mete lòt rad, e l ap pote ⟨את⟩ lasann lan deyò nan kan an, nan yon kote ki pi.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "e l ap retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad l yo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad l yo"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "e l ap mete"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "rad"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "e l ap pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasann lan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "lasann lan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nan kan an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ki pi"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:32.125820182Z",
+  "model": "glm-5.3"
+}

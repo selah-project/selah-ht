@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Se yo menm k ap deplase çépi pou manje; si yo pa satisfè, yo ap pase nwit la ap mòmòrey.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Se yo menm"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "k ap deplase çépi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pou manje"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "satisfè"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "yo ap pase nwit la ap mòmòrey"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:39.225321064Z",
+  "model": "glm-5.3"
+}

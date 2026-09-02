@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Ke dezas vini sou li san li konnen, epi ke file a li te kache pran li menm — nan dezas sa a ke li tonbe ladan l.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ke li vini sou"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "dezas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "li konnen"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "epi file li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "li kache"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "li pran"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "nan dezas"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "li tonbe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:52.302063499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Gason Yafet yo: Gomer, Magog, Maday, Yavan, Touval, Mechekh ak Tirac.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Gason"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "ak Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ak Maday"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ak Yavan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ak Touval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ak Mechekh"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ak Tirac"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:03.337729890Z",
+  "model": "glm-5.3"
+}

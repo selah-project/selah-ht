@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ⟨li⟩ mezire ⟨את⟩ pòch pòtay la, nan direksyon kay la, yon kan.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "epi li mezire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pòch pòtay la"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "pòch"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pòtay la"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "nan direksyon kay la"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon"
+    }
+  ],
+  "timestamp": "2026-09-02T19:28:27.855163398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Epi nan Non Yawe mwen rele: o tanpri Yawe, delivre nefech mwen.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "epi nan Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mwen rele"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "o tanpri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:56.343306083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Mwen anonse jistis ⟨nan⟩ sanble a ki gran; men, lev m pa fèmen — Yawe, se ou ki konnen.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "mwen anonse"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nan ⟨sanble a⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ki gran"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "men"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lev m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ki konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:14.526398688Z",
+  "model": "glm-5.3"
+}

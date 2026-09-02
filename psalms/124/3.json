@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 124,
+  "translation": "lè sa a, yo ta vale nou vivan, lè kòlè yo limen kont nou,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "yo ta vale nou"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "lè ... limen"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "kòlè yo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kont nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:41.208429517Z",
+  "model": "glm-5.3"
+}

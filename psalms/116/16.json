@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Tanpri, Yawe, paske m se sèvitè ou — mwen menm, sèvitè ou, pitit sèvant ou — ou louvri chèn m yo.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Tanpri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m se"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvitè ou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvitè ou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sèvant ou"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "ou louvri"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "chèn m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:50.788173091Z",
+  "model": "glm-5.3"
+}

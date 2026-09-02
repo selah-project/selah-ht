@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Fè pou ou yon bwat ak bwa gofer; ak chanm w ap fè ⟨את⟩ bwat la, e w ap kouvri l ak kofè anndan l ak deyò l.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "bwat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "chanm yo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "w ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bwat la"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bwat la"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "e w ap kouvri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ l"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "anndan l"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ak deyò l"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ak kofè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:55.693776004Z",
+  "model": "glm-5.3"
+}

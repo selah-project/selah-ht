@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 122,
+  "translation": "Chante pou montey yo, pou David. Mwen kontan lè yo di mwen: Nan kay Yawe nou prale.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pou montey yo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Mwen kontan"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "lè yo di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Nan kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "nou prale"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:38.801449825Z",
+  "model": "glm-5.3"
+}

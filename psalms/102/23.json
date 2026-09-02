@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Lè ⟨pèp yo⟩ rasanble ansanm, ak wayòm yo, pou sèvi ⟨את⟩ Yawe",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "Lè … rasanble"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ak wayòm yo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pou sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:39.690718904Z",
+  "model": "glm-5.3"
+}

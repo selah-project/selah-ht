@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Elohim, kase dàn yo nan bouch yo; Yawe, déchireken molè jenn lyon yo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "kase"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "dàn yo"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "nan bouch yo"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "molè"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "jenn lyon yo"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "déchireken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:38.748649891Z",
+  "model": "glm-5.3"
+}

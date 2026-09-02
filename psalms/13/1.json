@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Pou chèf mizisyen, yon mizmo, pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:55.629974008Z",
+  "model": "glm-5.3"
+}

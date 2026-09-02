@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E HaElohim ede l kont Filistyen yo, kont Arab yo te kap abite nan Gour-Baäl la, e kont Meyounim yo.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "e … ede l"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e kont"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "Arab yo"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "te kap abite"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "nan Gour"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baäl"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "e kont Meyounim yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:33:13.759970491Z",
+  "model": "glm-5.3"
+}

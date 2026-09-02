@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Paske osi wo ke syèl yo anlè tè a, menm konsa hesed li gen fòs sou moun k ap pè li.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "osi wo ke"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gen fòs"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "moun k ap pè li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.132118743Z",
+  "model": "glm-5.3"
+}

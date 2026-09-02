@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Ke li te koupe ⟨את⟩ Avraham, ak sèman li bay Yitshak —",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "Ke"
+    },
+    {
+      "surface": "כָּ֭רַת",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אַבְרָהָ֑ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וּשְׁב֖וּעָת֣וֹ",
+      "gloss": "ak sèman li"
+    },
+    {
+      "surface": "לְיִשְׂחָֽק",
+      "gloss": "bay Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:12.721566933Z",
+  "model": "glm-5.3"
+}

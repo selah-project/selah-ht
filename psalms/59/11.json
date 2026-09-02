@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Elohim hesed m ap rankontre m anvan; Elohim ap fè m wè ⟨demantèlman⟩ ⟨de⟩ ennemi m yo.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed m"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "ap rankontre m anvan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ap fè m wè"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "ennemi m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:57.747072188Z",
+  "model": "glm-5.3"
+}

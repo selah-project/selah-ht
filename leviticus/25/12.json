@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Paske se Yovel li ye, li ⟨ap⟩ sen pou nou; nan chan nou ap manje ⟨את⟩ rekòt li a.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יוֹבֵל",
+      "gloss": "Yovel"
+    },
+    {
+      "surface": "הִוא",
+      "gloss": "li ye"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תִּהְיֶה",
+      "gloss": "⟨ap⟩"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הַשָּׂדֶה",
+      "gloss": "chan"
+    },
+    {
+      "surface": "תֹּאכְלוּ",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "rekòt li a"
+    },
+    {
+      "surface": "תְּבוּאָתָהּ",
+      "gloss": "rekòt li a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:55.835167092Z",
+  "model": "glm-5.3"
+}

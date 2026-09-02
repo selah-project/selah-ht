@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E ⟨את⟩ kay Yerouchalayim yo nou konte, e nou demoli kay yo pou ranfòse miray la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kay yo"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "kay yo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "nou konte"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "e nou demoli"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "kay yo"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "pou ranfòse"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "miray la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:00.125538209Z",
+  "model": "glm-5.3"
+}

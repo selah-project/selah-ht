@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Men li pa envite ⟨את⟩ Natan pwofèt la, ni Benayahou, ni ⟨את⟩ gason kouraj yo, ni ⟨את⟩ Chelomo frè l a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "men ⟨את⟩",
+      "marks": "Natan pwofèt la"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "ni Benayahou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "gason kouraj yo"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "gason kouraj yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Chelomo frè l a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "envite"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:05.316987452Z",
+  "model": "glm-5.3"
+}

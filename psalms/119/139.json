@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Zèl mwen fin konfonde m, paske lènmi mwen yo bliye pawòl ou yo.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "fin konfonde m"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "zèl mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "yo bliye"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "pawòl ou yo"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "lènmi mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:17.903717401Z",
+  "model": "glm-5.3"
+}

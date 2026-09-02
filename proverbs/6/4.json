@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Pa bay dòmi je ou, ni pip dòmi je ou ki fèmen yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "je ou"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ni pip dòmi"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "je ou ki fèmen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:16.695930288Z",
+  "model": "glm-5.3"
+}

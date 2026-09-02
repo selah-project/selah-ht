@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Kèm fè moun ou chwazi a, epi ou fè l rantre pwè ou, pou l ka rete nan lakou yo ou yo; n ap satire nan bonnte kay ou a, nan senktyè palè ou la.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Kèm fè"
+    },
+    {
+      "surface": "תִּבְחַר",
+      "gloss": "ou chwazi"
+    },
+    {
+      "surface": "וּתְקָרֵב",
+      "gloss": "epi ou fè l rantre pwè"
+    },
+    {
+      "surface": "יִשְׁכֹּן",
+      "gloss": "l ap rete"
+    },
+    {
+      "surface": "חֲצֵרֶיךָ",
+      "gloss": "lakou yo ou yo"
+    },
+    {
+      "surface": "נִשְׂבְּעָה",
+      "gloss": "n ap satire"
+    },
+    {
+      "surface": "בְּטוּב",
+      "gloss": "nan bonnte"
+    },
+    {
+      "surface": "בֵּיתֶךָ",
+      "gloss": "kay ou a"
+    },
+    {
+      "surface": "קְדֹשׁ",
+      "gloss": "senktyè"
+    },
+    {
+      "surface": "הֵיכָלֶךָ",
+      "gloss": "palè ou la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:56.996623341Z",
+  "model": "glm-5.3"
+}

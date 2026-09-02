@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 99,
+  "translation": "Vanse Yawe Elohim nou, epi pwostrene nou devan mòn sen l a, paske Yawe Elohim nou a ⟨se⟩ sen.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Vanse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "epi pwostrene nou"
+    },
+    {
+      "surface": "להר",
+      "gloss": "devan mòn"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sen l a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:31.643540106Z",
+  "model": "glm-5.3"
+}

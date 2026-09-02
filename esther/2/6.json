@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "ki te depòte depi Yerouchalayim ansanm ak depòte yo ki te depòte ansanm ak Yekonya, wa Yehouda, menm nan Neboukadnetsar, wa Babilòn, ki te depòte yo a.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "te depòte"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "depi Yerouchalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "depòte yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "te depòte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm nan"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "te depòte"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Neboukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilòn"
+    }
+  ],
+  "timestamp": "2026-09-02T22:04:33.380824003Z",
+  "model": "glm-5.3"
+}

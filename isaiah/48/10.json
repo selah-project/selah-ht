@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Gade, m fin rafine ⟨ou⟩, men pa ak lajan; m chwazi ou nan fou dif mizè a.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "צְרַפְתִּיךָ",
+      "gloss": "m fin rafine ou"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "בְכָסֶף",
+      "gloss": "ak lajan"
+    },
+    {
+      "surface": "בְּחַרְתִּיךָ",
+      "gloss": "m chwazi ou"
+    },
+    {
+      "surface": "בְּכוּר",
+      "gloss": "nan fou dif"
+    },
+    {
+      "surface": "עֳנִי",
+      "gloss": "mizè a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:20.681161547Z",
+  "model": "glm-5.3"
+}

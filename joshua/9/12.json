@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Pen pa nou sa a, nou pran l kòm provizyon lè l te cho, li te soti nan kay nou, jou nou soti pou vini ba nou; epi kounye a, gade, li sèk, epi li vin an kran.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "pen pa nou"
+    },
+    {
+      "surface": "חם",
+      "gloss": "cho"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "nou pran l kòm provizyon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pen pa nou sa a"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "soti nan kay nou"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "nou soti"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou ale"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ba nou"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "epi kounye a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "li sèk"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "epi li vin"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "an kran"
+    }
+  ],
+  "timestamp": "2026-09-02T17:03:09.477712236Z",
+  "model": "glm-5.3"
+}

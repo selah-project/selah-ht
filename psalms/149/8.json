@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 149,
+  "translation": "Pou yo mare wa yo ak chèn, ak moun ki genonore yo ak chèn fè.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Pou yo mare"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ak chèn"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "ak moun ki genonore yo"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ak chèn"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:01.714417584Z",
+  "model": "glm-5.3"
+}

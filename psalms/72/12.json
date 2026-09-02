@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Paske ⟨l⟩ ap delivre pòv ki ap rele a, ak moun ki pa genyèd la.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ap delivre"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "ki ap rele"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ak moun ki pa gen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "èd"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨l⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:48.710676637Z",
+  "model": "glm-5.3"
+}

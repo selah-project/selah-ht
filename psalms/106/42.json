@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Epi ènmi yo oprese yo, epi yo soumèt anba men yo.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "epi yo oprese yo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ènmi yo"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "epi yo soumèt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "men yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:20.844424712Z",
+  "model": "glm-5.3"
+}

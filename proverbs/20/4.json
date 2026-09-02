@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Pou rezòn fredi, parese a pa labou; l ap mande nan rekòt la, epi pa gen anyen.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "depi sezon fredi"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "parese"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "labou"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "mande"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "nan rekòt la"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa gen anyen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:33.349600333Z",
+  "model": "glm-5.3"
+}

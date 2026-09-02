@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Yo te jalou Moche nan kan an, ak Aharòn, sen Yawe a.",
+  "tokens": [
+    {
+      "surface": "וַיְקַנְא֣וּ",
+      "gloss": "yo te jalou"
+    },
+    {
+      "surface": "לְמֹשֶׁ֭ה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בַּֽמַּחֲנֶ֑ה",
+      "gloss": "nan kan an"
+    },
+    {
+      "surface": "לְאַהֲרֹ֗ן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "קְד֣וֹשׁ",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:37.376536634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ⟨את⟩ po ti kabrit yo a, te mete yo sou men l yo, ak sou pa kou li ki fin nèt la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Epi ⟨את⟩",
+      "marks": "po ti kabrit yo"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "po"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "ti kabrit"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "yo"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "te mete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "men l yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "pa ... ki fin nèt"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "kou li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:25.558598642Z",
+  "model": "glm-5.3"
+}

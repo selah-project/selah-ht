@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 36:2",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Pitit gason twa ak ventan, Yehoachaz, lè l wayome; e twa mwa l wayome nan Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ak ven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "lè l wayome"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "e twa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wayome"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:38:43.152034601Z",
+  "model": "glm-5.3"
+}

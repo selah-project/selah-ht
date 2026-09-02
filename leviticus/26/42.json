@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "M ap sonje ⟨את⟩ alians mwen ak Yaakov, e menm ⟨את⟩ alians mwen ak Yitshak, e menm ⟨את⟩ alians mwen ak Avraham m ap sonje l, e tè a m ap sonje l.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "m ap sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alians mwen ak Yaakov"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alians mwen"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alians mwen ak Yitshak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alians mwen"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alians mwen ak Avraham"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alians mwen"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "m ap sonje"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e tè a"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "m ap sonje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:20.268440703Z",
+  "model": "glm-5.3"
+}

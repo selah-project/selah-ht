@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Men se sèlman ⟨את⟩ Yawe — ki te moute ⟨את⟩ nou soti nan peyi Mitsrayim ak yon fòs gran ak yon bra longe — ⟨את⟩ li nou dwe pè; pou li nou dwe pwostnen devan; e pou li nou dwe sakrifye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "te moute"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ak fòs"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ak bra"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "longe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nou dwe pè"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "e pou li"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "nou dwe pwostnen devan"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "e pou li"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "nou dwe sakrifye"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:12.325529323Z",
+  "model": "glm-5.3"
+}

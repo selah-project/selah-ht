@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E fondasyon an te fèt ak wòch ki gen pri, wòch gwo — wòch ki gen dis kibè ak wòch ki gen uit kibè.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "E fondasyon"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "an te fèt ak wòch"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ki gen pri"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "wòch ki gen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kibè"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ak wòch ki gen"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "uit"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kibè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:50.456844272Z",
+  "model": "glm-5.3"
+}

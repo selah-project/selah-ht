@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Wa Mitsrayim la di yo: Poukisa Moche ak Aharòn, nou detache ⟨את⟩ pèp la nan travay li? Ale nan chay nou yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bay yo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ak Aharòn"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "nou detache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "nan travay li"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "nan chay nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:42:02.720364362Z",
+  "model": "glm-5.3"
+}

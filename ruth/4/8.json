@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E goèl la a di a Boaz: Achte l pou ou. E li tire sandal li.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "goèl la a"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "a Boaz"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Achte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "E li tire"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "sandal li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:36.129858332Z",
+  "model": "glm-5.3"
+}

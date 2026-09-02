@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E l kraze ⟨את⟩ kay kadech yo (moun ki konsakre tèt yo pou sèvis tanp peyèn an) ki te nan kay Yawe a, kote fanm yo te tise kay la pou Achera a.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay kadech yo"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kadech yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "fanm yo"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "tise"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "pou Achera a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:20:22.870725108Z",
+  "model": "glm-5.3"
+}

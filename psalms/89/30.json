@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "E m ap fè desandan l ⟨ap⟩ dire pou toutjou, ak chèz l tankou jou yo ke syèl yo dire.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "E m ap fè"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou toutjou"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "desandan l"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ak chèz l"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "tankou jou yo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:41.711266776Z",
+  "model": "glm-5.3"
+}

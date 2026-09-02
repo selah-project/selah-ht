@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E Aharòn ak pitit li yo ap manje ⟨את⟩ vyann belyo a ak ⟨את⟩ pen ki nan panyen an, devan pòt tant reyinyon an.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "E manje"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ak pitit li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyann belyo a"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "belyo a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pen ki nan panyen an"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "nan panyen an"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "devan pòt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:49.711665150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Ou fè konesans m yo lwen de m; ou mete m kòm yon abominasyon pou yo; m fèmen, e m pa ⟨ka⟩ soti.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "fè lwen"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "konesans m yo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de m"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "ou mete m"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "abominasyon"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "soti"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:42.928091671Z",
+  "model": "glm-5.3"
+}

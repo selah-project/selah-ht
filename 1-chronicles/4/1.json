@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pitit Yehouda yo ⟨se⟩ Perets, Hetsron, Karmi, Hor, ak Chobal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ak Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ak Hor"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ak Chobal"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:56.875116743Z",
+  "model": "glm-5.3"
+}

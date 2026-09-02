@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E ou pran ⟨את⟩ belyo konsekrasyon an, e ou kwit ⟨את⟩ vyann l nan yon kote sen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E ⟨את⟩",
+      "marks": "belyo konsekrasyon an"
+    },
+    {
+      "surface": "איל",
+      "gloss": "belyo"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "konsekrasyon an"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "e kwit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyann l"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "vyann l"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "nan yon kote"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:49.711499054Z",
+  "model": "glm-5.3"
+}

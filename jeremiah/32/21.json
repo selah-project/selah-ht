@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Ou fè ⟨את⟩ pèp ou a — ⟨את⟩ Yisrael — soti nan peyi Mitsrayim, ak siy, ak mirak, ak yon men fò, ak yon bra depliye, ak yon gwo pè.",
+  "tokens": [
+    {
+      "surface": "ותציא",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp ou a"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "ak siy"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "ak mirak"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ak yon men"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fò"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "ak yon bra"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "depliye"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "ak yon pè"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:01:53.780584640Z",
+  "model": "glm-5.3"
+}

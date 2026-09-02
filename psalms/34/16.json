@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Zye Yawe ⟨yon⟩ bò kote moun ki jis yo, ak zòrèy l ⟨yon⟩ bò kote kri yo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Zye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨yon⟩ bò kote"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun ki jis yo"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ak zòrèy l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨yon⟩ bò kote"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:33.501693236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "ak ⟨את⟩ Hivit la, ak ⟨את⟩ Arkit la, ak ⟨את⟩ Sinit la,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Hivit la"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivit la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Arkit la"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkit la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Sinit la"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinit la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:08.294173960Z",
+  "model": "glm-5.3"
+}

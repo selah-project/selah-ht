@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Yo antoure m tankou abèy yo; yo etenn tankou dife epèn yo; nan Non Yawe m ap koupe yo.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "yo antoure m"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "tankou abèy yo"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "yo etenn"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "tankou dife"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "epèn yo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ap"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "koupe yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:42.603210731Z",
+  "model": "glm-5.3"
+}

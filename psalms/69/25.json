@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Vèse kòlè ou a sou yo, e fè fureur nen ou an rive pran yo.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Vèse"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kòlè ou"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "e fureur"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nen ou"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "rive pran yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:56.771704630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Elohim pale nan senkteman ⟨li⟩; m ap rejwi, m ap patisipe Chekèm, ak m ap mezire val Soukot a.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "nan senkteman li"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "m ap rejwi"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "m ap patisipe"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekèm"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ak val"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Soukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "m ap mezire"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.833029505Z",
+  "model": "glm-5.3"
+}

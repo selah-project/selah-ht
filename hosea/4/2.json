@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Madichon, ak manti, ak asasina, ak vòlè, ak adiltè — yo debòde, ak san ap touche sou san.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Madichon"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ak manti"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ak asasina"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ak vòlè"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "ak adiltè"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "yo debòde"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "sou san"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "ap touche"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:51.719989899Z",
+  "model": "glm-5.3"
+}

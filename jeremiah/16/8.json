@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi pa antre nan kay fèt la pou chita avèk ⟨את⟩ yo, pou manje ak pou bwè.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "epi kay"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "fèt (bwè)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pou chita"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pou manje"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ak pou bwè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:52:06.683419933Z",
+  "model": "glm-5.3"
+}

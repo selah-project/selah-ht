@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Moche voye ⟨את⟩ bopè l ale, epi l ale tounen nan peyi l.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye ale"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopè l"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "bopè l"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "epi l ale"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "peyi l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:40.520799691Z",
+  "model": "glm-5.3"
+}

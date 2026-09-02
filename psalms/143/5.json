@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 143,
+  "translation": "Mwen sonje jou sotan nan; mwen medite sou tout aksyon ⟨את⟩ ou yo; sou travay men ou yo mwen reflechi.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Mwen sonje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sotan nan"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "mwen medite"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sou tout"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "aksyon ou yo"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "sou travay"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "men ou yo"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "mwen reflechi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:45.850598309Z",
+  "model": "glm-5.3"
+}

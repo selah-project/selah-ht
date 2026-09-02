@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pou yo kwè ke Yawe, Elohim zansèt yo a, Elohim Avraham, Elohim Yitshak, ak Elohim Yaakov, parèt ba ou.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "yo kwè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "parèt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "zansèt yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ak Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:23.261416757Z",
+  "model": "glm-5.3"
+}

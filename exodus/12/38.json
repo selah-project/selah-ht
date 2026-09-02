@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi yon gran melanj moun monte ⟨את⟩ avèk yo, epi mouton ak bèf — bèt ki gen pwa, twòp twòp.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "epi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "melanj moun"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gran"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ avèk yo"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "epi mouton"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ak bèf"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ki gen pwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "twòp twòp"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:33.380307942Z",
+  "model": "glm-5.3"
+}

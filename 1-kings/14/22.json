@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E Yehouda fè ⟨la⟩ mal devan je Yawe, e yo fè l jalouz ⟨את⟩ l pase tout sa ke perè yo ⟨te⟩ fè, nan peche yo ke yo peche.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "fè l jalouz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "tout sa perè yo te fè"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pase tout sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "perè yo"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "nan peche yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "peche"
+    }
+  ],
+  "timestamp": "2026-09-02T21:51:36.484019416Z",
+  "model": "glm-5.3"
+}

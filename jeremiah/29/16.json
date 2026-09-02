@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 29:16",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Paske konsa Yawe di, sou wa a k ap chita sou chèz David, ak sou tout pèp la k ap abite nan vil sa a — frè nou yo, yo menm ki pa soti ⟨את⟩ ak nou nan egzil la:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "k ap chita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chèz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "k ap abite"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frè nou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ak nou"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "nan egzil"
+    }
+  ],
+  "timestamp": "2026-09-02T19:00:06.956557410Z",
+  "model": "glm-5.3"
+}

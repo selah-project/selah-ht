@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 31:20",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "si reyòn l pa beni m, e si l pa chofe tèt li ak lasaj mouton m yo —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ברכוני",
+      "gloss": "reyòn l beni m"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "reyòn l"
+    },
+    {
+      "surface": "ומגז",
+      "gloss": "epi ak lasaj"
+    },
+    {
+      "surface": "כבשי",
+      "gloss": "mouton m yo"
+    },
+    {
+      "surface": "יתחמם",
+      "gloss": "l chofe tèt li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:40:51.174381011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Bèl-papa Moche a di ak li: sa w ap fè a, li pa bon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "bèl-papa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "w"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ap fè"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:51.016114885Z",
+  "model": "glm-5.3"
+}

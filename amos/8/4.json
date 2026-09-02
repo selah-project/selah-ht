@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Tande sa, nou ki ap vale pòv yo, fè pòv ki nan peyi a disparèt!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Tande"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "nou ki ap vale"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "pòv yo"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "fè ... disparèt"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nan peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:38:10.406519222Z",
+  "model": "glm-5.3"
+}

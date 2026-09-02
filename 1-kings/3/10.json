@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Pawòl la byen an je Adònay, paske Chelomo te mande pawòl sa a.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "an je"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "te mande"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl sa a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:02.850472288Z",
+  "model": "glm-5.3"
+}

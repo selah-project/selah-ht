@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Si Yawe pa t ap ède m, nanm m ta te piti te kite rete nan silence ⟨את⟩ dòmilans.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Si ... pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "te ap ède"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ta piti"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "te kite rete"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "nan silans"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:14.397039203Z",
+  "model": "glm-5.3"
+}

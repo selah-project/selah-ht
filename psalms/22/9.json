@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Roule sou Yawe, l ap delivre l, l ap sove l, paske l kontan avè l.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Roule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "l ap delivre l"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "l ap sove l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "l kontan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "avè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:45.468329740Z",
+  "model": "glm-5.3"
+}

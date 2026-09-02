@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "E nou menm, nou konnen ke ak tout fòs mwen m te sèvi ⟨את⟩ papa nou.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "e nou menm"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "nou konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fòs mwen"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "m te sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa nou"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "papa nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:31.706519662Z",
+  "model": "glm-5.3"
+}

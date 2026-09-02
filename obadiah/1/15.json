@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Paske jou Yawe ⟨a⟩ prese sou tout nasyon yo: jan ou fè a, l ap fèt pou ou; rekonpans ou a ap tounen sou tèt ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "prese"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "l ap fèt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "rekonpans ou"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ap tounen"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "sou tèt ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:38:52.448932904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Yo pa ap grangou, ni pa ap swaf; ni chalè ni solèy pa ap frape yo: paske moun ki gen pitye pou yo ap gide yo, e li ap mennen yo bò sous dlo yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "yo ap grangou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "yo ap swaf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "ap frape yo"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "chalè"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ni solèy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "moun ki gen pitye pou yo"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "ap gide yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e bò"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "sous"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "ap mennen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:44.767550832Z",
+  "model": "glm-5.3"
+}

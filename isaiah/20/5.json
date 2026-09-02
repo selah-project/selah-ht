@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Yo pral demanti epi yo pral wont de Kouch, espwa yo a, e de Mitsrayim, glwa yo a.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "Yo pral demanti"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "yo pral wont"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "de Kouch"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "espwa yo a"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "glwa yo a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:22.680780404Z",
+  "model": "glm-5.3"
+}

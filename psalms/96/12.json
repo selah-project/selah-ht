@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Champ la ap sote lajwa, ak tout sa ki ladan l; lè sa a, tout pyebwa fòtè a ap chante lajwa.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "ap sote lajwa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "champ la"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "אז",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ap chante lajwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "pyebwa"
+    },
+    {
+      "surface": "יער",
+      "gloss": "fòtè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:56.254033967Z",
+  "model": "glm-5.3"
+}

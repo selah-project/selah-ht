@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Paske li fè sepan pòt ⟨ou⟩ yo solid; li beni pitit ⟨ou⟩ yo andedan ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "fè solid"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "sepan"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "pòt ou yo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "andedan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:40.277803547Z",
+  "model": "glm-5.3"
+}

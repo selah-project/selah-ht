@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Fòs Paro a ap vin pou ou vin yon wont, e abri anba lonbraj Mitsrayim la ap vin pou ou vin yon dezonnèt.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "yon wont"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "e abri"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "anba lonbraj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "yon dezonnèt"
+    }
+  ],
+  "timestamp": "2026-09-02T18:33:05.128422543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Menm jan tou li fè pou pòtay kay la ann andedan ⟨⟨את⟩⟩ poto yo, bwa lwil oliv, yon katriyèm pati.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "menm jan tou"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pou pòtay"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "kay la ann andedan"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "poto yo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil oliv"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "poto yo"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "katriyèm pati"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:09.798686422Z",
+  "model": "glm-5.3"
+}

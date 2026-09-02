@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 8:6",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi pami pitit Adin, Eved pitit Yonatan, epi avè l senkant gason yo.",
+  "tokens": [
+    {
+      "surface": "וּמִבְּנֵ֣י",
+      "gloss": "Epi pami pitit"
+    },
+    {
+      "surface": "עָדִ֔ין",
+      "gloss": "Adin"
+    },
+    {
+      "surface": "עֶ֖בֶד",
+      "gloss": "Eved"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יוֹנָתָ֑ן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "וְעִמּ֖וֹ",
+      "gloss": "epi avè l"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "הַזְּכָרִֽים",
+      "gloss": "gason yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:05:37.147284974Z",
+  "model": "glm-5.3"
+}

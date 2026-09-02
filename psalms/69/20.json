@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Ou konnen wont mwen, ak wont map santi m an, ak disgras mwen; devan ou ⟨ye⟩ tout moun ki ap fwonte m yo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "wont mwen"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "ak wont map santi m an"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "ak disgras mwen"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "moun ki ap fwonte m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:07.782959760Z",
+  "model": "glm-5.3"
+}

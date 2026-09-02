@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Adònay mwen an mande ⟨את⟩ esklav li yo, lè l di: Èske nou gen yon papa, oswa yon frè?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adònay mwen an"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "mande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esklav li yo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "esklav li yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lè l di"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Èske… gen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "אב",
+      "gloss": "yon papa"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "אח",
+      "gloss": "yon frè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:41.855066371Z",
+  "model": "glm-5.3"
+}

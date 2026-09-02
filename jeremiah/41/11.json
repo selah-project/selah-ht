@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 41:11",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Lè sa a Yochanan, pitit Kareach, ak tout chèf lame yo ki te ⟨את⟩ ak li, tande ⟨את⟩ tout mal la ke Yichmael, pitit Netanyahou, te fè —",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareach"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "lame yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ak li",
+      "marks": "H854 'ak li', se pa mak את la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout mal la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mal la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yichmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanyahou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:03:55.808225163Z",
+  "model": "glm-5.3"
+}

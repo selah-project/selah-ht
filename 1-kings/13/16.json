@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E li di: M pa ka tounen ak ou ⟨את⟩, ni antre ak ou ⟨את⟩; m p ap manje pen, ni bwe dlo ak ou ⟨את⟩ nan kote sa a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "M ka"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ak ou ⟨את⟩"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ni antre"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ak ou ⟨את⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "bwe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ak ou ⟨את⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:42.218538875Z",
+  "model": "glm-5.3"
+}

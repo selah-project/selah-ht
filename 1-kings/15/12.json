@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E l fè pwostitiye sakre yo soti ⟨nan⟩ peyi a, e l retire ⟨את⟩ tout zidòl yo ke zansèt l yo te fè.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "E l fè pase"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pwostitiye sakre yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "e l retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout zidòl yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "zidòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:02:53.398241432Z",
+  "model": "glm-5.3"
+}

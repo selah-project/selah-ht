@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "David kanpe e li pase, li menm ak sis san gason ki te ak li, al jwenn Akich, pitit Mawokh, wa nan Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ak sis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "te ak li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al jwenn"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akich"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Mawokh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:06.307341636Z",
+  "model": "glm-5.3"
+}

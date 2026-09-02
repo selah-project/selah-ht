@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Yon jenerasyon ki madifou papa l, e ki pa beni ⟨את⟩ manman l.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "yon jenerasyon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "madifou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e ki pa beni",
+      "marks": "manman l"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "beni"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:50.143479852Z",
+  "model": "glm-5.3"
+}

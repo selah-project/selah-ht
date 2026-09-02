@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Kriye ak vwa ou, fi Galim! Ekoute, Layicha! O pòv ⟨pwòp⟩ Anatot!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "kriye"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ak vwa ou"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fi"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Galim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "ekoute"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Layicha"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:01.738193521Z",
+  "model": "glm-5.3"
+}

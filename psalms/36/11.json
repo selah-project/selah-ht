@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Etann hesed ou (kè a nan bontè ou) sou moun ki konnen ou, ak jistis ou sou moun ki gen kè dwat.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "etann"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "sou moun ki konnen ou"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ak jistis ou"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "sou moun ki gen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè dwat"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:44.015389712Z",
+  "model": "glm-5.3"
+}

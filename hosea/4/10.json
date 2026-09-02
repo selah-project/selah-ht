@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi yo ap manje epi pa yo ap satisfè; yo fònikasyone epi pa yo ap miltipliye; paske yo te abandone ⟨את⟩ Yawe, pou pa kenbe ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "epi yo ap manje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "yo ap satisfè"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "yo fònikasyone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "yo ap miltipliye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "yo te abandone"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pou kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:31:58.079288844Z",
+  "model": "glm-5.3"
+}

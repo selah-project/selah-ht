@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E mwen ap kanpe ⟨את⟩ alyans mwen ⟨את⟩ ak nou: tout vyann pap gen pou yo koupe ankò ak dlo delij la, e pap gen delij ankò pou detwi tè a.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "E mwen ap kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alyans mwen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alyans mwen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ak nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ap koupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "delij la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap genyen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "delij"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "pou detwi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:33.692291270Z",
+  "model": "glm-5.3"
+}

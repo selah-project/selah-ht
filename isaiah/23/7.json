@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Èske ⟨sa⟩ ⟨se⟩ sa pou nou, ⟨vil⟩ ki t ap rejwi, ⟨yon vil⟩ ki gen antikite depi jou ansyen? Se pye l yo menm ki pote l ale byen lwen pou l al viv kòm etranje.",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "ki t ap rejwi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "depi jou"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ansyen"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "antikite l"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "yo pote l"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "pye l yo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "byen lwen"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "pou l al viv kòm etranje"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:16.588813969Z",
+  "model": "glm-5.3"
+}

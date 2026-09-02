@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Grangou menm swaf, nefech yo nan yo vini fayib.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Grangou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "swaf"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefech yo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "vini fayib"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:05.302446946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Peche jènès mwen yo ak rebelyon mwen yo, pa sonje yo; dapre hesed ou, ou menm, sonje mwen, pou byen ou, Yawe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "peche"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "jènès mwen"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "ak rebelyon mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "dapre hesed ou"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "byen ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:13.290273449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E pòsyon l, yon pòsyon san rete, te bay ba li nan men ⟨את⟩ wa a, yon kantite pou chak jou, tout jou lavi l.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "pòsyon l"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "pòsyon"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "san rete"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nan men ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kantite"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "pou chak jou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "lavi l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:20:58.402133306Z",
+  "model": "glm-5.3"
+}

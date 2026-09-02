@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Moun ki konte yo nan tribi Chimòn ⟨se⟩ nèf ak senkant mil ⟨ak⟩ twasan.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "moun ki konte yo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "nan tribi"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimòn"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ak senkant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "⟨ak⟩ twa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:54.827266077Z",
+  "model": "glm-5.3"
+}

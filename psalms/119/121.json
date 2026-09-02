@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen fè jijman ak jistis; pa kite mwen pou moun k ap aprese mwen yo.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Mwen fè"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ak jistis"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "kite mwen"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "pou moun k ap aprese mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:18.778816214Z",
+  "model": "glm-5.3"
+}

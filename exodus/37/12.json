@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi li fè pou li yon bò yon men gwo toutou bò, epi li fè yon bòdè lò pou bò a toutou bò.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "bò"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "yon men gwo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutou bò"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "זר",
+      "gloss": "bòdè"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "pou bò a"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutou bò"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:02.461152258Z",
+  "model": "glm-5.3"
+}

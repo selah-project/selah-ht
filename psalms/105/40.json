@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Yo te mande, e li te pote kalyat, e pen syèl la fè yo byen satisfè.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "te mande"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e li te pote"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "kalyat"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "e pen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "fè yo byen satisfè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:01.503146379Z",
+  "model": "glm-5.3"
+}

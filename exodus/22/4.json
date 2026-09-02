@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si yon moun fè graze yon jaden oswa yon vinyon, epi li lage ⟨את⟩ bèt li epi bèt la graze nan jaden yon lòt, pi bon jaden l a ak pi bon vinyon l a l ap remèt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "fè graze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "jaden"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinyon"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "epi li lage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèt li"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "bèt li"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "epi bèt la graze"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yon lòt"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "pi bon"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "jaden l"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "ak pi bon"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "vinyon l"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "l ap remèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:44.659082477Z",
+  "model": "glm-5.3"
+}

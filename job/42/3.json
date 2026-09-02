@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Kiyès moun sa a ki kache konsèy san konesans ? Se poutèt sa mwen te pale, e mwen pa t konprann ; bagay ki tonbe de wò dwat pou mwen, e mwen pa t konnen yo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "זה",
+      "gloss": "moun sa a"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ki kache"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "konsèy"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "san"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "se poutèt sa"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "mwen te pale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ep mwen pa t"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "bagay ki tonbe de wò dwat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ep mwen pa t"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "konnen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:00.841253604Z",
+  "model": "glm-5.3"
+}

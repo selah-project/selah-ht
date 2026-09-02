@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Epi Esav rete nan mòn Seir la; Esav sa a se Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "epi l rete"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir la"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:53.530907414Z",
+  "model": "glm-5.3"
+}

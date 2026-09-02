@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Ou vize tè a epi ou fwite l; anpil ou fè l rich; kanal Elohim la plen dlo; ou pare grenn yo, paske se konsa ou pare ⟨tè a⟩.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "ou vize"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "epi ou fwite l"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "ou fè l rich"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ou pare"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "grenn yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "ou pare l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:31.966295536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi pitit Reuvèn bati ⟨את⟩ Hechbon, ak ⟨את⟩ Elalè, ak ⟨את⟩ Kiryatim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Epi pitit"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvèn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hechbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hechbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Elalè"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elalè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Kiryatim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryatim"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:16.367061132Z",
+  "model": "glm-5.3"
+}

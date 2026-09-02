@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Sa ki deyò sa m wè a, se ou ki dwe montre m; si m fè ⟨movè⟩, m pap ajoute l ankò.",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "sa ki deyò"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "m wè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "ki dwe montre m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "עול",
+      "gloss": "movè"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "m fè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ap ajoute ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:42:14.336174627Z",
+  "model": "glm-5.3"
+}

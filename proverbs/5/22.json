@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Fot li yo pran ⟨את⟩ mechan nan, e ak kòd peche l yo kenbe l.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "fot li yo"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mechan nan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mechan nan"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "e ak kòd"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "peche l"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "kenbe l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:21.285422200Z",
+  "model": "glm-5.3"
+}

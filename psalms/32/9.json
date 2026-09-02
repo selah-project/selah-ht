@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Pa tankou chval la, pa tankou milèt la, ki pa gen konpreyonsyon, ak mòd ak les kòm parèy ajisteman pou kenbe yo, pou yo pa vini pre ou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "chval la"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "milèt la"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "konpreyonsyon"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "ak mòd"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "ak les"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "parèy ajisteman yo"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "pou kenbe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "vini pre"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:28.996613352Z",
+  "model": "glm-5.3"
+}

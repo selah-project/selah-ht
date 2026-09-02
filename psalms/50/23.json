@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Moun ki sakrifiye gras lonè m, e moun ki mete wout li dwat, mwen pral montre li delivrans Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ki sakrifiye"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "gras"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "lonè m"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e ki mete"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "wout la"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "mwen pral montre li"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "delivrans nan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:37.471110634Z",
+  "model": "glm-5.3"
+}

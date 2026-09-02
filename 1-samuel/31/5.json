@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Lè pòtay zam li a wè ke Chaoul mouri, li menm tou tonbe sou epe li, epi li mouri ansanm ak li.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pòtay zam"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zam li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "epe li"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ansanm ak li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:41:14.364568448Z",
+  "model": "glm-5.3"
+}

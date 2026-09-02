@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Mwen tann tèt mwen, mwen pa louvri bouch m, paske se ⟨ou⟩ ki fè l.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "tann tèt mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "louvre"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "fè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:18.693427936Z",
+  "model": "glm-5.3"
+}

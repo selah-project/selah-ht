@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi David pran plis fanm nan Yerouchalayim, epi David fè plis pitit gason ak pitit fi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plis"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plis"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ak pitit fi"
+    }
+  ],
+  "timestamp": "2026-09-02T21:18:48.796737789Z",
+  "model": "glm-5.3"
+}

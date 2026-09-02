@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Gade, li frape wòch la epi dlo koule, rivyè yo debòde — èske li ka bay pen tou? Èske li ka prepare vyann pou pèp li?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "gade"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "li frape"
+    },
+    {
+      "surface": "צור",
+      "gloss": "wòch la"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "epi yo koule"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ak rivyè"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "yo debòde"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "èske tou"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "li ka"
+    },
+    {
+      "surface": "תת",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "èske"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "pou pèp li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:45.473080161Z",
+  "model": "glm-5.3"
+}

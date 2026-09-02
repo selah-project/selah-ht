@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Ou mete m nan fon trou a, nan fenwa yo, nan gwo fon dlo yo.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "ou mete m"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "nan trou"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "fon"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "nan fenwa yo"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "nan gwo fon dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:36.716820192Z",
+  "model": "glm-5.3"
+}

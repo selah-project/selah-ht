@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Epi ou pa rele ⟨את⟩ mwen, o Yaakov, paske ou fatige de mwen, o Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi ou pa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "ou rele mwen"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "rele"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ou fatige"
+    },
+    {
+      "surface": "בי",
+      "gloss": "de mwen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:43.473598909Z",
+  "model": "glm-5.3"
+}

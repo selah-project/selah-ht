@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pran pou nou nan pèp la de-dis gason, yon nonm en, yon nonm en, chak branch.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "gason"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "chak branch"
+    }
+  ],
+  "timestamp": "2026-09-02T17:00:30.663879695Z",
+  "model": "glm-5.3"
+}

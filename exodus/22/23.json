@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Kòlè m ap boule, e m ap touye ⟨את⟩ nou ak epe, e madanm nou yo ap vin vevv, pitit nou yo ap vin òfelen.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "ap boule"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "kòlè m"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "e m ap touye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ak epe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "madanm nou yo"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "vevv"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "pitit nou yo"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "òfelen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:26.673467974Z",
+  "model": "glm-5.3"
+}

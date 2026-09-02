@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi ⟨את⟩ Aharòn ak ⟨את⟩ pitit gason l ou ap endwi ak lwil, e ou ap konsakre ⟨את⟩ yo pou yo sèvi kòm prèt pou mwen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "Aharòn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit gason l"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ou ap endwi ak lwil"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ou ap konsakre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pou sèvi kòm prèt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:52.100003933Z",
+  "model": "glm-5.3"
+}

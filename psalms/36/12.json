@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Pa kite pye ògèy vini sou mwen, ni men moun ki mal fè yo pa kite l frape mwen de kote.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa kite"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "vini sou mwen"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pye"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ògèy"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ni men"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun ki mal fè yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa kite"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "frape mwen de kote"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:44.015603095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Pa maletrete yon moun ⟨את⟩ konpayon l, epi pè Elohim ou a; paske se mwen Yawe, Elohim nou yo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "maletrete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konpayon l"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "konpayon l"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "epi pè"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:25.572281741Z",
+  "model": "glm-5.3"
+}

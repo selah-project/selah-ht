@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Tout jou ⟨l⟩ ap lanvie san fen, men jis la bay e ⟨li⟩ pa kenbe anyen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ap lanvie"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "lanvi"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "men jis la"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "kenbe anyen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:15.065368865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Mwen te gen lafwa, se poutèt sa m pale — mwen te soufrans anpil.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "mwen te gen lafwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se poutèt sa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "m pale"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "mwen te soufrans"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:30.830590537Z",
+  "model": "glm-5.3"
+}

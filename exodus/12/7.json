@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E yo pran nan san an, e yo mete l sou de poto yo ak sou lantèl la, sou kay yo kote yo ap manje ⟨את⟩ l nan yo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "e yo pran"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "san an"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "e yo mete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "poto yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "lantèl la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "kay yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yo ap manje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (bèt la)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:47.620802092Z",
+  "model": "glm-5.3"
+}

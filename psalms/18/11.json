@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Li monte sou yon kerub epi vole; li plan sou zèl van an.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "epi monte cheval"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "epi vole"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "epi plan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "zèl"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:39.240914439Z",
+  "model": "glm-5.3"
+}

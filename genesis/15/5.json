@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 15:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E li pote ⟨את⟩ l deyò, e li di: Gade kounye a bò syèl yo, e konte zetwal yo, si ou kapab konte yo. E li di li: Konsa pitit ou pral ye.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "e li pote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "non ebre a — pwonon objè, se pa mak ⟨את⟩"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "gade"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "bò syèl yo"
+    },
+    {
+      "surface": "וספר",
+      "gloss": "e konte"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "zetwal yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ou kapab"
+    },
+    {
+      "surface": "לספור",
+      "gloss": "pou konte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "zetwal yo — pwonon objè, se pa mak ⟨את⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "כה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "pral ye"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pitit ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:49.331520062Z",
+  "model": "glm-5.3"
+}

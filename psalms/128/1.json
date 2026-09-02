@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 128,
+  "translation": "Chante ⟨pou⟩ Monté yo. Kè kontan pou tout moun ki pè Yawe, moun ki mache nan chemen ⟨li⟩ yo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Monté yo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Kè kontan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout moun"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ki pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "moun ki mache"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "nan chemen li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:08.605314007Z",
+  "model": "glm-5.3"
+}

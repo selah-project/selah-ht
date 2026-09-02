@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Li fè de kerubim an lò — travay marte li fè ⟨את⟩ yo — nan de bout kapporet la.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "travay marte"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (kerubim yo)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "nan de"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "bout"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:57.968641990Z",
+  "model": "glm-5.3"
+}

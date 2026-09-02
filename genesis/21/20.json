@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Elohim te ak ti gason an, e l grandi, e l rete nan dezè a, e l te vin chasè ak.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ak"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti gason an"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rete"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "te vin"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ap grandi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "chasè ak"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:15.949880653Z",
+  "model": "glm-5.3"
+}

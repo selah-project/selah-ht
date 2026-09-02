@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Chèche Yawe ak fòs l; rechèche vizaj li toutan.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "chèche (nan lapriyè)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ak fòs l"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "rechèche"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "vizaj l"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:41.092193872Z",
+  "model": "glm-5.3"
+}

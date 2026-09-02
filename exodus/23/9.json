@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi ou pa dwe opwime etranje a, paske ou konnen ⟨את⟩ nanm etranje a — paske ou te ye etranje nan tè Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Epi etranje a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "opwime"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanm etranje a"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nanm"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "etranje a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ou te ye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:41.498108129Z",
+  "model": "glm-5.3"
+}

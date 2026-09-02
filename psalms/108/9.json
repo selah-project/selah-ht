@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Gilad pa m, Menache pa m, ak Efrayim fòtès tèt mwen, Yehouda lotè mwen.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "pa m"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pa m"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ak Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fòtès"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt mwen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "lotè mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:42.768330920Z",
+  "model": "glm-5.3"
+}

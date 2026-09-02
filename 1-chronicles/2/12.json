@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Boaz fè ⟨את⟩ Oved, epi Oved fè ⟨את⟩ Yichay.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Epi Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "epi Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yichay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yichay"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:17.597211753Z",
+  "model": "glm-5.3"
+}

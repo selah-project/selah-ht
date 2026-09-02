@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Paske si ou refize voye yo ale, epi ou kenbe yo anko,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refize"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "pou voye ... ale"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "epi ou anko"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:38.454530425Z",
+  "model": "glm-5.3"
+}

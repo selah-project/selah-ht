@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Yo antoure mwen kou dlo, tout jounen an; yo fèmen sou mwen ansanm.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "antoure mwen"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kou dlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jounen an"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "fèmen sou"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:39.354361149Z",
+  "model": "glm-5.3"
+}

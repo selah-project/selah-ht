@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "wa ki sou tè a ak tout nasyon yo, prens ak tout jij ki sou tè a,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ki sou tè a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "prens"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ki sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:04.697194845Z",
+  "model": "glm-5.3"
+}

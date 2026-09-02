@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 141,
+  "translation": "Moun jis la ap frape m avèk hesed (lanmou leyal), epi l ap kandrese m — lwil sou tèt — tèt mwen pa ap refize l, paske priyè mwen toujou la nan move zèv yo.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ap frape m"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis la"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "epi kandrese m"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יני",
+      "gloss": "refize"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "priyè mwen"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "nan move zèv yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:28.134923509Z",
+  "model": "glm-5.3"
+}

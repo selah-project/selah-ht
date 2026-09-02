@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Li fè yon pitit gason, e li rele ⟨את⟩ non l Gerchom, paske li di: etranje mwen te ye, nan yon tè etranj.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerchom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "גר",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mwen te ye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "etranj"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:46.798308932Z",
+  "model": "glm-5.3"
+}

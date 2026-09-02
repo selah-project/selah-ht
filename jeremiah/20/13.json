@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Chante pou Yawe, fè lwanj pou ⟨את⟩ Yawe, paske l te sove ⟨את⟩ nanm pov la nan men moun ki fè mal yo.",
+  "tokens": [
+    {
+      "surface": "שִׁירוּ",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "הַלְלוּ",
+      "gloss": "fè lwanj pou"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הִצִּיל",
+      "gloss": "te sove"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nanm pov la"
+    },
+    {
+      "surface": "נֶפֶשׁ",
+      "gloss": "nanm"
+    },
+    {
+      "surface": "אֶבְיוֹן",
+      "gloss": "pov la"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "מְרֵעִים",
+      "gloss": "moun ki fè mal yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:53:57.090742857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E Aharòn leve ⟨את⟩ men l sou pèp la, li beni yo, epi li desann apre li fin fè ofann peche a, ofann boule a, ak ofann lapè yo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "leve"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "beni yo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "fè"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofann peche a"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ofann boule a"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ofann lapè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:12.568691951Z",
+  "model": "glm-5.3"
+}

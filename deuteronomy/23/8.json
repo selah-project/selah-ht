@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pa gen egzèkran pou Edomiten an, paske se frè ou li ⟨ye⟩; pa gen egzèkran pou Mitsrayisyen an, paske ou te viv kòm etranje nan peyi l.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "gen egzèkran pou"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomiten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "gen egzèkran pou"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrayisyen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גר",
+      "gloss": "kòm etranje"
+    },
+    {
+      "surface": "היית",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "nan peyi l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:28.604354735Z",
+  "model": "glm-5.3"
+}

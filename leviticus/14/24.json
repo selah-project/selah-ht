@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E kohen nan pran ⟨את⟩ ti mouton achom la ak ⟨את⟩ log lwil la, e kohen nan ap sache ⟨את⟩ yo kòm yon tanoufa devan Yawe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "E ... pran"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mouton achom la"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ti mouton"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "achom la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "log lwil la"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lwil la"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "e ... ap sache"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (mouton an ak lwil la)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kòm yon tanoufa (ofrand sache)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:24.725854918Z",
+  "model": "glm-5.3"
+}

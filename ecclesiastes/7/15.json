@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "⟨את⟩ tout sa mwen te wè nan jou vanyan mwen yo: genyen yon moun jis ki pèdi nan jistis li, e genyen yon mechan ki lanje lavi nan mechanste li.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout sa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mwen te wè"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "vanyan mwen yo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "genyen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yon moun jis"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ki pèdi"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "nan jistis li"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "e genyen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yon mechan"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "ki lanje lavi"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "nan mechanste li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:36.524335729Z",
+  "model": "glm-5.3"
+}

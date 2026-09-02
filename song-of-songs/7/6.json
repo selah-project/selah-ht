@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Tèt ou sou ou tankou Karmèl, cheve ki pann ak tèt ou tankou mov; wa a ⟨se⟩ yon moun ki kenbe nan kouran cheve yo.",
+  "tokens": [
+    {
+      "surface": "ראשך",
+      "gloss": "Tèt ou"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "ככרמל",
+      "gloss": "tankou Karmèl"
+    },
+    {
+      "surface": "ודלת",
+      "gloss": "ak cheve ki pann"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tèt ou"
+    },
+    {
+      "surface": "כארגמן",
+      "gloss": "tankou mov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "ki kenbe"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "nan kouran cheve yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:11.650363788Z",
+  "model": "glm-5.3"
+}

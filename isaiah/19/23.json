@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Nan jou sa a ap gen yon gwo wout soti nan Mitsrayim pou al Achour, e Achour ap antre nan Mitsrayim, e Mitsrayim nan Achour, e Mitsrayim ap sèvi ansanm avèk ⟨את⟩ Achour.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap gen"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "gwo wout"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti Mitsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "pou al Achour"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e ap antre"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "e Mitsrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "nan Achour"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "e ap sèvi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achour"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:38.065799126Z",
+  "model": "glm-5.3"
+}

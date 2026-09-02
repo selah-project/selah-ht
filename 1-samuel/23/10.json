@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E David di: Yawe, Elohim Izrayèl la, sèvant ou a tande toutouni ke Chaoul ap chèche vini nan Keyila pou detwi lavil la pou rezon mwen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E David di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl la"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "toutouni"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ap chèche"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keyila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "pou detwi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "pou rezon mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:57.367978941Z",
+  "model": "glm-5.3"
+}

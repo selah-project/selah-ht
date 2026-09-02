@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Moun ki detounen zòrèy li pou l pa tande Tora a, menm lapriyè l se yon bagay degoizan.",
+  "tokens": [
+    {
+      "surface": "מֵסִיר",
+      "gloss": "detounen"
+    },
+    {
+      "surface": "אָזְנוֹ",
+      "gloss": "zòrèy li"
+    },
+    {
+      "surface": "מִשְּׁמֹעַ",
+      "gloss": "pou tande"
+    },
+    {
+      "surface": "תּוֹרָה",
+      "gloss": "Tora a"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "תְּפִלָּתוֹ",
+      "gloss": "lapriyè l"
+    },
+    {
+      "surface": "תּוֹעֵבָה",
+      "gloss": "degoizan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:34.822851372Z",
+  "model": "glm-5.3"
+}

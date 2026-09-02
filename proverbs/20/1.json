@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Diven se yon ⟨moker⟩, bwason ki grise fè dezòd; epi tout moun ki egare nan li pa vin saj.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "moker"
+    },
+    {
+      "surface": "היין",
+      "gloss": "diven an"
+    },
+    {
+      "surface": "המה",
+      "gloss": "fè dezòd"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "bwason ki grise"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "epi tout moun ki"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "egare"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "vin saj"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:33.348833622Z",
+  "model": "glm-5.3"
+}

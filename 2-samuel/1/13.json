@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "David di bay jèn gason ki te rapòte li a: Ki kote ou soti? Epi li di: Mwen se pitit yon etranje, yon Amalekit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jèn gason an"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "ki te rapòte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Ki kote"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "גר",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:42.454153498Z",
+  "model": "glm-5.3"
+}

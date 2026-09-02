@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Papa timoun papa yo, jij vèv yo — se Elohim ⟨nan⟩ kay senkte l.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Papa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "timoun papa yo"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ak jij"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "vèv yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "se Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "⟨nan⟩ kay"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "senkte l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:30.924491362Z",
+  "model": "glm-5.3"
+}

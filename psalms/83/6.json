@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Paske yo konsilye kè ansanm, kont ou y ap koupe ⟨yon⟩ alyans.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "yo konsilye"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kont ou"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alyans"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "y ap koupe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:02.530812576Z",
+  "model": "glm-5.3"
+}

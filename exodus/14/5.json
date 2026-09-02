@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Yo anonse bay wa Mitsrayim an ke pèp la kouri chape, e kè Paro ak sèvitè l yo vire ⟨sou⟩ pèp la, e yo di: Sa ki sa nou fè a, pou nou te kite ⟨את⟩ Yisrael ale soti nan sèvis nou?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yo anonse"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bay wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kouri chape"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "e ... vire"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ak sèvitè l yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e yo di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "nou fè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "nou kite ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "soti nan sèvis nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:58.974158409Z",
+  "model": "glm-5.3"
+}

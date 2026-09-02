@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Eliyahou di pou tout pèp la: «Vin pre ba m.» E tout pèp la vin pre ba li; e l repare ⟨את⟩ otèl Yawe a, ki te kraze.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahou"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "vin pre"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba m"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "vin pre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "repare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otèl Yawe a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otèl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "ki te kraze"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:35.170707114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Yawe konnen jou moun san repwo yo, e eritaj yo ap dire pou tout tan.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "moun san repwo yo"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "e eritaj yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap dire"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:41.362003303Z",
+  "model": "glm-5.3"
+}

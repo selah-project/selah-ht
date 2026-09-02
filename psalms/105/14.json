@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li pa te kite yon moun aprese yo, e li te repwoche wa yo sou kont yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "te kite"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "aprese yo"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "e li te repwoche"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:06.171449349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Lè sa a je avèg yo pran louvri, ak zòrèy sòd yo pran ouvri.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "pran louvri"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "avèg yo"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ak zòrèy"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "sòd yo"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "pran ouvri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:34:43.123814437Z",
+  "model": "glm-5.3"
+}

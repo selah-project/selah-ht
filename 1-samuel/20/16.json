@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E Yehonatan fè yon alians ak kay David, ⟨ap⟩ chèche Yawe sa nan men ennmi David yo.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "e … fè yon alians"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "ap chèche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ennmi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:38.751814137Z",
+  "model": "glm-5.3"
+}

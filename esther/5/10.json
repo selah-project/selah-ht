@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Men Haman retann tèt li, e li antre nan kay li, e li voye fè vini ⟨את⟩ zanmi l yo ak ⟨את⟩ Zerèch, fanm li.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "retann tèt li"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "fè vini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanmi l yo"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "zanmi l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Zerèch"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zerèch"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "fanm li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:54:21.605802069Z",
+  "model": "glm-5.3"
+}

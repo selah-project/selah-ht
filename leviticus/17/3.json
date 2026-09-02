@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Chak moun nan kay Yisrayèl ki abat yon bèf, oswa yon mouton, oswa yon kabrit, nan kan an, oswa ki abat ⟨l⟩ deyò nan kan an,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "abat"
+    },
+    {
+      "surface": "שור",
+      "gloss": "yon bèf"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "yon mouton"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "yon kabrit"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nan kan an"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "abat"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nan kan an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:37.657684281Z",
+  "model": "glm-5.3"
+}

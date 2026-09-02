@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Moun ki mache san fot, ki fè jistis, epi ki pale verite nan kè l.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ki mache"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "san fot"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "epi ki fè"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "epi ki pale"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verite"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "nan kè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:59.995347048Z",
+  "model": "glm-5.3"
+}

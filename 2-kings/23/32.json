@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 23:32",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E li fè sa ki mal nan je Yawe, jan tout sa papa l yo fè.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jan tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:20:36.876567946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "M ap pa mouri, paske m ap viv, e m ap konte zèv Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "m ap mouri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "m ap viv"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "e m ap konte"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "zèv"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:45.683841553Z",
+  "model": "glm-5.3"
+}

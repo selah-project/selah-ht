@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Yawe Tsvaot, o ke kontan ⟨nan⟩ moun ki met konfyans nan ou!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "o ke kontan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ki met konfyans"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:28.548689862Z",
+  "model": "glm-5.3"
+}

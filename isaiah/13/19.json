@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E Babilòn, bèlte wayòm yo, gloè ògèy Kashdeyen yo, ap vin tankou ranvèsman Elohim fè ⟨את⟩ Sodom ak ⟨את⟩ Amora.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilòn"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "bèlte"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "gloè"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ògèy"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kashdeyen"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "tankou ranvèsman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Amora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:01.394149968Z",
+  "model": "glm-5.3"
+}

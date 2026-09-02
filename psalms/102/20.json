@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Paske ⟨li⟩ penche soti nan wotè sansktè ⟨li⟩, Yawe soti nan syèl yo gade tè a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "penche soti gade"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "soti nan wotè"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sansktè li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "soti nan syèl yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "gade"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:01.281202957Z",
+  "model": "glm-5.3"
+}

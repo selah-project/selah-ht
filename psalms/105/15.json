@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Pa manyen Machiya mwen yo, ak pwofèt mwen yo, pa fè yo mal.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "manyen"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Machiya mwen yo"
+    },
+    {
+      "surface": "ו לנביאי",
+      "gloss": "ak pwofèt mwen yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "fè mal"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:06.171578217Z",
+  "model": "glm-5.3"
+}

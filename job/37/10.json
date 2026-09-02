@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Sou souf El glas bay, ak devè dlo yo vin fèmen.",
+  "tokens": [
+    {
+      "surface": "מִנִּשְׁמַת",
+      "gloss": "Sou souf"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "קָרַח",
+      "gloss": "glas"
+    },
+    {
+      "surface": "וְרֹחַב",
+      "gloss": "ak devè"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "בְּמוּצָק",
+      "gloss": "vin fèmen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:41:39.353714935Z",
+  "model": "glm-5.3"
+}

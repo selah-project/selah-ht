@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 130,
+  "translation": "M tann Yawe, nanm m tann, e pou pawòl li m tann.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "M tann"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "tann"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "e pou pawòl li"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "m tann"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:18.277265592Z",
+  "model": "glm-5.3"
+}

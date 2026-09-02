@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi ou ap ekri yo sou pòs pòt kay ou ak sou pòt ou yo.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "pòs pòt"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ak sou pòt ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:44.789825670Z",
+  "model": "glm-5.3"
+}

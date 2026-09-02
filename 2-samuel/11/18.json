@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E Yoav voye ⟨yon moun⟩ pale ba David, e moun nan fè rapò ⟨את⟩ tout pawòl lagè a.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e li voye"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e fè rapò"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ba David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl lagè a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "lagè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:23.699688246Z",
+  "model": "glm-5.3"
+}

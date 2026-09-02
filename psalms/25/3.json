@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Menm, tout moun ki espere nan ou pa pral wont; se moun ki trayi san rezon ki pral wont.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Menm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "moun ki espere nan ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "wont"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "wont"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "moun ki trayi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "san rezon"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:15.544468070Z",
+  "model": "glm-5.3"
+}

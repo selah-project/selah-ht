@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "gade ki pi bon an ak ki pi dwat la nan pitit mèt nou an, e mete l sou chè papa l, e goumen pou kay mèt nou an.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "gade"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ki pi bon an"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "ak ki pi dwat la"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "nan pitit"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "mèt nou an"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "e mete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chè"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "e goumen"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "mèt nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:38.467043398Z",
+  "model": "glm-5.3"
+}

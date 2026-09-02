@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou mennen ⟨את⟩ tab la, ou ranje ⟨את⟩ ranjman li an, epi ou mennen ⟨את⟩ chanmdèl la, epi ou fè monte ⟨את⟩ lanp yo.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "epi ou mennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tab la"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tab la"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "ou ranje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranjman li an"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "ranjman li"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "epi ou mennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chanmdèl la"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "chanmdèl la"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "epi ou fè monte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanp yo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lanp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:25.027285628Z",
+  "model": "glm-5.3"
+}

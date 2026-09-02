@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "E li fè ⟨את⟩ tout moun ki te jwenn nan Yerouchalayim ak nan Binyamin kanpe ⟨pou l kenbe⟩; e moun k ap rete Yerouchalayim yo fè dapre alyans Elohim, Elohim zansèt yo.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "E li fè… kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout moun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "moun ki te jwenn"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ak nan Binyamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "e … fè"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun k ap rete"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "dapre alyans"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "zansèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:06:58.195570339Z",
+  "model": "glm-5.3"
+}

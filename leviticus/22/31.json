@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi nou kenbe kòmandman mwen yo epi nou fè ⟨את⟩ yo; se mwen menm Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Epi nou kenbe"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kòmandman mwen yo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "epi nou fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman mwen yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:57.364909459Z",
+  "model": "glm-5.3"
+}

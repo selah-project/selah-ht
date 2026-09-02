@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Se poutèt sa kadoz yo pap kanpe nan jijman ⟨a⟩, ni pechè yo nan reyinyon ⟨moun ki⟩ jis yo.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Se poutèt sa (sou)"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "Se poutèt sa (konsa)"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יָקֻמוּ",
+      "gloss": "pap kanpe"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "kadoz yo"
+    },
+    {
+      "surface": "בַּמִּשְׁפָּט",
+      "gloss": "nan jijman an"
+    },
+    {
+      "surface": "וְחַטָּאִים",
+      "gloss": "ni pechè yo"
+    },
+    {
+      "surface": "בַּעֲדַת",
+      "gloss": "nan reyinyon"
+    },
+    {
+      "surface": "צַדִּיקִים",
+      "gloss": "jis yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:02.884710625Z",
+  "model": "glm-5.3"
+}

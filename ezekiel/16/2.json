@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Pitit moun, fè Yerouchalayim konnen ⟨את⟩ abominasyon yo li fè —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abominasyon yo li fè"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "abominasyon yo li fè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:15:19.730655546Z",
+  "model": "glm-5.3"
+}

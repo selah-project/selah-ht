@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Zèb sèch, flè tonbe, men pawòl Elohim nou an ap kanpe pou tout tan.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "sèch"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Zèb"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "flè"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "men pawòl"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:35:58.278751906Z",
+  "model": "glm-5.3"
+}

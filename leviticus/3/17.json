@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yon règ ki pou touttan, pou jenerasyon nou yo, nan tout kote nou rete yo: nenpòt grès ak nenpòt san, pa manje ⟨ou⟩ pa gen dwa manje l.",
+  "tokens": [
+    {
+      "surface": "חֻקַּת",
+      "gloss": "règ"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "לְדֹרֹתֵיכֶם",
+      "gloss": "pou jenerasyon nou yo"
+    },
+    {
+      "surface": "בְּכֹל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מוֹשְׁבֹתֵיכֶם",
+      "gloss": "kote nou rete yo"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "nenpòt"
+    },
+    {
+      "surface": "חֵלֶב",
+      "gloss": "grès"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "ak nenpòt"
+    },
+    {
+      "surface": "דָּם",
+      "gloss": "san"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תֹאכֵלוּ",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:33.712810101Z",
+  "model": "glm-5.3"
+}

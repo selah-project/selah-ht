@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E m ap frape ⟨את⟩ moun ki rete nan vil sa a, ak ⟨את⟩ moun nan, ak ⟨את⟩ bèt yo — nan yon peste gran yo ap mouri.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "e m ap frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki rete nan vil sa a"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "moun ki rete"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "moun nan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèt yo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt yo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nan yon peste"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "yo ap mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:55:26.234370170Z",
+  "model": "glm-5.3"
+}

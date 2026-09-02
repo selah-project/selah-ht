@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Kad kò m pa t kache devan ou; lè m te fèt nan kachèt, mwen te brode nan fon tè a.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "kache"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kad kò m"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mwen te fèt"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nan kachèt"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "mwen te brode"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "nan fon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:01.290145488Z",
+  "model": "glm-5.3"
+}

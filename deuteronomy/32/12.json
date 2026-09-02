@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Yawe sèlman te gide l; e pa t gen okenn dye etranje avè l.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "te gide l"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa t gen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dye"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "etranje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:57:54.646426848Z",
+  "model": "glm-5.3"
+}

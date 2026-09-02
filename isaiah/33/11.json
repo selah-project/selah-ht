@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Nou ansent pa sek, nou fè pitit pay; souf nou ⟨se⟩ yon dife, li ap devore nou.",
+  "tokens": [
+    {
+      "surface": "תַּהֲרוּ",
+      "gloss": "nou ansent"
+    },
+    {
+      "surface": "חֲשַׁשׁ",
+      "gloss": "pa sek"
+    },
+    {
+      "surface": "תֵּלְדוּ",
+      "gloss": "nou fè pitit"
+    },
+    {
+      "surface": "קַשׁ",
+      "gloss": "pay"
+    },
+    {
+      "surface": "רוּחֲכֶם",
+      "gloss": "souf nou"
+    },
+    {
+      "surface": "אֵשׁ",
+      "gloss": "yon dife"
+    },
+    {
+      "surface": "תֹּאכַלְכֶם",
+      "gloss": "li ap devore nou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:30.028266920Z",
+  "model": "glm-5.3"
+}

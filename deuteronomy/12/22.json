@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Sèlman, jan yo manje ⟨את⟩ gazèl la ak ⟨את⟩ sèf la, se konsa ou pral manje l: moun ki pa pur ansanm ak moun ki pur pral manje l.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yo manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gazèl la"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gazèl la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sèf la"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "sèf la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ou pral manje l"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "moun ki pa pur"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ak moun ki pur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "pral manje l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:48:07.286465664Z",
+  "model": "glm-5.3"
+}

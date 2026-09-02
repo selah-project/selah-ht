@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 133,
+  "translation": "Kòm lwil la bon an ki desann sou tèt la, ki desann sou bab la — bab Aharòn — k'ap desann sou bò rad l yo:",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Kòm lwil la"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "bon an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tèt la"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ki desann"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "bab la"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bab"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "k'ap desann"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bò"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "rad l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:02.795238033Z",
+  "model": "glm-5.3"
+}

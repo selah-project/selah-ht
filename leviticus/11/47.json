@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "pou fè distenksyon ant sa ki pa pwòp ak sa ki pwòp, ant bèt ki ka manje ak bèt ki pa ka manje.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "pou fè distenksyon"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "sa ki pa pwòp"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "epi ant"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "sa ki pwòp"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "epi ant"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "ki ka manje"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "epi ant"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ka manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:38.367336308Z",
+  "model": "glm-5.3"
+}

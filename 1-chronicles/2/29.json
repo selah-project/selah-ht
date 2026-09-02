@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E non fanm Avichour a se Avihayil, e li fè ⟨את⟩ Ahban ak ⟨את⟩ Molid pou li.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ak non"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Avichour"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Avihayil"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e li fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahban"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Ahban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Molid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Molid"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:29.052763867Z",
+  "model": "glm-5.3"
+}

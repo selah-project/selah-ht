@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Jistis, jistis, w ap swiv, pou ou ka viv epi ou ka pran ⟨את⟩ tè a ke Yawe Elohim ou ap bay ou.",
+  "tokens": [
+    {
+      "surface": "צֶדֶק",
+      "gloss": "Jistis"
+    },
+    {
+      "surface": "צֶדֶק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "תִּרְדֹּף",
+      "gloss": "w ap swiv"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "pou ou ka"
+    },
+    {
+      "surface": "תִּחְיֶה",
+      "gloss": "viv"
+    },
+    {
+      "surface": "וְיָרַשְׁתָּ",
+      "gloss": "epi ou ka pran"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "נֹתֵן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:11.028538286Z",
+  "model": "glm-5.3"
+}

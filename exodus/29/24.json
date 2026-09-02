@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi ou mete tout bagay yo sou palm Aharòn ak sou palm pitit l yo, epi ou fwonde ⟨את⟩ yo — yon ofrand fwonde — devan Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout bagay yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palm"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palm"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit l yo"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "epi ou fwonde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "tout bagay yo"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "yon ofrand fwonde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:07.193083857Z",
+  "model": "glm-5.3"
+}

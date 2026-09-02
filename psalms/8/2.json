@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Yawe, Adònay nou, ki jan Non ou a gen fòs nan tout tè a, ⟨ki⟩ mete majeste ou sou syèl yo!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adònay nou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ki jan"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "gen fòs"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "mete"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "majeste ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:27.315070856Z",
+  "model": "glm-5.3"
+}

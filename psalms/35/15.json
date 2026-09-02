@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "E lè m te boite, yo te kontan, e yo te rasanble; rasanble kont m kalomnyè yo, e m pa t konnen: yo te dechire e yo pa t sispann.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "lè m te boite"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "yo te kontan"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "e yo te rasanble"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "rasanble"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont m"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "kalomnyè yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e m pa t"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "yo te dechire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e yo pa t"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sispann"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:01.498752008Z",
+  "model": "glm-5.3"
+}

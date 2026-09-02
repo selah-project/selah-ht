@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Li vlope ⟨את⟩ kè tout nonm Yehouda yo, jan yon sèl nonm; epi yo voye di ba wa a: Retounen ⟨ou⟩, ou ak tout sèvitè ou yo.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "vlope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jan yon nonm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "epi yo voye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Retounen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvitè ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:08.599789184Z",
+  "model": "glm-5.3"
+}

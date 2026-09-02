@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "ou ki kenbe pou sèvitè ou a, David papa m, ⟨את⟩ sa ou pale l — ou pale l ak bouch ou, e ou ak men ou konplete l, menm jou sa a.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ou kenbe"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "pou sèvitè ou a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ou pale l"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ou pale"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "e ou pale"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ak bouch ou"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "e ak men ou"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ou konplete"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "menm jou"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:25.721661070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "«Ak prèt l yo m ap abiye ak delivrans, e moun devò l yo ap chante anpil kontan.»",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "ak prèt l yo"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "m ap abiye"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ak delivrans"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "e moun devò l yo"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "chante kontan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ap chante anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:23.689155812Z",
+  "model": "glm-5.3"
+}

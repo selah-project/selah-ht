@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Moun sanble ak vanite — jou l yo tankou yon lonbraj ki ap pase.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Moun"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ak vanite"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "sanble"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jou l yo"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "tankou yon lonbraj"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ki ap pase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:33.428632798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E lè li règne, lè l chita sou tròn li, li frape ⟨את⟩ tout kay Bacha — li pa kite pou li yon moun k ap pise sou mi, ni rachtè l yo, ni zanmi l.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e lè"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "lè li règne"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "lè l chita"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tròn li"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout kay Bacha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "kite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "moun k ap pise"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sou mi"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "ni rachtè l yo"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "ni zanmi l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:02:35.149087907Z",
+  "model": "glm-5.3"
+}

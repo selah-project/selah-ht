@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Mizmor, yon chante, pou jou chabat la.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pou jou"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "chabat la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:48.369951597Z",
+  "model": "glm-5.3"
+}

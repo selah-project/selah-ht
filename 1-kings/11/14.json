@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E Yawe leve yon adversè kont Chelomo: ⟨את⟩ Hadad Edomit la — li menm ki soti nan ras wa a, nan Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E ... leve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "yon adversè"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kont Chelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad Edomit la"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edit la"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "soti nan ras"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "nan Edom"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:20.153715286Z",
+  "model": "glm-5.3"
+}

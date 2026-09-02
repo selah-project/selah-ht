@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi Yawe fè ⟨את⟩ pawòl sa a lendemain, e tout bèt Mitsrayim yo mouri; men nan mitan bèt pitit Yisrael yo, pa gen youn ki mouri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Epi … fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl la"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "lendemain"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e … mouri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "bèt yo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "men nan mitan bèt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:34.290971939Z",
+  "model": "glm-5.3"
+}

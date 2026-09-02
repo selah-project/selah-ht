@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Sarah ansent, epi li fè yon pitit gason pou Avraham, nan viyèsaj li, nan tan fikse a, ⟨את⟩ sa Elohim te pale avè l.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Epi ansent"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "epi fè pitit"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "pou Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "nan viyèsaj li"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "nan tan fikse a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ avè l",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:00.761995788Z",
+  "model": "glm-5.3"
+}

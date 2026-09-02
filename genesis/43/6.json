@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "E Yisrael di: Poukisa nou fè m mal konsa, lè nou fè nonm lan konnen si nou gen yon frè?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "fè mal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nonm lan"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "si ... gen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "אח",
+      "gloss": "frè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:38.004765612Z",
+  "model": "glm-5.3"
+}

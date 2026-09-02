@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "⟨את⟩ ti chouèt la, ak ⟨את⟩ gwo chouèt la, ak signo a,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti chouèt la"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ti chouèt la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "gwo chouèt la"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "gwo chouèt la"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ak signo a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:48:06.572773728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Mwen pa chita ak moun fonk, e ak moun k ap kache vre figi yo, mwen pa ap antre.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "m chita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "fonk"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e ak"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "moun k ap kache"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "m antre"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:46.728902870Z",
+  "model": "glm-5.3"
+}

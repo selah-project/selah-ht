@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 14:45",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Lè sa a, Amalekit la ak ⟨את⟩ Kanaanit la ki t ap rete nan mòn sa a desann, yo frape yo ak ⟨את⟩ yo, yo kraze yo jouk nan Horma.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Amalekit la"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ak Kanaanit la"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ki t ap rete"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "yo frape yo"
+    },
+    {
+      "surface": "ויכתום",
+      "gloss": "yo kraze yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "החרמה",
+      "gloss": "nan Horma"
+    }
+  ],
+  "timestamp": "2026-09-02T16:26:17.977910420Z",
+  "model": "glm-5.3"
+}

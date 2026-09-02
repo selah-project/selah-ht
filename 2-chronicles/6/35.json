@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "epi ou tande depi nan syèl yo ⟨את⟩ priyè yo ak ⟨את⟩ demann yo, epi ou fè jistis pou yo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "epi ou tande"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "priyè yo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "priyè yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "deman yo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "deman yo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "epi ou fè"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "jistis pou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:26:09.859207562Z",
+  "model": "glm-5.3"
+}

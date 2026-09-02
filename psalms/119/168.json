@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "M kenbe lwa ou yo ak temwayaj ou yo, paske tout wout mwen yo devan ou.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "m kenbe"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "lwa ou yo"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "ak temwayaj ou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "wout mwen yo"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "devan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:49.068132014Z",
+  "model": "glm-5.3"
+}

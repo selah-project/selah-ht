@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Yon rès ap tounen, rès Yaakov, al↩ El Gibòr (El ki gen fòs).",
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "rès"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "ap tounen"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "rès"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "Gibòr"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:36.764637816Z",
+  "model": "glm-5.3"
+}

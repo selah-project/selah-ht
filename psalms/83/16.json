@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "konsa swiv yo ak tanpèt ou, e fè yo pè ak siklòn ou.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "swiv yo"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ak tanpèt ou"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "e ak siklòn ou"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "fè yo pè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:46.590528535Z",
+  "model": "glm-5.3"
+}

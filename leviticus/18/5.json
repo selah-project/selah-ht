@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E nou pral kenbe ⟨את⟩ lwa m yo ak ⟨את⟩ jijman m yo, ke moun nan fè ⟨את⟩ yo epi l viv nan yo; se mwen Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "e nou pral kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwa m yo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "lwa m yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jijman m yo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman m yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "epi l viv"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:11.228400014Z",
+  "model": "glm-5.3"
+}

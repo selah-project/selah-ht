@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Pa jete mwen lwen devan ⟨ou⟩, e pa pran lespri sen ⟨ou⟩ a nan men mwen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "jete mwen"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "lwen devan ou"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e lespri"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sen ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nan men mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:51.987944176Z",
+  "model": "glm-5.3"
+}

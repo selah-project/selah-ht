@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "E mwen ranpli l ⟨את⟩ ak lespri Elohim, nan sajès, ak nan entelijans, ak nan konesans, ak nan tout kalite travay —",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "E mwen ranpli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l (Betsalel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "nan sajès"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ak nan entelijans"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ak nan konesans"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak nan tout kalite"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "travay"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:53.788386649Z",
+  "model": "glm-5.3"
+}

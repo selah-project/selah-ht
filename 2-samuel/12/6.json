@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "e ⟨את⟩ ti mouton fi a l ap remèse kat fwa, paske li fè ⟨את⟩ bagay sa a, e paske li pa t gen pitite.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ti mouton fi a"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "ti mouton fi a"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "remèse"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "kat fwa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagay sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e paske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "gen pitite"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:12.668614422Z",
+  "model": "glm-5.3"
+}

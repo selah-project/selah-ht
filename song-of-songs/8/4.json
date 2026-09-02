@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Mwen fè nou sèman, fiy Yerouchalayim: poukisa nou ta deboutye, poukisa nou ta reveye ⟨את⟩ lanmou a, jou l vle li menm?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Mwen fè nou sèman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou, fiy Yerouchalayim yo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "nou ta deboutye"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "epi poukisa"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "nou ta reveye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanmou a"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lanmou a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "l vle li menm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:14.679513805Z",
+  "model": "glm-5.3"
+}

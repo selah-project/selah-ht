@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "ak lame l, ak moun ki konte nan li yo ⟨se⟩ kat epi swasan mil epi sis san.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ak lame l"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ak moun ki konte nan li yo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "epi swasan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "epi sis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:07.956687962Z",
+  "model": "glm-5.3"
+}

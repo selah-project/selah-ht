@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Lè a fin rive bonè maten, Kotchija wa a leve, li rasanble ⟨את⟩ chèf lavil la, e li moute kay Yawe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "leve bonè maten"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Kotchija"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "li rasanble"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chèf lavil la"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "li moute"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T21:34:57.812748768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Moun sòti pou travay li, epi pou sèvis li jouk aswè.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "sòti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "pou travay li"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "epi pou sèvis li"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aswè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:11.626048595Z",
+  "model": "glm-5.3"
+}

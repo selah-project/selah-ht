@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "⟨Van an⟩ ap mache nan sid la, e ap vire nan nò a; ap vire, ap vire, ap mache, van an, e sou sik li yo tounen van an.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "sid la"
+    },
+    {
+      "surface": "וֹסובב",
+      "gloss": "e ap vire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nò a"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ap vire"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ap vire"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "van an"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sou"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "sik li yo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "van an"
+    }
+  ],
+  "timestamp": "2026-09-02T22:03:19.484131890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 67,
+  "translation": "Pèp yo ap rann gras ⟨devan⟩ ou, Elohim; pèp yo, tout yo, ap renn gras ⟨devan⟩ ou.",
+  "tokens": [
+    {
+      "surface": "יוֹד֖וּךָ",
+      "gloss": "ap rann gras ⟨devan⟩ ou"
+    },
+    {
+      "surface": "עַמִּ֥ים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "י֝וֹד֗וּךָ",
+      "gloss": "ap rann gras ⟨devan⟩ ou"
+    },
+    {
+      "surface": "עַמִּ֥ים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "כֻּלָּֽם",
+      "gloss": "tout yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:35.276262903Z",
+  "model": "glm-5.3"
+}

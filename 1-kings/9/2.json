@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Yawe parèt devan Chelomo yon dezyèm fwa, jan li te parèt devan li nan Givòn,",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "parèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "yon dezyèm fwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "te parèt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "devan li"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "nan Givòn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:03.338368609Z",
+  "model": "glm-5.3"
+}

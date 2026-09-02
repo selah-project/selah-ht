@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Dis koud longè pano a, e yon koud ak yon demi koud lajè yon sèl pano.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "koud"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "longè"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "pano a"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e yon koud"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak yon demi"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "koud"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lajè"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "pano a"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yon sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:26.675398245Z",
+  "model": "glm-5.3"
+}

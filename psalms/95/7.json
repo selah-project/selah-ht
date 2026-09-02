@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 95,
+  "translation": "Paske se li Elohim nou an, e nou menm se pèp patiraj li a, ak mouton men l yo. Jodi a, si nou tande vwa l —",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "אֱלֹהֵינוּ",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "וַאֲנַחְנוּ",
+      "gloss": "e nou menm se"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "מַרְעִיתוֹ",
+      "gloss": "patiraj li a"
+    },
+    {
+      "surface": "וְצֹאן",
+      "gloss": "ak mouton"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "men l yo"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "Jodi a"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "si"
+    },
+    {
+      "surface": "בְּקֹלוֹ",
+      "gloss": "vwa l"
+    },
+    {
+      "surface": "תִּשְׁמָעוּ",
+      "gloss": "nou tande"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:15.238416104Z",
+  "model": "glm-5.3"
+}

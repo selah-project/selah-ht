@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Yon mizmor pou David, lè l te nan dezè Yehouda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "lè l te"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:54.306272134Z",
+  "model": "glm-5.3"
+}

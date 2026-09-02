@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Moun ki pran kòmansyon pou yon etranje ap soufri mal; men moun ki rayi manyen men ⟨ap⟩ rete an sekirite.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ap soufri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "pran kòmansyon"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yon etranje"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "men ... rayi"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "manyen men"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "rete an sekirite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:32.043290013Z",
+  "model": "glm-5.3"
+}

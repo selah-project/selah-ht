@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Pale ak pitit Yisrayèl yo, pou di yo: Sa a se bèt vivan ⟨la⟩ nou ka manje, nan mitan tout bèt ki sou tè a:",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "bèt vivan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou ka manje"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nan mitan tout"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:16.200873082Z",
+  "model": "glm-5.3"
+}

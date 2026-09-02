@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Ofann boule bèt gra yo m ap monte ba ou, ak ensans mouton ram yo; m ap prepare bèf ak kabrit yo. Sela.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "ofann boule"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "bèt gra yo"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "m ap monte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ensans"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "mouton ram yo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ap prepare"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kabrit yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:23.484575616Z",
+  "model": "glm-5.3"
+}

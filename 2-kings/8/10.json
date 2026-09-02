@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi li di ak li: Elicha di: Ale, di l: W ap granmou sèksa a; men Yawe fè m wè ke li ap mouri nèt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ale"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas janm⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "viv"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "w ap granmou"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "men … fè m wè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "nèt"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:18.093965184Z",
+  "model": "glm-5.3"
+}

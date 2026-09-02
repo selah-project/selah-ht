@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Ah, si wout mwen yo te kanpe dwat, pou m kenbe chwa ou yo!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Ah, si"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "te kanpe dwat"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "wout mwen yo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pou m kenbe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "chwa ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:05.915706453Z",
+  "model": "glm-5.3"
+}

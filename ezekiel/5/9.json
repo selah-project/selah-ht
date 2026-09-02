@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi m ap fè nan ou ⟨את⟩ sa m pa janm fè, ak ⟨את⟩ sa m p ap fè tankou l ankò, paske tout toèvah ou yo.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Epi m ap fè"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa m pa janm fè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m fè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa m p ap fè tankou l ankò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ap fè"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "tankou l"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "יען",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "toèvah ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:56:58.249402866Z",
+  "model": "glm-5.3"
+}

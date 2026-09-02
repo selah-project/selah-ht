@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Paske konsa yo kòmande ⟨את⟩ m nan pawòl Yawe, pou yo di: Ou pa pral manje pen, ni ou pa pral bwè dlo, ni ou pa pral retounen nan wout ou te mache an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nan pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "bwè"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "mache"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:45.598612214Z",
+  "model": "glm-5.3"
+}

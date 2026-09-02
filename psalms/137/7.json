@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 137,
+  "translation": "Sonje, Yawe, ⟨pou⟩ pitit Edòm yo ⟨את⟩ jou Yerouchalayim la — moun ki te di: Demoli l, demoli l, jiska fondman ki nan li!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Sonje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨pou⟩ pitit"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edòm yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou Yerouchalayim la"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "moun ki te di"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Demoli l"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "demoli l"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "fondman an"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ki nan li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:44.472630780Z",
+  "model": "glm-5.3"
+}

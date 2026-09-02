@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yon tan pou touye, e yon tan pou geri; yon tan pou demoli, e yon tan pou bati.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Yon tan pou"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "touye"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan pou"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "geri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yon tan pou"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "demoli"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan pou"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "bati"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:00.861296987Z",
+  "model": "glm-5.3"
+}

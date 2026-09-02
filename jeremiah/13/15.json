@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Koute, epi ban zòrèy ou : pa tèt di, paske Yawe pale.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "koute"
+    },
+    {
+      "surface": "והאזינu",
+      "gloss": "epi ban zòrèy ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "tèt di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-09-02T18:52:27.351694471Z",
+  "model": "glm-5.3"
+}

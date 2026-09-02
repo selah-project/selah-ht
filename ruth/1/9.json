@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Ke Yawe ban nou jwenn repo, chak ⟨fanm⟩ nan kay mari l; epi li bo yo, epi yo leve vwa yo epi yo plere.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "epi nou jwenn"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "repo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fanm (chak)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mari l"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "epi li bo"
+    },
+    {
+      "surface": "להן",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "epi yo leve"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "vwa yo"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "epi yo plere"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:11.112942551Z",
+  "model": "glm-5.3"
+}

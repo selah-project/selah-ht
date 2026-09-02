@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Yo kite la ⟨את⟩ dye yo, e David bay lòd, e yo boule yo nan dife.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Yo kite"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dye yo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dye yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e ... bay lòd"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "e yo boule yo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    }
+  ],
+  "timestamp": "2026-09-02T21:18:12.990434384Z",
+  "model": "glm-5.3"
+}

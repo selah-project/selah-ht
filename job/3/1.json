@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Apre sa, Iyov louvri ⟨את⟩ bouch li, e li maledi ⟨את⟩ jou li.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch li"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "e li maledi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou li"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "jou li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:16.088448619Z",
+  "model": "glm-5.3"
+}

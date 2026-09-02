@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Leve, Yawe! Sovè mwen, Elohim mwen! Paske ou fin frape ⟨את⟩ tout enmi m yo sou jou, ou fin kasè dan moun k ap fè mal yo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Sovè mwen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ou fin frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout enmi m yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "sou jou"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun k ap fè mal yo"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ou fin kasè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:31.061794841Z",
+  "model": "glm-5.3"
+}

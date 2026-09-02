@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi pitit Yisrayèl fè konsa, epi yo ramase — kèk plis, kèk mwens.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "fè konsa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "ramase"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "kèk plis"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "kèk mwens"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:37.680075092Z",
+  "model": "glm-5.3"
+}

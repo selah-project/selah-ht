@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi David pran ⟨את⟩ fò Tsiyòn — se li menm lavil David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Epi … pran"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fò Tsiyòn"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "fò"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lavil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:42:59.182264413Z",
+  "model": "glm-5.3"
+}

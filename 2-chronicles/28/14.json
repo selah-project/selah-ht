@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi sòlda ki gen zam yo kite ⟨את⟩ prizonye yo ak ⟨את⟩ bimen an devan chèf yo ak tout asanble a.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "epi kite"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "sòlda ki gen zam yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prizonye yo"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "prizonye yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bimen an"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "bimen an"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "chèf yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "asanble a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:34:09.466823067Z",
+  "model": "glm-5.3"
+}

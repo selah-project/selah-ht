@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Elohim, ou konnen ⟨את⟩ foli m, ak fot m yo pa kache devan ou.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "foli m"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ak fot m yo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "kache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:27.678239749Z",
+  "model": "glm-5.3"
+}

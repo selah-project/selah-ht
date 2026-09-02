@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi w ap wantrè avèk li ⟨את⟩ tant reyinyon an, ak ⟨את⟩ kès tèmwayaj la a.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Epi w ap wantrè"
+    },
+    {
+      "surface": "בו",
+      "gloss": "avèk li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant reyinyon an"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kès tèmwayaj la"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kès"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "tèmwayaj la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:29.639686451Z",
+  "model": "glm-5.3"
+}

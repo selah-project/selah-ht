@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Tounen, o Yawe, delivre nefech mwen an; sove m pou hesed ou (kè ou an) depase tout limit.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Tounen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen an"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sove m"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:13.060040557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi sè l, Hammolekhet, fè ⟨את⟩ Ichod ak ⟨את⟩ Aviézer ak ⟨את⟩ Machla.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "epi sè l"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hammolekhet"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ichod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ichod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Aviézer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviézer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Machla"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machla"
+    }
+  ],
+  "timestamp": "2026-09-02T22:27:07.523804616Z",
+  "model": "glm-5.3"
+}

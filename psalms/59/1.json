@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Pou chèf mizisyen an, Al-Tachet, pou David, yon mikhtam, lè Chaoul te voye ⟨yo⟩ e yo te veye ⟨את⟩ kay la pou yo touye l.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "detwi (Al-Tachet)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "yon mikhtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "lè ... te voye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "e yo te veye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay la"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "pou yo touye l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:52.354459782Z",
+  "model": "glm-5.3"
+}

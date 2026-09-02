@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 70,
+  "translation": "Tout moun k ap chèche ou, fè yo gen kè kontan ak fè yo fè lajwa sou ou; e moun k ap renmen delivrans ou, fè yo di toujou: «Elohim vin gran!»",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "kè kontan"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ak fè lajwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "moun k ap chèche ou"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e fè yo di"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "vin gran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "moun k ap renmen"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "delivrans ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:22.314718731Z",
+  "model": "glm-5.3"
+}

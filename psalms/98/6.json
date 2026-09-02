@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 98,
+  "translation": "Avèk trompèt yo ak vwa chofa, fè gwo bri devan wa a, Yawe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Avèk trompèt yo"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ak vwa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "chofa"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "fè gwo bri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:06.312954203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Mwen sonje zak Yah; paske mwen sonje miray ou depi lontan.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Mwen sonje"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "zak"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "mwen sonje"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "depi lontan"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "miray ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:17.057635596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Ki chita nan tonm yo epi ki pase nwit nan kachèt yo; ki manje vyann kochon an, epi mòso bag kontamine ⟨nan⟩ vas yo.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "ki chita"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "nan tonm yo"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "epi nan kachèt yo"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "yo pase nwit"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ki manje"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "kochon an"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "epi mòso"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "bag kontamine"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "vas yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:46:05.229295556Z",
+  "model": "glm-5.3"
+}

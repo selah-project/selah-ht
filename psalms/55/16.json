@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Ravin ⟨yo⟩ tonbe sou yo; kite yo des ann Cheol — vivan — paske movete nan kay yo, nan mitan yo.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Ravin"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "kite yo desann"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "movete"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "nan kay yo"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "nan mitan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:10.440199944Z",
+  "model": "glm-5.3"
+}

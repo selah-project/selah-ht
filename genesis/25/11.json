@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E sa rive apre lanmò Avraham: Elohim beni ⟨את⟩ Yitshak, pitit li a, e Yitshak te abite bò kote Byèr-Lahay-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e sa rive"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lanmò"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "te abite"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bò kote"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Byèr"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lahay"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:22:48.585352692Z",
+  "model": "glm-5.3"
+}

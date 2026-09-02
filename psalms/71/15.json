@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Bouch mwen ap konte jistis ou, tout jou a, delivrans ou; paske mwen pa konnen konte yo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Bouch mwen"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "ap konte"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "jistis ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "delivrans ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "konte yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:09.789034305Z",
+  "model": "glm-5.3"
+}

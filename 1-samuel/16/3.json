@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi ou ap rele Yichay nan sakrifyis la; epi mwen menm, m ap fè ou konnen ⟨את⟩ sa ou dwe fè, epi ou pral endwi pou mwen ⟨את⟩ moun ke m ap nonmen bay ou.”",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Epi ou ap rele"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yichay"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "nan sakrifyis la"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "epi mwen menm"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "m ap fè ou konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ou dwe fè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou dwe fè"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "epi ou pral endwi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ke m ap nonmen bay ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moun ke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "m ap nonmen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bay ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:25.852842454Z",
+  "model": "glm-5.3"
+}

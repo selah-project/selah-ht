@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Syèl yo soti nan syèl la, yo goumen; etwal yo soti nan wout yo yo goumen ak Sisera.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl la"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "yo goumen"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "etwal yo"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "soti nan wout yo"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "yo goumen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    }
+  ],
+  "timestamp": "2026-09-02T17:13:32.028138891Z",
+  "model": "glm-5.3"
+}

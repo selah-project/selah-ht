@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Moun rich la ap gouvène sou mizè yo; e moun ki fè dèt se sèvitè moun k'ap prete lajan.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "moun rich"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "sou mizè yo"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "ap gouvène"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "e sèvitè"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "moun ki fè dèt"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nan men moun"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "k'ap prete lajan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:40.698231383Z",
+  "model": "glm-5.3"
+}

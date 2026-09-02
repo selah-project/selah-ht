@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E si ou divilige ⟨את⟩ pawòl nou sa a, n ap san koupab pou serman ou ke ou fè nou sere sou li.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "divilige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl nou sa a"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "pawòl nou"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "n ap ye"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "san koupab"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "serman ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "fè nou sere"
+    }
+  ],
+  "timestamp": "2026-09-02T17:01:34.600814555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Yaakov leve je l, e l gade, e menm, Esav ap vini, ak li kat san gason; e l separe ⟨את⟩ timoun yo sou Lea, ak sou Rachèl, ak sou de sèvant yo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "leve"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "je l"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gade"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "separe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timoun yo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "timoun yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachèl"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "sèvant yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:17.283588158Z",
+  "model": "glm-5.3"
+}

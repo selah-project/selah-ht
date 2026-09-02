@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E li di: Mwen tande ⟨את⟩ vwa w nan jaden an, epi mwen pè, paske mwen won, epi mwen kache.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa w"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "vwa w"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "tande"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nan jaden"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "won"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "kache"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:38.814333752Z",
+  "model": "glm-5.3"
+}

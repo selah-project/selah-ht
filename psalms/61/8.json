@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 61,
+  "translation": "Li ap chita pou touttan devan Elohim; hesed (bòn Amou ki kenbe kontra) ak verite, pran swen li.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Li ap chita"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ak verite"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pran swen de"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "pran swen li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:56.384297637Z",
+  "model": "glm-5.3"
+}

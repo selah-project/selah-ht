@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Yechoua fè Yoyakim vin monn, e Yoyakim fè Elyachiv vin monn, e Elyachiv ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Yechoua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè … vin monn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "e Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè … vin monn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyachiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyachiv"
+    },
+    {
+      "surface": "ו אלישיב",
+      "gloss": "e Elyachiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-02T21:11:06.766162622Z",
+  "model": "glm-5.3"
+}

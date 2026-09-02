@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E kounye a, mwen ap mande yon sèl demann ⟨את⟩ de ⟨nan⟩ men ou — pa vire tounen ⟨את⟩ figye m. E li di ba li: «Pale.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "demann"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ap mande"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ de ⟨nan⟩ men ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "vire tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figye m"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figye m"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:48.282035865Z",
+  "model": "glm-5.3"
+}

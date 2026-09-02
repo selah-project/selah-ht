@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E chèf mèt bwè yo pa sonje ⟨את⟩ Yosèf, e li bliye l.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "E pa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mèt bwè yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosèf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "e li bliye l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:31:17.629740454Z",
+  "model": "glm-5.3"
+}

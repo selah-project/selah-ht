@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Richès ak glwa ⟨את⟩ avèk mwen; byen ki gen gran valè, ak jistis.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Richès"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ak glwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ avèk mwen",
+      "marks": "Richès ak glwa"
+    },
+    {
+      "surface": "הון",
+      "gloss": "byen"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ki gen gran valè"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ak jistis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:18.456666353Z",
+  "model": "glm-5.3"
+}

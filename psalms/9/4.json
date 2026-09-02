@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Lè ⟨lan⟩ enmi m yo vire do, yo chèbite e yo disparèt devan figou ou.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Lè ⟨lan⟩ vire"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "do"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "yo chèbite"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "e yo disparèt"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "devan figou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:54.417159976Z",
+  "model": "glm-5.3"
+}

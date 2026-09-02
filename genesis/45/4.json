@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Epi Yosèf di bay frè l yo: Vin pre m, souple. Yo vin pre l. Li di: Se mwen menm, Yosèf, frè nou yo, nou menm ki vann ⟨את⟩ mwen ale nan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Vin pre"
+    },
+    {
+      "surface": "נא",
+      "gloss": "souple"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Yo vin pre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Li di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Se mwen menm"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frè nou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "nou menm ... vann"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ale nan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:22.502157089Z",
+  "model": "glm-5.3"
+}

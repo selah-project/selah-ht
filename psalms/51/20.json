@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Fè byen dapre plezi ou pou ⟨את⟩ Tsiyòn; ⟨ou⟩ ap bati mi Yerouchalayim yo.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "fè byen"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "dapre plezi ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyòn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:48.794605336Z",
+  "model": "glm-5.3"
+}

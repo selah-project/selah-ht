@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Ou mennen nou nan pyèj la, ou mete presyon sou ren nou.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Ou mennen nou"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "nan pyèj la"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "presyon"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "sou ren nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:08.164100566Z",
+  "model": "glm-5.3"
+}

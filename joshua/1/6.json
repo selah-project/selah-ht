@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Kenbe fèm epi pran kouraj, paske se ou menm k ap fè pèp sa a eritye ⟨את⟩ tè a ke m te sere nan sèman bay papa yo pou m ba yo.",
+  "tokens": [
+    {
+      "surface": "חֲזַק",
+      "gloss": "Kenbe fèm"
+    },
+    {
+      "surface": "וֶאֱמָץ",
+      "gloss": "epi pran kouraj"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "se ou menm"
+    },
+    {
+      "surface": "תַּנְחִיל",
+      "gloss": "fè eritye"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "pèp sa a"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נִשְׁבַּעְתִּי",
+      "gloss": "m te sere nan sèman"
+    },
+    {
+      "surface": "לַאֲבוֹתָם",
+      "gloss": "bay papa yo"
+    },
+    {
+      "surface": "לָתֵת",
+      "gloss": "pou m ba"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:01:58.795618583Z",
+  "model": "glm-5.3"
+}

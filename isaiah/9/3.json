@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Paske ⟨Ou⟩ fin kase ⟨את⟩ jouk chaj li ye ak ⟨את⟩ baton zepòl li ye, gad opresè a ki t ap fwape l — tankou jou Midiyan an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouk chaj li ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "chaj li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "baton zepòl li ye"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "baton"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "zepòl li"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "gad"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "opresè a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ki t ap fwape l"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "fin kase"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "tankou jou"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:56.113601174Z",
+  "model": "glm-5.3"
+}

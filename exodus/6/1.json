@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi Yawe di a Moche: kounye a ou ap wè sa m ap fè a Paro; paske ak yon men fò l ap voye yo soti, e ak yon men fò l ap chase yo soti nan peyi l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ou ap wè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ap fè"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "a Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ak yon men"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fò"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "l ap voye yo soti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e ak yon men"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fò"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "l ap chase yo soti"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "nan peyi l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:43.544235838Z",
+  "model": "glm-5.3"
+}

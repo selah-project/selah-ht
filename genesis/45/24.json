@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "E li voye ⟨את⟩ frè l yo ale, e li di yo: pa gen kòlè sou wout la.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè l yo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e ale"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "gen kòlè"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sou wout la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:36:01.371206845Z",
+  "model": "glm-5.3"
+}

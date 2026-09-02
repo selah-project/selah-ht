@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Nan jou li yo, Edom te revolte anba men Yehouda, e yo fè yon wa règne sou yo.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "nan jou li yo"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "te revolte"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "e yo fè... règne"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yon wa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:52.496688529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E mwen pale bay moun nan egzil la ⟨את⟩ tout pawòl Yawe, sa ⟨li⟩ te montre mwen yo.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "e mwen pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "moun nan egzil la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "te montre mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:13:02.343847120Z",
+  "model": "glm-5.3"
+}

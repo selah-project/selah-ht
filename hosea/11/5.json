@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "⟨Li⟩ p ap tounen nan peyi Mitsrayim, epi Achur se wa l, paske yo refize tounen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יָשׁוּב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וְאַשּׁוּר",
+      "gloss": "epi Achur"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "מַלְכּוֹ",
+      "gloss": "se wa l"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מֵאֲנוּ",
+      "gloss": "refize"
+    },
+    {
+      "surface": "לָשׁוּב",
+      "gloss": "tounen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:48.196574216Z",
+  "model": "glm-5.3"
+}

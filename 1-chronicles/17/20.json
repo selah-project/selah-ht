@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Yawe, pa gen ⟨moun ki⟩ tankou ou, epi pa gen Elohim deyò ou, nan tout sa nou tande ak zòrèy nou.",
+  "tokens": [
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "כָּמוֹךָ",
+      "gloss": "tankou ou"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "epi pa gen"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זוּלָתֶךָ",
+      "gloss": "deyò ou"
+    },
+    {
+      "surface": "בְּכֹל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שָׁמַעְנוּ",
+      "gloss": "tande"
+    },
+    {
+      "surface": "בְּאָזְנֵינוּ",
+      "gloss": "ak zòrèy nou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:20:45.352415462Z",
+  "model": "glm-5.3"
+}

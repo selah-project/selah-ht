@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Evyatar anonse bay David ke Chaoul te touye ⟨את⟩ prèt Yawe yo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bay David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "te touye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prèt Yawe yo"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "prèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:03.395257364Z",
+  "model": "glm-5.3"
+}

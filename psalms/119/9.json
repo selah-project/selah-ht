@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Koman yon jèn gason pirifye ⟨את⟩ wout li? Nan kenbe l dapre pawòl ou.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Koman"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "pirifye"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yon jèn gason"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wout li"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "wout li"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pou kenbe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "dapre pawòl ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:24.471808485Z",
+  "model": "glm-5.3"
+}

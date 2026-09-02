@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Hay! Tout moun ki swaf, vini nan dlo a; epi moun ki pa gen kòb, vini, achte, manje; wi, vini, achte diven ak lèt san kòb ak san pri.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hay!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ki swaf"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "vini"
+    },
+    {
+      "surface": "למים",
+      "gloss": "nan dlo a"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "epi moun ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kòb"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "vini"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "achte"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "epi manje"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "epi vini"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "achte"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "san"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kòb"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "pri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diven"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ak lèt"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:29.866439197Z",
+  "model": "glm-5.3"
+}

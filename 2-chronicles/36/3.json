@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E wa Mitsrayim depoze l nan Yerouchalayim, e l mete ⟨את⟩ peyi a anba yon amann: san talann ajàn ak yon talann lò.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "depoze l"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "mete amann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyi a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talann"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajàn"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "ak yon talann"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    }
+  ],
+  "timestamp": "2026-09-02T21:38:43.152313361Z",
+  "model": "glm-5.3"
+}

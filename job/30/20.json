@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Mwen rele vin jwenn ou, e ou pa reponn mwen; mwen kanpe devan ou, e ou ap gade mwen.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Mwen rele vin jwenn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ou pa"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "reponn mwen"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "mwen kanpe devan ou"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "e ou ap gade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:40:42.645869044Z",
+  "model": "glm-5.3"
+}

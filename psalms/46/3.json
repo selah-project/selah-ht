@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Se poutèt sa nou pa pè, lè tè a ap chanje, ak lè mòn yo ap glise nan kè lanmè yo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Se poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "lè ... ap chanje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ak lè ... ap glise"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "nan kè"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lanmè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:32.424500469Z",
+  "model": "glm-5.3"
+}

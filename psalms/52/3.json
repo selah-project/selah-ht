@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Poukisa ou ap fè glwa nan move a, ou gason fò? Hesed El la dire tout jou.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ou ap fè glwa"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nan move a"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "ou gason fò"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:29.230458427Z",
+  "model": "glm-5.3"
+}

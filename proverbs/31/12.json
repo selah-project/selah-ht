@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Li fè l byen, e li pa fè l mal, tout jou lavi l.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "Li fè l"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "lavi l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:40.557637248Z",
+  "model": "glm-5.3"
+}

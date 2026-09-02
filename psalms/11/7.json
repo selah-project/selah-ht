@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Paske Yawe ⟨se⟩ yon moun jis, li renmen jistis; moun k ap dwat yo gade figè l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yon moun jis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "li renmen"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "moun k ap dwat yo"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "figè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:26.562786707Z",
+  "model": "glm-5.3"
+}

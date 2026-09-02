@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E pou Hanokh te fèt ⟨את⟩ Irad, e Irad fè ⟨את⟩ Mehuyael, e Mehuyael fè ⟨את⟩ Metouchael, e Metouchael fè ⟨את⟩ Lemekh.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "E … te fèt"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "pou Hanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Irad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "e Irad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mehuyael"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mehuyael"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "e Mehuyael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metouchael"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metouchael"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "e Metouchael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemekh"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemekh"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:21.773493611Z",
+  "model": "glm-5.3"
+}

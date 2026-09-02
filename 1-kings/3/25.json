@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E wa a di: Koupe timoun vivan an an de, epi bay ⟨את⟩ mwatye a youn, epi bay ⟨את⟩ mwatye a ⟨lòt la⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timoun vivan an"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "החי",
+      "gloss": "vivan an"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "an de"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "epi bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwatye a"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "mwatye a"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "a youn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "mwatye a"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "mwatye a"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "a ⟨lòt la⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:08.932481777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "David gen fòs sou Filisyen an ak yon frond ak yon wòch; l frape ⟨את⟩ Filisyen an epi fè l mouri — men pa ⟨te⟩ gen epe nan men David.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "gen fòs sou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filisyen an"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "ak frond"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "ak wòch"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filisyen an"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filisyen an"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "fè l mouri"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "epe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:48.430994509Z",
+  "model": "glm-5.3"
+}

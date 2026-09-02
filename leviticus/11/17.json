@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "ak ⟨את⟩ ti chouèt la, ak ⟨את⟩ kormoran an, ak ⟨את⟩ gwo chouèt la,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ti chouèt la"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ti chouèt la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kormoran an"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "kormoran an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "gwo chouèt la"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "gwo chouèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:26.967284120Z",
+  "model": "glm-5.3"
+}

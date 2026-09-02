@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E wa Achou a koute l: e wa Achou a monte ale Damachèk, pran l, e depòte moun l yo ale Kir; e ⟨את⟩ Retsin li fè mouri.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achou"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damachèk"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "pran l"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "depòte"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "fè mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:34.669839144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E l raze tèt li, men l pa raze ⟨את⟩ nètek la; e kòhen an ap fèmen ⟨את⟩ moun ki gen nètek la sèt jou dezyèm fwa.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "e l raze tèt li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "men ⟨את⟩",
+      "marks": "nètek la"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "nètek la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "raze"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "e ... ap fèmen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki gen nètek la"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "nètek la"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "dezyèm fwa"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:55.897565837Z",
+  "model": "glm-5.3"
+}

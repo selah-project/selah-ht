@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi Yoav reponn epi li di: Pa janm! Pa janm pou mwen si m t ale vale oswa detwi!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Pa janm"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Pa janm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si m"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "vale"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "detwi"
+    }
+  ],
+  "timestamp": "2026-09-02T17:48:59.652059057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Beni Yawe depi Tsiyòn, ⟨ki⟩ ap rete nan Yerouchalayim. Louwe Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "depi Tsiyòn"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ap rete"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Louwe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:17.611040156Z",
+  "model": "glm-5.3"
+}

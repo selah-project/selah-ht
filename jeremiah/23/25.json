@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "M'entann ⟨את⟩ sa pwofèt yo di, yo k'ap pwofètize mansòn nan non mwen, pou yo di: Mwen fè rèv, mwen fè rèv.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "M'entann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "pwofèt yo"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "k'ap pwofètize"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "nan non mwen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mansòn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Mwen fè rèv"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "mwen fè rèv"
+    }
+  ],
+  "timestamp": "2026-09-02T18:57:05.111268848Z",
+  "model": "glm-5.3"
+}

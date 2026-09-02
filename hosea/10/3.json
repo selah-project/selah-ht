@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Se pou sa koulye a yo ap di: Pa gen wa pou nou, paske nou pa t pè ⟨את⟩ Yawe; e wa a — sa l ap fè pou nou?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Se pou sa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "koulye a"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "e wa a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:57:52.764208586Z",
+  "model": "glm-5.3"
+}

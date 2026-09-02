@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "e li kanpe fèm nan mitan parsel la, e li delivre l, e li frape ⟨את⟩ Filistyen yo; Yawe fè yon gwo delivrans.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "e li kanpe fèm"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "parsel la"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "e li delivre l"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e li frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistyen yo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "... fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gwo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:52:19.796030468Z",
+  "model": "glm-5.3"
+}

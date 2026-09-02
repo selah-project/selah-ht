@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Lè maten rive, lespri Paro te truble; li voye rele ⟨את⟩ tout majsisyen Mitsrayim ak ⟨את⟩ tout moun saj li yo. Paro rakonte ba yo ⟨את⟩ rev li — men pa t gen entèprèt ki ka entèprte ⟨את⟩ yo pou Paro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "li fèt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "te truble"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "lespri l"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "li voye"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout majsisyen Mitsrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "majsisyen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout moun saj li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "moun saj li yo"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "rakonte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rev li"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "rev l"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men pa gen"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "entèprèt"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "pou Paro"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "pou Paro"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:19.366122207Z",
+  "model": "glm-5.3"
+}

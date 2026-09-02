@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Kounye a ou malediksyon, soti nan tè a ki louvri ⟨את⟩ bouch li pou l pran ⟨את⟩ san frè ou a nan men ou.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kounye a"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "malediksyon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צתה",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch li"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "pou l pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san frè ou a"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "san"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou a"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "nan men ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:17.454473111Z",
+  "model": "glm-5.3"
+}

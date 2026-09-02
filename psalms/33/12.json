@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Kè kontan pou nasyon an kote Yawe se Elohim l; pèp ⟨li⟩ chwazi pou eritaj pou li.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kè kontan pou"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "nasyon an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim l"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "chwazi"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "pou eritaj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:23.957349778Z",
+  "model": "glm-5.3"
+}

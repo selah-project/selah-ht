@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 129,
+  "translation": "Ke yo tankou zèb sou do kay yo, ki seche avan li menm rive sisipe.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ke yo ⟨gen⟩"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "tankou zèb"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "sou do kay yo"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "avan"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "rive sisipe"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "seche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:17.765157243Z",
+  "model": "glm-5.3"
+}

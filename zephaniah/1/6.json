@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "ak ⟨את⟩ moun ki vire do yo dèyè Yawe, ⟨moun⟩ ki pa chèche ⟨את⟩ Yawe epi ki pa chèche l.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "moun ki vire do yo"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "moun ki vire do yo"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "⟨moun⟩ ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi ki pa"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "chèche l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:44:50.946812034Z",
+  "model": "glm-5.3"
+}

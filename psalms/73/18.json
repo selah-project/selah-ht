@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Se vrèman nan kote glisan ⟨ou⟩ mete yo, ⟨ou⟩ fè yo tonbe nan ravaj.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Se vrèman"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "nan kote glisan"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "ou fè yo tonbe"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "nan ravaj"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:48.332201620Z",
+  "model": "glm-5.3"
+}

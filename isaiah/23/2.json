@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Rete an silans, moun k ap abite zile a; ⟨ou⟩ machann Tsidon, ki travèse lanmè a, yo fin ranpli ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "rete an silans"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "moun k ap abite"
+    },
+    {
+      "surface": "אי",
+      "gloss": "zile a"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "machann"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ki travèse"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "yo fin ranpli ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:46.455862423Z",
+  "model": "glm-5.3"
+}

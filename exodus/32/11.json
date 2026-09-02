@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E Moche èzeye aplpe ⟨את⟩ figi Yawe, Elohim li a, e li di: Poukisa, Yawe, kòlè w ap cho sou pèp w la, ki ou menm fè soti nan peyi Mitsrayim ak yon fòs gran ak ak yon men fò?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "èzeye aplpe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi Yawe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim li"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "ap cho"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kòlè w"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "sou pèp w"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "ou fè soti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ak fòs"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ak men"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fò"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:31.365197082Z",
+  "model": "glm-5.3"
+}

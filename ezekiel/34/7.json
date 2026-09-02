@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Poutèt sa, bèje yo, koute ⟨את⟩ pawòl Yawe a.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Poutèt sa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "bèje yo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "koute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl la"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:24:24.325730699Z",
+  "model": "glm-5.3"
+}

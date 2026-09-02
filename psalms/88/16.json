@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Mwen mizerab, mwen menm, e mwen ap mouri depi jènnes m; mwen pote pè ou yo, mwen pèdi sansasyon.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "mizerab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "e ap mouri"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "depi jènnes"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mwen pote"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "pè ou"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "mwen pèdi sansasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:55.906020743Z",
+  "model": "glm-5.3"
+}

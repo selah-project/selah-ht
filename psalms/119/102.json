@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen pa vire kite jijman ou yo, paske se ou menm ki monte m.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "jijman ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "vire kite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "ki monte m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:38.378508551Z",
+  "model": "glm-5.3"
+}

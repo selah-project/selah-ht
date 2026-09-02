@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Wa yo nan Tarchich ak zile yo ap voye tribi; wa yo nan Cheva ak Seva ap pote kado.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "wa yo nan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarchich"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ak zile yo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ap voye"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa yo nan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ak Seva"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "kado"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ap pote"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:48.710329078Z",
+  "model": "glm-5.3"
+}

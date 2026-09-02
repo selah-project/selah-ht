@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 101,
+  "translation": "Yon kè tòdi ap vire lwen de sou m; move, m pa ap konnen ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "tòdi"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ap vire lwen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de sou m"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "m ap konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:16.607702541Z",
+  "model": "glm-5.3"
+}

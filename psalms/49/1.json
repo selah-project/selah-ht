@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Pou chèf mizisyen an, pou pitit Korach yo, yon mizmo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:59.513709786Z",
+  "model": "glm-5.3"
+}

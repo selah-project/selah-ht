@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Yawe, nan syèl yo hesed ou (lanmou fidèl ou); emounat ou rive jouk nan nyaj yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "emounat ou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "rive jouk"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nan nyaj yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:10.821111655Z",
+  "model": "glm-5.3"
+}

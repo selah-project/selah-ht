@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Yo te langwe anpil anvan y ap dezi nan dezè a, epi yo tente El nan yechimòn an.",
+  "tokens": [
+    {
+      "surface": "וַיִּתְאַוּ֣וּ",
+      "gloss": "yo te dezi"
+    },
+    {
+      "surface": "תַ֭אֲוָה",
+      "gloss": "anvan y ap dezi"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "וַיְנַסּ֥וּ",
+      "gloss": "yo tente"
+    },
+    {
+      "surface": "אֵ֝ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בְּיָשִׁימֽוֹן",
+      "gloss": "nan yechimòn an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:37.376320178Z",
+  "model": "glm-5.3"
+}

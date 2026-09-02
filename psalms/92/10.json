@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Paske gade, enmi ou yo, Yawe; paske gade, enmi ou yo ap pèdi; tout moun ki fè mal ap dispeye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "enmi ou yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "enmi ou yo"
+    },
+    {
+      "surface": "ייאבדו",
+      "gloss": "ap pèdi"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "ap dispeye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "און",
+      "gloss": "mal"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:25.486753767Z",
+  "model": "glm-5.3"
+}

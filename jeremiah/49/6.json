@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Apre sa m ap fè tounen ⟨את⟩ egzil pitit Amòn yo, orakl Yawe a.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "m ap fè tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egzil"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "egzil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amòn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orakl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:07:39.784939989Z",
+  "model": "glm-5.3"
+}

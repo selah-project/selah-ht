@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "Nanm mwen nan mitan lyon yo; m kouché mitan moun ki an flàm, pitit moun yo, dan yo lanz ak flèch, ak lang yo yon kle fòch.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "lyon yo"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "m kouché"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "ki an flàm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dan yo"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lanz"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ak flèch"
+    },
+    {
+      "surface": "ו לשונם",
+      "gloss": "ak lang yo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kle"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "fòch"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:58.857818794Z",
+  "model": "glm-5.3"
+}

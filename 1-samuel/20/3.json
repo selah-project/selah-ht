@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 20:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi David jimen ankò, epi li di: Wi, papa w konnen byen konnen papa w konnen ⟨⟨mwen⟩⟩ — papa w konnen sètenman ke m jwenn gras nan zye w, epi li di: Ann pa fè Yehonatan konnen sa a, pou l pa chagrin. Men, tankou Yawe vivan, epi tankou lavi ou vivan, se sèlman yon pwi ki antre ant m ak lanmò.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "jimen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen byen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "m jwenn"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gras"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nan zye w"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ann pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "l pa chagrin"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "Men"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "epi tankou vivan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lavi ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "כפשע",
+      "gloss": "sèlman yon pwi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ant m"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lanmò a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:17.676192896Z",
+  "model": "glm-5.3"
+}

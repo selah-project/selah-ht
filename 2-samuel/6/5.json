@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "David ak tout kay Yisrael te jwe devan Yawe ak tout zouti bwa chipè, ak alpa, ak nel, ak tanbou, ak chaking, ak simbal.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "jwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "zouti bwa"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "chipè"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "ak alpa"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "ak nel"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "ak tanbou"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "ak chaking"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "ak simbal"
+    }
+  ],
+  "timestamp": "2026-09-02T17:42:49.255357107Z",
+  "model": "glm-5.3"
+}

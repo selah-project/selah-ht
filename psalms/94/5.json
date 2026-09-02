@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Pèp ou a, Yawe, yo kraze l, e eritaj ou a, yo ap opwime l.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Pèp ou a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "yo kraze"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "e eritaj ou a"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "yo ap opwime"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:13.480949040Z",
+  "model": "glm-5.3"
+}

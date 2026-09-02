@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "pou ⟨את⟩ ou fè kanpe jodi a pou li kòm yon pèp, epi li ap ye pou ou kòm Elohim, jan li pale ak ou, epi jan li sèmen ak papa ou yo — avè Avraham, avè Yitshak, ak avè Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "fè kanpe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kòm yon pèp"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "epi li"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kòm Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "epi jan"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sèmen"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ak papa ou yo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "avè Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "avè Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ak avè Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:22.961782697Z",
+  "model": "glm-5.3"
+}

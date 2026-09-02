@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Men, m ap reveye yo soti nan kote kote ou vann ⟨את⟩ yo a, e m ap fè retribisyon ou yo tounen sou tèt ou yo.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Men, m"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "ap reveye yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ou vann"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (moun ou vann yo)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "e m ap fè tounen"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "retribisyon ou yo"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "sou tèt ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:36:26.517566053Z",
+  "model": "glm-5.3"
+}

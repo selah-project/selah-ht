@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Kohen an ap bay lòd, epi yo ap touye ⟨את⟩ youn nan zwazo yo, nan yon veso tè, sou dlo ki ap koule.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ap bay lòd"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen an"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ap touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "youn nan zwazo yo"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "zwazo a"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "youn nan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "veso"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ki ap koule"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:41.003908547Z",
+  "model": "glm-5.3"
+}

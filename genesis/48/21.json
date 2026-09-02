@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "E Yisrayèl di bay Yosèf: Gade, mwen ap mouri, e Elohim pral ⟨ap⟩ avèk nou, e l ap fè nou tounen ann tè zansèt nou yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e pral"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avèk nou"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "e fè tounen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ann"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "zansèt nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:37:32.022491299Z",
+  "model": "glm-5.3"
+}

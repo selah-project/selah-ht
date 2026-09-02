@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Yo wè mache ou yo, Elohim, mache El la mwen an, wa m an, nan kadosh la.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "yo wè"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "mache ou yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "mache"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mwen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa m"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nan kadosh la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:49.307730369Z",
+  "model": "glm-5.3"
+}

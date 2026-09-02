@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Sa ki kroke pa ka redrese, e sa ki manke pa ka konte.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "sa ki kroke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "redrese"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "e sa ki manke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "konte"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:09.962329238Z",
+  "model": "glm-5.3"
+}

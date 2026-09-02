@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Fanm sa yo ki fè aksouchaj te pè HaElohim, epi yo pa fè jan wa Mitsrayim la te pale avèk yo a, men yo te kite timoun yo ap viv.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "pè"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "fanm ki fè aksouchaj yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "avèk yo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "epi yo kite ap viv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timoun yo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "timoun yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:57.107655756Z",
+  "model": "glm-5.3"
+}

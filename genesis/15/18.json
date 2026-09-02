@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Nan jou sa a Yawe fè ⟨את⟩ Avram yon berit, li di: Pou pitit ou yo, mwen bay ⟨את⟩ tè sa a, soti nan rivyè Mitsrayim rive nan gwo rivyè a, rivyè Perat:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "koupe\/fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "yon berit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "pou pitit ou yo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè sa a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "soti nan rivyè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "rivyè a"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rivyè"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-02T15:19:19.722991900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Yawe, Adònay nou an, kijan non ou glwaye nan tout tè a!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adònay nou an"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kijan"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "glwaye"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:47.244946346Z",
+  "model": "glm-5.3"
+}

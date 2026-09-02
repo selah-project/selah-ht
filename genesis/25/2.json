@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi li fè poute pou l ⟨את⟩ Zimran, ak ⟨את⟩ Yakchan, ak ⟨את⟩ Medan, ak ⟨את⟩ Midyan, ak ⟨את⟩ Yichbak, ak ⟨את⟩ Chouach.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "fè poute"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yakchan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yakchan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yichbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yichbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chouach"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Chouach"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:42.308791939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Yon fòm sipòte ou kenbe nan lapè, lapè, paske nan ou ⟨li⟩ gen konfyans.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "fòm"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "sipòte"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ou kenbe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "gen konfyans"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:01.769090264Z",
+  "model": "glm-5.3"
+}

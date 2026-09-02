@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Yawe ap raze ⟨את⟩ lang lanmè Mitsrayim, li ap aje men l sou rivè a ak van ki fè pè souf li, epi li ap frape l an sèt rivyè, epi li ap fè moun mache atè ak sandal.",
+  "tokens": [
+    {
+      "surface": "והחרים",
+      "gloss": "ap raze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lang lanmè Mitsrayim"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lang"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ap aje"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "rivè a"
+    },
+    {
+      "surface": "בעים",
+      "gloss": "ak"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "souf l"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "ap frape l"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "an sèt"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "rivyè"
+    },
+    {
+      "surface": "והדריך",
+      "gloss": "ap fè mache"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "ak sandal"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:25.854724241Z",
+  "model": "glm-5.3"
+}

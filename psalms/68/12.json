@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Adònay bay pawòl la; fanm k ap pibliye nouvèl la — yon lame ki gen anpil sòlda.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "fanm k ap pibliye nouvèl la"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "lame"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ki gen anpil sòlda"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:20.681553153Z",
+  "model": "glm-5.3"
+}

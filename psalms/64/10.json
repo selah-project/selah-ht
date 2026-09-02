@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "Epi tout moun ap pè, y ap anonse travay Elohim, ak zèv ⟨li⟩ y ap konsidè avèk sajès.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ap pè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "y ap anonse"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "travay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "ak zèv ⟨li⟩"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "konsidè avèk sajès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:05.646078278Z",
+  "model": "glm-5.3"
+}

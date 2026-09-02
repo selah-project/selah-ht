@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Chekem, pitit gason Chamòr lavit, chèf peyi a, wè ⟨את⟩ li; li pran ⟨את⟩ li, li kouchye ak ⟨את⟩ li, e li avili l.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamòr"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "lavit"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "kouchye ak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "avili"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:58.142020826Z",
+  "model": "glm-5.3"
+}

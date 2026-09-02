@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Paske wa a ap tande pou delivre ⟨את⟩ sèvant li (fanm) nan men nonm la ki vle detwi ⟨את⟩ mwen ak ⟨את⟩ pitit mwen ansanm, pou nou pa koupe soti nan eritaj Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ap tande"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "pou delivre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvant li (fanm)"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "sèvant li (fanm)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm la"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "pou detwi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit mwen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "soti nan eritaj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:30.158933390Z",
+  "model": "glm-5.3"
+}

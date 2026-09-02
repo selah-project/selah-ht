@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Vrèman, Yawe, wa yo Achour ravaje ⟨את⟩ nasyon yo ak ⟨את⟩ peyi yo.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Vrèman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ravaje"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasyon yo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "peyi yo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "peyi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:19:10.059258676Z",
+  "model": "glm-5.3"
+}

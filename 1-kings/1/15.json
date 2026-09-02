@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Bat-Cheva antre kotè wa a, nan chanm l; wa a te fin vye anpil; e Avichag, fiy Chounem la, t ap sèvi ⟨את⟩ wa a.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "epi … antre"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kotè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "nan chanm l"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "epi wa a"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "te fin vye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "epi Avichag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "fiy Chounem la"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "t ap sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:04.950952617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi Yaakov vin pre Yitshak, papa l, epi l pèze l, epi l di: ⟨se⟩ vwa a vwa Yaakov, epi men yo ⟨se⟩ men Esav.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "epi l vin pre"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "epi l pèze l"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi l di"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "vwa a"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "epi men yo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:10.958782125Z",
+  "model": "glm-5.3"
+}

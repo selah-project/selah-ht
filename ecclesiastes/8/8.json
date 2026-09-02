@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Pa gen moun ki gen pouvwa sou ⟨la⟩ van an pou anprizone ⟨את⟩ van la, e pa gen otorite nan jou lanmò a, e pa gen revoke nan lagè a, e mechant pa delivre ⟨את⟩ mèt li.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Pa gen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "ki gen pouvwa sou"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "⟨la⟩ van an"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "pou anprizone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van la"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "van la"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "otorite"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lanmò a"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "revoke"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "nan lagè a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e … pa"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mèt li"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "mèt li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:25.734382530Z",
+  "model": "glm-5.3"
+}

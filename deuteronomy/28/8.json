@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Yawe ap kòmande ⟨את⟩ ⟨ak ou⟩ ⟨את⟩ benediksyon an nan kacho ou yo ak nan tout sa men w lan voye fè; Yawe ap beni w nan tè a ke Yawe, Elohim ou, ap bay ou.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "ap kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨ak ou⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benediksyon an"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "benediksyon an"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "nan kacho ou yo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak nan tout"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sa ... voye fè"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men w lan"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "epi ap beni w"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:19.477303041Z",
+  "model": "glm-5.3"
+}

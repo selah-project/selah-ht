@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Adònay ri pou li, paske li wè ke jou l ap vini.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "jou l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:32.510096391Z",
+  "model": "glm-5.3"
+}

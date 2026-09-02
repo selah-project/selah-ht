@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi Yawe di bay Moche: Gade, mwen mete ou kòm Elohim pou Paro, e Aharòn, frè w, ap vin pwofèt ou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "mwen mete ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "pou Paro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharòn"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè w"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "pwofèt ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:42:26.118813034Z",
+  "model": "glm-5.3"
+}

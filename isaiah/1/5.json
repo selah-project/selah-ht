@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Sou kisa n ap pòte frape ankò? N ap kontinye ajoute revòlt! Tout tèt malad, ak tout kè doulè.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "מֶה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "תֻכּוּ",
+      "gloss": "n ap pòte frape"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "תּוֹסִיפוּ",
+      "gloss": "n ap kontinye ajoute"
+    },
+    {
+      "surface": "סָרָה",
+      "gloss": "revòlt"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "לָחֳלִי",
+      "gloss": "malad"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "לֵבָב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "דַּוָּי",
+      "gloss": "doulè"
+    }
+  ],
+  "timestamp": "2026-09-02T22:11:26.168615273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E Yawe te dekouvwi ⟨את⟩ zòrèy Chemwèl yon jou anvan Chaoul vini, pandan l ap di:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "E Yawe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "dekouvwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zòrèy"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "zòrèy"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemwèl"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pandan l ap di"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:33.911843688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Yofèf fè ⟨את⟩ yo soti ant jenou l, e li pwochinen sou figi l sou tè a.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yofèf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "jenou l"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "pwochinen"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "sou figi l"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:36:52.028089509Z",
+  "model": "glm-5.3"
+}

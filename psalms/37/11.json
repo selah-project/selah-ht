@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi anvanm yo ap eritye tè a, epi yo ap jwi sou anpil Chalom.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "Epi anvanm yo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ap eritye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "epi yo ap jwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Chalom"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:14.704125220Z",
+  "model": "glm-5.3"
+}

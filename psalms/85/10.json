@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Se sèlman, delivrans li a pre, pou moun ki pè l yo, pou ⟨li⟩ rete ak glwa ⟨li⟩ nan peyi nou an.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Se sèlman"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "pre"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "pou moun ki pè l yo"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "delivrans li"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "pou ⟨li⟩ rete"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "nan peyi nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:54.551519635Z",
+  "model": "glm-5.3"
+}

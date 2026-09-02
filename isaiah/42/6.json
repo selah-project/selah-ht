@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Mwen, Yawe, mwen rele ou nan jistis, epi mwen kenbe menm ou, epi mwen proteje ou, epi mwen bay ou kòm alyans pou pèp la, kòm limyè pou nasyon yo —",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mwen rele ou"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nan jistis"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "epi mwen kenbe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "menm ou"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "epi mwen proteje ou"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "epi mwen bay ou"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "kòm alyans"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kòm limyè"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:17.184227438Z",
+  "model": "glm-5.3"
+}

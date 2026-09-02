@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Li voye pawòl li, e li geri yo, e li delivre yo nan gòlj yo tonbe a.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Li voye"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pawòl li"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "e li geri yo"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "e li delivre yo"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "nan gòlj yo tonbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:56.329635094Z",
+  "model": "glm-5.3"
+}

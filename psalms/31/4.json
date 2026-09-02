@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Paske w se wòch m ak fòtèrèt m; e ⟨paske⟩ se pou non ou, gide m ak kondwi m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "wòch m"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ak fòtèrèt m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "w"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e pou"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "gide m"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ak kondwi m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:34.994163459Z",
+  "model": "glm-5.3"
+}

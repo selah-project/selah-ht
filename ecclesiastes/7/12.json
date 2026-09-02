@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Paske nan lonbraj sajès la gen pou nan lonbraj lajan an, e avantaj konesans la se ke sajès la fè moun ki posede l vivan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nan lonbraj"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "sajès la"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nan lonbraj"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lajan an"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "e avantaj"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "sajès la"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "fè moun ki posede l vivan"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "moun ki posede l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:24.796097949Z",
+  "model": "glm-5.3"
+}

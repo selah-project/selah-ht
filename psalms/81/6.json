@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Yon temwayaj li mete sou Yocèf, lè ⟨li⟩ soti sou tè Mitsrayim; yon lang m pa te konnen — m tande.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "temwayaj"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "sou Yocèf"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "lè ⟨li⟩ soti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa (te)"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m konnen"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "m tande"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:01.737687832Z",
+  "model": "glm-5.3"
+}

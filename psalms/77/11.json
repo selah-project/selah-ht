@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "E mwen di: Fèblès mwen — se chanjman men dwat Elyòn.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E mwen di"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "fèblès mwen"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "chanjman"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "men dwat"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:17.057515459Z",
+  "model": "glm-5.3"
+}

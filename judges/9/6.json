@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 9:6",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi tout mèt Chekèm yo ak tout kay Milo yo reyini ansanm, e yo ale, e yo fè ⟨את⟩ Avimelek wa, bò pyebwa pilar ki kanpe nan Chekèm.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "epi … reyini ansanm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mèt"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekèm"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e yo ale"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "e yo fè … wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bò"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "pyebwa"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "pilar ki kanpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "nan Chekèm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:15:58.378094462Z",
+  "model": "glm-5.3"
+}

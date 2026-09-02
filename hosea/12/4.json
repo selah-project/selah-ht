@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Nan vant li, li pran frè l pa talon ⟨את⟩; e nan fòs li, li goumen avèk Elohim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "nan vant li"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "li pran pa talon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè l"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "e nan fòs li"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "li goumen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:54.876173594Z",
+  "model": "glm-5.3"
+}

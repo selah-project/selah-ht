@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi David rasanble ⟨את⟩ tout pèp la, epi l ale Ravva, epi li goumen kont l, epi li pran l.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "epi rasanble"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pèp la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "epi ale"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Ravva"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "epi goumen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kont l"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "epi pran l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:39.403075045Z",
+  "model": "glm-5.3"
+}

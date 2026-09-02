@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Y ap pè ou pandan solèy la ap la, e devan lalin nan, jenerasyon sou jenerasyon.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Y ap pè ou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pandan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e devan"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "lalin nan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "sou jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:23.797407957Z",
+  "model": "glm-5.3"
+}

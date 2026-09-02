@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E li di Avraham: Chase sèvant sa a lwen, ak ⟨את⟩ pitit li a; paske pitit sèvant sa a p ap eritye ansanm ak pitit mwen, ansanm ak Yitshak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "chase lwen"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sèvant"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit li a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "p ap"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "eritye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sèvant"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:33.474471584Z",
+  "model": "glm-5.3"
+}

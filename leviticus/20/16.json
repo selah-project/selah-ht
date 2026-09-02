@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi yon fanm ki pwoche bò nenpòt bèt pou kouch avèk ⟨את⟩ l — ou ap touye ⟨את⟩ fanm nan epi ⟨את⟩ bèt la; mòt, yo ap mouri; san yo ap sou yo.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Epi yon fanm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "pwoche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "pou kouch avèk l"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (fanm nan)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "epi ou ap touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm nan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "bèt la"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt la"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mòt"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "yo ap mouri"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "san yo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:41.841989Z",
+  "model": "glm-5.3"
+}

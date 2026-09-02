@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi moun ki vòlè yon nonm epi vann l, epi yo jwenn l nan men l — mouri ⟨dwe⟩ mouri.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Epi moun ki vòlè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "epi vann l"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "epi yo jwenn"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dwe mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:09.349103123Z",
+  "model": "glm-5.3"
+}

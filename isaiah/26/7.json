@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Wout moun jis la se dwat, ou ki dwat ou menm ap applanjen chemen moun jis la.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "wout"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "moun jis la"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ou ki dwat"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "applanjen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:29:26.224834550Z",
+  "model": "glm-5.3"
+}

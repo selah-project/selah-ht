@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 43:28",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Se poutèt sa m ap vyole chèf sanktifye yo, e m ap bay Yaakov nan destriksyon, ak Yisrael nan dezonètman.",
+  "tokens": [
+    {
+      "surface": "וָאֲחַלֵּל",
+      "gloss": "m ap vyole"
+    },
+    {
+      "surface": "שָׂרֵי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "sanktifye yo"
+    },
+    {
+      "surface": "וְאֶתְנָה",
+      "gloss": "e m ap bay"
+    },
+    {
+      "surface": "לַחֵרֶם",
+      "gloss": "nan destriksyon"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וְיִשְׂרָאֵל",
+      "gloss": "ak Yisrael"
+    },
+    {
+      "surface": "לְגִדּוּפִים",
+      "gloss": "nan dezonètman"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:09.159691477Z",
+  "model": "glm-5.3"
+}

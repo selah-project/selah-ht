@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi li lave ⟨את⟩ vant anndan yo ak ⟨את⟩ janm yo, epi li fè yo fimen sou ofran dife a, sou lotèl la.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vant anndan yo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "vant anndan yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "janm yo"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "janm yo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "fè fimen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofran dife a"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:28.020454220Z",
+  "model": "glm-5.3"
+}

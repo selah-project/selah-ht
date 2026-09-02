@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Konsènan aksyon moun yo — dapre pawòl lvè w la, mwen te gadam, konsènan chemen vyolan an.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Konsènan aksyon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dapre pawòl"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lvè w la"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "te gadam"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "vyolan an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:05.359030298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Li vin ansent, li fè yon pitit gason, e li di: Elohim rache ⟨את⟩ wont mwen an.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "li vin ansent"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "li fè yon pitit gason"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "rache"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wont mwen an"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "wont mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:11.001942831Z",
+  "model": "glm-5.3"
+}

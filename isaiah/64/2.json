@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "Lè w ap fè bagay k ap fè kè sote, nou pa t tann ⟨sa⟩ — ou te desann, devan figi ou mòn yo te koule.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "Lè w ap fè"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "bagay k ap fè kè sote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "tann"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "ou te desann"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "devan figi ou"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "te koule"
+    }
+  ],
+  "timestamp": "2026-09-02T18:43:34.282253596Z",
+  "model": "glm-5.3"
+}

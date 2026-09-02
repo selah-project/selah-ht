@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Fè pou tèt ou de twonpèt ajan; travay mache ou ap fè ⟨את⟩ yo; epi yo ap pou ou pou konvoke asanble a, epi pou fè ⟨את⟩ kàn yo deplase.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou tèt ou"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "twonpèt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "travay mache"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou ap fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (de twonpèt yo)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "epi yo ap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "pou konvoke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "ו למסע",
+      "gloss": "epi pou fè deplase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kàn yo"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "kàn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:46:03.821955908Z",
+  "model": "glm-5.3"
+}

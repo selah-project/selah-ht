@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Epi Yaakov tande ki (yò) te vin miyò ⟨את⟩ Dina, pitit fi l a, pandan pitit gason l yo te ye ⟨את⟩ ak bèt kay li yo nan chan an — epi Yaakov rete an silans jouk lè ⟨yo⟩ te rive.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Epi Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "te vin miyò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "pitit fi l"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ak",
+      "marks": "bèt kay li yo (prepozisyon את, se pa mak objè a)"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "bèt kay li yo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan chan an"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "epi ... rete an silans"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk lè"
+    },
+    {
+      "surface": "באם",
+      "gloss": "yo te rive"
+    }
+  ],
+  "timestamp": "2026-09-02T22:33:43.641444769Z",
+  "model": "glm-5.3"
+}

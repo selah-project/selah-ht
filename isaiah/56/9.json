@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 56,
+  "translation": "Tout bèt chan yo, vini pou devore, tout bèt bwa a.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "chan yo"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "vini"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pou devore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "nan bwa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:40:49.728460872Z",
+  "model": "glm-5.3"
+}

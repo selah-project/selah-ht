@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "M ap fè w monte wo, Yawe, paske ou te rale m monte, e ou pa fè ènmi m yo rejoyi sou m.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "fè w monte wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "rale m monte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ou pa"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "fè ... rejoyi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ènmi m yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sou m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:18.459325993Z",
+  "model": "glm-5.3"
+}

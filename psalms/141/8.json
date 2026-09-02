@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 141,
+  "translation": "Paske je m kanpe ba ou, Yawe, Adònay — nan ou m pran refij; pa vide nanm m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m pran refij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תער",
+      "gloss": "vide"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:28.135504635Z",
+  "model": "glm-5.3"
+}

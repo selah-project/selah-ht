@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Paske ou menm konnen ⟨את⟩ sa n ap rete nan peyi Mitsrayim, ak ⟨את⟩ sa n ap pase nan mitan nasyon yo, sa ou menm te pase nan mitan yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa n ap rete nan peyi Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "n ap rete"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa n ap pase nan mitan nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "n ap pase"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "ou menm te pase"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:47.763835972Z",
+  "model": "glm-5.3"
+}

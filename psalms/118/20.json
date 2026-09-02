@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Se pòtay ⟨la⟩ pou Yawe ⟨ye⟩; moun jis yo ap antre nan l.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pòtay la"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ap antre"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:45.684373716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Men si vyann viv la tounen, e l vire vin blan ankò, l ap al jwenn kohen nan.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Men si"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "החי",
+      "gloss": "viv la"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "vire vin"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "blan ankò"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ap al jwenn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:15.893173740Z",
+  "model": "glm-5.3"
+}

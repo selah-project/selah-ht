@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi fi a di sèpan an: Nan fwi pye jaden an nou manje.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fi a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "sèpan an"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "nan fwi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pye"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "nou manje"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:19.736011322Z",
+  "model": "glm-5.3"
+}

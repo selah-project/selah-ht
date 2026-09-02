@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Pou chèf mizisyen an, sou Chochanim, yon temwayaj pou Asaf, yon mizmo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Chochanim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "yon temwayaj"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:17.381433184Z",
+  "model": "glm-5.3"
+}

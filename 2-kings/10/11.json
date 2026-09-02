@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Yehou frappe ⟨את⟩ tout moun ki te rete pou kay Ahab nan Yizreèl, ak tout gran moun l yo, ak zanmi l yo, ak prèt li yo — jiska l pa kite yon sivivan pou l.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "frappe"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout moun ki te rete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "moun ki te rete"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pou kay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "nan Yizreèl"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "gran moun l yo"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "ak zanmi l yo"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "ak prèt li yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "kite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou l"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "yon sivivan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:13:12.383512966Z",
+  "model": "glm-5.3"
+}

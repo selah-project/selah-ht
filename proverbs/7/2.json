@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Kenbe kòmandman m yo epi viv, epi lwa m kòm priz zye ou.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Kenbe"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kòmandman m yo"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "epi viv"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "epi lwa m"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "kòm priz zye"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ou",
+      "marks": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.584122639Z",
+  "model": "glm-5.3"
+}

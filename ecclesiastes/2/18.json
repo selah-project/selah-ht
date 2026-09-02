@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E mwen menm, mwen te rayi ⟨את⟩ tout travay pa mwen ke mwen te fatigue m fè anba solèy la, paske m ap kite l pou yon nonm ki ap la apre m.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "E mwen te rayi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout travay pa mwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "travay pa mwen"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "ke mwen"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "te fatigue m fè"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "paske m ap kite l"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "pou yon nonm"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ki ap la"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:46.988054724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "E Yaakov, papa yo, di bay yo: ⟨את⟩ mwen nou fin depouye — Yosèf pa gen l, e Chimòn pa gen l, e ⟨את⟩ Binyamin nou pran — sou mwen tout bagay sa yo ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bay yo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "nou fin depouye mwen"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "nou fin depouye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa gen l"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "e Chimòn"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa gen l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "nou pran"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yo ye"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "tout bagay sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:49.467146599Z",
+  "model": "glm-5.3"
+}

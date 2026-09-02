@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi yon moun ki manyen kabann li ap lave rad li, epi ⟨li⟩ ap benyen nan dlo, epi ⟨li⟩ ap vin pa jouk aswè a.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi yon moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "manyen"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "kabann li"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "lave"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "epi ap benyen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "epi ap vin pa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aswè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:08.442235398Z",
+  "model": "glm-5.3"
+}

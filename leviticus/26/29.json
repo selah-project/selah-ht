@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "N ap manje vyann pitit gason nou yo, e vyann pitit fi nou yo n ap manje.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "e n ap manje"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pitit gason nou yo"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "e vyann"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "pitit fi nou yo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "n ap manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:00.047207128Z",
+  "model": "glm-5.3"
+}

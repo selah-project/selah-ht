@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 110,
+  "translation": "Psenm David. Yawe di ⟨a⟩ Adònay mwen an: Chita adwat mwen, jouk mwen fè ènmi yo vin skabann pou pye ou.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Psenm David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "(psenm)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adònay mwen"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Chita"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "adwat mwen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "fè"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ènmi yo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "skabann"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "pou pye ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:07.057087978Z",
+  "model": "glm-5.3"
+}

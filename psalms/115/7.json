@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Men yo genyen, men yo pa manyen; pye yo genyen, men yo pa mache; yo pa mèrme nan gòj yo.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "manyen"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "pye yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "mache"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mèrme"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "nan gòj yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:17.039306417Z",
+  "model": "glm-5.3"
+}

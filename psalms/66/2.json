@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Chante glwa non ⟨li⟩, mete glwa sou lov ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "mete"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lov li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:29.649578635Z",
+  "model": "glm-5.3"
+}

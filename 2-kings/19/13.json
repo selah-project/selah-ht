@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Ki kote wa Hamat, wa Arfad, wa lavil Sefarvayim, Hena ak Ivah?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Ki kote"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ak wa"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arfad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ak wa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "lavil"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ak Ivah"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:46.174328146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Menache ⟨את⟩ Efrayim, e Efrayim ⟨את⟩ Menache; ansanm yo kont Yehouda. Malgre tout sa a, kòlè ⟨li⟩ pa vire, e menm kounye a men ⟨li⟩ toned.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "e Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menache"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vire"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kòlè ⟨li⟩"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "e menm kounye a"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men ⟨li⟩"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "toned"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:21.804766206Z",
+  "model": "glm-5.3"
+}

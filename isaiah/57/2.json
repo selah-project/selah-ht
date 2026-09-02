@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "Lapè ap vini, yo pran repo sou kabann yo, ⟨chak moun k ap⟩ mache dwat devan ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "yo pran repo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "kabann yo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨moun k ap⟩ mache"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "dwat devan ⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:10.814090666Z",
+  "model": "glm-5.3"
+}

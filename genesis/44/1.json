@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "E li òdye ⟨את⟩ moun ki sou kay li a, pou l di: Ranpli ⟨את⟩ sak moun yo ak manje, jan yo kapab pote, e mete ajan chak moun nan bouch sak li.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e li òdye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki sou kay li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sak moun yo"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "sak"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "yo kapab"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "pote"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "e mete"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nan bouch"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sak li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:50.103443962Z",
+  "model": "glm-5.3"
+}

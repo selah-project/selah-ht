@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Paske tout jou yo vire ⟨nan⟩ kòlè w la; nou fenkou lame, jou nou yo fini kòm yon soupirasyon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "jou nou yo"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "vire"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "nan kòlè w la"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "nou fenkou lame"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "ane nou yo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kòm"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "yon soupirasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:13.219618598Z",
+  "model": "glm-5.3"
+}

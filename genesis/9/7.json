@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E nou menm, fè pitit, e plizyeye, abonde sou tè a, e plizyeye sou li.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "e nou menm"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "e plizyeye"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "abonde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "e plizyeye"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:20.397328844Z",
+  "model": "glm-5.3"
+}

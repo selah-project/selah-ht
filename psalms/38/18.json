@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Paskè mwen ⟨ap⟩ bòklete, ak doulè mwen an kanpe devan mwen toutan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paskè"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "⟨ap⟩ bòklete"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kanpe aprete"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ak doulè mwen"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "devan mwen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:57.422280642Z",
+  "model": "glm-5.3"
+}

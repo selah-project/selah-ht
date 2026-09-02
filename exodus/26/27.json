@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 26:27",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi senk bar pou plank yo nan kote dezyèm nan tabènakl la, epi senk bar pou plank yo nan kote tabènakl la, pou de kwen dèyè yo, kote solèy kouche.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "epi senk"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "bar"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "pou plank"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "kote"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènakl la"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "dezyèm nan"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "epi senk"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "bar"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "pou plank"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "kote"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènakl la"
+    },
+    {
+      "surface": "לירכתים",
+      "gloss": "pou de kwen dèyè yo"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "kote solèy kouche"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:46.219952533Z",
+  "model": "glm-5.3"
+}

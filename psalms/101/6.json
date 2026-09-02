@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 101,
+  "translation": "Je m ap fème sou moun ki gen lafwa yo nan peyi a pou yo ka rete avèk m; moun ki ap mache nan yon chemen ki dwat, se li menm ki ap sèvi m.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "sou moun ki gen lafwa yo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nan peyi a"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pou yo ka rete"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avèk m"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ki ap mache"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan yon chemen"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ki dwat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ki ap sèvi m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:43.209363356Z",
+  "model": "glm-5.3"
+}

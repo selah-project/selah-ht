@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen erite temwayaj ou yo pou touttan, paske ⟨se⟩ yo kè kontanman kè mwen.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "mwen erite"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "temwayaj ou yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kè kontanman"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:17.124749681Z",
+  "model": "glm-5.3"
+}

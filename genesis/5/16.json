@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Mahalalel viv apre li fè ⟨את⟩ Yered trant ane ak uit san ane, epi li fè pitit gason ak pitit fi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ak uit"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi li fè pitit"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ak pitit fi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:39.894898636Z",
+  "model": "glm-5.3"
+}

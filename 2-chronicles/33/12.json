@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Lè l te nan angoòs, li apèz ⟨את⟩ figi Yawe Elohim li, e li abese tèt li anpil devan Elohim papa l yo.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "lè l te nan angoòs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "apèz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi Yawe Elohim li"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim li"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "abese tèt li"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:35:44.802032785Z",
+  "model": "glm-5.3"
+}

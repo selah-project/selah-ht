@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "⟨את⟩ ajàn ou a ou pa ba li sou enterè, e sou ogmantasyon ou pa ba li manje ou.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajàn ou a"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ajàn ou a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "sou enterè"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "e sou ogmantasyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "manje ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:13.414768104Z",
+  "model": "glm-5.3"
+}

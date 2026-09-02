@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Yo ap kraze pitit tete yo devan zye yo; yo ap pilye kay yo; epi fanm yo ap fòse kouché.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "epi pitit tete yo"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "yo ap kraze"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "devan zye yo"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "yo ap pilye"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "kay yo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "epi fanm yo"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "ap fòse kouché"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:02.615085534Z",
+  "model": "glm-5.3"
+}

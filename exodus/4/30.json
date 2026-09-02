@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Aharòn pale ⟨את⟩ tout pawòl yo ke Yawe te di pou Moche, e ⟨li⟩ fè siy yo devan je pèp la.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "siy yo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "devan je"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:56.785858001Z",
+  "model": "glm-5.3"
+}

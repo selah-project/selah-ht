@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 126,
+  "translation": "Tounen, Yawe, ⟨את⟩ retounen esil nou an, kou kouran dlo yo nan Nègèv la.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Tounen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "retounen esil nou an"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "retounen esil nou an"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "kou kouran dlo yo"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "nan Nègèv la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:05.902853838Z",
+  "model": "glm-5.3"
+}

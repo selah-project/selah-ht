@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Kenbe ⟨את⟩ ti bwak la ak gwo bwak la, epi ⟨ou⟩ leve kanpe pou n al sekou mwen.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "kenbe fèm"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ti bwak"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ak gwo bwak"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "epi leve kanpe"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "nan sekou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:12.227409407Z",
+  "model": "glm-5.3"
+}

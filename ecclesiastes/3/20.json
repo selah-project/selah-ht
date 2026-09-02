@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Tout ale nan yon sèl kote; tout te soti nan pousyè a, e tout tounen annwet pousyè a.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te soti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "pousyè a"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "annwet"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "pousyè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:29.100542239Z",
+  "model": "glm-5.3"
+}

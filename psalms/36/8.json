@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Ki presye hesed ou a, Elohim! Se poutèt sa pitit moun yo ap abrite nan lonbraj zèl ou yo.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "presye"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "E pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nan lonbraj"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "zèl ou yo"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "ap abrite"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:01.009356100Z",
+  "model": "glm-5.3"
+}

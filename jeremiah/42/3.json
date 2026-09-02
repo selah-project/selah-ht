@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Pou Yawe Elohim ou a fè konnen ba nou ⟨את⟩ wout nan nou pral mache ladan l, ak ⟨את⟩ pawòl la ke nou pral fè.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ba nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wout nan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "wout la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "nou pral mache"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pawòl la"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nou pral fè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:05:10.467659172Z",
+  "model": "glm-5.3"
+}

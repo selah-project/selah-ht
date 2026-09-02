@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Lè Yaakov rive nan Mitsrayim, e zansèt nou yo rele ba Yawe, Yawe voye ⟨את⟩ Moche ak ⟨את⟩ Aharòn, e yo fè ⟨את⟩ zansèt nou yo soti nan Mitsrayim, e yo fè yo rete nan kote sa a.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "e zansèt nou yo rele"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "zansèt nou yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Yawe voye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Aharòn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "e yo fè soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zansèt nou yo"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "zansèt nou yo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "e yo fè rete"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:45.350927365Z",
+  "model": "glm-5.3"
+}

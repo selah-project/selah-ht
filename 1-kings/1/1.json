@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E wa a David fin vye, k ap antre nan jou li yo, e yo kouvri l ak rad, men chalè pa vini pou li.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "e wa a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "fin vye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nan jou yo"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "e yo kouvri l"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ak rad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "gen chalè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:08.712565140Z",
+  "model": "glm-5.3"
+}

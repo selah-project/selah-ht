@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E yo pote l ⟨את⟩ sou chwal yo, e yo antere l nan Yerouchalayim ak zansèt l yo, nan vil David la.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "epi yo pote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (li) — Amatsya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "chwal yo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "epi yo antere l"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt l yo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:37.719225338Z",
+  "model": "glm-5.3"
+}

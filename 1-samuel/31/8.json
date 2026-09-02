@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Epi lendemain an rive: Pelishtim yo vini pou depouye ⟨את⟩ mò yo, e yo jwenn ⟨את⟩ Chaoul ak ⟨את⟩ twa pitit gason l yo k'ap tonbe sou mòn Gilbowa a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi ... rive"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "lendemain an"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "pou depouye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mò yo"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "mò yo"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "twa pitit gason l yo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "k'ap tonbe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou mòn"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilbowa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:41:14.365167178Z",
+  "model": "glm-5.3"
+}

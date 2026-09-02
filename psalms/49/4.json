@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Bouch m ap pale sajès, ak meditasyon kè m ap bay entelijans.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Bouch m"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ap pale"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "ak meditasyon"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ap bay entelijans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:59.514196621Z",
+  "model": "glm-5.3"
+}

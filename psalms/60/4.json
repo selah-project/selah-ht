@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Ou fè tè a tranble, ou fè l fend; geri fwoti l yo, paske l ap tranble.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Ou fè tranble"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "ou fè l fend"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "geri"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "fwoti l yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "l ap tranble"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:22.239898842Z",
+  "model": "glm-5.3"
+}

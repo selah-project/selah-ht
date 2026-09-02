@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi poko lontan, move a pa ⟨gen⟩; w ap gade byen kote l te ye a, epi l pa la.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Epi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "poko lontan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "move a"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "w ap gade byen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "kote l te ye a"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "epi l pa la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:14.703872374Z",
+  "model": "glm-5.3"
+}

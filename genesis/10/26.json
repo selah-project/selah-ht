@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Yoktan fè ⟨את⟩ Almodad, ak ⟨את⟩ Chelef, ak ⟨את⟩ Chatsarmavet, ak ⟨את⟩ Yerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Epi Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Chelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:07.255022239Z",
+  "model": "glm-5.3"
+}

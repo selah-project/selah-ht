@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Chmouèl poko konnen ⟨את⟩ Yawe, e pawòl Yawe a poko revele pou li.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Chmouèl"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "poko"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "e poko"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "revele"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T21:48:17.555485854Z",
+  "model": "glm-5.3"
+}

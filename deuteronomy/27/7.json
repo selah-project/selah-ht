@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ou pral sakriye ofann lapè, epi ou pral manje la, epi ou pral rejwi devan Yawe, Elohim ou.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "epi sakriye"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ofann lapè yo"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "epi manje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "epi rejwi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:44.124039992Z",
+  "model": "glm-5.3"
+}

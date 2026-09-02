@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi Aharòn pr prezante ⟨את⟩ kabrit la ki tiraj la pou Yawe monte sou li, e pr fè l ofann pèche.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "epi prezante"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabrit la"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kabrit la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "tiraj la"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "epi fè l"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ofann pèche"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:56.111262011Z",
+  "model": "glm-5.3"
+}

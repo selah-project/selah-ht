@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Paske Yawe renmen jijman, e li pa janm kite ⟨את⟩ moun ki kenbe hesed li yo; pou toutan yo kenbe; e pitit mechan yo ap koupe pye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "janm kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki kenbe hesed li yo"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "moun ki kenbe hesed li yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "yo kenbe"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "e pitit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "koupe pye"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:56.360000458Z",
+  "model": "glm-5.3"
+}

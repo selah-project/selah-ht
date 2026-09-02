@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Se konsa ⟨li⟩ fin konsome jou yo nan vantè, ak lane yo nan pè.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "fin konsome"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "nan vantè"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ak lane yo"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "nan pè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:11.420922999Z",
+  "model": "glm-5.3"
+}

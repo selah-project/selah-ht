@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Ki delivran m soti nan ennemi m yo, wi, ou mete m wo sou moun ki leve kont m, ou sove m soti nan nonm vyolans lan.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "ki delivran m"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ennemi m yo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "moun ki leve kont m"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "ou mete m wo sou"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "ou sove m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:24.301499130Z",
+  "model": "glm-5.3"
+}

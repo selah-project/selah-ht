@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "epi ou fè moun yo kòm pwason lanmè a, kòm bèt k ap rampe ki pa gen chèf ki gouvènen sou yo.",
+  "tokens": [
+    {
+      "surface": "וַתַּעֲשֶׂה",
+      "gloss": "epi ou fè"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "כִּדְגֵי",
+      "gloss": "kòm pwason"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "כְּרֶמֶשׂ",
+      "gloss": "kòm bèt k ap rampe"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מֹשֵׁל",
+      "gloss": "chèf ki gouvènen"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:42:43.215707160Z",
+  "model": "glm-5.3"
+}

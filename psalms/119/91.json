@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Dapre jijman ou yo yo kanpe jou a jiskaprezan, paske tout ⟨bagay⟩ yo se sèvitè ou.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "Dapre jijman ou yo"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "yo kanpe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a jiskaprezan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout ⟨bagay⟩ yo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "se sèvitè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:57.584015182Z",
+  "model": "glm-5.3"
+}

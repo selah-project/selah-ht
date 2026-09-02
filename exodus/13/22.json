@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Kolòn nwayaj la pa te jam retire pandan jounen an, ni kolòn dife a pandan lannwit, devan pèp la.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "te jam retire"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "Kolòn"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nwayaj la"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "pandan jounen an"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ni kolòn"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dife a"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pandan lannwit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:47.096140233Z",
+  "model": "glm-5.3"
+}

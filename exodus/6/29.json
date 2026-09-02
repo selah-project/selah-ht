@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Yawe pale ak Moche, li di: Mwen se Yawe. Pale ak Paro, wa Mitsrayim, ⟨את⟩ tout sa mwen pale ⟨avèk ou⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:14.268760684Z",
+  "model": "glm-5.3"
+}

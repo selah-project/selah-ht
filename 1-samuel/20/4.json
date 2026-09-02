@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Yonatan di bay David: Sa kèm ou an di, m ap fè l pou ou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "kè ou an"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "m ap fè l"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:21:06.642319208Z",
+  "model": "glm-5.3"
+}

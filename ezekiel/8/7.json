@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li mennen ⟨את⟩ m rive nan pòtay lakou a; e mwen gade, e menm, yon twou te nan mi a.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "li mennen rive"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "e mwen gade"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "חר",
+      "gloss": "twou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "nan mi a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:12:19.997839221Z",
+  "model": "glm-5.3"
+}

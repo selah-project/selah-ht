@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Y yo di: Si nou jwenn favè nan je ou, kite yo bay ⟨את⟩ tè sa a pou sèvitè ou yo kòm eritaj; pa fè nou pase ⟨את⟩ Yarden an.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "nou jwenn"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favè"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nan je ou"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kite yo bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè sa a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "pou sèvitè ou yo"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "kòm eritaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "fè nou pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden an"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:04.756791214Z",
+  "model": "glm-5.3"
+}

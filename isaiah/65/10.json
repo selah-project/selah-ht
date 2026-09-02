@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 65:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Epi Charon ap vin kay mouton yo, ak Valèy Akor yon kote pou bèf yo kouchte, pou pèp mwen menm ki ap chèche m.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "epi ⟨ap vin⟩"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Charon"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ak valèy"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Akor"
+    },
+    {
+      "surface": "לרבץ",
+      "gloss": "pou kouchte"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bèf yo"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "pou pèp mwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "ap chèche m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:45:01.361202582Z",
+  "model": "glm-5.3"
+}

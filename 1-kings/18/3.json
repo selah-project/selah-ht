@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Ahab rele Ovadyahou, moun ki te sou kay la; e Ovadyahou te pè Yawe ⟨את⟩ anpil.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "e Ovadyahou"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:58.902029158Z",
+  "model": "glm-5.3"
+}

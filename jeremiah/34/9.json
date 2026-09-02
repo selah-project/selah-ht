@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "pou chak nonm voye ⟨את⟩ esklav li ak chak nonm ⟨את⟩ sèvant fi l lib — Ebre a ak Ebrez la — pou yo pa sèvi yo, se pou yon Yehoudi, frè l, yon nonm.",
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "pou voye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak nonm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esklav li"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "esklav li"
+    },
+    {
+      "surface": "ו איש",
+      "gloss": "ak chak nonm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvant fi l"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "sèvant fi l"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "Ebre a"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "ak Ebrez la"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "lib"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "nan yon Yehoudi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    }
+  ],
+  "timestamp": "2026-09-02T19:01:18.533923649Z",
+  "model": "glm-5.3"
+}

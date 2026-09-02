@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yon nouvo wa leve sou Mitsrayim, ki pa te konnen ⟨את⟩ Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "leve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "te konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:55.164592109Z",
+  "model": "glm-5.3"
+}

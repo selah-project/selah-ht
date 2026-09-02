@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E tout asanble a di pou yo fè konsa, paske pawòl la dwat nan je tout pèp la.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou ... fè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:05:22.122633372Z",
+  "model": "glm-5.3"
+}

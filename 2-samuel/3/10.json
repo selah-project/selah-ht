@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "pou fè wayòm nan pase nan men kay Chaoul, ak pou kanbe ⟨את⟩ chèz David sou Yisrael ak sou Yehouda, depi Dan rive jiska Bèer-Cheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "pou fè pase"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "wayòm nan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nan men kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ak pou kanbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chèz David"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chèz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "depi Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "rive jiska"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bèer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    }
+  ],
+  "timestamp": "2026-09-02T17:40:17.607475495Z",
+  "model": "glm-5.3"
+}

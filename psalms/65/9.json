@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Epi moun ki rete nan bout yo pè siy ou yo; ou fè kote maten ak kote swa sòti yo chante.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "epi pè"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun ki rete"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "nan bout"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "siy ou yo"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "kote sòti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "ak swa"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "fè chante"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:31.966037870Z",
+  "model": "glm-5.3"
+}

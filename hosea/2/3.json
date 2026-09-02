@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Pale ak frè nou yo: Ami (pe mwen), epi ak sè nou yo: Rouhama (yo gen pitye pou li).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Pale"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ak frè nou yo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami (pe mwen)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "epi ak sè nou yo"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rouhama (yo gen pitye pou li)"
+    }
+  ],
+  "timestamp": "2026-09-02T21:58:16.001409979Z",
+  "model": "glm-5.3"
+}

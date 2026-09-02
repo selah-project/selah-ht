@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Moun ki klike je bay tristès, e sòt lèv ap tonbe.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "klike"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "tristès"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "e sòt"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lèv"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ap tonbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:27.759902586Z",
+  "model": "glm-5.3"
+}

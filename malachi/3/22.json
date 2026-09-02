@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Sonje Torat Moche, sèvant m an, mwen te kòmande ⟨את⟩ li sou Chorev, pou tout Yisrayèl — dekre ak jijman.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Sonje"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvant m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mwen te kòmande"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ li",
+      "marks": "Moche"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sou Chorev"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "dekre"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ak jijman"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:38.488663694Z",
+  "model": "glm-5.3"
+}

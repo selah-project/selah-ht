@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Paske ⟨se⟩ sa a se Elohim, Elohim nou an, pou tout tan ak toutantan; se ⟨li menm⟩ ki ap gide nou jouk lòt bò lanmo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tout tan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ak toutantan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ki ap gide nou"
+    },
+    {
+      "surface": "על",
+      "gloss": "lòt bò"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lanmo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:09.631386111Z",
+  "model": "glm-5.3"
+}

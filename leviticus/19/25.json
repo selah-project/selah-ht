@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi nan senkyèm lane a nou pral manje ⟨את⟩ fwi li, pou li ogmante pou nou rekòt li a; se mwen menm Yawe Elohim ou yo.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Epi nan lane"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "senkyèm lan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou pral manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fwi li"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "fwi li"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "pou ogmante"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "rekòt li a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:04.952946297Z",
+  "model": "glm-5.3"
+}

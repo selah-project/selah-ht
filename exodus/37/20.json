@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E sou menora a: kat goblè an fòm ze amann, ak bouton yo ak flè yo.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "e sou menora a"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "goblè"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "an fòm ze amann"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "bouton yo"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "ak flè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:50.405207667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "E pou hesed ou a rive mwen, o Yawe — pou delivrans ou a rive — jan pawòl ou a di.",
+  "tokens": [
+    {
+      "surface": "וִֽיבֹאֻ֣נִי",
+      "gloss": "e rive"
+    },
+    {
+      "surface": "חֲסָדֶ֣ךָ",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תְּ֝שֽׁוּעָתְךָ֗",
+      "gloss": "delivrans ou"
+    },
+    {
+      "surface": "כְּאִמְרָתֶֽךָ",
+      "gloss": "jan pawòl ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:28.945041538Z",
+  "model": "glm-5.3"
+}

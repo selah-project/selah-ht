@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "ak po beli wouje, ak po tekach, ak bwa akasya.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ak po"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "beli"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "wouje"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ak po"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tekach"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ak bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:09.417144933Z",
+  "model": "glm-5.3"
+}

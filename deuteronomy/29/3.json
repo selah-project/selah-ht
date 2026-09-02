@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "epi Yawe pa t ⟨ban⟩ nou yon kè pou konnen, ni je pou wè, ni zòrèy pou tande, jous jounen jodi a.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yon kè"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pou konnen"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ni je"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ni zòrèy"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pou tande"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jous"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jounen an"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:41.336595595Z",
+  "model": "glm-5.3"
+}

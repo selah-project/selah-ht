@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Dlo yo wè ou, Elohim, dlo yo wè ou, yo toubiyonnen, menm gouf yo treme.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "wè ou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "wè ou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "yo toubiyonnen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "treme"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "gouf yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:33.767608095Z",
+  "model": "glm-5.3"
+}

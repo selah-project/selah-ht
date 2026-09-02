@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Nefech mwen an retounen; li gide m nan chemen jistis, pou non li.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nefech mwen"
+    },
+    {
+      "surface": "יְשׁוֹבֵב",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "יַנְחֵנִי",
+      "gloss": "li gide m"
+    },
+    {
+      "surface": "בְמַעְגְּלֵי",
+      "gloss": "nan chemen"
+    },
+    {
+      "surface": "צֶדֶק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "pou"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "non li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:30.003377120Z",
+  "model": "glm-5.3"
+}

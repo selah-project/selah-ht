@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 22:19",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Avraham tounen kotè jèn gason yo li, yo leve, yo ale ansanm nan Bèer-Cheva, e Avraham rete nan Bèer-Cheva.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kotè"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "jèn gason yo li"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "yo leve"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "yo ale"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bèer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e rete"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "nan Bèer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:12.948761235Z",
+  "model": "glm-5.3"
+}

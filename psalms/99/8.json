@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 99,
+  "translation": "Yawe Elohim nou, se ou menm ki te reponn yo; ou te yon El ki padone, ⟨pou⟩ yo, menm si ou te pran vennjans sou aksyon yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou menm"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "ki te reponn yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yon El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ki padone"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ou te ⟨yon⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "menm si ou te pran vennjans"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "aksyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:24.388878893Z",
+  "model": "glm-5.3"
+}

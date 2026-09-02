@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi Yawe Elohim ou a ap bay li nan men ou, epi w ap frape ⟨את⟩ tout gason l yo ak bouch epe a.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "epi w ap frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout gason l yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "gason l"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ak bouch"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epe a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:51:14.831784925Z",
+  "model": "glm-5.3"
+}

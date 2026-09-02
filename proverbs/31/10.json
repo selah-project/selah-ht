@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Ki moun ki pral jwenn yon fanm ki gen valè? Pri l lwen, pi wo pase pèl yo.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "valè"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "lwen"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "pase pèl yo"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "pri l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:40.557371900Z",
+  "model": "glm-5.3"
+}

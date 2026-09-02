@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 38:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Epi wa a bay lòd ⟨את⟩ Eved-Melek Kouchit la, pou li di: Pran nan men ou trant (30) moun isit la, epi moute ⟨את⟩ Yirmeyahou pwofèt la soti nan trou a, anvan li mouri.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "epi bay lòd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eved-Melek Kouchit la"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-Melek"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Kouchit la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou li di"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "isit la"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moun"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "epi moute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahou pwofèt la"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahou"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "trou a"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "li mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T19:03:32.705715205Z",
+  "model": "glm-5.3"
+}

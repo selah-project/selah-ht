@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Nou fin korwonpe korwonpe kont ou, e nou pa kenbe ⟨את⟩ kòmandman yo, ni ⟨את⟩ lwa yo, ni ⟨את⟩ jijman yo, se ou menm ki kòmande ⟨את⟩ Moche, sèvant ou a, sou yo.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "fin"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "korwonpe korwonpe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kont ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e nou pa"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman yo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "kòmandman yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "lwa yo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lwa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "jijman yo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "jijman yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ou kòmande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:07:34.567376285Z",
+  "model": "glm-5.3"
+}

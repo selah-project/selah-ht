@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E Chemouèl di: Rejwenn ⟨את⟩ tout Yisrayèl nan Mitspa, e m ap priye pou nou devan Yawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Rejwenn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout Yisrayèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "nan Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "e m ap priye"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:15.665546322Z",
+  "model": "glm-5.3"
+}

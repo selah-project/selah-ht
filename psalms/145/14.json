@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Yawe soutni tout moun k ap tonbe yo, e li kanpe dwat tout moun k pliye yo.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "soutni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "moun k ap tonbe yo"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "e kanpe dwat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "moun k pliye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:36.699829455Z",
+  "model": "glm-5.3"
+}

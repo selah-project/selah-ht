@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Yosèf bay sèvitè l yo òd — ⟨את⟩ dyèktè yo — pou yo anba papa l, e dyèktè yo anba ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "bay òd"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvitè l yo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè l yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dyèktè yo"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "dyèktè yo"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "pou anba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "anba"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "dyèktè yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:16.100332807Z",
+  "model": "glm-5.3"
+}

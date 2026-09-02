@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "L menm ki bati Elat la, e li rann l bay Yehouda, apre wa a fin kouchje ak zansèt li yo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elat la"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "e li rann l"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "bay Yehouda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kouchje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:06.172449385Z",
+  "model": "glm-5.3"
+}

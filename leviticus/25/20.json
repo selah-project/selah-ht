@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi si nou di: Kisa n ap manje nan lane a, syazyèm la a? Gade, nou pa fin simen, ni fin rake ⟨את⟩ rekòt nou an.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Epi si"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nou di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "n ap manje"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nan lane"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "syazyèm la a"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "simen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "rake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rekòt nou an"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "rekòt nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:25.573502526Z",
+  "model": "glm-5.3"
+}

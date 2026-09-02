@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "⟨את⟩ kiyès ap anseye konesans, e ⟨את⟩ kiyès ap fè konprann mesaj la? Se sa yo ki sevre nan lèt, sa yo ki retire nan tete yo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyès"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ap anseye"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kiyès"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ap fè konprann"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "mesaj la"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "sevre"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "nan lèt"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "retire"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "nan tete yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:32.506630867Z",
+  "model": "glm-5.3"
+}

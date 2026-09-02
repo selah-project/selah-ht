@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 56,
+  "translation": "Montre m gras, Elohim, paske ⟨moun⟩ mòtel ap vale m; tout jou l ap fè lagè, l ap pèse m.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Montre m gras"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ap vale m"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mòtel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ap fè lagè"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "l ap pèse m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:37.773860455Z",
+  "model": "glm-5.3"
+}

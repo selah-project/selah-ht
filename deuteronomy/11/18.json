@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Mete ⟨את⟩ pawòl mwen yo sa yo sou kè nou ak sou nefech nou, e mare ⟨את⟩ yo kòm yon siy sou men nou, e yo ap fè kòm toutafot antre zye nou.",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "Mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl mwen yo sa yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl mwen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "kè nou"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nefech nou"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "e mare"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "siy"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "kòm siy"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e yo ap fè"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "kòm toutafot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antre"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "zye nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:45.802295671Z",
+  "model": "glm-5.3"
+}

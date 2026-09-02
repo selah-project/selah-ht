@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Èske kòd tant ⟨pa yo⟩ pa rale soti anndan yo? Yo mouri, e pa nan sajès.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske... pa"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "rale soti"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "kòd tant pa yo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "anndan yo"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "yo mouri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa nan"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sajès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:41.104558420Z",
+  "model": "glm-5.3"
+}

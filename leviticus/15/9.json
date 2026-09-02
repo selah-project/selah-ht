@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi tout sel ke moun ki gen flit la monte sou l ap vin pa asepte.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Epi tout"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "sel la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "monte sou"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "moun ki gen flit la"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ap vin pa asepte"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:10.538102574Z",
+  "model": "glm-5.3"
+}

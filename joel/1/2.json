@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Tande sa, vièy granmoun yo, ak poute zòrèy, tout moun k ap abite sou tè a. Èske sa rive nan jou pa nou, oswa nan jou zansèt nou yo?",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "Tande"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הַזְּקֵנִים",
+      "gloss": "vièy granmoun yo"
+    },
+    {
+      "surface": "וְהַאֲזִינוּ",
+      "gloss": "ak poute zòrèy"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יוֹשְׁבֵי",
+      "gloss": "moun k ap abite"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הֶהָיְתָה",
+      "gloss": "Èske ⟨sa rive⟩"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בִּימֵיכֶם",
+      "gloss": "nan jou pa nou"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "בִּימֵי",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "אֲבֹתֵיכֶם",
+      "gloss": "zansèt nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:17.513214807Z",
+  "model": "glm-5.3"
+}

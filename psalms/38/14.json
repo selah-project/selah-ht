@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Epi mwen, tankou yon soud, pa tande; e tankou yon muyèt ki pa louvri bouch li.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "epi mwen"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "tankou yon soud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "m tande"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "e tankou yon muyèt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:15.928645317Z",
+  "model": "glm-5.3"
+}

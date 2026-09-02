@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi Filistyen an te gade, e wè ⟨את⟩ David, e li te meprize l, paske li te yon jèn gason, rouj, ansanm ak yon bèl aparans.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistyen an"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "epi wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "epi meprize l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yon jèn gason"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "ak rouj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "aparans"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:02.826407412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Efrayim — glwa yo pral vole lwen jan yon zwazo, depi nesans, epi depi vant, epi depi ansent.",
+  "tokens": [
+    {
+      "surface": "אֶפְרַ֕יִם",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כָּע֖וֹף",
+      "gloss": "jan zwazo"
+    },
+    {
+      "surface": "יִתְעוֹפֵ֣ף",
+      "gloss": "pral vole lwen"
+    },
+    {
+      "surface": "כְּבוֹדָ֑ם",
+      "gloss": "glwa yo"
+    },
+    {
+      "surface": "מִלֵּדָ֥ה",
+      "gloss": "depi nesans"
+    },
+    {
+      "surface": "וּמִבֶּ֖טֶן",
+      "gloss": "epi depi vant"
+    },
+    {
+      "surface": "וּמֵהֵרָיֽוֹן",
+      "gloss": "epi depi ansent"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:04.954442437Z",
+  "model": "glm-5.3"
+}

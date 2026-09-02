@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "ak anaka a, ak koah la, ak letaah la, ak khomet la, ak tinchemet la.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ak anaka a"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "ak koah la"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ak letaah la"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ak khomet la"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ak tinchemet la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:03.434592309Z",
+  "model": "glm-5.3"
+}

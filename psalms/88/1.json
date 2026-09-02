@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Chante, mizik, pou pitit Korach yo, pou chèf mizik la, sou Machalat, pou reponn, ansèyman, pou Heiman Ezrahit la",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "pou chèf mizik la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "pou reponn"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ansèyman"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "pou Heiman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezrahit la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:58.661075672Z",
+  "model": "glm-5.3"
+}

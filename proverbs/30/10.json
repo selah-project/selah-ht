@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Pa kalomni yon sèvitè ba met li a, lere li madifou ⟨ou⟩ e ou vin koupab.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "kalomni"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yon sèvitè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "met li"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lere"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "li madifou"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "e ou vin koupab"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:50.143362858Z",
+  "model": "glm-5.3"
+}

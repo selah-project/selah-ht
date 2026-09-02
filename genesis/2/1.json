@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Syèl yo ak tè a fini, ak tout lame yo ansanm.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "fini"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ak tè a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "lame yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:45.026803903Z",
+  "model": "glm-5.3"
+}

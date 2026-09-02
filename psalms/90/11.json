@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Ki moun ki konnen fòs kòlè ⟨ou⟩ a? ⟨Menm jan⟩ ak respè ⟨ki pou⟩ ou, se sa kòlè ou la ye.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ki konnen"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kòlè ou"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "ak respè ou"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "kòlè ou la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:13.220098099Z",
+  "model": "glm-5.3"
+}

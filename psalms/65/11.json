@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Reyon li yo, ou bwè yo; ou fè fon ranj li yo; ak lapli ou fè l mou; ou beni pouse li.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "reyon li yo"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "ou bwè"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ou fè desann"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "ranj li yo"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "ak lapli"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "ou fè l mou"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "pouse li"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ou beni"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:31.966453879Z",
+  "model": "glm-5.3"
+}

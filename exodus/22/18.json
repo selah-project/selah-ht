@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Tout moun ki kouch avèk yon bèt — mouri, ⟨li⟩ ap mouri.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שֹׁכֵב",
+      "gloss": "ki kouch"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "avèk"
+    },
+    {
+      "surface": "בְּהֵמָה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "מוֹת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "יוּמָת",
+      "gloss": "ap mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:58.110529010Z",
+  "model": "glm-5.3"
+}

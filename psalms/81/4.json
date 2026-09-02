@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Sonnen chofar nan mwa a, nan plen lalin, pou jou fèt nou an.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Sonnen"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "nan mwa a"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "chofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "nan plen lalin"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pou jou"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "fèt nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:50.536872673Z",
+  "model": "glm-5.3"
+}

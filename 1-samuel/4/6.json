@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Filistin yo tande ⟨את⟩ vwa kote a, epi yo di: Kisa vwa kote ki gwo anpil la ye nan kan Ebre yo a? Epi yo konnen ki chest Yawe rive nan kan an.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa kote a"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "kote a"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kisa…ye"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ki gwo anpil"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "la"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nan kan"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ebre yo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "yo konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kan an"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:03.758091781Z",
+  "model": "glm-5.3"
+}

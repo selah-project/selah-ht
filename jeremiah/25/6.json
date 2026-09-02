@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 25:6",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi pa ale dèyè dye lòt yo pou sèvi yo ak pou flechi devan yo, epi pa fè ⟨את⟩ m kolè ak travay men nou yo, epi m ap pa fè mal ba nou.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Epi pa"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "pou sèvi yo"
+    },
+    {
+      "surface": "ולהשתחות",
+      "gloss": "ak pou flechi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "devan yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תכעיסו",
+      "gloss": "fè kolè"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "m (objè vèb 'fè m kolè')"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "ak travay"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ארע",
+      "gloss": "fè mal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba nou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:56:18.094735791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Jije mwen dapre jitès ou, Yawe Elohim mwen, e pa kite yo fè kè kontan sou mwen!",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "jije mwen"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "dapre jitès ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "fè kè kontan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:42.997042782Z",
+  "model": "glm-5.3"
+}

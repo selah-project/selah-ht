@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pa dezi manje delikat li yo, paske se manje ki gen manti andedan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ou dezi"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "manje delikat li yo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "epi li"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "manje"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ki gen manti andedan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:33.410725499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 36:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E te gen uit planch, ak soff socket yo an ajan, sèz socket: de socket anba chak planch sèl la.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "te gen"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "uit"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "planch"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ak soff socket yo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "an ajan"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sèz (sis)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dis)"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "socket"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "socket"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "socket"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "planch"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:16.168068151Z",
+  "model": "glm-5.3"
+}

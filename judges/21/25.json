@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 21:25",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Nan jou sa yo pa te gen wa nan Yisrael; chak moun te fè sa ki dwat nan je pa li.",
+  "tokens": [
+    {
+      "surface": "בַּיָּמִים",
+      "gloss": "Nan jou"
+    },
+    {
+      "surface": "הָהֵם",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵל",
+      "gloss": "nan Yisrael"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "הַיָּשָׁר",
+      "gloss": "sa ki dwat"
+    },
+    {
+      "surface": "בְּעֵינָיו",
+      "gloss": "nan je pa li"
+    },
+    {
+      "surface": "יַעֲשֶׂה",
+      "gloss": "te fè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:22:50.285065721Z",
+  "model": "glm-5.3"
+}

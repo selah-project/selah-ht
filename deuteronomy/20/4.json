@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Paske se Yawe Elohim nou menm ki mache avèk nou, li pral goumen pou nou kont ennmi nou yo, pou l delivre ⟨את⟩ nou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou menm"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ki mache"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avèk nou"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "pou goumen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kont"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ennmi nou yo"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "pou delivre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:51:20.714404864Z",
+  "model": "glm-5.3"
+}

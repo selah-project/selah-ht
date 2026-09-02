@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Se ak sa m konnen ke ou te plezi ak mwen, paske lènmi mwen pa ap fè bri won sou mwen.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "se ak sa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ou te plezi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ak mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "fè bri won"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "lènmi mwen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:10.843373443Z",
+  "model": "glm-5.3"
+}

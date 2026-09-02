@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Bèf nou yo byen chaje, pa gen okenn pèt, pa gen okenn sòti, pa gen okenn kri nan plas piblik nou yo.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "Bèf nou yo"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "byen chaje"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen okenn"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "pèt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen okenn"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "sòti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen okenn"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "kri"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "nan plas piblik nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:18.120579081Z",
+  "model": "glm-5.3"
+}

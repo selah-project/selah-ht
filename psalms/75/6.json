@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 75,
+  "translation": "Pa monte kòn nou yo lè wò; pa pale ak kou di ⟨pou⟩ wont sòti ⟨de⟩ bouche nou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "monte"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "lè wò"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "kòn nou yo"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ak kou di"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "san wont"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:23.584690538Z",
+  "model": "glm-5.3"
+}

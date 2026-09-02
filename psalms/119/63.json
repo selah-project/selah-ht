@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Zanmi mwen ye ak tout moun ki pè ou, ak ⟨tou⟩ moun ki kenbe òdònans ou yo.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Zanmi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ak tout moun ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "pè ou"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ak ⟨tou⟩ moun ki kenbe"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "òdònans ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:35.144653228Z",
+  "model": "glm-5.3"
+}

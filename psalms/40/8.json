@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Lè sa a mwen di: Men, mwen vini — nan woulo liv la, li ekri sou mwen.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Men"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "mwen vini"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "nan woulo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "liv la"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "li ekri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:50.547037128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Se pa sèlman avèk ⟨את⟩ ou menm mwen koupe ⟨את⟩ kontra sa a ak ⟨את⟩ sèman-malédiksyon sa a.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "avèk ⟨את⟩"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "sèlman ou menm"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kontra sa a"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sèman-malédiksyon sa a"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sèman-malédiksyon"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:47.763473955Z",
+  "model": "glm-5.3"
+}

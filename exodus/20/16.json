@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Pa reponn ⟨kont⟩ pwochen ⟨ou⟩ temwen ki fo a.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תַעֲנֶה",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "בְרֵעֲךָ",
+      "gloss": "⟨kont⟩ pwochen ⟨ou⟩"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "temwen"
+    },
+    {
+      "surface": "שָׁקֶר",
+      "gloss": "ki fo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:53.642174424Z",
+  "model": "glm-5.3"
+}

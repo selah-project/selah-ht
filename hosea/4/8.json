@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ofann pèche pèp mwen an, se yo k ap manje l; e apeti yo monte sou Move yo.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ofann pèche"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yo manje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e viè"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "Move yo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "yo leve"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "apeti yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:35.709200639Z",
+  "model": "glm-5.3"
+}

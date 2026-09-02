@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Èske pa yon sèvis fòse ki bay moun sou tè a, e jou l yo kòm jou yon salarie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske pa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sèvis fòse"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "pou moun"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "e kòm jou"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "salarie"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jou l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:33:54.688852136Z",
+  "model": "glm-5.3"
+}

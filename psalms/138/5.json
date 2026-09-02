@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 138,
+  "translation": "Yo chante nan chemen Yawe a, paske glwa Yawe a gwo.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "nan chemen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:15.979560064Z",
+  "model": "glm-5.3"
+}

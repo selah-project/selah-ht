@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E tout moun ki te konte yo te sis san mil ak twa mil ak senk san ak senkant.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E … te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "moun ki te konte yo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ak twa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ak senk"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ak senkant"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:42.928723509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Epi pèp yo ap vin byen boule jan chafox boule; epinen koupe ak dife, yo ap boule.",
+  "tokens": [
+    {
+      "surface": "וְהָיוּ",
+      "gloss": "Epi…ap vin"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "מִשְׂרְפֹת",
+      "gloss": "byen boule"
+    },
+    {
+      "surface": "שִׂיד",
+      "gloss": "chafox"
+    },
+    {
+      "surface": "קוֹצִים",
+      "gloss": "epinen"
+    },
+    {
+      "surface": "כְּסוּחִים",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "בָּאֵשׁ",
+      "gloss": "ak dife"
+    },
+    {
+      "surface": "יִצַּתּוּ",
+      "gloss": "yo ap boule"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:30.028389919Z",
+  "model": "glm-5.3"
+}

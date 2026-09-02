@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Gad yo k ap vire toutou nan vil la jwenn mwen — ⟨את⟩ moun ki nanm mwen renmen an, èske ⟨nou⟩ wè l?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "jwenn mwen"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "gad yo"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "k ap vire toutou"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki nanm mwen renmen an"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "wè l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:56.033063522Z",
+  "model": "glm-5.3"
+}

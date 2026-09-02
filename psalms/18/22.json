@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Paske mwen kenbe chemen Yawe a, e mwen pa fè mechansète kont Elohim pa mwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "mwen kenbe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "fè mechansète"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "kont Elohim pa mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:23.733697091Z",
+  "model": "glm-5.3"
+}

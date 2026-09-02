@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Sakrifye remèsiman pou Elohim, epi peye vò ou yo pou Elyòn an.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Sakrifye"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "remèsiman"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "epi peye"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "pou Elyòn"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "vò ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:05.710360Z",
+  "model": "glm-5.3"
+}

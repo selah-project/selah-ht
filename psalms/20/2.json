@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Yawe reponn ⟨ou⟩ nan jou detres la; non Elohim Yaakov mete ⟨ou⟩ wo.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "reponn ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "detres"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "mete ou wo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:07.050464521Z",
+  "model": "glm-5.3"
+}

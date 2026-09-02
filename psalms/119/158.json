@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen wè trayè yo e kè m sere, paske pawòl ou a yo pa kenbe.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mwen wè"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "trayè yo"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "e kè m sere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "pawòl ou a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:30.922313291Z",
+  "model": "glm-5.3"
+}

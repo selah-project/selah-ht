@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "ak ⟨את⟩ Arvadit la, ak ⟨את⟩ Zemarit la, ak ⟨את⟩ Hamatit la; apre sa fanmi Kenaanit yo gaye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Arvadit la"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvadit la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Zemarit la"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Zemarit la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Hamatit la"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamatit la"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "apre sa"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fanmi yo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanit la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:08.294433022Z",
+  "model": "glm-5.3"
+}

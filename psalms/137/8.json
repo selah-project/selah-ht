@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 137,
+  "translation": "Ti fi Babilòn, èzman ki dwe detwi! Kè kontan pou moun k'ap peye ou ⟨את⟩ trètman ou a — sa w trète ⟨pou⟩ nou an.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Ti fi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilòn"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "èzman ki dwe detwi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Kè kontan pou"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ap peye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trètman ou a"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "trètman ou"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "w trète"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨pou⟩ nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:44.472800159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "⟨Li⟩ bay manje pou tout chè, paske pou tout tan hesed ⟨li⟩ genyen.",
+  "tokens": [
+    {
+      "surface": "נֹתֵ֣ן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לֶ֭חֶם",
+      "gloss": "manje"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "בָּשָׂ֑ר",
+      "gloss": "chè"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חַסְדּֽוֹ",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:34:00.988355879Z",
+  "model": "fable-5-hand"
+}

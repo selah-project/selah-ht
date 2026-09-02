@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Yon lòt rele bay lòt la e li di: Sen, Sen, Sen ⟨se⟩ Yawe Tsevaot; tout tè a plen glwa l.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lòt la"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glwa l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:41.603379779Z",
+  "model": "glm-5.3"
+}

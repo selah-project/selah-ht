@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi Moche anonse Aharòn ⟨את⟩ tout pawòl Yawe yo, menm sa ki te voye l ⟨avèk yo⟩, ak ⟨את⟩ tout siy yo menm sa ki te kòmande l ⟨avèk yo⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl Yawe yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm sa ki"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "te voye l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout siy yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "siy yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm sa ki"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "te kòmande l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:13.496121125Z",
+  "model": "glm-5.3"
+}

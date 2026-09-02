@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 6:3",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi yo fè ⟨את⟩ twè Elohim la moute sou yon char nèf, epi yo pote l soti nan kay Avinadav ki nan Giva; epi Ouza ak Ahyo, pitit Avinadav, te kondwi ⟨את⟩ char a nèf la.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "fè moute sou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twè Elohim la"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "twè"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "char"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "וישאהו",
+      "gloss": "pote l"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soti nan kay"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "nan Giva"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "epi Ouza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ak Ahyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "kondwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "char a nèf la"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "char a"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nèf"
+    }
+  ],
+  "timestamp": "2026-09-02T17:43:40.027515925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Adònay di: m ap retounen ⟨yo⟩ depi Bachan, m ap retounen ⟨yo⟩ depi fon lanmè a.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "depi Bachan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "m ap retounen"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "m ap retounen"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "depi fon"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:28.141362044Z",
+  "model": "glm-5.3"
+}

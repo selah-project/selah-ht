@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi Plichtim yo pran ⟨את⟩ kès HaElohim la, epi yo pote ⟨את⟩ l antre nan kay Dagon, epi yo mete ⟨את⟩ l bò kote Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "epi yo pran"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plichtim yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kès HaElohim la"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kès"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "epi yo pote l antre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "kès la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "epi yo mete l"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "kès la"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bò kote"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:59.592189524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Li di yo: Twa jou anko, epi tounen vin jwenn m; epi pèp la ale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "anko"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "epi tounen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vin jwenn m"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "epi ale"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:28:20.398687742Z",
+  "model": "glm-5.3"
+}

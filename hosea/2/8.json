@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Se poutèt sa, gade, mwen menm, m ap fèyonnen chemen ou a ak epèn, epi m ap bati ⟨את⟩ kloti a deyò li, epi chemen pa mache l yo, l ap jwenn yo non.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Se poutèt sa"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "gade, mwen menm"
+    },
+    {
+      "surface": "שך",
+      "gloss": "m ap fèyonnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chemen ou a"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "chemen ou a"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "ak epèn"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "epi m ap bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kloti a"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "kloti a"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "chemen pa mache l yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "l ap jwenn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:23.813547775Z",
+  "model": "glm-5.3"
+}

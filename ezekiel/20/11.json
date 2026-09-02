@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi mwen bay yo ⟨את⟩ lwa m yo, e ⟨את⟩ jijman m yo mwen fè ⟨את⟩ yo konnen; se sa moun ki fè ⟨את⟩ yo ap viv grasa yo.",
+  "tokens": [
+    {
+      "surface": "וָאֶתֵּן",
+      "gloss": "mwen bay"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "lwa m yo"
+    },
+    {
+      "surface": "חֻקּוֹתַי",
+      "gloss": "lwa m yo"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jijman m yo"
+    },
+    {
+      "surface": "מִשְׁפָּטַי",
+      "gloss": "jijman m yo"
+    },
+    {
+      "surface": "הוֹדַעְתִּי",
+      "gloss": "mwen fè konnen"
+    },
+    {
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "jijman m yo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "יַעֲשֶׂה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "lwa ak jijman yo"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "וָחַי",
+      "gloss": "ap viv"
+    },
+    {
+      "surface": "בָּהֶם",
+      "gloss": "grasa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:24:06.068269417Z",
+  "model": "glm-5.3"
+}

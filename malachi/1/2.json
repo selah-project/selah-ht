@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Mwen renmen ⟨את⟩nou, Yawe di, e nou di: an ki ou renmen nou? Èske Èsav pa frè pou Yaakov, deklare Yawe, e mwen renmen ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "mwen renmen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "nou (objè dirèk la)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "e nou di"
+    },
+    {
+      "surface": "במה",
+      "gloss": "an ki"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "ou renmen nou"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "èske pa"
+    },
+    {
+      "surface": "אח",
+      "gloss": "frè"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Èsav"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "pou Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "e mwen renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:49.692281363Z",
+  "model": "glm-5.3"
+}

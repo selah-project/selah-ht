@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Pawòl mwen yo ⟨se⟩ dwatès kè m, epi konesans lèv m pale ⟨yo⟩ klè.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "dwatès"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "pawòl mwen yo"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "epi konesans"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lèv m"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "klè"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-09-02T20:41:10.653586350Z",
+  "model": "glm-5.3"
+}

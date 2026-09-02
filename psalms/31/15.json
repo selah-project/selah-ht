@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Epi mwen, menm, mete konfyans m sou ou, Yawe; mwen di: Elohim mwen, ou ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "epi mwen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mwen mete konfyans"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:39.440091755Z",
+  "model": "glm-5.3"
+}

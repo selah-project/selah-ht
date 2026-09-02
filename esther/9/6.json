@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E nan Chouchan ⟨la⟩ sitadèl la, Jwif yo touye ak detwi senk san gason.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "E nan Chouchan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "sitadèl la"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "touye"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jwif yo"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "detwi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "senk"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:12.758496033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Eta Mitsrayim se vanite ak vid — ⟨ed⟩ ⟨yo⟩ ap ede anvan; poutèt sa mwen rele bagay sa a: Rahab ki chita kanpe.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Eta Mitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "ak vid"
+    },
+    {
+      "surface": "יועזרו",
+      "gloss": "ap ede"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "poutèt sa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mwen rele"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "bagay sa a"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "chita kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:33:10.259431926Z",
+  "model": "glm-5.3"
+}

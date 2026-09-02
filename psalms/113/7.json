@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 113,
+  "translation": "Li kanbe pòv la soti nan pitè, Li leve malere a soti nan montren fatra.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Li kanbe"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "soti nan pitè"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "soti nan montren fatra"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "Li leve"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "malere a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:36.400370398Z",
+  "model": "glm-5.3"
+}

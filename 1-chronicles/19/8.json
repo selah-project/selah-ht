@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi Davide tande ⟨sa a⟩, epi li voye ⟨את⟩ Yoav ak ⟨את⟩ tout lame gason vanyan yo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout lame gason vanyan yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "lame"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "gason vanyan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:21:20.455294830Z",
+  "model": "glm-5.3"
+}

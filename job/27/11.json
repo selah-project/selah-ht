@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "M ap moutre ⟨את⟩ nou nan men El; sa ki ⟨gen⟩ avan Chadday, mwen pa kache.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "moutre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avan"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "kache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:38:58.343753669Z",
+  "model": "glm-5.3"
+}

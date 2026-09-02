@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Li ekri nan lèt la pou di: Mete ⟨את⟩ Ourya anvan fas lagè a ki fò a, epi nou tounen dèyè li, pou ⟨li⟩ ap frape epi ⟨li⟩ mouri.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nan lèt la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ourya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ourya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "מול",
+      "gloss": "fas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "lagè a"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ki fò a"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "nou tounen"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "dèyè li"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ap frape"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:22.328304068Z",
+  "model": "glm-5.3"
+}

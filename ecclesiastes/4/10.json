@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Paske si youn la tonbe, lòt la ap kanpe ⟨את⟩ kòpayon li; men si youn la tonbe, epi pa gen dezyèm moun pou kanpe l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn la"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòpayon li"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "kòpayon li"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "men si"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn la"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa gen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dezyèm moun"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "pou kanpe l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:49.913517498Z",
+  "model": "glm-5.3"
+}

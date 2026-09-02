@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Pa fè mechanste anpil, e pa vin sòt; poukisa mouri anvan lè ou?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "fè mechanste"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "vin"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "lè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:58.309627331Z",
+  "model": "glm-5.3"
+}

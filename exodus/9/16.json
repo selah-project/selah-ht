@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Men se pou rezon sa a mwen fè w kanpe, pou m montre w ⟨את⟩ fòs m, e pou Non m pale nan tout tè a.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Men"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "pou rezon"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "mwen fè w kanpe"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "pou"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "pou m montre w"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fòs m"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fòs m"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e pou"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Non m"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:30.833637402Z",
+  "model": "glm-5.3"
+}

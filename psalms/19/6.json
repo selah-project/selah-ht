@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E li menm, tankou yon marye ki soti soti nan kouvèti maryaj li a, kourye tankou yon gason fò pou kouri wout la.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "E li menm"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "tankou yon marye"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ki soti"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "soti nan kouvèti maryaj li a"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "kourye"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "tankou yon gason fò"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "pou kouri"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "wout la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:28.535314288Z",
+  "model": "glm-5.3"
+}

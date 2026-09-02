@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Paske ⟨את⟩ moun ki ⟨ye⟩ la avèk nou, k ap kanpe jodi a devan Yawe Elohim nou an, ak ⟨את⟩ moun ki pa ⟨ye⟩ la avèk nou jodi a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki ye la avèk nou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "⟨ye⟩"
+    },
+    {
+      "surface": "פה",
+      "gloss": "la"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "avèk nou"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "moun ki pa ye la avèk nou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa ⟨ye⟩"
+    },
+    {
+      "surface": "פה",
+      "gloss": "la"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "avèk nou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:20:27.486442059Z",
+  "model": "glm-5.3"
+}

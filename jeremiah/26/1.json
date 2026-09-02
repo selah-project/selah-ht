@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 26:1",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Nan kòmansman rèy Yehoyakim, pitit Yochiyahou, wa Yehouda, pawòl sa a soti men ⟨את⟩ Yawe, l ap di:",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Nan kòmansman"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "rèy"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yochiyahou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "men ⟨את⟩",
+      "marks": "pawòl sa a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "l ap di"
+    }
+  ],
+  "timestamp": "2026-09-02T18:57:41.494638168Z",
+  "model": "glm-5.3"
+}

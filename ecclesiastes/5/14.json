@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 5:14",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Kòm li soti nan vant manman l, nwa l ap tounen pou l ale jan l te vini a, e pa anyen li p ap pote nan travay li — ki ka ale nan men l.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "nan vant"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou ale"
+    },
+    {
+      "surface": "כשבא",
+      "gloss": "jan l te vini"
+    },
+    {
+      "surface": "ומאומה",
+      "gloss": "e anyen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "nan travay li"
+    },
+    {
+      "surface": "שילך",
+      "gloss": "ki ale"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:28.654659210Z",
+  "model": "glm-5.3"
+}

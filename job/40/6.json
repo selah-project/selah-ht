@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E Yawe reponn ⟨את⟩ Iyòb depi dan toufèt la, e li di:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "E ... reponn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyòb"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyòb"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "depi"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "dan toufèt la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    }
+  ],
+  "timestamp": "2026-09-02T20:42:38.268762817Z",
+  "model": "glm-5.3"
+}

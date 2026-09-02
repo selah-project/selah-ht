@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 120,
+  "translation": "Twòp lontan nanm mwen te abite ak moun k ap rayi lapè.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Twòp lontan"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "te abite"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "moun k ap rayi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:40.487831225Z",
+  "model": "glm-5.3"
+}

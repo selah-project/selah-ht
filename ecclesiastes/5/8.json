@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E avantaj tè a — nan tout ⟨li se⟩ yon wa pou yon jaden ki kiltive.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "e avantaj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "pou yon jaden"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ki kiltive"
+    }
+  ],
+  "timestamp": "2026-09-02T22:26:23.877760206Z",
+  "model": "glm-5.3"
+}

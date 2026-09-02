@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Men ou, ⟨ou menm⟩, e lane ou yo p ap fini.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "e lane ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "ap fini"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:32.981428299Z",
+  "model": "glm-5.3"
+}

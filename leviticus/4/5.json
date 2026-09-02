@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi kòhen an, Machiya a (moun ki resevwa lwil la), pran kèk nan san bèf la, epi pote ⟨את⟩ l nan Ohèl Moèd la.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Epi … pran"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "Mashiya a"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "kèk nan san"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "epi pote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (li)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohèl"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moèd"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:20.354662028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Si korbàn li se yon olà soti nan bèf yo, yon mal san bleme, l ap ofri l; nan pòtay tant rankont la l ap ofri ⟨את⟩ li, pou l vin aksepte devan Yawe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olà"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbàn li"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bèf yo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mal"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "san bleme"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "l ap ofri l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "l ap ofri l"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "pou l vin aksepte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:46.141738173Z",
+  "model": "glm-5.3"
+}

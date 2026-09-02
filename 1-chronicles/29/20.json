@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi David di bay tout asanble a: Beni, tanpri, ⟨את⟩ Yawe, Elohim ou yo. Epi tout asanble a beni Yawe, Elohim papa zansèt yo, epi yo penche tèt yo ba epi yo mete tèt yo atè devan Yawe ak devan wa a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi ... di"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bay tout"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "beni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou yo"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "epi yo beni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "papa zansèt yo"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "epi yo penche tèt yo ba"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "epi yo mete tèt yo atè"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "devan Yawe"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "ak devan wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:24:06.855944109Z",
+  "model": "glm-5.3"
+}

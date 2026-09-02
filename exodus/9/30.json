@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Menm ou ak sèvitè ou yo, m konnen ke nou poko pè devan figi ⟨nan⟩ Yawe Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Menm ou"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ak sèvitè ou yo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "poko"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "pè"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan figi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:59.703828478Z",
+  "model": "glm-5.3"
+}

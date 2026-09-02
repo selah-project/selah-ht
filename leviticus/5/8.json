@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E l ap pote ⟨את⟩ yo bay prèt la, e prèt la ap prezante ⟨את⟩ sa ki pou ofrann peche a premye, e l ap kraze ⟨את⟩ tèt li anfas nape kò l, san l pa separe l.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "e l ap pote"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (de zwazo yo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "e prezante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki pou ofrann peche"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pou ofrann peche"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "premye"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "e kraze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt li"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tèt li"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "anfas"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "nape kò l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "san pa"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "separe l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:43.207925470Z",
+  "model": "glm-5.3"
+}

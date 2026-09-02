@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "⟨את⟩ mouton yo, ⟨את⟩ bèf yo, ⟨את⟩ bourik yo, ak ⟨את⟩ tout sa ki te nan vil la, ak ⟨את⟩ tout sa ki te nan jaden an, yo pran.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mouton yo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèf yo"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "bèf yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bourik yo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "bourik yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa ki te nan vil la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa ki te nan jaden an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden an"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "yo pran"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:25.553669443Z",
+  "model": "glm-5.3"
+}

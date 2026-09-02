@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 110,
+  "translation": "Pèp ou a se tèmwen lib nan jou fòs ou a, nan bèl rad sante; depi vant maten an, pou ou ⟨gen⟩ rosote jènès ou a.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "tèmwen lib"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "fòs ou"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "nan bèl rad"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sante"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "depi vant"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rosote"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "jènès ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:07.057554485Z",
+  "model": "glm-5.3"
+}

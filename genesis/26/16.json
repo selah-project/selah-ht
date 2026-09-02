@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E Avimelech di Yitshak: Ale ale nenpòt kote lwen ak nou, paske ou fin vin pi pwisan pase nou anpil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ale"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "ale nenpòt kote lwen ak nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "ou fin vin pi pwisan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pase nou"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:26.213306816Z",
+  "model": "glm-5.3"
+}

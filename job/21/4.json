@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Èske se mwen ki fè plent mwen bay yon moun? E si se konsa, poukisa lespri mwen pa ta dwe vin kout?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "Èske se mwen"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "bay yon moun"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "plent mwen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "vin kout"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lespri mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:37:54.447638384Z",
+  "model": "glm-5.3"
+}

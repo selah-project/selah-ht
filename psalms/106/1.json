@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Fè louwanj Yah, ban Yawe renmési, paske ⟨li⟩ bon, paske hesed li pou tout tan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Fè louwanj"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ban renmési"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:37.664664793Z",
+  "model": "glm-5.3"
+}

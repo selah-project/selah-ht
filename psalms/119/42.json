@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "E mwen ap reponn ⟨a⟩ moun ki ap insulte mwen yon pawòl, paske mwen mete konfyans nan pawòl ou.",
+  "tokens": [
+    {
+      "surface": "וְאֶֽעֱנֶ֣ה",
+      "gloss": "e mwen reponn"
+    },
+    {
+      "surface": "חֹרְפִ֣י",
+      "gloss": "moun ki ap insulte mwen"
+    },
+    {
+      "surface": "דָבָ֑ר",
+      "gloss": "yon pawòl"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בָּטַחְתִּֽי",
+      "gloss": "mwen mete konfyans"
+    },
+    {
+      "surface": "בִּדְבָרֶֽךָ",
+      "gloss": "nan pawòl ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:28.945247516Z",
+  "model": "glm-5.3"
+}

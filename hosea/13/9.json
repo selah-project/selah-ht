@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Se ou menm ki rwenon ou, Yisrayèl — paske se nan mwen ⟨gen⟩ sekou ou.",
+  "tokens": [
+    {
+      "surface": "שִֽׁחֶתְךָ֥",
+      "gloss": "se ou menm ki rwenon ou"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בִ֥י",
+      "gloss": "nan mwen"
+    },
+    {
+      "surface": "בְעֶזְרֶֽךָ",
+      "gloss": "nan sekou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:21.798458369Z",
+  "model": "glm-5.3"
+}

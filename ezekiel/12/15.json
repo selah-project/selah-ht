@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E yo ap konnen ke mwen se Yawe, lè M ap disperse ⟨את⟩ yo nan nasyon yo, e M ap seme ⟨את⟩ yo nan peyi yo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "e yo ap konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "lè M ap disperse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nan nasyon yo"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "e M ap seme"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "nan peyi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:14:50.063147805Z",
+  "model": "glm-5.3"
+}

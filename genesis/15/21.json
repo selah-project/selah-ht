@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "ak ⟨את⟩ Emori a, ak ⟨את⟩ Kenaani a, ak ⟨את⟩ Girgachi a, ak ⟨את⟩ Yevousi a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Emori a"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Kenaani a"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Girgachi a"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgachi a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yevousi a"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevousi a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:15.585466414Z",
+  "model": "glm-5.3"
+}

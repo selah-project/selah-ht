@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Yo fè egzak, yo pale move sou vyolans; nan wotè yo pale.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "yo fè egzak"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "yo pale"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "move"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "vyolans"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "nan wotè"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "yo pale"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:54.494697719Z",
+  "model": "glm-5.3"
+}

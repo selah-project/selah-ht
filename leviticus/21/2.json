@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Eksepte pou paran san li, moun ki pre l: manman l, papa l, pitit gason l, pitit fi l, frè l,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eksepte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "pou paran san l"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ki pre"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "pitit fi l"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "frè l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:55.984642789Z",
+  "model": "glm-5.3"
+}

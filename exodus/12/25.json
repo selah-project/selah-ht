@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E l ap rive ⟨ke⟩ lè nou antre nan tè a ke Yawe ap ba nou, jan li pale a, nou pral obsève ⟨את⟩ sèvis sa a.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E l ap rive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ke⟩ lè"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "nou antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ap ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "li pale"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "nou pral obsève"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvis sa a"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "sèvis"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:32.662326963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Pase enmi m yo, kòmandman ou yo fè mwen vin pi savyè, paske li se pou mwen pou tout tan.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "pase enmi m yo"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "fè mwen vin pi savyè"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "kòmandman ou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:56.858473182Z",
+  "model": "glm-5.3"
+}

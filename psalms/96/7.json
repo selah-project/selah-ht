@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Ba Yawe, ô fanmi pèp yo; ba Yawe glwa ak fòs.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ak fòs"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:40.475794725Z",
+  "model": "glm-5.3"
+}

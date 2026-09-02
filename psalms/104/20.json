@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Ou mete fènwa, e l vin lannuit; ladan l tout bèt bwa yo ap rampe.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Ou mete"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fènwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e l vin"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lannuit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ap rampe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "יער",
+      "gloss": "bwa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:30.437627592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Pou chèf mizisyen an. Yon poem ansèyman, pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yon poem ansèyman"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:29.229942956Z",
+  "model": "glm-5.3"
+}

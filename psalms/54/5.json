@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Paske etranje yo leve kont mwen, ak moun vyolan yo chèche nefech mwen; yo pa mete Elohim devan yo. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "etranje yo"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont mwen"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ak moun vyolan yo"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "devan yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:11.502916729Z",
+  "model": "glm-5.3"
+}

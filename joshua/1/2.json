@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Moche, sèvitè m nan, mouri. Kounye a, levez, pase ⟨את⟩ Jouden sa a — ou ak tout pèp sa a — pou n ale nan tè a ke m ap bay yo, pitit Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè m"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "קום",
+      "gloss": "levez"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jouden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jouden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:01:30.582832446Z",
+  "model": "glm-5.3"
+}

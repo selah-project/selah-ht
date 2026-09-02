@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E sa rive l konsa: pèp la pite ⟨את⟩ l nan pòt la, e l mouri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E sa rive"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "pite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (chèf la)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nan pòt la"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e l mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:25.325248768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 24:16",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Ak ⟨את⟩ tout gason fò yo, sèt mil, ak atizan an ak fèron an, yon mil — total la se gason fò, moun ki fè lagè; e wa Babilòn mennen yo an depòtasyon ale Babilòn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout gason fò yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gason"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "fò"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ak atizan an"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "ak fèron an"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "yon mil"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "total la"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "gason fò"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "e ... mennen yo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilòn"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "an depòtasyon"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ale Babilòn"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:54.905567475Z",
+  "model": "glm-5.3"
+}

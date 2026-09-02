@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi yon nonm ki bay kouch li sou yon bèt — mòt, li ap mouri; epi ⟨את⟩ bèt la nou gen pou nou touye.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi yon nonm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "kouch li"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sou yon bèt"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mòt"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "li ap mouri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "bèt la"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt la"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "nou gen pou nou touye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:41.841778621Z",
+  "model": "glm-5.3"
+}

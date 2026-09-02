@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Lajè lakou a sou bò solèy leve a, adàn kote lès la, se swasant... non, senkant kibit.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Lajè"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sou bò"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kote devan"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "solèy leve a, lès la"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kibit"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:30.875680266Z",
+  "model": "glm-5.3"
+}

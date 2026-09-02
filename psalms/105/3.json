@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Fè lwanj nan non sen l; kè ⟨moun ki⟩ chèche Yawe a ka kontan.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "fè lwanj"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan non"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sen l"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ka kontan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "moun ki chèche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:41.092073456Z",
+  "model": "glm-5.3"
+}

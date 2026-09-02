@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi Bilam leve nan maten, epi li chape ⟨את⟩ bourik li a, epi li ale ak chèf Moab yo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "leve"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "chape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bourik li a"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "bourik li"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf yo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-02T21:46:42.617627144Z",
+  "model": "glm-5.3"
+}

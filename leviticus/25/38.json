@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Se mwen Yawe Elohim ou yo, ki pote ⟨את⟩ ou yo soti nan peyi Mitsrayim, pou mwen bay ou yo ⟨את⟩ tè Kenaàn, pou mwen vin Elohim pou ou yo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "pote soti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ou yo",
+      "marks": "ou yo soti nan peyi Mitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pou bay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ou yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè Kenaàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "pou vin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou ou yo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:13.415083882Z",
+  "model": "glm-5.3"
+}

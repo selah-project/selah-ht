@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Si mwen fè mal, malè pou mwen; e menm si mwen jis, mwen pa leve tèt mwen; anplen wont mwen ye, e mwen gade mizè mwen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "mwen fè mal"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "malè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "e mwen jis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mwen leve"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt mwen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "anplen"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "wont"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e mwen gade"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mizè mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:07.023183537Z",
+  "model": "glm-5.3"
+}

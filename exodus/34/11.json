@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Kenbe pou tèt ou ⟨את⟩ sa mwen ap kòmande ou jodi a: Men mwen ap chase devan ou ⟨את⟩ Emorit la, ak Kenaanit la, ak Hitit la, ak Perizit la, ak Hewit la, ak Yebouzit la.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Kenbe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou tèt ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mwen ap kòmande ou jodi a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ap kòmande ou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ap chase"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorit la"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorit la"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ak Kenaanit la"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ak Hitit la"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ak Perizit la"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ak Hewit la"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ak Yebouzit la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:34.035974494Z",
+  "model": "glm-5.3"
+}

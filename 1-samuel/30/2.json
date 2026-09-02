@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Yo menen an prizonye ⟨את⟩ fanm yo ki te la a, soti nan piti jiska gran; yo pa touye ⟨pa gen yon⟩ moun, men yo mennen yo ale, epi yo pran wout pa yo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Yo menen an prizonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm yo"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "fanm yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "te la a"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "soti nan piti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "touye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "yo mennen yo ale"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "epi yo pran wout"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "pa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:25.999900975Z",
+  "model": "glm-5.3"
+}

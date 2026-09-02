@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi te gen yon grangou nan tè a, epi Avram desann nan Mitsrayim pou l rete la ⟨pou yon tan⟩, paske grangou a te lou anpil nan tè a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi te gen"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "yon grangou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "epi desann"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "pou l rete"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lou anpil"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "grangou a"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:20.126699772Z",
+  "model": "glm-5.3"
+}

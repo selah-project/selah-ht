@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "⟨Se⟩ pen Elohim li li manje: nan bagway sensibles yo ak nan bagway ki sensib yo, li manje.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim li"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "nan bagway sensibles"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sensibles yo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ak nan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ki sensib yo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "li manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:51.060161610Z",
+  "model": "glm-5.3"
+}

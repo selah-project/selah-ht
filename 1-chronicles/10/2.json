@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Filistyen yo te kole dèyè Chaoul ak dèyè pitit gason l yo, e Filistyen yo te frape ⟨את⟩ Yonatan, ak ⟨את⟩ Avinadav, ak ⟨את⟩ Malki-Choua, pitit gason Chaoul yo.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "kole dèyè"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ak dèyè"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "frape"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Malki-Choua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Choua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    }
+  ],
+  "timestamp": "2026-09-02T21:17:40.116232872Z",
+  "model": "glm-5.3"
+}

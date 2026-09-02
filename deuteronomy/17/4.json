@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "epi yo rapòte l bay ou, e tande l, e w chwache byen — e gade: verite, bagay la sèten, ke bagay degooutan sa a fèt nan Yisrayèl —",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "epi yo rapòte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bay ou"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "e tande l"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "e w chwache"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verite"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sèten"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay la"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "bagay degooutan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T16:51:41.675156940Z",
+  "model": "glm-5.3"
+}

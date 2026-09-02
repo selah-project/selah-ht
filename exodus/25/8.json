@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "epi yo fè yon senktyè pou mwen, pou m ka rete nan mitan yo —",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "epi yo fè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "yon senktyè"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "pou m ka rete"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "nan mitan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:12.809388436Z",
+  "model": "glm-5.3"
+}

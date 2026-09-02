@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "rwa Makeda, youn; rwa Beit-El, youn;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "rwa"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makeda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:54.625022801Z",
+  "model": "glm-5.3"
+}

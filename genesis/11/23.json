@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Seroug vivan apre li fè ⟨את⟩ Nahòr de san an, epi li fè pitit gason ak pitit fi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seroug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahòr"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahòr"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "de san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi li fè"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ak pitit fi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:36.939836335Z",
+  "model": "glm-5.3"
+}

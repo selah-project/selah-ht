@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Fè m tande kè kontan ak lajwa; zo ou te kraze a ap bay kè kontan anko.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "fè m tande"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kè kontan"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ak lajwa"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ap bay kè kontan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "zo"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ou te kraze"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:00.905479383Z",
+  "model": "glm-5.3"
+}

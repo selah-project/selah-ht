@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E pèp la kwè, e yo tande ⟨ke⟩ Yawe te vizite ⟨את⟩ pitit gason Yisrael yo, e ⟨ke⟩ li te wè ⟨את⟩ mizè yo; e yo bwese tèt yo, e yo mete tèt yo atè ⟨devan li⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "kwè"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "yo tande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "te vizite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason Yisrael yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e ke"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "te wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizè yo"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "mizè yo"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "yo bwese tèt yo"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "yo mete tèt yo atè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:56.786093665Z",
+  "model": "glm-5.3"
+}

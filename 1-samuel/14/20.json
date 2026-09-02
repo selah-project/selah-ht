@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi Chaoul ak tout pèp la ki te ⟨את⟩ li a te rele, epi yo desann rive nan batay la; epi gade, zap chak moun te vire kont pròch li — yon debòd ki te gwo anpil.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "te rele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki te"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "prepozisyon kòzante «ak li», se pa mak objè dirèk"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "epi yo desann rive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "batay la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "kont pròch li"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "yon debòd"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ki te gwo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:22.055575753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Sou men l ⟨te ye⟩ Yehochanan, chèf la, ak li de san mil ak katreven mil.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Yehochanan"
+    },
+    {
+      "surface": "השר",
+      "gloss": "chèf la"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "de san"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "ak katreven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    }
+  ],
+  "timestamp": "2026-09-02T21:29:02.383087009Z",
+  "model": "glm-5.3"
+}

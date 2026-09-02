@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Paske si nou pa t ap tann lontan, se sèten kounye a nou ta tounen dezyèm fwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "si... pa t"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "nou t ap tann lontan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se sèten"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "nou ta tounen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "de fwa"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:18.139263084Z",
+  "model": "glm-5.3"
+}

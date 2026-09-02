@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li pale, ak sauterèl yo vini, ak vè kayan san kont.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "sauterèl yo"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "ak vè kayan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "san"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kont"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:03.983516034Z",
+  "model": "glm-5.3"
+}

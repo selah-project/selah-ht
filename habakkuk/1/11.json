@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lè sa a ⟨souf la⟩ glise epi ⟨li⟩ pase, epi ⟨li⟩ koupab — sa a se fòs ⟨li⟩ pou dye ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "glise"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "souf"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "epi ⟨li⟩ pase"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "epi ⟨li⟩ koupab"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "fòs ⟨li⟩"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "pou dye ⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T19:42:01.540430223Z",
+  "model": "glm-5.3"
+}

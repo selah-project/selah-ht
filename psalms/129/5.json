@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 129,
+  "translation": "Ke yo wont epi ke yo tounen davè, tout moun ki rayi Tsiyòn.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "wont"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "epi tounen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "davè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout moun"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ki rayi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:17.764976410Z",
+  "model": "glm-5.3"
+}

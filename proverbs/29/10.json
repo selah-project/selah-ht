@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Moun san yo rayi moun ki gen kè senp la; e moun dwat yo chèche nanm li.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "rayi"
+    },
+    {
+      "surface": "תם",
+      "gloss": "moun ki gen kè senp"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "moun dwat"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nanm li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:08.108196267Z",
+  "model": "glm-5.3"
+}

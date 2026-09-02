@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Èske dye nasyon yo delivre ⟨את⟩ yo — yo menm papa m yo fin ranvèse: ⟨את⟩ Gozàn ak ⟨את⟩ Charàn, ak Retsef, ak pitit Edèn ki nan Telachar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Èske ... delivre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (nasyon yo)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo menm"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "fin ranvèse"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "papa m yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozàn"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Charàn"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charàn"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ak Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ak pitit"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edèn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "nan Telachar"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:45.109842868Z",
+  "model": "glm-5.3"
+}

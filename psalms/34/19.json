@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Yawe pre pou moun ki gen kè kase, e ⟨את⟩ moun ki gen lespri kraze ⟨li⟩ delivre.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "pre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "pou moun ki gen kè"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "moun ki gen lespri kraze"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "moun ki gen lespri"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "delivre"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:32.062585256Z",
+  "model": "glm-5.3"
+}

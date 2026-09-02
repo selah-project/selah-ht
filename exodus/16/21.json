@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Yo ramase l ⟨את⟩ maten apre maten, chak moun dapre kantite manje l a; lè solèy la te vin cho, l t ap fonn.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "yo ramase"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (mannan an)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "apre maten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dapre kantite"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "manje l a"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "lè ... te vin cho"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "l t ap fonn"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:26.848260239Z",
+  "model": "glm-5.3"
+}

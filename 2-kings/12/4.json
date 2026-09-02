@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Sèlman kote wò yo pa t' leve; pèp la ap toujou ap sakrifye epi ap boule ensans nan kote wò yo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "kote wò yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "t' leve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ap sakrifye"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "epi ap boule ensans"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "nan kote wò yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:52.089193415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Vow yo pou Yawe m ap peye — kounye a, devan tout pèp li a.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Vow yo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "m ap peye"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "devan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:34.979952762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 121,
+  "translation": "Gade, li pa dòmi lejè epi li pa dòmi fon — gadyan Yisrael la.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "dòmi lejè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "dòmi fon"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "gadyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:39.869075750Z",
+  "model": "glm-5.3"
+}

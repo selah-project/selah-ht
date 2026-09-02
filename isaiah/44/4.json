@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "E yo pouse pami zyèb, kou pye willow yo sou kouran dlo.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "yo pouse"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "pami"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "zyèb"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "kou pye willow yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "kouran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:40.330042392Z",
+  "model": "glm-5.3"
+}

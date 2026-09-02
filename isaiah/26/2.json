@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Ouvri pòt yo, e kite yon nasyon jis antre, ⟨yon moun⟩ ki kenbe lafwa.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Ouvri"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "pòt yo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e antre"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasyon"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "lafwa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:01.768949942Z",
+  "model": "glm-5.3"
+}

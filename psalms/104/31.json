@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Ke glwa Yawe pou toutan; ke Yawe kè kontan nan zèv li yo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ke"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kè kontan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "nan zèv li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:02.035816588Z",
+  "model": "glm-5.3"
+}

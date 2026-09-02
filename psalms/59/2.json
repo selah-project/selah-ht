@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Delivre m nan men nenmi m yo, Elohim mwen, soti nan men moun k ap leve kont m mete m an sekirite.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Delivre m"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "nenmi m yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "moun k ap leve kont m"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "mete m an sekirite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:52.354725062Z",
+  "model": "glm-5.3"
+}

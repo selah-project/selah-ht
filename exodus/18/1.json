@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E lè Yitro, kohen Midyan, hoten Moche, tande ⟨את⟩ tout sa Elohim fè pou Moche ak pou Yisrael, pèp li a — paske Yawe fè ⟨את⟩ Yisrael soti nan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "E lè … tande"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "hoten"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "pou Moche"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ak pou Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "fè … soti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:21.286576916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Yo pa te detwi ⟨את⟩ pèp yo ke Yawe te di ⟨pou yo detwi⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "yo te detwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp yo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "te di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨pou yo detwi⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:34.954526921Z",
+  "model": "glm-5.3"
+}

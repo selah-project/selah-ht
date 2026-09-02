@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pa fè ⟨את⟩ sèvant ou pase devan yon fi Beliyal; paske nan abondans plent mwen ak kòlèt mwen mwen pale jouk kounye a.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fè pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvant ou"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sèvant ou"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yon fi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "nan abondans"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "plent mwen"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "ak kòlèt mwen"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mwen pale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kounye a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:18.351688431Z",
+  "model": "glm-5.3"
+}

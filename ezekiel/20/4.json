@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Èske w ap jije ⟨את⟩ yo? Èske w ap jije, pitit moun? Fè yo konnen ⟨את⟩ move bagay zansèt yo —",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Èske w ap jije"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Èske w ap jije"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "move bagay zansèt yo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "move bagay"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "zansèt yo"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Fè yo konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:18:08.776142976Z",
+  "model": "glm-5.3"
+}

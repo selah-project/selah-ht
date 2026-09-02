@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Li ap desann kòm lapli sou zèb koupe a, kòm gwo pliyo ki benyen tè a.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Li ap desann"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "kòm lapli"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גז",
+      "gloss": "zèb koupe a"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "kòm gwo pliyo"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ki benyen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:23.797665553Z",
+  "model": "glm-5.3"
+}

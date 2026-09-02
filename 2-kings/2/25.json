@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E l te ale kite kote sa a, ale nan mòn Karmèl la, e soti kote sa a l tounen nan Chomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kote sa a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmèl la"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "e soti kote sa a"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "nan Chomron"
+    }
+  ],
+  "timestamp": "2026-09-02T18:07:15.303359392Z",
+  "model": "glm-5.3"
+}

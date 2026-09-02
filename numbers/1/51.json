@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi lè Mishkan la ap mache, Levi yo desann ⟨את⟩ l; lè Mishkan la ap kanpe, Levi yo montre ⟨את⟩ l kanmpè; epi etranje a ki vin pre ap dwe mouri.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "Epi lè ... ap mache"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan la"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "desann"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "Mishkan la"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "lè ... ap kanpe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan la"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "montre kanpe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "Mishkan la"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "epi etranje a"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ki vin pre"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ap dwe mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:10.846758418Z",
+  "model": "glm-5.3"
+}

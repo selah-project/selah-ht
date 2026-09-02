@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi ke tè a pa vomi ⟨את⟩ nou, lè nou sal li ⟨את⟩, jan li te vomi ⟨את⟩ nasyon an ki te devan nou.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ke ... pa"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "vomi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "lè nou sal li"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "te vomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasyon an"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "nasyon an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:34.194973264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi Aharòn lonje ⟨את⟩ men li sou dlo Mitsrayim, epi krapo yo monte, epi yo kouvri ⟨את⟩ tè Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Epi lonje"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men li"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "epi … monte"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "krapo yo"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "epi yo kouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:57.134210083Z",
+  "model": "glm-5.3"
+}

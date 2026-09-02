@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Pa pè yo; sonje byen sonje ⟨את⟩ sa Yawe Elohim ou te fè: ⟨את⟩ sa li te fè nan Paro ak nan tout Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "w sonje byen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yawe Elohim ou te fè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "nan Paro"
+    },
+    {
+      "surface": "ו לכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:48.117085540Z",
+  "model": "glm-5.3"
+}

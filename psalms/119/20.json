@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Nanm m kraze ak anvi pou jijman yo ou, nan tout tan.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nanm m"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ak anvi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jijman yo ou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:06.957366371Z",
+  "model": "glm-5.3"
+}

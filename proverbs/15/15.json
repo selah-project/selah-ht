@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Tout jou moun ki nan malè yo move, men yon kè bon gen yon fèt diran.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moun ki nan malè"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "move"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "men bon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "diran"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:24.973197976Z",
+  "model": "glm-5.3"
+}

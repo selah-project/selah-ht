@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Satre nou nan maten an ak hesed ou, epi nou pral chante e fete tout jou nou yo.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Satre nou"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten an"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "epi nou pral chante"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "e fete"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "jou nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:55.374777702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 14:31",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi pitit ti nou yo, nou menm ki di yo pral vin pwòp pitza — se mwen menm ki pral mennen yo, e yo pral konnen ⟨את⟩ tè a ke nou menm rejte.",
+  "tokens": [
+    {
+      "surface": "וטפכם",
+      "gloss": "epi pitit ti nou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "nou di"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "pou yo vin pitza"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yo pral vin"
+    },
+    {
+      "surface": "והביאתי",
+      "gloss": "epi mwen pral mennen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (pitit ti nou yo)"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "epi yo pral konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "nou rejte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:27:33.154205372Z",
+  "model": "glm-5.3"
+}

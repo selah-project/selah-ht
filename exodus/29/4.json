@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E ⟨את⟩ Aharòn ak ⟨את⟩ pitit li yo w ap pote pre nan pòtay tant reynkont la, e w ap lave ⟨את⟩ yo nan dlo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "w ap pote pre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reynkont"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "e w ap lave"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:24.639002538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Tout gason nan kohen yo ap manje l; nan yon kote sent li ap manje; se kodesh kadachim li ye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "nan kohen yo"
+    },
+    {
+      "surface": "יוכלנו",
+      "gloss": "ap manje l"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sent"
+    },
+    {
+      "surface": "ייאכל",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kadachim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:21.649964149Z",
+  "model": "glm-5.3"
+}

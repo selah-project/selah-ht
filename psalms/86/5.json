@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Paske ou, Adònay, ⟨ye⟩ bon e padone, e gen anpil hesed pou tout moun ki envoke ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "e padone"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e anpil"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "moun ki envoke ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:20.736818652Z",
+  "model": "glm-5.3"
+}

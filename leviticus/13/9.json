@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Lè yon maladi tsaraat genyen nan yon moun, yo mennen l bay kohen la.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "maladi"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "genyen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nan yon moun"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "yo mennen l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:45.530590560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Paro rele Moche, e li di: Ale, sèvi ⟨את⟩ Yawe; sèlman mouton ak bèf yo dwe rete; men ti pitit yo ap ale avèk ou yo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Epi rele"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "ak bèf yo"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "dwe rete"
+    },
+    {
+      "surface": "גם",
+      "gloss": "men"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ti pitit yo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ap ale"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avèk ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:31.958830734Z",
+  "model": "glm-5.3"
+}

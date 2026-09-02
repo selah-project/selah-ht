@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E l te fèt, lè yo tande ⟨את⟩ Lwa a, yo separe tout moun melanje yo soti nan Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E l te fèt"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "lè yo tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lwa a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Lwa a"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "yo separe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "moun melanje"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "soti nan Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:26.528801795Z",
+  "model": "glm-5.3"
+}

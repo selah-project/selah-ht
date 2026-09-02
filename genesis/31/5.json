@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "E l di ba yo: mwen wè ⟨את⟩ figi papa nou an, li pa bò kote m konsa ankò, jan yè ak avan-yè; men Elohim papa m te avèk m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ba yo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "mwen wè"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "papa nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "li pa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bò kote m"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "jan yè"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ak avan-yè"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "men Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avèk m"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:31.706281134Z",
+  "model": "glm-5.3"
+}

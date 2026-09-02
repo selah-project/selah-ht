@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "M ap mete men l sou lanmè a, e men-dwat l sou rivyè yo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "M ap mete"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sou lanmè a"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "e sou rivyè yo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "men-dwat l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:57.180251105Z",
+  "model": "glm-5.3"
+}

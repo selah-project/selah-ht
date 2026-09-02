@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "An plas lanmou mwen yo akize mwen, e menm mwen — priyè.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "lanmou mwen"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "yo akize mwen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e menm mwen"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "priyè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:14.675634723Z",
+  "model": "glm-5.3"
+}

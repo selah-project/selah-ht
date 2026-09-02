@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Ou bon, e ou fè byen; anseche m lwa yo ou.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "e ou fè byen"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "anseche m"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "lwa yo ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:28.546279907Z",
+  "model": "glm-5.3"
+}

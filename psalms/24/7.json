@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Leve, pòt yo, tèt ou yo; e ⟨ou yo dwe⟩ leve, antre ki pa gen fen yo; e Wa a ki gen glwa a ap antre.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "pòt yo"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "tèt ou yo"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "e ⟨dwe⟩ leve"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "antre yo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ki pa gen fen"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": ""
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:23.505718682Z",
+  "model": "glm-5.3"
+}

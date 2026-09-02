@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Sèvi ⟨את⟩ Yawe ak respe, e fè rejwi ak tranbleman.",
+  "tokens": [
+    {
+      "surface": "עִבְדוּ",
+      "gloss": "Sèvi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בְּיִרְאָה",
+      "gloss": "ak respe"
+    },
+    {
+      "surface": "וְגִילוּ",
+      "gloss": "e fè rejwi"
+    },
+    {
+      "surface": "בִּרְעָדָה",
+      "gloss": "ak tranbleman"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:26.844033274Z",
+  "model": "glm-5.3"
+}

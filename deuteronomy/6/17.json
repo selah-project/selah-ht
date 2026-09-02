@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Gade byen, gade byen ⟨את⟩ kòmandman Yawe Elohim nou yo, ak temwayaj li yo, ak lwa li yo, ke l òdone nou.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "gade byen"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "gade byen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ak temwayaj li"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "ak lwa li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "òdone nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:57.166856974Z",
+  "model": "glm-5.3"
+}

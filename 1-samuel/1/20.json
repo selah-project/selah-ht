@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E sa rive, lè sik jou yo fin ⟨pase⟩, Hana vin ansent epi li fèt ak yon gason; li rele ⟨את⟩ non li Chemouel, paske se de Yawe mwen te mande l.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e sa rive"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "lè sik"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "vin ansent"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "li fèt ak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yon gason"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "li rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non li"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "de Yawe"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "mwen te mande l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:40.690120244Z",
+  "model": "glm-5.3"
+}

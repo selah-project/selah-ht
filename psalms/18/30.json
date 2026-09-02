@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Paske ak ou mwen kouri ⟨sou⟩ yon twoup, e ak Elohim mwen mwen sote ⟨pase⟩ yon miray.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kouri"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "twoup"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "e ak Elohim mwen"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "sote"
+    },
+    {
+      "surface": "שור",
+      "gloss": "miray"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:46.613090345Z",
+  "model": "glm-5.3"
+}

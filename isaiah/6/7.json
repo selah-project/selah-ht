@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E l manyen bouch mwen avèk l, e li di: Gade, sa a te manyen sou lèv ou; e inikite ou retire, e peche ou kouvri.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "E l manyen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch mwen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "te manyen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lèv ou"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "e retire"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "inikite ou"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "e peche ou"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "kouvri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:38.059515589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Yawe nan tanp sen ⟨li⟩: Chut! Devan ⟨li⟩, tout tè a!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "E Yawe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "nan tanp"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sen ⟨li⟩"
+    },
+    {
+      "surface": "הס",
+      "gloss": "Chut!"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "Devan ⟨li⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:43:40.031014585Z",
+  "model": "glm-5.3"
+}

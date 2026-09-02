@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Tout moun ki pral rebele ⟨kont⟩ ⟨את⟩ bouch ou e k ap pa obeyi ⟨את⟩ pawòl ou, nan tout sa w ap lòd l — li ap mouri; sèlman, kenbe fò e kouraje.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "rebele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch ou"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bouch ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "obeyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl ou"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "w ap lòd l"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kenbe fò"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "e kouraje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:59:46.486564533Z",
+  "model": "glm-5.3"
+}

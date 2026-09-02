@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Elohim pale ⟨את⟩ tout pawòl yo sa yo, pou ⟨l⟩ di:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl yo sa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:06.549467734Z",
+  "model": "glm-5.3"
+}

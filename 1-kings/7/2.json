@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Li bati ⟨את⟩ kay bwa Levanon an: san kibit longè l, senkant kibit lajè l, trant kibit wotè l, sou kat ranje kolòn sèd, ak pout sèd sou kolòn yo.",
+  "tokens": [
+    {
+      "surface": "וַיִּבֶן",
+      "gloss": "li bati"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kay bwa Levanon"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יַעַר",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "הַלְּבָנוֹן",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "מֵאָה",
+      "gloss": "san"
+    },
+    {
+      "surface": "אַמָּה",
+      "gloss": "kibit"
+    },
+    {
+      "surface": "אָרְכּוֹ",
+      "gloss": "longè l"
+    },
+    {
+      "surface": "וַחֲמִשִּׁים",
+      "gloss": "ak senkant"
+    },
+    {
+      "surface": "אַמָּה",
+      "gloss": "kibit"
+    },
+    {
+      "surface": "רָחְבּוֹ",
+      "gloss": "lajè l"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁים",
+      "gloss": "ak trant"
+    },
+    {
+      "surface": "אַמָּה",
+      "gloss": "kibit"
+    },
+    {
+      "surface": "קוֹמָתוֹ",
+      "gloss": "wotè l"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אַרְבָּעָה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "טוּרֵי",
+      "gloss": "ranje"
+    },
+    {
+      "surface": "עַמּוּדֵי",
+      "gloss": "kolòn"
+    },
+    {
+      "surface": "אֲרָזִים",
+      "gloss": "sèd"
+    },
+    {
+      "surface": "וּכְרֻתֹת",
+      "gloss": "ak pout"
+    },
+    {
+      "surface": "אֲרָזִים",
+      "gloss": "sèd"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הָעַמּוּדִים",
+      "gloss": "kolòn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:45.892403034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Avèk chante yo pa bwè vin; alkòl vin èm pou moun ki bwè l.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "Avèk chante"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "bwè"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "vin èm"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "alkòl"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "pou moun ki bwè l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:05.992034631Z",
+  "model": "glm-5.3"
+}

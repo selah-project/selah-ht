@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Mwen te di: Nan repo jou m yo m ap ale nan pòt Cheol yo; yo konte rès ane m yo ⟨pou mwen⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "te di"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "nan repo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou m yo"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "m ap ale"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "nan pòt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "yo konte"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "rès"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "ane m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:34:19.007428803Z",
+  "model": "glm-5.3"
+}

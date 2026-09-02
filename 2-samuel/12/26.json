@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E Yoav goumen kont Raba nan peyi pitit Amon yo, e ⟨li⟩ pran ⟨את⟩ vil wayal la.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "e gouman"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "kont Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon yo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "e pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vil la"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "wayal la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:29.668416524Z",
+  "model": "glm-5.3"
+}

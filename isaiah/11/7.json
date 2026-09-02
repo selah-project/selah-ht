@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Vach ak lours ap pàtishe ansanm, ti pitit yo ap kouchche ansanm; epi lyon ap manje pay kou bèf.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "Vach"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "ak lours"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "ap pàtishe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "ap kouchche"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ti pitit yo"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "epi lyon"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "kou bèf"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:59.192265079Z",
+  "model": "glm-5.3"
+}

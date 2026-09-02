@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E David di: Yawe vivan! Se Yawe ki ap frape l, oswa jou l ap vini e l ap mouri, oswa l ap desann nan lagè a e l ap disparèt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨Se⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ki ap⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "frape l"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "jou l"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e ... ap mouri"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "nan lagè a"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ap desann"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "e ... ap disparèt"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:25.429472426Z",
+  "model": "glm-5.3"
+}

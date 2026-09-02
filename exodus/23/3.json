@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi pa fè onè pou yon pòv nan pwosè li.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "Epi yon pòv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "fè onè pou"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "nan pwosè li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:26.932151509Z",
+  "model": "glm-5.3"
+}

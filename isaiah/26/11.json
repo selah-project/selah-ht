@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Yawe, men w an wo — yo pa wè li; yo pral wè, e yo pral wont — jalouzi ou pou pèp la — wi, dife ap manme enmi ou yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "an wo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "wè"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "yo pral wè"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "e yo pral wont"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "jalouzi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "enmi ou yo"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "ap manme yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:29:47.946721794Z",
+  "model": "glm-5.3"
+}

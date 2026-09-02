@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi jèn gason wa a, moun ki sèvi l yo, di: Ke yo chèche pou wa a jèn fi, vyèj, ki bèl pou gade.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "moun ki sèvi l yo"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou wa a"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "jèn fi"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "vyèj"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "pou gade"
+    }
+  ],
+  "timestamp": "2026-09-02T20:54:09.081244543Z",
+  "model": "glm-5.3"
+}

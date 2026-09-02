@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E ou pran ⟨את⟩ belier la, youn nan de yo, e Aharòn ak pitit gason l yo repoze ⟨את⟩ men yo sou tèt belier la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "belier la"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "belier la"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ou pran"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "e yo repoze"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ak pitit gason l yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men yo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "belier la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:06.693397047Z",
+  "model": "glm-5.3"
+}

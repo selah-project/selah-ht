@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi si l pa lave ⟨rad⟩ li, epi l pa benyen kò l, l ap pote fòt li.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "epi si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "lave"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ak kò l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "benyen"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "l ap pote"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "fòt li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:33.483078704Z",
+  "model": "glm-5.3"
+}

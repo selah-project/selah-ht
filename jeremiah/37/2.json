@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 37:2",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Men li menm, ak sèvitè li yo, ak moun peyi a, pa t koute pawòl Yawe ke li te pale nan men pwofèt Yirmiyahou a.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ak sèvitè li yo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ak moun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahou"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:56:49.681437856Z",
+  "model": "glm-5.3"
+}

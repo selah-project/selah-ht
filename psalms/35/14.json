@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Kòm yon zanmi, kòm yon frè pou m, m te mache toutwon; kòm yon moun ki ap fè dèy yon manman, nwat ak chagrin, m te bese tèt m.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "kòm yon zanmi"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kòm yon frè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "m te mache toutwon"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "kòm yon moun ki ap fè dèy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yon manman"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nwat ak chagrin"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "m te bese tèt m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:01.498510756Z",
+  "model": "glm-5.3"
+}

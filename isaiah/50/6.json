@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Dos mwen bay pou moun ki frape, ak jou mwen pou moun ki rache (barb); figi mwen pa kache de wont ak krache.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "dos mwen"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "bay"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "pou moun ki frape"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "ak jou mwen"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "pou moun ki rache"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "kache"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "de wont"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "ak krache"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:33.602862816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Pen nou pa manje, e diven ak bwè fò nou pa bwè, pou nou konnen ke se mwen menm Yawe, Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ak diven"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ak bwè fò"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "bwè"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "nou konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:10.228473859Z",
+  "model": "glm-5.3"
+}

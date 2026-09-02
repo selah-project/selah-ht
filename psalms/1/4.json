@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pa konsa movan yo; se tankou pay ke van an chase l ale.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "movan yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "pay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "chase l ale"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:19.155667206Z",
+  "model": "glm-5.3"
+}

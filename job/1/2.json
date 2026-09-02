@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epwi li fè sèt (7) gason ak twa (3) fi.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sèt (7)"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ak twa (3)"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:38.036154072Z",
+  "model": "glm-5.3"
+}

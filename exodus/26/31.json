@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 26:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi ou fè yon parokhet (rido) nan Tekhelet, ak Argaman, ak Tolaat Chani, ak lin fin twise — travay tise; ou fè ⟨את⟩ li ak kerubim.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "epi ou fè"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parokhet"
+    },
+    {
+      "surface": "תכלet",
+      "gloss": "Tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ak Argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ak Tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "Chani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ak lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "fin twise"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "tise"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (parokhet la)"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:36.682344297Z",
+  "model": "glm-5.3"
+}

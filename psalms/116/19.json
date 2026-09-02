@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Nan lakou kay Yawe, nan mitan ou, è Yerouchalayim. Louwe Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Nan lakou yo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "nan mitan ou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Louwe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:34.980150010Z",
+  "model": "glm-5.3"
+}

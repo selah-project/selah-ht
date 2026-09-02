@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Ou fè l gen pouvwa sou travay men ou yo; tout ⟨bagay⟩ ou mete anba pye l.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "ou fè l gen pouvwa sou"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "travay"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "pye l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:01.139879836Z",
+  "model": "glm-5.3"
+}

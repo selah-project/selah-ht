@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "ak ⟨את⟩ tab la ak ⟨את⟩ tout efè li, ak ⟨את⟩ kandèlab la ki pi pur ak ⟨את⟩ tout efè l, ak ⟨את⟩lotèl lan ensans la",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tab la"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tab la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout efè li"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "tout efè li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kandèlab la"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandèlab la"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ki pi pur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout efè l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "efè l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lotèl lan ensans la"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lotèl lan"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ensans la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:56.334288012Z",
+  "model": "glm-5.3"
+}

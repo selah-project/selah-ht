@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E si se yon moun pòv li ye, pa dòmi ak gad li.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ak gad li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:42.125403730Z",
+  "model": "glm-5.3"
+}

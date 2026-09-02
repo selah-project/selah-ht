@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E ⟨li⟩ antre jis anvan pòt wa a, paske pa gen dwa antre nan pòt wa a ak rad sak.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "e antre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen ⟨dwa⟩"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "ak ⟨rad⟩"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sak"
+    }
+  ],
+  "timestamp": "2026-09-02T22:04:20.108163327Z",
+  "model": "glm-5.3"
+}

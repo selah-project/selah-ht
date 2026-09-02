@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Pa envi moun ki fè mal yo, e pa dezire pou ⟨ou⟩ ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "envi"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "sou moun"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ki fè mal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "dezire"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "pou ⟨ou⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (ak yo)"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:45.948935582Z",
+  "model": "glm-5.3"
+}

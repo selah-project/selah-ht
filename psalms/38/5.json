@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Paske inikte m yo pase sou tèt mwen; tankou yon chay lou, yo vin twò lou pou mwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "inikte m yo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pase sou"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt mwen"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "tankou yon chay"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lou"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "yo vin twò lou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:05.869289049Z",
+  "model": "glm-5.3"
+}

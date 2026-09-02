@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E sa rive: lè wa a tande ⟨את⟩ pawòl fanm nan, li chire ⟨את⟩ rad li; pandan l ap pase sou mi a, pèp la gade, e men an, saken an sou chans li, anndan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e sa rive"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lè ... tande"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl fanm nan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "e li chire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad li"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ap pase"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "mi a"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e ... gade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e men an"
+    },
+    {
+      "surface": "השק",
+      "gloss": "saken an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "chans li"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "anndan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:20.677074880Z",
+  "model": "glm-5.3"
+}

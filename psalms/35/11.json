@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Temwen vyolan yo kanpe; bagay mwen pa t konnen, yo mande m.",
+  "tokens": [
+    {
+      "surface": "יקומוני",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "temwen yo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "t konnen"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "yo mande m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:51.844773961Z",
+  "model": "glm-5.3"
+}

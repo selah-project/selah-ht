@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "De pa de, ⟨yo⟩ antre kay Noach, nan vat la, gason ak fi, jan Elohim te kòmande ⟨את⟩ Noach.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "באו",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "vat la"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ak fi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:58.164986390Z",
+  "model": "glm-5.3"
+}

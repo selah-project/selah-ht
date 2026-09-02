@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Bay fòs pou Elohim; sou Yisrael gen majeste l, ak fòs l nan nwèl yo.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "majeste l"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ak fòs l"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "nan nwèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:34.322315842Z",
+  "model": "glm-5.3"
+}

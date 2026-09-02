@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Eliyahou ale pou l parèt devan Ahab — kadfo nan Chemeròn lan te di.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahou"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "pou l parèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "e kadfo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "di"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "nan Chemeròn"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:58.901870256Z",
+  "model": "glm-5.3"
+}

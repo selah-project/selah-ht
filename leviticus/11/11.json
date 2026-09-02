@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Se decho yo ap vin pou nou: vyann yo pa n ap manje, e ⟨את⟩ kadav yo nou ap jwe decho.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "e decho"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "vyann yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kadav yo"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "kadav yo"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "jwe decho"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:51.793374723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "E yo vin piti e yo bese, paske opresyon, move ak chagren.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "E yo vin piti"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "e yo bese"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "paske opresyon"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "move"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ak chagren"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:19.299209924Z",
+  "model": "glm-5.3"
+}

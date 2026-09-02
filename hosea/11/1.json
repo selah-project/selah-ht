@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Paske Yisrael te yon jèn ti gason, e mwen te renmen l; e soti nan Mitsrayim mwen te rele pitit mwen.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "נַעַר",
+      "gloss": "yon jèn ti gason"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וָאֹהֲבֵהוּ",
+      "gloss": "e mwen te renmen l"
+    },
+    {
+      "surface": "וּמִמִּצְרַיִם",
+      "gloss": "e soti nan Mitsrayim"
+    },
+    {
+      "surface": "קָרָאתִי",
+      "gloss": "mwen te rele"
+    },
+    {
+      "surface": "לִבְנִי",
+      "gloss": "pitit mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:45.569552437Z",
+  "model": "glm-5.3"
+}

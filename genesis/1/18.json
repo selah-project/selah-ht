@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E pou yo domine nan jou a ak nan lannwit la, e pou yo separe ant limyè a ak ant fènwa a; Elohim wè ke li ⟨se⟩ bon.",
+  "tokens": [
+    {
+      "surface": "ולמשׁל",
+      "gloss": "e pou yo domine"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou a"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ak nan lannwit la"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "e pou yo separe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "האור",
+      "gloss": "limyè a"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "fènwa a"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:35.740449451Z",
+  "model": "glm-5.3"
+}

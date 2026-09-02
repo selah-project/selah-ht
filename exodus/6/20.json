@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Amram pran ⟨את⟩ Yokheved, matant li, pou li kòm fanm, e li fè pou li ⟨את⟩ Aharòn ak ⟨את⟩ Moche; e ane lavi Amram yo te sant trant-sèt ane.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokheved"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokheved"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "matant li"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kòm fanm"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e li fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharòn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e ane"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "sant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:23.959218667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Pen san levèn pral manje ⟨את⟩ sèt jou yo; pen ki gen levèn pa ap parèt devan ou, ni levèn pa ap parèt devan ou, nan tout tèritwa ou.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "pen san levèn"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "pral manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèt jou yo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ap parèt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "pen ki gen levèn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ap parèt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "levèn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "tèritwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:38.291176003Z",
+  "model": "glm-5.3"
+}

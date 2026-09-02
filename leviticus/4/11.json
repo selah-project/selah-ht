@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "ak ⟨את⟩ po bèf la, ak ⟨את⟩ tout vyann li, sou tèt li ak sou janm li, ak trip li ak poupou l.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "po bèf la"
+    },
+    {
+      "surface": "עור",
+      "gloss": "po"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout vyann li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "vyann li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tèt li"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "janm li"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ak trip li"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ak poupou l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:37.687633528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Ennemi l yo m ap abiye ak wont, e sou li kouròn l ap fleri.",
+  "tokens": [
+    {
+      "surface": "אֹיְבָיו",
+      "gloss": "ennemi l yo"
+    },
+    {
+      "surface": "אַלְבִּישׁ",
+      "gloss": "m ap abiye"
+    },
+    {
+      "surface": "בֹּשֶׁת",
+      "gloss": "ak wont"
+    },
+    {
+      "surface": "וְעָלָיו",
+      "gloss": "e sou li"
+    },
+    {
+      "surface": "יָצִיץ",
+      "gloss": "ap fleri"
+    },
+    {
+      "surface": "נִזְרוֹ",
+      "gloss": "kouròn l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:56.031237520Z",
+  "model": "glm-5.3"
+}

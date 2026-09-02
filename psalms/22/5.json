@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Nan ou zansèt nou met konfyans; yo met konfyans, epi ou delivre yo.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Nan ou"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "met konfyans"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "zansèt nou"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "yo met konfyans"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "epi ou delivre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:44.640821126Z",
+  "model": "glm-5.3"
+}

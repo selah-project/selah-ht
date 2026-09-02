@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Ban nou pou nou menm twa moun pou chak tribi, e m ap voye yo, e yo pral leve, e yo pral mache nan tè a, e yo pral ekri ⟨את⟩ li dapre eritaj yo, e yo pral vini bò kote m.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou menm"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moun"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "pou chak tribi"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "e m ap voye yo"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "e yo pral leve"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "e yo pral mache"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "e yo pral ekri"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ li",
+      "marks": "tè a"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "eritaj yo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e yo pral vini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bò kote m"
+    }
+  ],
+  "timestamp": "2026-09-02T17:08:07.409940391Z",
+  "model": "glm-5.3"
+}

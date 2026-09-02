@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Chmouèl te sèvi devan ⟨את⟩ figi Yawe a — yon jèn ti gason, fenk sanble ak yon efod an lin.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "E Chmouèl"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "te sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jèn ti gason"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "fenk sanble"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "an lin"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:54.801158473Z",
+  "model": "glm-5.3"
+}

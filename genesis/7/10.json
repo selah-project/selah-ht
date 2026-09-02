@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E l te fèt, apre sèt jou ⟨yo⟩, dlo debakla a te vini sou tè a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E l te fèt"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "apre sèt"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "debakla"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te vini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:58.165229039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Men Noach te jwennen favè nan je Yawe.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Men Noach"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "te jwennen"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favè"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:21.799561538Z",
+  "model": "glm-5.3"
+}

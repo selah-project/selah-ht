@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Si ou vin savan, se pou ou menm ou vin savan; e si ou moque, se pou kont ou sèl ou ap pote l.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ou vin savan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ou vin savan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "e si ou moque"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "pou kont ou sèl"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ou ap pote l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:33.126004243Z",
+  "model": "glm-5.3"
+}

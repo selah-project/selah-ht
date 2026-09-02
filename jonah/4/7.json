@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E HaElohim òrdòne yon vè lè falèt la t ap monte, pou demen maten an; li frape ⟨את⟩ kikayon an, e l seche.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Òrdòne"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "yon vè"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "lè ... t ap monte"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "falèt la"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "pou demen"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikayon an"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikayon an"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "seche"
+    }
+  ],
+  "timestamp": "2026-09-02T19:41:04.918907331Z",
+  "model": "glm-5.3"
+}

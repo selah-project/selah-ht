@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "Mòn yo ak tout ti mòn yo, pyebwa fwi ak tout sedè yo,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Mòn yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ti mòn yo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pyebwa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:04.696866285Z",
+  "model": "glm-5.3"
+}

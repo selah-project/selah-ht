@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Poukisa nasyon yo fè dezòd, e pèp yo medite riken?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "fè dezòd"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "e pèp yo"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "medite"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "riken"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:54.321252034Z",
+  "model": "glm-5.3"
+}

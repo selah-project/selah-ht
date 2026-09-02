@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Paske se ou ki delivre pòp la ap nan mizè, e se ou ki fè je awogan yo bese.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pòp la"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ap nan mizè"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "e je"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "awogan"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "fè … bese"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:03.499527338Z",
+  "model": "glm-5.3"
+}

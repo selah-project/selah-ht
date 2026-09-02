@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi yo bay yo ⟨את⟩ Khevròn, nan peyi Yehouda a, ak ⟨את⟩ jaden-patiraj li yo, tout toutou alantou li.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Epi yo bay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevròn"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevròn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jaden-patiraj li yo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "jaden-patiraj li yo"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "toutou alantou li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:48.368961706Z",
+  "model": "glm-5.3"
+}

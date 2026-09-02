@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Dapre tout sa m ap montre ⟨את⟩ ou — ⟨את⟩ fòm michkan la ak ⟨את⟩ fòm tout zouti l — se konsa nou fè l.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Dapre tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ap montre"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fòm michkan la"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "fòm"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "michkan la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "fòm tout zouti l"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "fòm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti l"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nou fè"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:01.479240615Z",
+  "model": "glm-5.3"
+}

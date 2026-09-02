@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Moun k' rayi Yawe ta fè wè yo obeyi ⟨li⟩; men tan ⟨yo⟩ ta ye pou toutan.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Moun k' rayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ta fè wè yo obeyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "men tan ⟨yo⟩ ta ye"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "tan ⟨yo⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:43.790610588Z",
+  "model": "glm-5.3"
+}

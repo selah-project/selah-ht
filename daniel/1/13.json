@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 1:13",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi fè figi nou parèt devan ou, ak figi jèn yo ki manje ⟨את⟩ manje wa a; epi jan w wè a, fè sa ak sèvitè ou yo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "fè parèt"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "מראינו",
+      "gloss": "figi nou"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "epi figi"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "jèn yo"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ki manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manje wa a"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "manje wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "epi jan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "w wè"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvitè ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:34.269466075Z",
+  "model": "glm-5.3"
+}

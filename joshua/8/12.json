@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li pran apeprè senk mil gason, e li mete yo ⟨את⟩ kòm anbouch ant Bet-El ak Ay, a lwès vil la.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "apeprè senk"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "senk mil gason yo"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "anbouch"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "depi lwès"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "pou vil la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:02:41.502938233Z",
+  "model": "glm-5.3"
+}

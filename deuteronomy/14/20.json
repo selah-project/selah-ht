@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "tout zwazo ki sen, nou ka manje",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "zwazo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ki sen"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou ka manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:48:13.238447015Z",
+  "model": "glm-5.3"
+}

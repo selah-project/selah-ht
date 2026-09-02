@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "ansyen ou yo ak jij ou yo ap soti, epi yo ap mezire nan direksyon vil yo ki toutou de kote moun janm touye a.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ap soti"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "ansyen ou yo"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "ak jij ou yo"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ap mezire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "toutou de kote"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "moun janm touye a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:01.034752907Z",
+  "model": "glm-5.3"
+}

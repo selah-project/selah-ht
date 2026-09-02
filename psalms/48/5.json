@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Paske gade, wa yo rankontre, yo pase ansanm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "rankontre"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pase"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:39.648490275Z",
+  "model": "glm-5.3"
+}

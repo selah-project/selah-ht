@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Men m ap reprann pou nou ⟨את⟩ pitit pitit nou yo, e m ap pwolonje fatra sou figi nou — fatra fèt nou yo — e li ap pote ⟨את⟩ nou ale avè l.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Men m"
+    },
+    {
+      "surface": "גער",
+      "gloss": "ap reprann"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit pitit nou yo"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "pitit pitit nou yo"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "e m ap pwolonje"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "fatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "figi nou"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "fatra"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "fèt nou yo"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e li ap pote"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "avè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:49:51.857729018Z",
+  "model": "glm-5.3"
+}

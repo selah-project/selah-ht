@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 111,
+  "translation": "Delivrans li voye bay pèp li; li kòmande alyans li pou tout tan; sen ak redoutab ⟨se⟩ non li.",
+  "tokens": [
+    {
+      "surface": "פְּדוּת",
+      "gloss": "Delivrans"
+    },
+    {
+      "surface": "שָׁלַח",
+      "gloss": "li voye"
+    },
+    {
+      "surface": "לְעַמּוֹ",
+      "gloss": "bay pèp li"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "li kòmande"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "בְּרִיתוֹ",
+      "gloss": "alyans li"
+    },
+    {
+      "surface": "קָדוֹשׁ",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וְנוֹרָא",
+      "gloss": "ak redoutab"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "non li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:24.437142847Z",
+  "model": "glm-5.3"
+}

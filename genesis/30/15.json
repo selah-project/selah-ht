@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi li di bay li: Eske ti kras ou pran ⟨את⟩ mari m', e ou pran menm ⟨את⟩ douda pitit gason m' tou? Epi Rachel di: Pou sa a, l ap dòmi ak ou aswè a, an plas douda pitit gason ou yo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bay li"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "Eske ti kras"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "ou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mari m'"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mari m'"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "e ou pran"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm ... tou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "douda pitit gason m'"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "douda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason m'"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Pou sa a"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "l ap dòmi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "aswè a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "douda"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pitit gason ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:26:48.398296167Z",
+  "model": "glm-5.3"
+}

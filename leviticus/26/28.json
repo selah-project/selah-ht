@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "alò m ap mache ak nou nan kòlè ostilite, e m ap disiplin ⟨את⟩ nou menm m, sèt fwa, sou peche nou.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "alò m ap mache"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ak nou"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "nan kòlè"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ostilite"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "e m ap disiplin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt fwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "peche nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:48.580862946Z",
+  "model": "glm-5.3"
+}

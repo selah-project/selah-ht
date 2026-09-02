@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "epi mwen fè hesed (lanmou ki kenbe) jiska plizyè milye, pou moun ki renmen mwen, epi pou moun ki kenbe kòmandman mwen yo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "epi mwen fè"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "jiska plizyè milye"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "pou moun ki renmen mwen"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "epi pou moun ki kenbe"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kòmandman mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:12.534298240Z",
+  "model": "glm-5.3"
+}

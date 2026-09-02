@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E Elohim wè ⟨את⟩ tout sa ⟨ki⟩ li te fè, e gade, li bon anpil; e te gen swè, e te gen maten — jou sizyèm la.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E wè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e te gen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "swè"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e te gen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "sizyèm la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:36.694516702Z",
+  "model": "glm-5.3"
+}

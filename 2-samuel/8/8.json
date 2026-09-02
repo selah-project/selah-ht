@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 8:8",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi sou Betah ak sou Berotay, vil Hadadèzè yo, wa David pran anpil anpil an kwiv.",
+  "tokens": [
+    {
+      "surface": "ומבטח",
+      "gloss": "sou Betah"
+    },
+    {
+      "surface": "ומברתי",
+      "gloss": "sou Berotay"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadèzè"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "an kwiv"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "anpil anpil"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T17:42:28.484933463Z",
+  "model": "glm-5.3"
+}

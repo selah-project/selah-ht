@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E dlo yo tounen soti sou tè a, ap ale e ap tounen; e dlo yo diminye nan fen sant senkant jou.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "e tounen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "soti sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ap ale"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "e ap tounen"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "e diminye"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "nan fen"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "sant"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:49.785670781Z",
+  "model": "glm-5.3"
+}

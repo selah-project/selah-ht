@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Epi l fè ak li ⟨את⟩ fondasyon yo nan pot la nan tant rankont la, ak ⟨את⟩ lotèl kwiv la, ak ⟨את⟩ griy kwiv la ki pou li, ak ⟨את⟩ tout zouti lotèl la.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Epi l fè"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fondasyon yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "fondasyon yo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nan pot la"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "nan tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lotèl kwiv la"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lotèl"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kwiv la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "griy kwiv la"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "griy"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kwiv la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zouti lotèl la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zouti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:57.640810331Z",
+  "model": "glm-5.3"
+}

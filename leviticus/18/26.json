@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E nou menm, nou dwe kenbe ⟨את⟩ lwa mwen yo ak ⟨את⟩ jijman mwen yo, e nou pa fè anyen nan tout abominasyon sa yo — natifnatal la ak etranje a k ap viv nan mitan nou.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwa mwen yo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "lwa mwen yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jijman mwen yo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman mwen yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nou fè"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "anyen nan tout"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "abominasyon yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "natifnatal la"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ak etranje a"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "k ap viv"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "nan mitan nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:34.194663143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Elohim pale nan kadosh ⟨li⟩; map rejoyi, map pataje Chèkhèm, epi valè Soukot la map mezire l.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "nan kadosh ⟨li⟩"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "map rejoyi"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "map pataje"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chèkhèm"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "epi valè"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Soukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "map mezire"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:30.766367111Z",
+  "model": "glm-5.3"
+}

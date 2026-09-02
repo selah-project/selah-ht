@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Èske moun ki disipline nasyon yo pa korekte ⟨yo⟩? Moun ki ansèyane moun konesans, ⟨èske li pa konnen⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "moun ki disipline"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "èske … pa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "korekte"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "moun ki ansèyane"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konesans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:24.226548496Z",
+  "model": "glm-5.3"
+}

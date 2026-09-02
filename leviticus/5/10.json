@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi ⟨את⟩ dezyèm nan an fè l kòm ofrann boule, dapre règ la, epi prèt la fè eksyasyon pou li anrapò ak pèch li a ke l fèt, epi yo padone l.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dezyèm nan an"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm nan an"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kòm ofrann boule"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dapre règ la"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "epi fè eksyasyon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "anrapò ak pèch li a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "l fèt"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "epi padone"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yo padone l \/ pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:20.719717770Z",
+  "model": "glm-5.3"
+}

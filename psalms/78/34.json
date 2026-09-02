@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Lè ⟨li⟩ touye yo, yo chèche ⟨li⟩, epi yo tounen, epi yo chèche bonè El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lè"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "touye yo"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "epi yo chèche li"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "epi yo tounen"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "epi yo chèche bonè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:11.421141481Z",
+  "model": "glm-5.3"
+}

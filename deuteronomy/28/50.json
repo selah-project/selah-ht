@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Yon nasyon ki gen figi di, ki pa ap leve figi pou granmoun, ni pou jèn nan li pa ap montre favè.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "yon nasyon"
+    },
+    {
+      "surface": "עז",
+      "gloss": "di"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "figi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "figi"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "pou granmoun"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ni jèn nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ap montre favè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:54.661390089Z",
+  "model": "glm-5.3"
+}

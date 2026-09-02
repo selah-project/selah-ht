@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Men li chwazi ⟨את⟩ tribi Yehouda, ⟨את⟩ mòn Tsiyòn, ke l renmen.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "li chwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tribi Yehouda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mòn Tsiyòn"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "li renmen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:09.131331063Z",
+  "model": "glm-5.3"
+}

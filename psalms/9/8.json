@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E Yawe chita pou tout tan; li kanpe chèz l pou jijman.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "E Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "li kanpe"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "pou jijman"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chèz l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:08.081790678Z",
+  "model": "glm-5.3"
+}

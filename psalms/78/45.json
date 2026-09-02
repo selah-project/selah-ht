@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li voye moustik ki swèmen sou yo, epi yo manje ⟨yo⟩ toutouni; ak krapo, epi yo detwi yo.",
+  "tokens": [
+    {
+      "surface": "יְשַׁלַּ֬ח",
+      "gloss": "li voye"
+    },
+    {
+      "surface": "בָּהֶ֣ם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "עָ֭רֹב",
+      "gloss": "moustik ki swèmen"
+    },
+    {
+      "surface": "וַיֹּאכְלֵ֑ם",
+      "gloss": "epi yo manje yo"
+    },
+    {
+      "surface": "וּ֝צְפַרְדֵּ֗עַ",
+      "gloss": "ak krapo yo"
+    },
+    {
+      "surface": "וְתַשְׁחִיתֵֽם",
+      "gloss": "epi yo detwi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:28.294012518Z",
+  "model": "glm-5.3"
+}

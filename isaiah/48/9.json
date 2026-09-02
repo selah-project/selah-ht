@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Pou Non mwen an m ap fè kòlè m la longe, ak lokann mwen m ap fèmen l pou ou, pou m pa koupe ou.",
+  "tokens": [
+    {
+      "surface": "לְמַעַן",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "שְׁמִי",
+      "gloss": "Non mwen"
+    },
+    {
+      "surface": "אֲאַרִיךְ",
+      "gloss": "m ap fè longe"
+    },
+    {
+      "surface": "אַפִּי",
+      "gloss": "kòlè m"
+    },
+    {
+      "surface": "וּתְהִלָּתִי",
+      "gloss": "ak lokann mwen"
+    },
+    {
+      "surface": "אֲחַטְּמֶהָ",
+      "gloss": "m ap fèmen"
+    },
+    {
+      "surface": "לָּךְ",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "לְבִלְתִּי",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "הַכְרִיתֶךָ",
+      "gloss": "koupe ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:20.680913799Z",
+  "model": "glm-5.3"
+}

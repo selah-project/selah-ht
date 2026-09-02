@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi wa Bavel frape ⟨את⟩ yo, e li fè yo mouri nan Rivla, nan peyi Hamat; e menm Yehouda te depòte soti sou tè li.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (ofisye yo)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "fè yo mouri"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "nan Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "depòte"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "soti sou"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tè li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:28.390361078Z",
+  "model": "glm-5.3"
+}

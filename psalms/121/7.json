@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 121,
+  "translation": "Yawe ap kenbe ou lwen tout move bagay; l ap kenbe ⟨את⟩ nanm ou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "ap kenbe ou"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lwen tout"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move bagay"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "l ap kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanm ou"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nanm ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:52.271896643Z",
+  "model": "glm-5.3"
+}

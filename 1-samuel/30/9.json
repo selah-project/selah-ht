@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E David ale, li ak sis san gason ki te avè ⟨את⟩ li, e yo rive jiskan ravin Vesor; e moun ki te rete yo kanpe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ak sis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avè ⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e yo rive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskan"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ravin"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Vesor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "e moun ki te rete yo"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:47.224138625Z",
+  "model": "glm-5.3"
+}

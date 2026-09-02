@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Pa gen mal ki ap rive sou ou, e plèg pa pwoche tann ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ap rive"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "e plèg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "pwoche"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "tann ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:15.586408822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Tout jou separasyon ⟨li⟩, li pa manje anyen ki fèt de pye rezen diven an, de grin jouk po ⟨rezen⟩ a.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "separasyon ⟨li⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "de pye rezen"
+    },
+    {
+      "surface": "היין",
+      "gloss": "diven an"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "de grin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "זג",
+      "gloss": "po ⟨rezen⟩ a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:24:02.297753022Z",
+  "model": "glm-5.3"
+}

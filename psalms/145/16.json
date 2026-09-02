@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Ou louvri ⟨את⟩ men ou, e ou satisfè dezi tout sa k viv.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men ou"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "e satisfè"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sa k viv"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "dezi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:36.700139156Z",
+  "model": "glm-5.3"
+}

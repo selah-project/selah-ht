@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Tankou dife k ap boule forè a, e tankou flanm k ap limen mòn yo —",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "tankou dife"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "boule"
+    },
+    {
+      "surface": "יער",
+      "gloss": "forè"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "e tankou flanm"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "limen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:46.590405953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi ⟨את⟩ Aharòn ak ⟨את⟩ pitit gason li yo, ou ap nonmen, e yo pral gade ⟨את⟩ ofis prèt yo; e etranje a ki pi pre a ap mouri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ou ap nonmen"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "e yo pral gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofis prèt yo"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ofis prèt yo"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "e etranje a"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ki pi pre a"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ap mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:29.431416963Z",
+  "model": "glm-5.3"
+}

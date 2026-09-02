@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E lè David tounen aprè li fin frape ⟨את⟩ Filistyen an, Avnè pran ⟨את⟩ li, epi mennen l devan Chaoul, ak tèt Filistyen an nan men l.",
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "E lè … tounen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "apré li fin frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistyen an"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistyen an"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "Avnè pran l"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnè"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "epi mennen l"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ak tèt"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistyen an"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:32:38.418717675Z",
+  "model": "glm-5.3"
+}

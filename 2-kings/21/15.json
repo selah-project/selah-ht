@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Paske yo fè ⟨את⟩ mal la nan je ⟨את⟩ mwen, e yo vin moun ki fè m kòlè, depi jou papa yo soti nan Mitsrayim jouk jodi a.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mal la"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal la"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je mwen"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e yo vin"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "moun ki fè kòlè"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:20:29.772282243Z",
+  "model": "glm-5.3"
+}

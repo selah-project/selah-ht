@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Ke Yawe Tsvaot beni yo, lè l di: Beni se pèp m an, Mitsrayim, ak travay men m yo, Achur, ak eritaj m an, Yisrael.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lè l di"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp m"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ak travay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ak eritaj m"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T22:21:48.990009831Z",
+  "model": "glm-5.3"
+}

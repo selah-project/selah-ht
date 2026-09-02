@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Moun ki renmen m ak zanmi m kanpe lwen plas ki nan kò m, ak moun ki pre m kanpe byen lwen.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Moun ki renmen m"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ak zanmi m"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "lwen"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "plas ki nan kò m"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "ak moun ki pre m"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "byen lwen"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:51.975425182Z",
+  "model": "glm-5.3"
+}

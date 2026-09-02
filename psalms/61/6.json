@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 61,
+  "translation": "Paske se Ou menm, Elohim, ki tande vò mwen yo; Ou bay eritaj moun ki pè Non Ou a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ou menm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tande"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "vò mwen yo"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "Ou bay"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "eritaj"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "moun ki pè"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non Ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:56.383882116Z",
+  "model": "glm-5.3"
+}

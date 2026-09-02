@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Si m pran zèl pou okònman an, m ap kanpe nan dènye limit larivyè Lèzetif la,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "pran"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "zèl"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "okònman"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "nan dènye limit"
+    },
+    {
+      "surface": "ים",
+      "gloss": "larivyè Lèzetif"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:51.455627520Z",
+  "model": "glm-5.3"
+}

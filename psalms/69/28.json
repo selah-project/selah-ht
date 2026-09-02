@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Mete inikite sou inikite yo, e pa kite yo antre nan jistis ou.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Mete"
+    },
+    {
+      "surface": "עון",
+      "gloss": "inikite"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "inikite yo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kite yo antre"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nan jistis ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:56.772503053Z",
+  "model": "glm-5.3"
+}

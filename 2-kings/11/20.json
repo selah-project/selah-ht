@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E tout pèp tè a kontante, e vil la te an repo; e ⟨את⟩ Atalya yo te touye ak epe nan kay wa a.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "e ... kontante"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ויעיר",
+      "gloss": "e vil la"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "te an repo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Atalya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "yo te touye"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ak epe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:33.355185590Z",
+  "model": "glm-5.3"
+}

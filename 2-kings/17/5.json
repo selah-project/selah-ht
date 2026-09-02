@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Wa Achkour a monte nan tout tè a, e li monte nan Chomeron, e li fè syèj sou li pandan twa lane.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achkour"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "fè syèj"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "twa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lane"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:28.589327095Z",
+  "model": "glm-5.3"
+}

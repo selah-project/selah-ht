@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Mwen anonse l ba ou depi lontan; anvan l rive, mwen fè ou tande l; de pou ou pa di: se zidòl mwen ki fè yo, se imaj koupe mwen ak estati fonde mwen ki bay yo lòd.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "epi mwen anonse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "depi lontan"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "li rive"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "mwen fè ou tande"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de pou ou pa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ou di"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "zidòl mwen"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "fè yo"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "ak imaj koupe mwen"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "ak estati fonde mwen"
+    },
+    {
+      "surface": "צום",
+      "gloss": "bay yo lòd"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:36.547188107Z",
+  "model": "glm-5.3"
+}

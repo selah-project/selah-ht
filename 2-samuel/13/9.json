@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E li pran ⟨את⟩ pam lan, e li vide l devan l, men li refize pou li manje. E Amnòn di: Fè tout moun soti apre m. E tout moun soti apre li.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "e li pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pam lan"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "pam lan"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "e li vide"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "e li refize"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "pou li manje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnòn"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "apre m"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "e yo soti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "apre li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:15.538396845Z",
+  "model": "glm-5.3"
+}

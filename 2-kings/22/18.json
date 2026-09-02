@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 22:18",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi pou wa Yehouda a, menm ki voye ⟨את⟩ ⟨ou⟩ pou ⟨את⟩ al chèche ⟨את⟩ Yawe — se konsa nou pral di l: Konsa Yawe, Elohim Izrayèl la, di: konsènan pawòl yo ke ou te tande —",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Epi pou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda a"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "ki voye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨ou⟩"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "pou al chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nou pral di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl la"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ou te tande"
+    }
+  ],
+  "timestamp": "2026-09-02T18:20:35.951992127Z",
+  "model": "glm-5.3"
+}

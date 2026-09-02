@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Wè anpil bagay, men ⟨ou⟩ pa kenbe; zòrèy ki louvri, men li pa tande.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Wè"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "anpil bagay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ki louvri"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "zòrèy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "tande"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:57.367179938Z",
+  "model": "glm-5.3"
+}

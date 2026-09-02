@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E si li manje vrèman sou twazyèm jou a, se yon bagay pouri ; l pa pral aksepte.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "li manje vrèman"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "li manje"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sou jou"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "twazyèm a"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "yon bagay pouri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "l pral aksepte"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:10.796362472Z",
+  "model": "glm-5.3"
+}

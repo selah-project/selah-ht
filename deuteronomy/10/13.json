@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "pou kenbe ⟨את⟩ kòmandman Yawe ak ⟨את⟩ lwa l yo, menm sa mwen kòmance nou jodi a, pou byen nou.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "pou kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lwa l yo"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "lwa l yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm sa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kòmance nou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "pou byen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:35.891657628Z",
+  "model": "glm-5.3"
+}

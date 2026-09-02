@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi nefech mwen trouble anpil; men ou, Yawe, jouk lè?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Epi nefech mwen"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "lè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:28.706156595Z",
+  "model": "glm-5.3"
+}

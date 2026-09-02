@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E li di ba Eliyahou: Kisa pou mwen ak ou, nonm Elohim nan? Èske ou vini jiska mwen pou fè sonje ⟨את⟩ fot mwen, ak pou fè ⟨את⟩ pitit mwen mouri?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim nan"
+    },
+    {
+      "surface": "באת",
+      "gloss": "ou vini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "jiska mwen"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "pou fè sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fot mwen"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "fot mwen"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "ak pou fè mouri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit mwen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:09.599319157Z",
+  "model": "glm-5.3"
+}

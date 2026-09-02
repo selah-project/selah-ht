@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "E sa rive, lè wa a tande ⟨את⟩ mo Tora a, li dechire ⟨את⟩ rad yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E sa rive"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lè ... tande"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo Tora a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora a"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "li dechire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad yo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:38:14.858407471Z",
+  "model": "glm-5.3"
+}

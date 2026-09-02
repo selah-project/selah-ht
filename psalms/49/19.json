@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "paske pandan l ap viv, nanm li beni tèt ⟨li⟩, e yo ap louvri ou paske ou fè byen pou tèt ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nanm li"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "pandan l ap viv"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "e yo ap louvri ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "fè byen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:45.280424672Z",
+  "model": "glm-5.3"
+}

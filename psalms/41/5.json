@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Mwen menm, mwen te di: Yawe, fè m grás, geri nefech mwen, paske mwen fè peche kont ou.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen menm"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen te di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fè m grás"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "geri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mwen fè peche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kont ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:35.691644829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "El mwen ⟨se⟩ ou, e m ap di mèsi ou; Elohim mwen, m ap fè ou monte wo.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "e m ap di mèsi ou"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "m ap fè ou monte wo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:54.367920857Z",
+  "model": "glm-5.3"
+}

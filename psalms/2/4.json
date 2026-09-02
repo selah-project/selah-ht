@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "⟨Moun⟩ ki chita nan syèl yo ap ri, Adònay ap mokri ⟨sou⟩ yo.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ap ri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ap mokri"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:54.321868226Z",
+  "model": "glm-5.3"
+}

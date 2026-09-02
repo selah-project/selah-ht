@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E li sèvi ⟨את⟩ Baal la, e li genba devan l, e li fache ⟨את⟩ Yawe, Elohim Yisrael la, dapre tout sa papa l te fè.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal la"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal la"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "genba devan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "fache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dapre tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:07:24.664267898Z",
+  "model": "glm-5.3"
+}

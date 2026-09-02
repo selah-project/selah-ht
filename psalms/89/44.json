@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Menm tou, ou vire kwen epe li tounen, e ou pa fè l kanpe nan lagè a.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "menm tou"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ou vire tounen"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kwen"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "epe li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ou pa"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "fè l kanpe"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "nan lagè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:08.527493139Z",
+  "model": "glm-5.3"
+}

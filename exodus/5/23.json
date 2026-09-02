@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Depi lè m vin jwenn Paro pou m pale nan Non ou, ⟨li⟩ fè mal pèp sa a, e ou pa deli ditou ⟨את⟩ pèp ou.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "e depi lè sa"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "m vin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pou pale"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nan Non ou"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "fè mal"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "e deli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "ou deli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp ou"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:43.068161924Z",
+  "model": "glm-5.3"
+}

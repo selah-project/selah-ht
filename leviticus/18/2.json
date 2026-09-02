@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Pale ak pitit Yisrayèl yo, epi di yo : se mwen Yawe, Elohim ou yo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:53.924120745Z",
+  "model": "glm-5.3"
+}

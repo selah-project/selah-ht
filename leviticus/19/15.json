@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Pa fè movèz nan jijman; pa leve figi pòv, ni onore figi gran moun; nan jistis jij pwchen ou.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "עול",
+      "gloss": "movèz"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nan jijman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "leve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "onore"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran moun"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nan jistis"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "jij"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "pwchen ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:16.466964998Z",
+  "model": "glm-5.3"
+}

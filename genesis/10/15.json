@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Kenaàn fè ⟨את⟩ Tsidon, premye pitit gason l ⟨⟩, ak ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Epi Kenaàn"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "premye pitit gason l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:24.134217820Z",
+  "model": "glm-5.3"
+}

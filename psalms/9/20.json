@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Leve, Yawe! Pa kite moun mòtèl la vin fò; fè nasyon yo jwenn jijman devan figè ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa kite"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "vin fò"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moun mòtèl la"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "jwenn jijman"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:20.307923769Z",
+  "model": "glm-5.3"
+}

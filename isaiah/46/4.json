@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Jiska vyeyès mwen menm ⟨li⟩, e jiska cheve blan mwen ap pote; mwen fè, e mwen ap pote, mwen ap pote e mwen ap delivre ⟨ou yo⟩.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "e jiska"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "vyeyès"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "menm ⟨li⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e jiska"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "cheve blan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ap pote"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "fè"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e mwen"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ap pote"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e mwen"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ap pote"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "e ap delivre"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:51.229066163Z",
+  "model": "glm-5.3"
+}

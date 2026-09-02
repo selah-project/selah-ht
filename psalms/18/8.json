@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Lè sa a, tè a kone ak tranble, fondasyon mòn yo tout fè tranble paske kòlè a t ap boule annou l.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "e li kone"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "e li tranble"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "e fondasyon"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "yo tout fè tranble"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "e yo kone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kòlè a t ap boule"
+    },
+    {
+      "surface": "לו",
+      "gloss": "annou l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:43.052809723Z",
+  "model": "glm-5.3"
+}

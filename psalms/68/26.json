@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Chanter yo mache devan, jwe enstruman yo swiv dèyè, anndan jèn fi yo ap frape tanbouren.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "mache devan"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "chanter yo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "swiv dèyè"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "jwe enstruman yo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "anndan"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "jèn fi yo"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "ap frape tanbouren"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:49.308020863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Li fè yo soti nan fè nwa ak nan lonbraj lanmò, epi chèn yo li rache kraze.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "li fè yo soti"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "fè nwa"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ak lonbraj lanmò"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "ak chèn yo"
+    },
+    {
+      "surface": "יוציאם ינתק",
+      "gloss": "li rache kraze"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:01.218314366Z",
+  "model": "glm-5.3"
+}

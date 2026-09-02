@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Yitshak di yo : Poukisa nou vin jwenn m, nou menm ki rayi ⟨את⟩ m epi ki chase m ale soti nan mitan ⟨את⟩ nou ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "nou vin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "jwenn m"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "rayi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "chase m ale"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ nan mitan nou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:34.781956459Z",
+  "model": "glm-5.3"
+}

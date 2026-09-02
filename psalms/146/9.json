@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 146,
+  "translation": "Yawe kenbe ⟨את⟩ etranje yo; òfalan ak vèvèv li fè kanpe; men wout moun ki mal fè yo, li fè l vin kwoche.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etranje yo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "etranje yo"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "òfalan"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ak vèvèv"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "fè kanpe"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "men wout"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun ki mal fè"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "fè vin kwoche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:02.349874852Z",
+  "model": "glm-5.3"
+}

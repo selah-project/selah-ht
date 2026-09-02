@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 126,
+  "translation": "Moun ki simen ak dlo je yo ap rake repriz ak chante rèl",
+  "tokens": [
+    {
+      "surface": "הַזֹּרְעִים",
+      "gloss": "moun ki simen"
+    },
+    {
+      "surface": "בְּדִמְעָה",
+      "gloss": "ak dlo je"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "ak chante rèl"
+    },
+    {
+      "surface": "יִקְצֹרוּ",
+      "gloss": "ap rake repriz"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:11.911093236Z",
+  "model": "glm-5.3"
+}

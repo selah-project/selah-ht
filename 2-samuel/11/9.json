@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E Ourya dòmi devan pòt kay wa a, avèk ⟨את⟩ tout sèvitè mèt li yo; e li pa desann ale kay li.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "e ... dòmi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ourya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "devan pòt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sèvitè mèt li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mèt li"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "e ... pa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:29.884074164Z",
+  "model": "glm-5.3"
+}

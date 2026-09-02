@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Mordèkay deklare ⟨את⟩ tout sa ki rive li, ak ⟨את⟩ detay lajan an ke Haman di pou peze sou trezò wa a, sou Jwif yo, pou detwi yo.",
+  "tokens": [
+    {
+      "surface": "וַיַּגֶּד",
+      "gloss": "deklare"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "li"
+    },
+    {
+      "surface": "מָרְדֳּכַי",
+      "gloss": "Mordèkay"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa ki rive li"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "קָרָהוּ",
+      "gloss": "rive li"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "detay lajan an"
+    },
+    {
+      "surface": "פָּרָשַׁת",
+      "gloss": "detay"
+    },
+    {
+      "surface": "הַכֶּסֶף",
+      "gloss": "lajan an"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "di"
+    },
+    {
+      "surface": "הָמָן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לִשְׁקוֹל",
+      "gloss": "pou peze"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גִּנְזֵי",
+      "gloss": "trezò"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "בַּיְּהוּדִים",
+      "gloss": "sou Jwif yo"
+    },
+    {
+      "surface": "לְאַבְּדָם",
+      "gloss": "pou detwi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:54:11.009513261Z",
+  "model": "glm-5.3"
+}

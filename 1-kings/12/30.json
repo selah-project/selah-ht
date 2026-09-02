@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi pawòl sa a vin pou yon peche, e pèp la mache devan youn nan jiska Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "vin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pou yon peche"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mache"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn nan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:22.762027933Z",
+  "model": "glm-5.3"
+}

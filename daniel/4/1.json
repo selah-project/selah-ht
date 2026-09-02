@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Mwen, Nevoukhadnètsar, te trankil nan kay mwen, e ap flori nan palè mwen.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevoukhadnètsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "trankil"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "te"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "nan kay mwen"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "e ap flori"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "nan palè mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:59:06.736201894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "ki file lang yo tankou yon epe, yo vize flèch yo — yon mo amè.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "yo file"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "tankou yon epe"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lang yo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yo vize"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "flèch yo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon mo"
+    },
+    {
+      "surface": "מר",
+      "gloss": "amè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:59.149539280Z",
+  "model": "glm-5.3"
+}

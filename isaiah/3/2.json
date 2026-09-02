@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "gadè a ak nonm lagè a, jij la ak pwofèt la, divinatè a ak vye granmoun nan —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "gadè"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ak nonm"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ak pwofèt"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ak divinatè"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ak vye granmoun"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:51.730343375Z",
+  "model": "glm-5.3"
+}

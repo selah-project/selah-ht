@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Sa a se jenerasyon moun ki chèche ⟨li⟩, moun ki chèche figi ou — Yaakov. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Sa a"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ki chèche ⟨li⟩"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "moun ki chèche"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:23.505556427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Nou te eseye geri ⟨את⟩ Babil, men li pa geri; kite l, e ann ale, chak moun nan peyi l, paske jijman li rive jiska syèl yo e li monte jiska nwaj yo.",
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "te eseye geri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babil"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "geri"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "kite l"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "e ann ale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "nan peyi l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "rive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "jijman li"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e li monte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nwaj yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:10:25.477336687Z",
+  "model": "glm-5.3"
+}

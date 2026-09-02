@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 24:18",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Tsedekiyahou te gen venteyen lè l vin wa, e l wayte onz an nan Yerouchalayim; non manman l te se Chamoutal, pitit fi Yirmeyahou, ki soti nan Livna.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vente"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ak yon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsedekiyahou"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "lè l vin wa"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ak yon"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wayte"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "חמיטל",
+      "gloss": "Chamoutal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahou"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "ki soti nan Livna"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:26.157103287Z",
+  "model": "glm-5.3"
+}

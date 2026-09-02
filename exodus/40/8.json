@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou mete ⟨את⟩ lakou a toutou, epi ou mete ⟨את⟩ ridè pòtay lakou a.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakou a"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutou"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ridè pòtay lakou a"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ridè"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:52.693940683Z",
+  "model": "glm-5.3"
+}

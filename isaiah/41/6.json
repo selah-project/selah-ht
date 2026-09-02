@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Chak moun ede ⟨את⟩ zanmi l, e li di a frè l: «Djanm!»",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanmi l"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zanmi l"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "ede"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "e a frè l"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "djanm"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:38.288191924Z",
+  "model": "glm-5.3"
+}

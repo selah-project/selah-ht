@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Lè sa a, kòhen an bay lòd, e pou moun ki dwe pirifye yo pran de zwazo ki vivan ak ki pwòp, bwa sedr, fil wouj koulè chèchon, ak zob.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "bay lòd"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "yo pran"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "pou moun ki dwe pirifye"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "zwazo"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "ki vivan"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "ak ki pwòp"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedr"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "fil wouj koulè"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "chèchon"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ak zob"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:55.430359284Z",
+  "model": "glm-5.3"
+}

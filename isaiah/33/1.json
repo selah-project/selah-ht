@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Hou! ou ki ap pilye, e ou menm pa pilye; ou ki ap trayi, e pa gen moun ki trayi ⟨ou⟩! Lè ou fin pilye, yo ap pilye ⟨ou⟩; lè ou fin trayi, yo ap trayi ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hou!"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "ou ki ap pilye"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ou menm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "pilye"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "e ou ki ap trayi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "trayi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "lè ou fin"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "pilye"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "yo ap pilye"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "lè ou fin"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "trayi"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "yo ap trayi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:33:05.770300589Z",
+  "model": "glm-5.3"
+}

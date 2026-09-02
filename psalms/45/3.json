@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Ou pi bèl pase pitit moun yo; respè verse sou lèv ou yo; se poutèt sa Elohim beni ou pou toutan.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "pi bèl"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "pase pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "verse"
+    },
+    {
+      "surface": "חן",
+      "gloss": "respè"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "sou lèv ou yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "se"
+    },
+    {
+      "surface": "כן",
+      "gloss": "poutèt sa"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "beni ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:06.701624660Z",
+  "model": "glm-5.3"
+}

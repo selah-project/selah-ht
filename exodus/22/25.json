@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si w pran an gadjian mantèl zanmi w la, jouk solèy la kouche w ap rende l bay li.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "pran an gadjian"
+    },
+    {
+      "surface": "תחבול",
+      "gloss": "pran an gadjian"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "mantèl"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "zanmi w la"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kouche"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèl la"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "w ap rende l"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bay li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:32.350381438Z",
+  "model": "glm-5.3"
+}

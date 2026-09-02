@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Kòd mò yo antoure mwen, ak detwa Cheol yo te trouve mwen; detrès ak chagrin mwen te jwenn.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "antoure mwen"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "kòd"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mò yo"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "ak detwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "te trouve mwen"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "detrès"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ak chagrin"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mwen te jwenn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:56.343180289Z",
+  "model": "glm-5.3"
+}

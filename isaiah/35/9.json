@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 35:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Pa gen lyon ki ap la, ak bèt fèro pa moute l; yo pa ap jwenn la; epi moun ki rachte yo ap mache la.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אַרְיֵה",
+      "gloss": "lyon"
+    },
+    {
+      "surface": "וּפְרִיץ",
+      "gloss": "ak bèt fèro"
+    },
+    {
+      "surface": "חַיּוֹת",
+      "gloss": "sa ki vivan"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יַעֲלֶנָּה",
+      "gloss": "moute l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תִּמָּצֵא",
+      "gloss": "ap jwenn"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "la"
+    },
+    {
+      "surface": "וְהָלְכוּ",
+      "gloss": "epi ... ap mache"
+    },
+    {
+      "surface": "גְּאוּלִים",
+      "gloss": "moun ki rachte yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:33:40.099695991Z",
+  "model": "glm-5.3"
+}

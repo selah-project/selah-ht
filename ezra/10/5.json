@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Eza leve e fè ⟨את⟩ chèf kohen yo, Levi yo ak tout Yisrael sèmante pou fè selon pawòl sa a — e yo sèmante.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "leve"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Eza"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "fè sèmante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chèf kohen yo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohen yo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "selon pawòl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "e yo sèmante"
+    }
+  ],
+  "timestamp": "2026-09-02T21:06:09.618404986Z",
+  "model": "glm-5.3"
+}

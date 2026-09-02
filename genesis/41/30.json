@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "E sèt an grangou praleve apre yo, e tout abondans la ap bliye nan tè Mitsrayim, e grangou a ap fini ⟨את⟩ tè a.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "e praleve"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "שני",
+      "gloss": "an"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "grangou"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "apre yo"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "e ap bliye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "abondans la"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "e ap fini"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "grangou a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:42.694882305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Yawe gen yon kont avèk Yehouda, e l ap vizite Yaakov sou wout li yo; dapre zak li yo l ap remèt li ⟨sa⟩.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "gen yon kont"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avèk"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "e l ap vizite"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "dapre wout li yo"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "dapre zak li yo"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "l ap remèt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:54.875905032Z",
+  "model": "glm-5.3"
+}

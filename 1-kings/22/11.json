@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E Tsidkiya, pitit Kenaana, fè kòn an fè pou tèt ⟨li⟩, e ⟨li⟩ di: Konsa Yawe di: Avèk sa yo, ou ap bay Aram ⟨את⟩ kòn jiska ⟨ou⟩ fin detwi yo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou tèt li"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Tsidkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "an fè"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "כה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "avèk sa yo"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "bay kòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "fin detwi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:08:06.962865030Z",
+  "model": "glm-5.3"
+}

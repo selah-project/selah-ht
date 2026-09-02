@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Pou fè volonte ou, Elohim mwen, mwen pran plezi, ak lwa ou nan anndan vant m.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Pou fè"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "volonte ou"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mwen pran plezi"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ak lwa ou"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan anndan"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "vant m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:14.526126633Z",
+  "model": "glm-5.3"
+}

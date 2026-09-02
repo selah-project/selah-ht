@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Pa prese kite devan l ⟨ou ale⟩, pa kanpe nan yon move bagay, paske tout sa l vle ⟨l⟩ fè.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "prese"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kite devan l"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "⟨ou ale⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "kanbe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nan yon bagay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "l vle"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨l⟩ fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:57.366852464Z",
+  "model": "glm-5.3"
+}

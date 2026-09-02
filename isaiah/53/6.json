@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Nou tout pèdi wout kòm mouton, chak moun vire sou chemen l pwòp; e Yawe fè ⟨את⟩ mechanste nou tout tonbe sou li.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "nou tout"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kòm mouton"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "pèdi wout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sou chemen l pwòp"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "vire"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yawe"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "fè tonbe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mechanste nou tout"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mechanste"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "nou tout"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:42.424830426Z",
+  "model": "glm-5.3"
+}

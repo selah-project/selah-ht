@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi si l gaye anpil nan po a, kòhen a ap deklare ⟨את⟩ li pa net: yon ble li ye.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Epi si"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "gaye anpil"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nan po a"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ap deklare pa net"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li — moun ki gen ble a"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "yon ble"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:37.350410607Z",
+  "model": "glm-5.3"
+}

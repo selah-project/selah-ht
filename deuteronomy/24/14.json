@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Pa oprese yon moun ki travay pou pa jou, yon moun ki pòv e ki nan bezwen, ni yonn nan frè ou yo, ni yon etranje ki ap rete nan peyi ou, nan pòt vil ou yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "oprese"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "moun ki travay pou pa jou"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ki pòv"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e ki nan bezwen"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "nan mitan frè ou yo"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "etranje ki ap rete kay ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nan peyi ou"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "nan pòt vil ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:44.340406235Z",
+  "model": "glm-5.3"
+}

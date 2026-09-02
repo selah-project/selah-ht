@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Nan menm jou a li dwe manje; nou pa kite anyen de li rete jiska maten an; se mwen menm Yawe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "menm"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "li dwe manje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "nou kite"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "anyen de li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maten an"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:57.364713957Z",
+  "model": "glm-5.3"
+}

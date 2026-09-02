@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Richès mechanste yo pa bay ⟨pwofi⟩; men jistis delivre soti nan lanmò.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "bay pwofi"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "richès yo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechanste"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "men jistis"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "soti nan lanmò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:46.128559666Z",
+  "model": "glm-5.3"
+}

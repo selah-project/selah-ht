@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Gen kèk ki di: nou anprte kòb pou taks wa a, sou chan nou ak jaden rezen nou.",
+  "tokens": [
+    {
+      "surface": "וְיֵשׁ",
+      "gloss": "Gen kèk"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אֹמְרִים",
+      "gloss": "di"
+    },
+    {
+      "surface": "לָוִינוּ",
+      "gloss": "nou anprte"
+    },
+    {
+      "surface": "כֶּסֶף",
+      "gloss": "kòb"
+    },
+    {
+      "surface": "לְמִדַּת",
+      "gloss": "pou taks"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שְׂדֹתֵינוּ",
+      "gloss": "chan nou"
+    },
+    {
+      "surface": "וּכְרָמֵינוּ",
+      "gloss": "ak jaden rezen nou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:08:21.181011473Z",
+  "model": "glm-5.3"
+}

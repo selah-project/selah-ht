@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Ak ⟨את⟩ tout wa yo sa yo ak ⟨את⟩ peyi yo, Yehochoua pran yo yon sèl fwa, paske Yawe, Elohim Izrayèl la, te goumen pou Izrayèl.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout wa yo sa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "peyi yo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "peyi yo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "pran"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl la"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "goumen"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pou Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:54.184878731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Gade, se sa yo ki mechèt, e moun ki kè po toujou yo rive jwenn richès.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אֵ֥לֶּה",
+      "gloss": "se sa yo ki"
+    },
+    {
+      "surface": "רְשָׁעִ֑ים",
+      "gloss": "mechèt"
+    },
+    {
+      "surface": "וְשַׁלְוֵ֥י",
+      "gloss": "e moun ki kè po"
+    },
+    {
+      "surface": "ע֝וֹלָ֗ם",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "הִשְׂגּוּ",
+      "gloss": "yo rive jwenn"
+    },
+    {
+      "surface": "חָֽיִל",
+      "gloss": "richès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:51.464878599Z",
+  "model": "glm-5.3"
+}

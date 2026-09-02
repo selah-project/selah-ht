@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi wa a mouri, e ⟨yo⟩ pote l nan Chomeron, e yo antere ⟨את⟩ wa a nan Chomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "pote l"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "yo antere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "nan Chomeron"
+    }
+  ],
+  "timestamp": "2026-09-02T18:07:39.762698230Z",
+  "model": "glm-5.3"
+}

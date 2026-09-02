@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Sèvitè li yo mete l ⟨mouri⟩ sou charyo soti nan Megido, pote l nan Yerouchalayim, e antere l nan tonm li; e pèp ki nan tè a pran ⟨את⟩ Yehoachaz, pitit Yochiyahou, yo endwi ⟨את⟩ l e yo fè ⟨את⟩ l wa nan plas papa l.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "mete l sou charyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè li yo"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "soti nan Megido"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "pote l"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "antere l"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "nan tonm li"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yochiyahou"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "endwi l"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "fè l wa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nan plas"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:20:36.876151657Z",
+  "model": "glm-5.3"
+}

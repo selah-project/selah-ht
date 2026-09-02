@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Pou chèf mizisyen an, pou pitit Korach yo, yon mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmor"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:03.199207266Z",
+  "model": "glm-5.3"
+}

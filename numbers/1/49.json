@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Se sèlman ⟨את⟩ tribi Levi ou pa konte, epi ⟨את⟩ kont yo ou pa pran, nan mitan pitit Yisrael.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Se sèlman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tribi Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "konte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "kont yo"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kont yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "pran"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:10.846242180Z",
+  "model": "glm-5.3"
+}

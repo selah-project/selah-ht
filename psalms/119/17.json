@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Fè byen pou sèvant ou, pou m ka viv e pou m ka gade pawòl ou.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Fè byen"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "m ka viv"
+    },
+    {
+      "surface": "ו אשמרה",
+      "gloss": "e pou m ka gade"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "pawòl ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:06.956946453Z",
+  "model": "glm-5.3"
+}

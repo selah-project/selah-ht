@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E Avraham ban ⟨את⟩ tout sa ki te pou li bay Yitshak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa ki te pou li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "te pou li"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "bay Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:00.756918218Z",
+  "model": "glm-5.3"
+}

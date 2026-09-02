@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Moun ki gen kè saj pran kòmandman men moun sòt ki pale anpil ap tonbe.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "saj"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "men moun sòt"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ki pale anpil"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ap tonbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:29.449557889Z",
+  "model": "glm-5.3"
+}

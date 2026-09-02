@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Paske ⟨li⟩ delivre mwen soti nan tout detres, ak zye mwen wè enmi mwen yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "soti nan tout"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "detres"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "delivre mwen"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "ak enmi mwen yo"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "zye mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:33.487430759Z",
+  "model": "glm-5.3"
+}

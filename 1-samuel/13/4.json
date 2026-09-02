@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E tout Yisrael tande, yo di: Chaoul frape ⟨את⟩ pòs Filistin yo, e tou Yisrael vin move odè pou Filistin yo; e pèp la rele dèyè Chaoul nan Gilgal la.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pòs Filistin yo"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "pòs"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e tou"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "vin move odè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "pou Filistin yo"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "e yo rele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "nan Gilgal la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:44.794642080Z",
+  "model": "glm-5.3"
+}

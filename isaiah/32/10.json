@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Jou yo ak yon lane ap pase, ou moun ki konfyans yo ap tranble: paske rekòt rezen an fini, rekòt la pa ap vini ankò.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ap pase"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yon lane"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "ap tranble"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ou moun ki konfyans yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "fini"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "rekòt rezen an"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "rekòt la"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ap vini"
+    }
+  ],
+  "timestamp": "2026-09-02T22:22:10.381551706Z",
+  "model": "glm-5.3"
+}

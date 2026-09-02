@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Leve, ale, paske se pa sa repou ⟨a⟩; paske li sal, ⟨li⟩ pral detwi, ak yon detwisyon grav.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "repou ⟨a⟩"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "li sal"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "pral detwi"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ak detwisyon"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "grav"
+    }
+  ],
+  "timestamp": "2026-09-02T19:39:45.630241579Z",
+  "model": "glm-5.3"
+}

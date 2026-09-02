@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi li fè yo desann ak kòd la nan fenèt la, paske kay l te nan miray la, epi li te rete nan miray la.",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "epi li fè yo desann"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "ak kòd la"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nan"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fenèt la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "kay l"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "nan miray"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "miray la"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "epi nan miray la"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "te rete"
+    }
+  ],
+  "timestamp": "2026-09-02T17:00:13.111957875Z",
+  "model": "glm-5.3"
+}

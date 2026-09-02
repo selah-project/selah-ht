@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Grasye ak full compassionate ⟨⟨se⟩⟩ Yawe, lent nan kolè, ak hesed ki gran anpil.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "grasye"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ak full compassionate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lent"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "nan kolè"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ak ... ki gran anpil"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:27.558300780Z",
+  "model": "glm-5.3"
+}

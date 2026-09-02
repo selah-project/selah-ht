@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Paske yo te vize mal kont w; yo te fè yon konplo move — yo pa kapab reyalize l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "yo te vize"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kont w"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "yo te fè"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "yon konplo move"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "kapab reyalize l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:48.507331340Z",
+  "model": "glm-5.3"
+}

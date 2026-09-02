@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Men tè a ki rete: tout rejyon Filistin yo ak tout Gechouri yo.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "sa a \/ men"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "ki rete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "rejyon"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Gechouri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:05:32.722449130Z",
+  "model": "glm-5.3"
+}

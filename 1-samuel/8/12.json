@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "epi pou l mete pou li chèf sou milye ak chèf sou senkant, epi pou laboure labou l, epi pou rekòlte rekòt li, epi pou fè zouti gè l ak zouti charyo l.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "epi pou mete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "milye"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ak chèf"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "epi pou laboure"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "labou l"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "epi pou rekòlte"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "rekòt li"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "epi pou fè"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zouti"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "gè l"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ak zouti"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "charyo l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:46.772315487Z",
+  "model": "glm-5.3"
+}

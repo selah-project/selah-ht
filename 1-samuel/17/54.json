@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi David pran ⟨את⟩ tèt Filistin lan, epi pote l al Yerouchalayim; epi ⟨את⟩ zam li, li mete yo nan tant li.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "epi pran"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt Filistin lan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistin lan"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "epi pote l"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "zam li"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zam li"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "nan tant li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:32:53.628081709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Pou etranje yo pa vin plen ak fòs ou, e travay ou pa fin nan kay yon etranje.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Pou ... pa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "vin plen"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "etranje yo"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "ak fòs ou"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "e travay ou"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "yon etranje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:25.930030867Z",
+  "model": "glm-5.3"
+}

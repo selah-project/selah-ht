@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Byen lwen pou mwen si mwen deklare ⟨את⟩ nou jis — jouk mwen expire, mwen p ap retire inosans mwen de sou mwen.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Byen lwen (pa janm!)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "mwen deklare ... jis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "mwen expire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "mwen retire"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "inosans mwen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de sou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:38:52.940244113Z",
+  "model": "glm-5.3"
+}

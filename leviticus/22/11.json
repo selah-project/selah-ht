@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi yon kòwonan, lè l achte yon moun ak achte lajan l, li ka manje ⟨nan⟩ li; epi moun ki fèt nan kay li, yo ka manje nan pen l.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "epi kòwonan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "achte"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "achte"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "lajan l"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ka manje"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "epi moun ki fèt"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nan kay l"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ka manje"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "nan pen l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:49.085104296Z",
+  "model": "glm-5.3"
+}

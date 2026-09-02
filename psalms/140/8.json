@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 140,
+  "translation": "Yawe, Adònay, fòs delivrans mwen, ⟨ou⟩ kouvri tèt m jou zam lan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "delivrans mwen"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "tèt m"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "zam"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:23.129600001Z",
+  "model": "glm-5.3"
+}

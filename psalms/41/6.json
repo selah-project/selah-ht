@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Ennmi mwen yo di move sou mwen: «Kilè ⟨li⟩ ap mouri, e non ⟨li⟩ ap disparèt?»",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Ennmi mwen yo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kilè"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "e ... ap disparèt"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:35.691948594Z",
+  "model": "glm-5.3"
+}

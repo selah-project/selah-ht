@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi m ap bay nou bèjè dapre kè m, epi yo ap fè pastè ⟨את⟩ nou ak konesans ak entèlijans.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Epi m ap bay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "bèjè yo"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "dapre kè m"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "epi yo ap fè pastè"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "ak entèlijans"
+    }
+  ],
+  "timestamp": "2026-09-02T18:48:51.495001492Z",
+  "model": "glm-5.3"
+}

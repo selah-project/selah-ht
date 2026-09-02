@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Gade, jodi a mwen mete devan ou ⟨את⟩ lavi a ak ⟨את⟩ sa ki bon, ak ⟨את⟩ lanmò ak ⟨את⟩ sa ki mal.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen mete"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavi a"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "lavi a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa ki bon"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "sa ki bon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lanmò"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lanmò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa ki mal"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sa ki mal"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:00.485103206Z",
+  "model": "glm-5.3"
+}

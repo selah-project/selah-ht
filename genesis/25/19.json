@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E sa yo se jenerasyon Yitshak, pitit gason Avraham: Avraham fè ⟨את⟩ Yitshak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "e sa yo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:52.543652411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Ou pral travèse jodi a ⟨את⟩ fwontyè Moav, ⟨את⟩ Ar:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pral travèse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fwontyè Moav"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fwontyè"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:42.961641190Z",
+  "model": "glm-5.3"
+}

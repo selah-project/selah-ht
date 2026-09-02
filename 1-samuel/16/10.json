@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 16:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E Yichi fè pase sèt pitit gason l yo devan Chemouèl, e Chemouèl di bay Yichi: Yawe pa chwazi nan sa yo.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "fè pase"
+    },
+    {
+      "surface": "יִשַׁי",
+      "gloss": "Yichi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di bay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "יִשַׁי",
+      "gloss": "Yichi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "chwazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "nan sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:30:55.021474877Z",
+  "model": "glm-5.3"
+}

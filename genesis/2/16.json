@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Yawe Elohim kòmande sou moun nan, li di: Ou ka manje plen libète nan tout pyebwa jaden an.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "E kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pyebwa"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ou ka manje plen libète"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:35.430266199Z",
+  "model": "glm-5.3"
+}

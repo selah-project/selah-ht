@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Jiska kilè, Elohim, adversè a ap outraje? Èske enmi a ap meprize Non ou pou tout tan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jiska"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kilè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ap outraje"
+    },
+    {
+      "surface": "צר",
+      "gloss": "adversè a"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ap meprize"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enmi a"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pour tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:04.622654042Z",
+  "model": "glm-5.3"
+}

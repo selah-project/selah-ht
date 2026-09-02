@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Se konsa Yisrail rebelle kont kay David jouk jodi a.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "Se konsa … rebelle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrail"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kont kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:13.084024605Z",
+  "model": "glm-5.3"
+}

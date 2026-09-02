@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi mesaje a ale, l vini, l fè rapò bay David ⟨את⟩ tout sa Yoav te voye l ⟨pou l di⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Epi mesaje a ale"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mesaje a"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "fè rapò"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bay David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "te voye l"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:25.711475898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi li pral fè ⟨את⟩ youn nan tourt yo, oswa nan pitit pichon yo, dapre sa menm li ka rive jwenn.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Epi li pral fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "youn nan tourt yo oswa pitit pichon yo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "tourt yo"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pichon yo"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "dapre sa"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ka rive jwenn"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "menm li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:55.979966413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lè sa a, y ap rele sou mwen, men m p ap reponn; y ap chèche mwen bonè bonè, men y p ap jwenn mwen.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "y ap rele sou mwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ... pa"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "m p ap reponn"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "y ap chèche mwen bonè bonè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ... pa"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "y p ap jwenn mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:05.557920914Z",
+  "model": "glm-5.3"
+}

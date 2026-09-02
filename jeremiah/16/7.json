@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 16:7",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi pa gen moun k ap pataje pen pou yo nan doulè a, pou konfòte yon moun sou mò a; epi yo pa ap fè ⟨את⟩ yon vè konsolasyon bwè sou papa l ni sou manman l.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יפרסו",
+      "gloss": "ap pataje pen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "doulè a"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "pou konfòte"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mò a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "ap fè bwè"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yon vè konsolasyon"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "vè"
+    },
+    {
+      "surface": "תנחומים",
+      "gloss": "konsolasyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ni sou"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:52:06.683291694Z",
+  "model": "glm-5.3"
+}

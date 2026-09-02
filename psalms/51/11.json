@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Kache figè ou sou fòt mwen yo, efwase tout mechansèt mwen yo.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "kache"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figè ou"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "sou fòt mwen yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mechansèt mwen yo"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "efwase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:00.905611045Z",
+  "model": "glm-5.3"
+}

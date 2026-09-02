@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Kohelet chèche jwenn pawòl plezi, e ⟨sa ki⟩ ekri dwat ⟨se⟩ pawòl verite.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "cheche"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "plezi"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "e ekri"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:10.917880955Z",
+  "model": "glm-5.3"
+}

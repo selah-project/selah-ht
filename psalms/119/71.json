@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen byen fè ⟨mwen⟩ te aflije, pou m ka aprann chwa ⟨ou⟩ yo.",
+  "tokens": [
+    {
+      "surface": "טֽוֹב",
+      "gloss": "byen fè"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "כִֽי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "עֻנֵּ֑יתִי",
+      "gloss": "te aflije"
+    },
+    {
+      "surface": "לְ֝מַ֗עַן",
+      "gloss": "pou"
+    },
+    {
+      "surface": "אֶלְמַ֥ד",
+      "gloss": "aprann"
+    },
+    {
+      "surface": "חֻקֶּֽיךָ",
+      "gloss": "chwa ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:17.659562680Z",
+  "model": "glm-5.3"
+}

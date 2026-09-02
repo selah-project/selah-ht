@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Yaakov pè anpil epi angwaye; li divize ⟨את⟩ moun k ap avè ⟨את⟩ li a, ak ⟨את⟩ mouton yo, ak ⟨את⟩ bèf yo, ak chimon yo, an de kan.",
+  "tokens": [
+    {
+      "surface": "וַיִּירָא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "וַיֵּצֶר",
+      "gloss": "angwaye"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "li"
+    },
+    {
+      "surface": "וַיַּחַץ",
+      "gloss": "divize"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "moun k ap avè li a"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "moun k ap avè"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "k ap"
+    },
+    {
+      "surface": "אִתּוֹ",
+      "gloss": "avè ⟨את⟩ li"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "mouton yo"
+    },
+    {
+      "surface": "הַצֹּאן",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèf yo"
+    },
+    {
+      "surface": "הַבָּקָר",
+      "gloss": "bèf yo"
+    },
+    {
+      "surface": "וְהַגְּמַלִּים",
+      "gloss": "ak chimon yo"
+    },
+    {
+      "surface": "לִשְׁנֵי",
+      "gloss": "an de"
+    },
+    {
+      "surface": "מַחֲנוֹת",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-02T22:11:48.237662445Z",
+  "model": "glm-5.3"
+}

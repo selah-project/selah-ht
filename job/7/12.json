@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Èske mwen se lanmè a, oswa yon monsè nan dlo, pou ou mete yon gadyen sou mwen?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "monsè nan dlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "gadyen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:33:16.120637535Z",
+  "model": "glm-5.3"
+}

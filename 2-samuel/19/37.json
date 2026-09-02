@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Yon ti kras sèvant ou a prale pase ⟨את⟩ Yarden an ansanm ak ⟨את⟩ wa a — e poukisa wa a ap rekonpanse m ak yon rekonpans tankou sa a?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Yon ti kras"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden an"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "את",
+      "gloss": "ak ⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e poukisa"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "rekonpanse m"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "rekonpans"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:49:10.711076220Z",
+  "model": "glm-5.3"
+}

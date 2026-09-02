@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Epi Moche ekri ⟨את⟩ depa yo dapre etap yo, sou bouch Yawe a; e sa yo se etap yo dapre depa yo.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Epi … ekri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "depa yo"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "depa yo"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "dapre etap yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "e sa yo"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "etap yo"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "dapre depa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:39:43.023289941Z",
+  "model": "glm-5.3"
+}

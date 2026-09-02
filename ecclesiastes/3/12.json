@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Mwen konnen ki pa gen anyen bon pou yo, eksepte pou yo kontan epi pou yo fè byen pandan lavi yo.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Mwen konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen anyen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eksepte"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "pou yo kontan"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "epi pou yo fè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "pandan lavi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:59.955880002Z",
+  "model": "glm-5.3"
+}

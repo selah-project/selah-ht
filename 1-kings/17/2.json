@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi pawòl Yawe a vini ba li, li di:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi … vini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:52.761781Z",
+  "model": "glm-5.3"
+}

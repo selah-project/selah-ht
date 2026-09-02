@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Tout kongregasyon Yisrayèl ap fè ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kongregasyon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Pèsk la)"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:20.259792303Z",
+  "model": "glm-5.3"
+}

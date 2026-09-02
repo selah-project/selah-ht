@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Paske ren m yo plen ⟨nan⟩ chalè ki boule, e pa gen anyen ki byen anfòm nan vyann mwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "ren m yo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "plen"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "chalè ki boule"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "anyen ki byen anfòm"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "nan vyann mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:05.869935345Z",
+  "model": "glm-5.3"
+}

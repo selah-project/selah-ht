@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E m ap fè ⟨את⟩ nou ale an egzil pi lwen pase Damasek — Yawe a di sa; Elohim Tsevaot se non li.",
+  "tokens": [
+    {
+      "surface": "וְהִגְלֵיתִי",
+      "gloss": "e m ap fè ale an egzil"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "מֵהָלְאָה",
+      "gloss": "pi lwen pase"
+    },
+    {
+      "surface": "לְדַמָּשֶׂק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צְבָאוֹת",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "se non li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:38:05.475926767Z",
+  "model": "glm-5.3"
+}

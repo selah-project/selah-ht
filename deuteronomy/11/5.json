@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E sa li fè pou nou nan dezè a, jouk nou rive jis nan kote sa a.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "E sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "nou rive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jis"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nan kote a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:57.373945238Z",
+  "model": "glm-5.3"
+}

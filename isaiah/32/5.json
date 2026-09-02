@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Yo pa ap rele moun fou a nòb ankò, e yo pa ap di moun chich la rich.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "pou moun fou"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "nòb"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "e pou moun chich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "rich"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:30.724499823Z",
+  "model": "glm-5.3"
+}

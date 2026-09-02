@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Moun saj pè ⟨e⟩ vire lwen mal, men moun sòt pase limite epi fè konfyan.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "moun saj"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "epi vire lwen"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "men moun sòt"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "pase limite"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "epi fè konfyan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:58.311647932Z",
+  "model": "glm-5.3"
+}

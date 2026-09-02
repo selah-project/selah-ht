@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Li frape anpil nasyon, li touye wa ki gen fòs yo.",
+  "tokens": [
+    {
+      "surface": "שֶֽׁ֭הִכָּה",
+      "gloss": "Li frape"
+    },
+    {
+      "surface": "גּוֹיִ֣ם",
+      "gloss": "nasyon"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "וְ֝הָרַ֗ג",
+      "gloss": "li touye"
+    },
+    {
+      "surface": "מְלָכִ֥ים",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עֲצוּמִֽים",
+      "gloss": "ki gen fòs"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:30.210675742Z",
+  "model": "glm-5.3"
+}

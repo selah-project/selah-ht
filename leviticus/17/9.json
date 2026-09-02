@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "e li pote l pa nan devan antre tanèl reyinyon an pou fè ⟨את⟩ l pou Yawe — nonm sa a ap koupe ⟨nan⟩ mitan pèp li a.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e nan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tanèl"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "pote l"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "sacrifi a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "e ap koupe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm la"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "nan mitan pèp li a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:44.935701139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Jou Adam yo apre li fè ⟨את⟩ Chet te ditou uit san an, e li fè pitit gason ak pitit fi.",
+  "tokens": [
+    {
+      "surface": "וַיִּהְיוּ",
+      "gloss": "te ditou"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "Jou"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אַחֲרֵי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הוֹלִידוֹ",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "שֵׁת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "שְׁמֹנֶה",
+      "gloss": "uit"
+    },
+    {
+      "surface": "מֵאֹת",
+      "gloss": "san"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "an"
+    },
+    {
+      "surface": "וַיּוֹלֶד",
+      "gloss": "e li fè pitit"
+    },
+    {
+      "surface": "בָּנִים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "וּבָנוֹת",
+      "gloss": "ak pitit fi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:54.051638524Z",
+  "model": "glm-5.3"
+}

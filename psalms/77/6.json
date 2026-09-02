@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "M reflechi sou jou yo ki pase, sou ane yo nan tan ki gen lontan.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "M reflechi sou"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ki pase (depi lontan)"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ane yo"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "nan tan ki gen lontan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:55.794860970Z",
+  "model": "glm-5.3"
+}

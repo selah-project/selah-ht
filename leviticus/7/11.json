@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Men lwa sakrifis chalom yo, ke yon moun prezante ba Yawe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Men sa a"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "chalom yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "prezante"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ba Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:15.028379317Z",
+  "model": "glm-5.3"
+}

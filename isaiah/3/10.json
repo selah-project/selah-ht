@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Di yo pou moun jis la, se byen pou li, paske li pral manje fwi travay li yo.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "travay yo"
+    },
+    {
+      "surface": "יואכלו",
+      "gloss": "yo pral manje"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:12.270948183Z",
+  "model": "glm-5.3"
+}

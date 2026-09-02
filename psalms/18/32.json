@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Paske kiyès ki Eloah eksepte Yawe? E kiyès ki se yon wòch eksepte Elohim nou an?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "eksepte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e kiyès"
+    },
+    {
+      "surface": "צור",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "eksepte"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:46.613601347Z",
+  "model": "glm-5.3"
+}

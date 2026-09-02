@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Pa gen pou yon dye etranje ⟨gen⟩ annapwou ou, e pa rumpe devan yon dye etranje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gen pou gen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "annapwou ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dye"
+    },
+    {
+      "surface": "זר",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ou rumpe devan"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "devan yon dye"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "etranje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:23.637220596Z",
+  "model": "glm-5.3"
+}

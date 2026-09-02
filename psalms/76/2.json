@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "Nan Yehouda Elohim fè tèt li konnen, nan Yisrayèl non l gran.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "fè tèt li konnen"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Nan Yehouda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Yisrayèl"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:11.310206848Z",
+  "model": "glm-5.3"
+}

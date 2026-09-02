@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Paske yo pa ka dòmi si yo pa fè mal, e dòmi yo ap vole nan men yo si yo pa fè yon moun tonbe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "fè mal"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "ap vole nan men"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "dòmi yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "fè yon moun tonbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:01.369589456Z",
+  "model": "glm-5.3"
+}

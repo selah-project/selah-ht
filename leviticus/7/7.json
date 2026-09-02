@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Menm jan ak ofrann peche a, menm jan ak ofrann fòt la — yon sèl tora pou yo toude; kohen ki fè ekspiyasyon ak li a, se pou li l ap ye.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "menm jan ak ofrann peche a"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "menm jan ak ofrann fòt la"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tora (lwa)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "fè ekspiyasyon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "l ap ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:21.650137020Z",
+  "model": "glm-5.3"
+}

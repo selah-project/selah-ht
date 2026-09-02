@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Mitsrayim fè ⟨את⟩ Loudim, ak ⟨את⟩ Anamim, ak ⟨את⟩ Lehavim, ak ⟨את⟩ Naftouchim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Epi Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loudim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Loudim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Lehavim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehavim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Naftouchim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftouchim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:01.924902505Z",
+  "model": "glm-5.3"
+}

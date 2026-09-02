@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 87,
+  "translation": "Yawe ap konte lè l ap ekri pep yo ⟨nan liv⟩: sa a, fèt la a. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "ap konte"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "lè l ap ekri"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pep yo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:17.368823096Z",
+  "model": "glm-5.3"
+}

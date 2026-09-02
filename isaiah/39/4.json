@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 39:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "E li di: Kisa yo wè nan kay ou? E Khizkiyahu di: Tout sa ki nan kay mwen, yo wè ⟨את⟩ li; pa t gen yon bagay ke m pa montre yo, nan trezo m yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yo wè"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nan kay ou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa ki nan kay mwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "nan kay mwen"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yo wè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הראיתים",
+      "gloss": "m montre yo"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "nan trezo m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:35:35.543550335Z",
+  "model": "glm-5.3"
+}

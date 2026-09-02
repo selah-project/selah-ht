@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Yo ap swiv nou ⟨את⟩ jouk nou te rale yo lwen ⟨min⟩ lavil la, paske yo pral di: Yo ap kouri chape devan nou, jan nan premye fwa a; e n ap kouri chape devan yo.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "yo ap swiv"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "apre nou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "nou te rale yo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (rale yo lwen)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨min⟩ lwen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo pral di"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "yo ap kouri chape"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "nan premye fwa a"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "n ap kouri chape"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "devan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:02:23.483654728Z",
+  "model": "glm-5.3"
+}

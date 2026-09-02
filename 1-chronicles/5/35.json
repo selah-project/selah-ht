@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi Ahimaats fè pitit ⟨את⟩ Azarya, epi Azarya fè pitit ⟨את⟩ Yokhanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Epi Ahimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "epi Azarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yokhanan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:35.280717176Z",
+  "model": "glm-5.3"
+}

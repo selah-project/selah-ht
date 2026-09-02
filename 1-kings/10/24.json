@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E tout tè a ap chèche ⟨את⟩ figi Chelomo, pou tande ⟨את⟩ sajès li ke Elohim mete nan kè l.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ap chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi Chelomo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pou tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sajès li"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "sajès li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nan kè l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:12.448430255Z",
+  "model": "glm-5.3"
+}

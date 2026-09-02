@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi pitit Yisrael yo retire ⟨את⟩ Baal yo ak ⟨את⟩ Ashtarot yo, epi yo sèvi ⟨את⟩ Yawe sèlman.",
+  "tokens": [
+    {
+      "surface": "וַיָּסִ֨ירוּ",
+      "gloss": "retire"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Baal yo"
+    },
+    {
+      "surface": "הַבְּעָלִ֖ים",
+      "gloss": "Baal yo"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ashtarot yo"
+    },
+    {
+      "surface": "הָעַשְׁתָּרֹ֑ת",
+      "gloss": "Ashtarot yo"
+    },
+    {
+      "surface": "וַיַּעַבְד֥וּ",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לְבַדּֽוֹ",
+      "gloss": "sèlman"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:17.943083165Z",
+  "model": "glm-5.3"
+}

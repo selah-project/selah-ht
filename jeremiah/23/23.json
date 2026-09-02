@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Èske mwen yon Elohim ki pre, deklare Yawe, epi pa yon Elohim ki lwen?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "yon Elohim ki"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "pre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "yon Elohim ki"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "lwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:56:31.247632328Z",
+  "model": "glm-5.3"
+}

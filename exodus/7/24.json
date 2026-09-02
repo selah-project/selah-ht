@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E tout Mitsrayim yo fouye toutotou larivyè a pou jwenn dlo pou yo bwe, paske yo pa t kapab bwe dlo larivyè a.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "fouye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "larivyè a"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "pou bwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "bwe"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "dlo ki soti nan"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "larivyè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:21.459035866Z",
+  "model": "glm-5.3"
+}

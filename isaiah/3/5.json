@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi pèp la ap peze, yon moun sou yon lòt moun, chak moun sou vwazin l: jèn yo ap defyan ansyen yo, e moun ki pa valè anyen sou moun ki gen onè.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ap peze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sou yon lòt moun"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e chak moun"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "sou vwazin l"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "ap defyan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jèn yo"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ansyen yo"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "e moun ki pa valè anyen"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "sou moun ki gen onè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:20.606374124Z",
+  "model": "glm-5.3"
+}

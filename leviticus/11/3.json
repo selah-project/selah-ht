@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Tout bèt ki gen patwon ki fèy, fèy nèt an mitan, epi ki monte jèra — bèt ⟨sa⟩ nou ka manje:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ki gen patwon ki fèy"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "patwon"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "epi ki fèy nèt"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "fèy"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "patwon"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ki monte"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "jèra"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "nan bèt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "bèt sa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou ka manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:16.201187324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Avram travèse tè a jouk kote Chekhem, jouk chèn Morè; e Kenaanit la te deja ⟨la⟩ nan peyi a.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "epi travèse"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekhem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "chèn"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "Morè"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "e Kenaanit la"
+    },
+    {
+      "surface": "אז",
+      "gloss": "te deja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:30.470830951Z",
+  "model": "glm-5.3"
+}

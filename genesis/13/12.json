@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Avram te rete nan tè Kenaàn, e Lot te rete nan vil plenn an, e li plante tant li jouk nan Sedom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "te rete"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "e Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "te rete"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "nan vil"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "plenn an"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "e li plante tant li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:19.497434079Z",
+  "model": "glm-5.3"
+}

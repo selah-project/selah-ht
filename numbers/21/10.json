@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi pitit Yisrayèl yo pati, e yo kanpe nan Oboth.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "pati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "nan Oboth"
+    }
+  ],
+  "timestamp": "2026-09-02T16:30:36.234451148Z",
+  "model": "glm-5.3"
+}

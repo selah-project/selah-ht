@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Èver viv kat ak trant an, epi fè ⟨את⟩ Peleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "epi ... viv"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Èver"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ak trant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:47.627171226Z",
+  "model": "glm-5.3"
+}

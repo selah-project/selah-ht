@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 5:21",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E l te fè konsa: lè Chiram tande ⟨את⟩ pawòl Chelomo yo, li kontan anpil, epi li di: Beni Yawe jodi a, ki te bay David yon gason savan sou pèp anpil gran sa a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e l te fè konsa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lè ... tande"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl Chelomo yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "li kontan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "te bay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gason"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "savan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:22.768902708Z",
+  "model": "glm-5.3"
+}

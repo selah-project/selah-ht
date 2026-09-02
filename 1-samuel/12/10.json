@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi yo rele pou Yawe, e yo di: Nou fè peche, paske nou kite ⟨את⟩ Yawe, e nou sèvi ⟨את⟩ Baal yo ak ⟨את⟩ Achtarot yo; e kounye a, delivre nou nan men enmi nou yo, e nou pral sèvi ou.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "epi yo rele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e yo di"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nou fè peche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "nou kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "e nou sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal yo"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Achtarot yo"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Achtarot yo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "delivre nou"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "enmi nou yo"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "e nou pral sèvi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:59.119403795Z",
+  "model": "glm-5.3"
+}

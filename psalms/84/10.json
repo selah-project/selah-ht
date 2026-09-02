@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Bouclie nou an, gade, Elohim, epi gade figè Machiya ou a.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "bouclie nou an"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figè"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Machiya ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:48.541685658Z",
+  "model": "glm-5.3"
+}

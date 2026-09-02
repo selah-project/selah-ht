@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Benediksyon ⟨yo⟩ ⟨gen⟩ sou tèt moun ki jis men bouch moun ki mechàn ⟨yo⟩ kouvri vyolans.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "benediksyon"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "sou tèt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun ki jis"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men bouch"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun ki mechàn"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:29.449249445Z",
+  "model": "glm-5.3"
+}

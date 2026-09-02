@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Dapre lwa, sa pou nou fè ak rann Vashti, paske li pa fè ⟨את⟩ lòd wa a Achachveroch pa men chambelan yo?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "dapre lwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "ak rann"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòd"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "lòd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achachveroch"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pa men"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "chambelan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:55.299542169Z",
+  "model": "glm-5.3"
+}

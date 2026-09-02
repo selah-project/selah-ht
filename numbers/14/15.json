@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "e si ou touye ⟨את⟩ pèp sa a tankou yon sèl moun, lè sa a nasyon yo ki tande ⟨את⟩ repo ou yo pral di,",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "e ou touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp sa a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "tankou yon moun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "yo pral di"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "repo ou"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "repo ou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yo pral di"
+    }
+  ],
+  "timestamp": "2026-09-02T16:27:15.748513999Z",
+  "model": "glm-5.3"
+}

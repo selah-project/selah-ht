@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 56,
+  "translation": "Nan Elohim m ap fè lwanj pawòl li, nan Elohim m met konfyans; m ap pa pè sa che kapab fè m.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Nan Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "m ap fè lwanj"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pawòl li"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nan Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m met konfyans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kapab fè"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:31.025198Z",
+  "model": "glm-5.3"
+}

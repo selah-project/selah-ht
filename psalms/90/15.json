@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Fè nou kontan jan jou ⟨yo⟩ ou te aflije nou, ak ane nou te wè malè a.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Fè nou kontan"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "jan jou"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "ou te aflije nou"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ak ane"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nou te wè"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "malè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:55.374898887Z",
+  "model": "glm-5.3"
+}

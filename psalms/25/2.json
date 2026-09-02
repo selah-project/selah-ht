@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Elohim mwen, nan ou mwen mete konfyans; pa kite mwen vini wont, pa kite enmi mwen yo rejywi sou mwen.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mete konfyans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "vini wont"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "rejywi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enmi mwen yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:15.544272358Z",
+  "model": "glm-5.3"
+}

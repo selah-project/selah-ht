@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi nan uitnyen jou a, yo ap sirkonsi kann po devan li.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "epi nan jou"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "uitnyen"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "sirkonsi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kann"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "po devan l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:54.815156773Z",
+  "model": "glm-5.3"
+}

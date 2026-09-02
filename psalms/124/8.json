@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 124,
+  "translation": "Sekou nou an se nan non Yawe, ki fè syèl yo ak tè a.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Sekou nou"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ak tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:35.454957623Z",
+  "model": "glm-5.3"
+}

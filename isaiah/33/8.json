@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Wout yo vin dezè; moun ki pase sese sou chemen an; ⟨li⟩ kase alyans, ⟨li⟩ voye vil yo jete, ⟨li⟩ pa konte moun nan men.",
+  "tokens": [
+    {
+      "surface": "נָשַׁמּוּ",
+      "gloss": "vin dezè"
+    },
+    {
+      "surface": "מְסִלּוֹת",
+      "gloss": "wout yo"
+    },
+    {
+      "surface": "שָׁבַת",
+      "gloss": "sese"
+    },
+    {
+      "surface": "עֹבֵר",
+      "gloss": "moun ki pase"
+    },
+    {
+      "surface": "אֹרַח",
+      "gloss": "sou chemen an"
+    },
+    {
+      "surface": "הֵפֵר",
+      "gloss": "kase"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "alyans"
+    },
+    {
+      "surface": "מָאַס",
+      "gloss": "voye jete"
+    },
+    {
+      "surface": "עָרִים",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חָשַׁב",
+      "gloss": "konte"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:45.283446374Z",
+  "model": "glm-5.3"
+}

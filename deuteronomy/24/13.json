@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Retounen, w ap retounen pou l ⟨את⟩ gage a lè solèy la ap kouche, epi l ap dòmi nan manto l, epi l ap beni ou; e pou ou jistis ap devan Yawe Elohim ou.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "retounen (sèrten)"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "w ap retounen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gage a"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "gage a"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "kouche (lè)"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "epi dòmi"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "nan manto l"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "epi beni ou"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e pou ou"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap genyen"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:44.340060214Z",
+  "model": "glm-5.3"
+}

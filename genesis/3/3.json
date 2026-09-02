@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Men, pou fwi pye a ki nan mitan jaden an, Elohim di: nou pa pral manje ⟨fwi⟩ l, ni manyen l, pou nou pa mouri.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Men, pou fwi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pye a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "pral manje"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "manyen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "l"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou… pa"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:16.273570907Z",
+  "model": "glm-5.3"
+}

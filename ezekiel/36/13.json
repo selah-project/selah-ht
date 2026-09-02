@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 36:13",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Konsa Adònay Yawe di: Paske yo di ba ou: ou manje moun, ou menm, ou fè nasyon ou yo tonbe, sa ou te ye.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "ou manje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ou menm",
+      "marks": "moun"
+    },
+    {
+      "surface": "ומשכלת",
+      "gloss": "ou fè tonbe"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "nasyon ou yo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ou te ye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:25:34.258096214Z",
+  "model": "fable-5-hand"
+}

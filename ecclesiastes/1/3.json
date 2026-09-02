@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Ki avantaj moun nan gen nan tout travay li ap travay anba solèy la?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "avantaj"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "pou moun nan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "travay li"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "li ap travay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:08.894330265Z",
+  "model": "glm-5.3"
+}

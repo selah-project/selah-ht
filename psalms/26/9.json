@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Pa reyini nanm mwen ansanm ak kriminèl yo, ni lavi mwen ansanm ak moun san yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "kriminèl yo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni ansanm ak"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san yo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "lavi mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:48.553740362Z",
+  "model": "glm-5.3"
+}

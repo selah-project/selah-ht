@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 143,
+  "translation": "Paske yon enemyen pouse nanm mwen, li kraze lavi mwen ⟨a⟩ atè, li fè m rete nan fènwa tankou mò yo depi lontan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "pouse"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enemyen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "atè"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "lavi mwen"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "li fè m rete"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "nan fènwa"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "tankou mò yo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "depi lontan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:10.015285593Z",
+  "model": "glm-5.3"
+}

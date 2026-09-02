@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Men Elihou te tann ⟨את⟩ Iyov ak pawòl, paske yo te pi vye pase l an jou.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Elihou"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "tann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ak pawòl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "pi vye"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pase l"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "an jou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:41:08.887567436Z",
+  "model": "glm-5.3"
+}

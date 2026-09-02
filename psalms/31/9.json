@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Epi ou pa fèmen m ⟨nan⟩ men enemyen an; ou kanpe pye m yo nan yon plas laj.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi ou pa"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "fèmen m"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enemyen an"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "ou kanpe"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "nan yon plas laj"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pye m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:13.838493408Z",
+  "model": "glm-5.3"
+}

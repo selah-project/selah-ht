@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Menm kounye a, kanpe ou kanpe, e gade ⟨את⟩ bagay gwo sa a ke Yawe ap fè devan je nou yo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Menm"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "kanpe ou kanpe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagay gwo sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "devan je nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:32.504106905Z",
+  "model": "glm-5.3"
+}

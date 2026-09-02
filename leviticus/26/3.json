@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Si nan lwa mwen yo nou mache, ⟨את⟩ kòmandman mwen yo nou kenbe, epi nou fè yo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "nan lwa mwen yo"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "nou mache"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kòmandman mwen yo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kòmandman mwen yo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "nou kenbe"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "epi nou fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:00.493594523Z",
+  "model": "glm-5.3"
+}

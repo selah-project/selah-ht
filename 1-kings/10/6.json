@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi li di wa a: Vrè te ye pawòl la ke m te tande nan peyi m, sou pawòl ou yo ak sou sajès ou.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Vrè"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "m te tande"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "nan peyi m"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "pawòl ou yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "sajès ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:23.840384562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 131,
+  "translation": "Kantik montey yo, pou David. Yawe, kè m pa monte wo, je m pa wo ⟨toupandan⟩, e m pa mache nan bagay gran yo ni nan bagay etonan ki pi gran pase m.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kantik"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "montey yo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "monte wo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "mache"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "nan bagay gran yo"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "ni nan bagay etonan yo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pase m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:17.863604907Z",
+  "model": "glm-5.3"
+}

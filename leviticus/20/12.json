@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi yon moun ki kouche ⟨את⟩ belfim li — lanmò ⟨pou⟩ mouri yo toude: yon melanj yo fè; san yo sou yo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi yon moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "kouche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belfim li"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "belfim li"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lanmò"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "yo toude"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "melanj"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "san yo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:57.618128762Z",
+  "model": "glm-5.3"
+}

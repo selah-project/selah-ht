@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E fòs nou ap fini an van, e tè nou p ap bay ⟨את⟩ rekòt li, e pyebwa tè a p ap bay fwi l yo.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "E … ap fini"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "an van"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "fòs nou"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tè nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rekòt li"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "rekòt li"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "e pyebwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "fwi l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:54.952883448Z",
+  "model": "glm-5.3"
+}

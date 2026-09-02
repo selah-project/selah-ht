@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E Mitsrayim yo ap konnen se mwen Yawe, lè m ap vin glwa sou Paro, sou charyot l yo ak sou kavalye l yo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ap konnen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "lè m ap vin glwa"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "sou Paro"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "sou charyot l yo"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ak sou kavalye l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:15.658264423Z",
+  "model": "glm-5.3"
+}

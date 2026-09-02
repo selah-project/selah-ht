@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "E si pa gen frè pou li, n ap bay ⟨את⟩ eritaj li pou frè papa l yo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "n ap bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eritaj li"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "eritaj li"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "pou frè"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:35:39.735102964Z",
+  "model": "glm-5.3"
+}

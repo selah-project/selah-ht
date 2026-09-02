@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Lè m rele, reponn m, Elohim jistis mwen; nan detrès ou elaji pou mwen; fè m gràs epi koute lapriyè m.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Lè m rele"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "reponn m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "jistis mwen"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nan detrès"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "ou elaji"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "חננí",
+      "gloss": "fè m gràs"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "epi koute"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lapriyè m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:51.979058275Z",
+  "model": "glm-5.3"
+}

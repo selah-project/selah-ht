@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Apre ⟨את⟩ ki moun ⟨li⟩ konsilte, e ki moun fè l konnen? Ki moun anseye l nan chemen jijman an, e anseye l konesans, e fè l konnen chemen entelijans yo?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ki moun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "konsilte"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "e fè l konnen"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "e anseye l"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "nan chemen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "e anseye l"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "e chemen"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "entelijans yo"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "fè l konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:49.134122682Z",
+  "model": "glm-5.3"
+}

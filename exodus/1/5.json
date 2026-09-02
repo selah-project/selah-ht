@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi tout moun ki soti nan kwich Yaakov ⟨se⟩ swasanndis moun; epi Yosèf te annan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "ki soti"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "nan kwich"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "swasanndis"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "epi Yosèf"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "annan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:16.821061036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Men mwen gen yon kè jan nou gen l tou ; mwen pa tonbe anba nou ; e ⟨את⟩ ki moun ki pa konnen bagay yo konsa ?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Men"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen gen"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yon kè"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "jan nou gen l tou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "anba nou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ki moun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa konnen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bagay yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:23.711857368Z",
+  "model": "glm-5.3"
+}

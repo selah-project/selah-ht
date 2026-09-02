@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Menm jan non ou ye a, Elohim, se konsa loj ou ye, jouk bò tè a; jistis ranpli men dwat ou a.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Menm jan non ou ye a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "loj ou ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "bò"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "men dwat ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:19.363214641Z",
+  "model": "glm-5.3"
+}

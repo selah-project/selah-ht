@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Kilès moun nan ki vle lavi, ki renmen anpil jou, pou l wè ⟨sa ki⟩ bon ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kilès"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "ki vle"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ki renmen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "anpil jou"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou l wè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:33.500972343Z",
+  "model": "glm-5.3"
+}

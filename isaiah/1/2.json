@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Koute, syèl yo, ak ⟨pa gen⟩ tande, tè a, paske Yawe te pale: pitit mwen mwen te elve yo, mwen te fè yo grandi, men yo rebelye kont mwen.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "ak tande"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "mwen te elve yo"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "mwen te fè yo grandi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "rebelye"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kont mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:53.276384241Z",
+  "model": "glm-5.3"
+}

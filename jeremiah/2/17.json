@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Èske se pa sa rive ou, paske ou kite ⟨את⟩ Yawe, Elohim ou a, nan lè ⟨li⟩ te mennen ou nan wout la?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Èske…pa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nan lè"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "te mennen ou"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:54:48.422317773Z",
+  "model": "glm-5.3"
+}

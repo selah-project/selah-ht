@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 1:18",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Vini kounye a, e ann nou diskite ansanm, Yawe di a: si pekè nou yo tankou chani (wouj klere), yo ap vin blan tankou ne; si yo wouj tankou tola (karmen), yo ap vin tankou lann.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "ונוכחה",
+      "gloss": "ann nou diskite ansanm"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yo ap vin"
+    },
+    {
+      "surface": "חטאיכם",
+      "gloss": "pekè nou yo"
+    },
+    {
+      "surface": "כשנים",
+      "gloss": "tankou chani"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "tankou ne"
+    },
+    {
+      "surface": "ילבינו",
+      "gloss": "yo ap vin blan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יאדימו",
+      "gloss": "yo wouj"
+    },
+    {
+      "surface": "כתולע",
+      "gloss": "tankou tola"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "tankou lann"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yo ap vin"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:40.461002244Z",
+  "model": "glm-5.3"
+}

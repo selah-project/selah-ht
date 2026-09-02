@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Anplis, sa a menm yo fè ⟨pou⟩ mwen: yo salte ⟨את⟩ sanktyuè m an nan jou sa a, epi ⟨את⟩ chabat yo mwen yo profane.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Anplis"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a menm"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pou⟩ mwen"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "yo salte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanktyuè m an"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "sanktyuè m an"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "chabat yo mwen yo"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "chabat yo mwen yo"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "yo profane"
+    }
+  ],
+  "timestamp": "2026-09-02T19:19:36.515796935Z",
+  "model": "glm-5.3"
+}

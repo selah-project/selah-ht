@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Nan lwa ou mwen pran plezi, mwen p ap bliye pawòl ou.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "Nan lwa ou"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "pran plezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "p ap"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "pawòl ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:06.788609549Z",
+  "model": "glm-5.3"
+}

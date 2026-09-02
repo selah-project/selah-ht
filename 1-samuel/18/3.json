@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Yehonatan ak David fè yon alyans, paske lanmou ⟨li⟩ rive ⟨את⟩ li konm nefech li.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "e fè (yon koup)"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ak David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alyans"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "nan lanmou li"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "konm nefech li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:21.771076386Z",
+  "model": "glm-5.3"
+}

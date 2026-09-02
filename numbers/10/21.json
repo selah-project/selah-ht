@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E Kehati yo te deplase, yo te pòte senktyè a; e ⟨yo lòt yo⟩ te kanpe ⟨את⟩ tabènakil la jouk lè ⟨lè⟩ yo rive.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "te deplase"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehati yo"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pòte"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "senktyè a"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "te kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabènakil la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènakil la"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "באם",
+      "gloss": "yo rive"
+    }
+  ],
+  "timestamp": "2026-09-02T16:25:03.161458243Z",
+  "model": "glm-5.3"
+}

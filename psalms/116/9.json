@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "M ap mache devan Yawe, nan peyi vivan yo.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "m ap mache"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vivant yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:30.830352849Z",
+  "model": "glm-5.3"
+}

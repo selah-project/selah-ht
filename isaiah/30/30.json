@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E Yawe ap fè ⟨את⟩ majeste vwa l tande, ap fè desann bra l wè nan kòlè fache ak lann dife ki devore — ak deblozay, ak tanpèt, ak pye lavàn.",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "ap fè tande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majeste"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "majeste"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "vwa l"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "ak desann"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "bra l"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "fè wè"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "nan kòlè"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fache"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "ak lann"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "ki devore"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "deblozay"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "ak tanpèt"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ak pye"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "lavàn"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:25.183297973Z",
+  "model": "glm-5.3"
+}

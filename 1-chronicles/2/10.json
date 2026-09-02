@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Ram fè ⟨את⟩ Aminadav, epi Aminadav fè ⟨את⟩ Nachchon, chèf pitit gason Yehouda yo.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Epi Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "epi Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachchon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachchon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:17.596869992Z",
+  "model": "glm-5.3"
+}

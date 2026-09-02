@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Pa gen pè ki dwe mouri pou pitit yo, e pa gen pitit ki dwe mouri pou pè yo; chak moun pou fòt li a li dwe mouri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "yo dwe fè mouri"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "pè yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou (kòz)"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "epi pitit yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "yo dwe fè mouri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou (kòz)"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "pè yo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "nan fòt li"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "li dwe fè mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:44.340879448Z",
+  "model": "glm-5.3"
+}

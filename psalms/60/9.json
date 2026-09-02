@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Pou m Gilad, e pou m Menache; e Efrayim se fòtès tèt mwen; Yehouda se moun ki fè lwa pou m.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "e pou m"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "e Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fòtès"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt mwen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "moun ki fè lwa pou m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:15.560980799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E Chemouèl mouri, e tout Yisrael rasanble, yo ploure pou li, e yo antere l nan kay l la nan Rama; David kanpe, e l desann nan dezè Paran an.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "rasanble"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ploure"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "tere l"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nan kay l"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "nan Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dezè a"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:44.024136662Z",
+  "model": "glm-5.3"
+}

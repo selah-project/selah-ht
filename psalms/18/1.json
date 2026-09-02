@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Pou mèt mizik la, pou sèvitè Yawe a, pou David, ki pale bay Yawe ⟨את⟩ pawòl chante sa a, nan jou Yawe delivre ⟨את⟩ l nan men tout enmi l yo ak nan men Chaoul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou mèt mizik la"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pou sèvitè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bay Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl chante sa a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "chante"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ l",
+      "marks": "David"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "enmi l yo"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ak nan men"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:17.655735208Z",
+  "model": "glm-5.3"
+}

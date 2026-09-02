@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Moun move yo kouri e pa gen pèsòn ap swiv ⟨yo⟩; men jis yo konnen fò tankou yon jèn lyon.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "kouri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "pèsòn ap swiv"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moun move a"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "men jis yo"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "tankou yon jèn lyon"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "konnenn fò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:24.338920072Z",
+  "model": "glm-5.3"
+}

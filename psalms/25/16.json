@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Vire ⟨wè⟩ kote mwen, epi fè m gràs, paske mwen sèl ak mwen pòv anpil.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Vire ⟨wè⟩ kote"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "epi fè m gràs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "mwen sèl"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ak mwen pòv"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen (an)"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:06.363563732Z",
+  "model": "glm-5.3"
+}

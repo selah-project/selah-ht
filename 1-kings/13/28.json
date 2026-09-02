@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Li ale e li jwenn ⟨את⟩ kadav li jete nan wout la, ak bourik la ak lyon an kanpe pre kadav la; lyon an pa manje ⟨את⟩ kadav la, e li pa dechire ⟨את⟩ bourik la.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "li ale"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "li jwenn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadav li"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "kadav li"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "jete"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout la"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ak bourik la"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "ak lyon an"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pre"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "kadav la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "lyon an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadav la"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "kadav la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "dechire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bourik la"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "bourik la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:25.327270015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 30:31",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "epi pou moun ki nan Khevron, epi pou tout kote David te mache la, li menm ak gason li yo.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "epi pou moun ki"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "nan Khevron"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "epi pou tout"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "te mache"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ak gason li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:43.212552561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Gade, mwen fè ⟨את⟩ figè w yo di an fas figè yo, ak ⟨את⟩ fwont ou di an fas fwont yo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figè w"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figè w"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "an fas"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "figè yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "fwont ou"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "fwont ou"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "di"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "an fas"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "fwont yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:12:31.592194432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "⟨את⟩ sa ki menm li ka rive jwenn: ⟨את⟩ youn an kòm ofrand pèche, ak ⟨את⟩ youn la kòm ofrand boule, ansanm ak ofrand farin lan; epi kohen an fè ekspiyasyon pou moun k ap netwaye a devan Yawe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki menm li ka rive jwenn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ka rive jwenn"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "menm li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "youn an (ofrand pèche)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn an"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kòm ofrand pèche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "youn la (ofrand boule)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn la"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kòm ofrand boule"
+    },
+    {
+      "surface": "על",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofrand farin lan"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "epi fè ekspiyasyon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen an"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "moun k ap netwaye a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:55.980145152Z",
+  "model": "glm-5.3"
+}

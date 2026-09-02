@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Menm si prins yo chita, yo pale kont mwen; sèvant ou ap medite ⟨nan⟩ dekre ou yo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yo chita"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "prins yo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kont mwen"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "yo pale"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "ap medite"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "nan dekre ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:28.842867362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Zye ou gade dwat devan, ak je ou kanpe dwat devan ou.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "zye ou"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "dwan"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "ak je ou"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "kanpe dwat"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "devan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:37.018126557Z",
+  "model": "glm-5.3"
+}

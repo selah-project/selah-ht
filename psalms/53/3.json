@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Elohim lanse je l soti nan syèl la sou pitit moun yo, pou wè si gen yon moun ki gen konprannasyon, yon moun k ap chèche ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "soti nan syèl la"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "lanse je l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "היש",
+      "gloss": "si gen"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ki gen konprannasyon"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "k ap chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:20.189359332Z",
+  "model": "glm-5.3"
+}

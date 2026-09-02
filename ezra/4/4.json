@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Lè sa rive, pèp peyi a fè men pèp Yehouda a vin fèb, epi ap fatige ⟨את⟩ yo nan bati a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lè sa rive"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "fè vin fèb"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "epi ap fatige"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nan bati a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:04:55.571168436Z",
+  "model": "glm-5.3"
+}

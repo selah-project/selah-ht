@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi Chemouèl fè ⟨את⟩ tout {sa} Yawe te pale a, epi l antre nan Bet-Lekhem; epi vye granmoun lavil la t tranble lè yo al rankontre l, epi li di: «Chalom! Vwayaj ou a byen.»",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Epi ... fè"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa Yawe te pale a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "epi l antre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "epi ... t tranble"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vye granmoun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "lè yo al rankontre l"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Chalom"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "Vwayaj ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:25.853014069Z",
+  "model": "glm-5.3"
+}

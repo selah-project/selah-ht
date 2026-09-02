@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi moun HaElohim nan di: Ki kote l tonbe? Lè l fin montre l ⟨את⟩ endwa a, li koupe yon bwa, li jete l ladan l, e fè a flote.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ki kote"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "li tonbe"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "li montre l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "endwa a"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "endwa a"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "li koupe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yon bwa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "li jete"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "fè a flote"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "fè a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:42.375156435Z",
+  "model": "glm-5.3"
+}

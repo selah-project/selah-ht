@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Tèt paran yo nan Yehouda ak Benyamin, prèt yo ak Levi yo, leve — tout moun Elohim reveye ⟨את⟩ lespri l — pou yo moute bati ⟨את⟩ kay Yawe ki nan Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "paran yo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "nan Yehouda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ak Benyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ak prèt yo"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ak Levi yo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "reveye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lespri l"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "lespri l"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "pou moute"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:03:20.355347982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 137,
+  "translation": "Lang mwen an kole ak pallet mwen an si mwen pa sonje ou — si mwen pa fè ⟨את⟩ Yerouchalayim monte sou tèt tout kè kontan mwen yo.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "kole"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lang mwen an"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ak pallet mwen an"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "mwen sonje ou"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mwen fè ... monte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou tèt"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "kè kontan mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:44.472461122Z",
+  "model": "glm-5.3"
+}

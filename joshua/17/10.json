@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Kòt sid se pou Efrayim, e kòt nò se pou Manasè, epi lanmè a se fenèt li; e nan Achè yo rankontre kòt nò, e nan Yisasakar kòt lès.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "kòt sid"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "pou Efrayim"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "e kòt nò"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "pou Manasè"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "epi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "fenèt li"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "e nan Achè"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "yo rankontre"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kòt nò"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "e nan Yisasakar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kòt lès"
+    }
+  ],
+  "timestamp": "2026-09-02T17:07:46.565789764Z",
+  "model": "glm-5.3"
+}

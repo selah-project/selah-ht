@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi kòhen an soti nan kay la, rive nan pwent pòtay kay la, epi li fèmen ⟨את⟩ kay la pou sèt jou.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pwent pòtay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay la"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:43.559072439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi Moche fè dapre tout sa Yawe kòmande ⟨את⟩ li; konsa li fè l.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dapre tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:41.917939630Z",
+  "model": "glm-5.3"
+}

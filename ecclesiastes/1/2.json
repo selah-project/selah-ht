@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Vanite sou vanite, Kohelet di; vanite sou vanite, tout ⟨se⟩ vanite.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Vanite"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "sou vanite"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "sou vanite"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:08.894106336Z",
+  "model": "glm-5.3"
+}

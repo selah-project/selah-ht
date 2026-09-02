@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Yawe, èske zye ou pa chèche lemonte? Ou frape yo, men yo pa santi doulè; ou fini detwi yo, men yo refize pran koreksyon; yo fè figi yo pi di ke wòch, yo refize tounen.",
+  "tokens": [
+    {
+      "surface": "יְהֹוָ֗ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עֵינֶיךָ֮",
+      "gloss": "zye ou"
+    },
+    {
+      "surface": "הֲל֣וֹא",
+      "gloss": "èske ... pa"
+    },
+    {
+      "surface": "לֶאֱמוּנָה֒",
+      "gloss": "lemonte"
+    },
+    {
+      "surface": "הִכִּיתָה",
+      "gloss": "ou frape"
+    },
+    {
+      "surface": "אֹתָם֙",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (pwonon objè, אֹתָם, se pa mak ⟨את⟩ sèlman)"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "men ... pa"
+    },
+    {
+      "surface": "חָ֔לוּ",
+      "gloss": "santi doulè"
+    },
+    {
+      "surface": "כִּלִּיתָ֕ם",
+      "gloss": "fini detwi"
+    },
+    {
+      "surface": "מֵאֲנ֖וּ",
+      "gloss": "refize"
+    },
+    {
+      "surface": "קַ֣חַת",
+      "gloss": "pran"
+    },
+    {
+      "surface": "מוּסָ֑ר",
+      "gloss": "koreksyon"
+    },
+    {
+      "surface": "חִזְּק֤וּ",
+      "gloss": "fè ... di"
+    },
+    {
+      "surface": "פְנֵיהֶם֙",
+      "gloss": "figi yo"
+    },
+    {
+      "surface": "מִסֶּ֔לַע",
+      "gloss": "ke wòch"
+    },
+    {
+      "surface": "מֵאֲנ֖וּ",
+      "gloss": "refize"
+    },
+    {
+      "surface": "לָשֽׁׁוּב",
+      "gloss": "tounen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:23:20.349319845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E li ranvèse ⟨את⟩ vil yo sa yo, ak ⟨את⟩ tout plenn nan, ak ⟨את⟩ tout moun ki te abite vil yo, ak plant tè a te fè.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "E li ranvèse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vil yo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout plenn nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "plenn nan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout moun ki te abite vil yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun ki te abite"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ak plant"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:52.758779910Z",
+  "model": "glm-5.3"
+}

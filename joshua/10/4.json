@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Monte vin jwenn m, e ede m, pou nou frape ⟨את⟩ Givòn, paske li fè lapè ⟨את⟩ Yehochoua ak ⟨את⟩ pitit Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Monte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vin jwenn m"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "e ede m"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "pou nou frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givòn"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givòn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "li fè lapè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehochoua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:15.863673530Z",
+  "model": "glm-5.3"
+}

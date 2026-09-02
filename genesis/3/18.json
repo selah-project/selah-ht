@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epinen ak dardar li ap fè pouse pou ou, epi ou ap manje ⟨את⟩ zeb chanp yo.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Epinen"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ak dardar"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "li ap fè pouse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "epi ou ap manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zeb chanp yo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zeb"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chanp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:37.616190833Z",
+  "model": "glm-5.3"
+}

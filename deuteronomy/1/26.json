@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E nou pa t vle monte, e nou rebèl kont ⟨את⟩ bouch Yawe Elohim nou yo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "nou pa t vle"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "pou monte"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "nou rebèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:29.898275882Z",
+  "model": "glm-5.3"
+}

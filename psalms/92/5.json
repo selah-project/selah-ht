@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Paske ou fè m kontan, Yawe, nan sa ou fè a; nan travay men ou yo m ap chante jwaye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "ou fè m kontan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "nan sa ou fè a"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "nan travay"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "men ou yo"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "m ap chante jwaye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:57.994043438Z",
+  "model": "glm-5.3"
+}

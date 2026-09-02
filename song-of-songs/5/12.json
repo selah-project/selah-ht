@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Zye li yo kòm pigeon sou kouran dlo yo, ki lave nan lèt, ki chita sou zòn plen yo.",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "Zye li yo"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "kòm pigeon yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "kouran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "ki lave"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "nan lèt"
+    },
+    {
+      "surface": "יושבות",
+      "gloss": "ki chita"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "zòn plen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:15.223711391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E lè Paro wè ke te gen repos la, li fè ⟨את⟩ kè l di, epi li pa t koute yo, jan Yawe te di a.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E wè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "te gen"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "repos la"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "fè … di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè l"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:11.367873622Z",
+  "model": "glm-5.3"
+}

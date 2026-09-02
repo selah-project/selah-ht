@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yawe, Elohim ou, fòk ou pè ⟨את⟩ ⟨li⟩; se li fòk ou sèvi; ou dwe kole ak li, epi fòk ou jire nan non li.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fòk ou pè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨li⟩"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "fòk ou sèvi"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "ou dwe kole"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "nan non li"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "fòk ou jire"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:43.910692143Z",
+  "model": "glm-5.3"
+}

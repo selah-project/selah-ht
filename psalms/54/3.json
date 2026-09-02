@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Elohim, nan Non ou sove m, ak nan fòs ou fè jistis pou m.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nan Non ou"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sove m"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "ak nan fòs ou"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "fè jistis pou m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:54.006030567Z",
+  "model": "glm-5.3"
+}

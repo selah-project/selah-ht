@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Se konsa wa a retounen, epi li rive jouk nan Yarden; e Yehouda vini nan Guilgala pou ale rankontre wa a, pou fè ⟨את⟩ wa a pase ⟨את⟩ Yarden an.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "epi li rive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Yehouda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "nan Guilgala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou ale"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "rankontre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "pou fè pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:08.600061658Z",
+  "model": "glm-5.3"
+}

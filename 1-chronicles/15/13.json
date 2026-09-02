@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 15:13",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Paske nan premye fwa a, se pa nou ⟨ki te la⟩; Yawe Elohim nou an fè yon dezòdon sou nou, paske nou pa t chèche l jan lòd ⟨la⟩ preskri l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "למ",
+      "gloss": ""
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "nan premye fwa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "fè yon dezòdon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "chèche l"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "jan lòd la preskri"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:10.580608965Z",
+  "model": "glm-5.3"
+}

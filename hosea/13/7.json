@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "M ap vin pou yo tankou yon lyon; tankou yon leopa sou chemen Ashur m ap tche ⟨sou yo⟩.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "m ap vin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "yon lyon"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "tankou yon leopa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-02T21:57:49.285745824Z",
+  "model": "glm-5.3"
+}

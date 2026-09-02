@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 126,
+  "translation": "Yawe fè gran bagay pou fè ak nou; nou te ye ⟨moun ki⟩ kontan.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "fè gran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ak nou"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nou te ye"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "kontan"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:05.902625369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Paro dirè fè vini Moche ak Aharòn, e li di: Mwen fè peche kont Yawe, Elohim nou an, e kont nou menm.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "dirè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "fè vini"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ak Aharòn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mwen fè peche"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kont Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "e kont nou menm"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:11.102324627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E poukisa nou ap fè ⟨את⟩ kè nou vin lou, jan Mitsrayim ak Paro te fè ⟨את⟩ kè yo? Eske l pa te maltrete yo, jouk yo te voye yo ale e yo te ale?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "e poukisa"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "ap fè vin lou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè nou"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "kè nou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "te fè vin lou"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "ak Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè yo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kè yo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eske pa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "te maltrete"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "epi yo te voye yo ale"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "epi yo te ale"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:59.060968923Z",
+  "model": "glm-5.3"
+}

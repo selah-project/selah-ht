@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Nan tande ⟨ki soti nan⟩ zòrèy mwen tande ou, e kounye a zye m wè ou.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Nan tande"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "zòrèy"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "mwen tande ou"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "zye m"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "wè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:59.955629885Z",
+  "model": "glm-5.3"
+}

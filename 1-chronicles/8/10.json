@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Ak ⟨את⟩ Yeoutsan, ak ⟨את⟩ Chakya, ak ⟨את⟩ Mirmah. Se yo menm pitit gason l yo, yo te chèf kay papa yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yeoutsan"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeoutsan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chakya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Chakya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "se yo menm"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "kay papa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:35.509244659Z",
+  "model": "glm-5.3"
+}

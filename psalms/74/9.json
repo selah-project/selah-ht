@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Nou pa wè siy nou yo: pa gen pwofèt ankò, e pa gen ⟨את⟩ avèk nou moun ki konnen jiska kilè.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "siy nou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pwofèt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ avèk nou"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ki konnen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kilè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:04.622136125Z",
+  "model": "glm-5.3"
+}

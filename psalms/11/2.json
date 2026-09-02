@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Paske gade, mechàn yo ap pye ak yo, yo prepare flèch yo sou kòd la, pou yo tire nan fènwa sou moun ki gen kè dwat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "mechàn yo"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "ap pye"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ak"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "flèch yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kòd la"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "pou tire"
+    },
+    {
+      "surface": "במו",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "fènwa"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "sou moun ki dwat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "nan kè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:05.261036385Z",
+  "model": "glm-5.3"
+}

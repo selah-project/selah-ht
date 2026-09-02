@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Menm lang mwen tou, tout jou a, ap medite jistis ou; paske yo wont, paske yo konfonn, yo menm ki ap chache mal m.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "לְשׁוֹנִי",
+      "gloss": "lang mwen tou"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "תֶּהְגֶּה",
+      "gloss": "ap medite"
+    },
+    {
+      "surface": "צִדְקָתֶךָ",
+      "gloss": "jistis ou"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בֹּשׁוּ",
+      "gloss": "yo wont"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חָפְרּוּ",
+      "gloss": "yo konfonn"
+    },
+    {
+      "surface": "מְבַקְשֵׁי",
+      "gloss": "ki ap chache"
+    },
+    {
+      "surface": "רָעָתִי",
+      "gloss": "mal m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:04.956252026Z",
+  "model": "glm-5.3"
+}

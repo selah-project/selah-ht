@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Ak pou yon lespri jijman pou moun ki chita nan jijman a, ak pou fòs pou moun ki fè lagè a tounen nan pòtay la.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "Ak pou yon lespri"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "pou moun ki chita"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "jijman an"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "ak pou fòs"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "pou moun ki fè tounen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "pòtay la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:06.294248814Z",
+  "model": "glm-5.3"
+}

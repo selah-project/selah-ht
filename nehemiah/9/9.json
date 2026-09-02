@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E ou wè ⟨את⟩ mizè papa nou yo nan Mitsrayim, e ⟨את⟩ kri yo ou tande sou Lanmè Sif.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizè papa nou yo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mizè"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "papa nou yo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "e ⟨את⟩",
+      "marks": "kri yo"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "kri yo"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tande"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Lanmè"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sif"
+    }
+  ],
+  "timestamp": "2026-09-02T21:10:13.176020529Z",
+  "model": "glm-5.3"
+}

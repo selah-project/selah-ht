@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi Omri fè mal nan je Yawe, epi li fè pi mal pase tout sa ki te anvan l an.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "fè pi mal"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pase tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "anvan l an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:00.140983619Z",
+  "model": "glm-5.3"
+}

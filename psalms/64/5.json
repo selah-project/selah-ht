@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "Pou tire nan kache sou moun ki san faute: toutouden yo tire sou li, e yo pa pè.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "Pou tire"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "nan kache"
+    },
+    {
+      "surface": "תם",
+      "gloss": "sou moun ki san faute"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "toutouden"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "yo tire sou li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e yo pa"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "pè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:04.305660077Z",
+  "model": "glm-5.3"
+}

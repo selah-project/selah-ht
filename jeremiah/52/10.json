@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "E wa Bavel la sena ⟨את⟩ pitit Tsidkiyahu yo devan je l; e ⟨את⟩ tout chèf Yehouda yo tou, li sena yo nan Rivla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "sena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "devan je l"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e tou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chèf yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "sena yo"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "nan Rivla"
+    }
+  ],
+  "timestamp": "2026-09-02T19:10:06.673457809Z",
+  "model": "glm-5.3"
+}

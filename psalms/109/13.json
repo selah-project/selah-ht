@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Ke ⟨dwe⟩ koupe fin li a; nan yon lòt jenerasyon, ke yo efase non yo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ke dwe"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "fin li a (pitit li)"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nan jenerasyon"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "efase"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "non yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:16.007215556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Jistis ak jijman se fondasyon chèz ou a; hesed ak verite ap mache devan figè ou.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Jistis"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ak jijman"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "fondasyon"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "chèz ou a"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ak verite"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ap mache devan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:18.216848255Z",
+  "model": "glm-5.3"
+}

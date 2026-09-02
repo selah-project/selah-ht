@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "M ap chante pou Yawe pandan tout lavi m, m ap fè mizik pou Elohim m pandan m ⟨gen⟩ lavi.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "m ap chante"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "pandan tout lavi m"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ap fè mizik"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "pou Elohim m"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "pandan m gen lavi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:57.794294354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Ak ⟨את⟩ janm kòt la, nou ap bay li kòm kontribisyon pou pwèt la, nan sakrifis lapè nou yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ak ⟨את⟩",
+      "marks": "janm kòt la"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "janm"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kòt la"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "nou ap bay"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "kòm kontribisyon"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pou pwèt la"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "nan sakrifis"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "lapè nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:38.500045070Z",
+  "model": "glm-5.3"
+}

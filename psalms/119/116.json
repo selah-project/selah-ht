@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Souteye mwen dapre pawòl ou, e mwen ap viv; e pa fè mwen wont nan espwa mwen.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Souteye mwen"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "dapre pawòl ou"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "e mwen ap viv"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "fè mwen wont"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "nan espwa mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:20.639635156Z",
+  "model": "glm-5.3"
+}

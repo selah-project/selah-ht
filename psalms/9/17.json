@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Yawe fè tèt li konnen, li fè jijman; se nan travay men li menm pyèj la kenbe mechan an. Higayon. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "fè tèt li konnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "nan travay"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "men li"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "pyèj"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechan an"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:20.307237869Z",
+  "model": "glm-5.3"
+}

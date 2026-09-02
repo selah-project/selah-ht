@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E Moche fè jan Yawe kòmande ⟨את⟩ li a, e asanble a reyini devan pòt tant rankont la.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֣עַשׂ",
+      "gloss": "fè"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֹת֑וֹ",
+      "gloss": "⟨את⟩ li",
+      "marks": "Moche (asil kòmandman an dirije)"
+    },
+    {
+      "surface": "וַתִּקָּהֵל֙",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "הָֽעֵדָ֔ה",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פֶּ֖תַח",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "אֹ֥הֶל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מוֹעֵֽד",
+      "gloss": "rankont"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:07.855344002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Pou mèt mizik la, sou ⟨Ayelet haChachar⟩ (bich maten an), yon mizmor pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou mèt mizik la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayelet"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "haChachar (maten an)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:20.590793347Z",
+  "model": "glm-5.3"
+}

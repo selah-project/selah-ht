@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Mwen ap loue ou, paske ou reponn mwen, e ou vin ⟨ pou mwen ⟩ pou sekou.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ap loue ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "ou reponn mwen"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e ou vin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "pou sekou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:45.435493099Z",
+  "model": "glm-5.3"
+}

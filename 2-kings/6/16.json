@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Li di: Pa pè, paske ⟨את⟩ ak nou yo plis pase ⟨את⟩ ak yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yo plis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ak nou"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "pase ki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ak yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:10:20.976119337Z",
+  "model": "glm-5.3"
+}

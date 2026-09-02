@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi w ap mete ⟨את⟩ bar yo nan anul yo sou kote Ache a, pou pote ⟨את⟩ Ache a ak yo.",
+  "tokens": [
+    {
+      "surface": "וְהֵֽבֵאתָ֤",
+      "gloss": "epi w ap mete"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "bar yo"
+    },
+    {
+      "surface": "הַבַּדִּים֙",
+      "gloss": "bar yo"
+    },
+    {
+      "surface": "בַּטַּבָּעֹ֔ת",
+      "gloss": "nan anul yo"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "צַלְעֹ֣ת",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הָאָרֹ֑ן",
+      "gloss": "Ache a"
+    },
+    {
+      "surface": "לָשֵׂ֥את",
+      "gloss": "pou pote"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Ache a"
+    },
+    {
+      "surface": "הָאָרֹ֖ן",
+      "gloss": "Ache a"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "ak yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:32.342730953Z",
+  "model": "glm-5.3"
+}

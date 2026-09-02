@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Paske kounye a menm, mwen ta fin voye ⟨את⟩ men m, ⟨את⟩ frape ou ak ⟨את⟩ pèp ou ak epidemi, e ou ta fin disparèt soti nan tè a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a menm"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mwen ta fin voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men m"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "epi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ frape ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèp ou"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ak epidemi"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "e ou ta fin disparèt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:30.833462296Z",
+  "model": "glm-5.3"
+}

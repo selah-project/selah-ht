@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Koman moun ki gen fòs nan ou byen bèni — chimen yo annan kè yo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "koman moun ... byen bèni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨li gen⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "chimen yo"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "annan kè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:47.211921261Z",
+  "model": "glm-5.3"
+}

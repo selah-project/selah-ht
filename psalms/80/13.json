@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Poukisa ou frape kraze kloti li yo, epi tout moun ki pase sou wout la prente l?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "frape kraze"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "kloti li yo"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "epi prente l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "moun ki pase"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "wout la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:04.252151200Z",
+  "model": "glm-5.3"
+}

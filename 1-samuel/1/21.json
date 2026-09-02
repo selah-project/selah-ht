@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lè sa a, nonm an, Elkanah, ak tout kay li, moute pou yo ofri Yawe ⟨את⟩ sakrifis jou yo a ak ⟨את⟩ sa l te pwomèt la.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "moute"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm an"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "pou yo ofri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakrifis jou yo a"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa l te pwomèt la"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "sa l te pwomèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:10.401600924Z",
+  "model": "glm-5.3"
+}

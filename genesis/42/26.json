@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "E yo pote ⟨את⟩ krale yo sou bourik yo, e yo ale kite kote sa a.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "e yo pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krale yo"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "krale yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "bourik yo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e yo ale"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kite kote sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:54.658038259Z",
+  "model": "glm-5.3"
+}

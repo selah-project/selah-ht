@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Vantman vin, vanti mennen wont; e ⟨את⟩ moun ki onèt yo, sajès.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "Vantman"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vanti mennen"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "wont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "moun ki onèt yo"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "moun ki onèt yo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:46.004910019Z",
+  "model": "glm-5.3"
+}

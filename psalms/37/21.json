@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Movye a prete epi li pa remèt ⟨li⟩; moun ki jis la grasye epi bay.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "prete"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "movye a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "remèt"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "epi moun ki jis la"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "grasye"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "epi bay"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:40.191016997Z",
+  "model": "glm-5.3"
+}

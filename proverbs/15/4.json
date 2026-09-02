@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Yon lang ki geri se yon pye lavi, men kouripsyon nan li se yon krak nan lespri.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "yon lang ki geri"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lang"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pye"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "men kouripsyon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "yon krak"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "nan lespri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:26:04.975986016Z",
+  "model": "glm-5.3"
+}

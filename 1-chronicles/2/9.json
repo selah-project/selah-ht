@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Ak pitit gason Chetsron ki fèt pou li ⟨את⟩ Yerachmèl, ak ⟨את⟩ Ram, ak ⟨את⟩ Keloubay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ak pitit gason"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerachmèl"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachmèl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Keloubay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Keloubay"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:17.596600242Z",
+  "model": "glm-5.3"
+}

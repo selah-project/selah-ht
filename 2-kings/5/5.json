@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 5:5",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Wa Aram lan di : Ale, ale, e m ap voye yon lèt bay wa Yisrael la. E li ale, e li pran nan men l dis talan ajan, ak sis mil ⟨pyès⟩ lò, ak dis chanj rad.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "בא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "e m ap voye"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "lèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e li ale"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e li pran"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "talan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "ak sis"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ak dis"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "chanj"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "rad"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:27.523895083Z",
+  "model": "glm-5.3"
+}

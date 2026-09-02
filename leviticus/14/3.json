@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Kòhen an soti ale ⟨deyò⟩ nan kan an, e kòhen an gade : e gade kòmbyen, maladi a geri sou moun ki gen lèp la.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "soti ale"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale ⟨deyò⟩"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nan kan an"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade kòmbyen"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "geri"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "maladi a"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ki gen lèp la"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "moun ki gen lèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:55.430168462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Pale kounye a, tanpri, nan zòrèy pèp la: chak gason ap mande nan men ⟨את⟩ zanmi l, e chak fi nan men ⟨את⟩ zanmi fi l, objè ajan ak objè lò.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Pale"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kounye a, tanpri"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "nan zòrèy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ap mande"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak gason"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nan men ⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zanmi l"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "e chak fi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nan men ⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "zanmi fi l"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "objè"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ak objè"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:52.579350746Z",
+  "model": "glm-5.3"
+}

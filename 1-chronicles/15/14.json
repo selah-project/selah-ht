@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi prèt yo ak Levi yo santiye tèt yo pou yo moute ⟨את⟩ ach Yawe, Elohim Yisrayèl la.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "santiye tèt yo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ak Levi yo"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "pou moute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ach"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:10.580898620Z",
+  "model": "glm-5.3"
+}

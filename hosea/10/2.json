@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Kè yo divize; kounye a yo ap koupab: se ⟨li⟩ menm k ap kase ⟨את⟩ otèl yo, k ap dechouke ⟨את⟩ estati yo.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "divize"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "Kè yo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "yo ap koupab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "k ap kase"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "otèl yo"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "k ap dechouke"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "estati yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:58:33.344103662Z",
+  "model": "glm-5.3"
+}

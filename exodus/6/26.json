@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Se Aharòn ak Moche menm Yawe pale a, Yawe ki di yo: fè ⟨את⟩ pitit Yisrayèl yo soti nan peyi Mitsrayim, dapre rejiman yo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ak Moche"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrayèl yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "rejiman yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:17.400459850Z",
+  "model": "glm-5.3"
+}

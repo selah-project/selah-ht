@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "⟨את⟩ lanmè a, yon sèl, ak ⟨את⟩ bèf yo douz anba l.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanmè a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèf yo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bèf yo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "douz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "douz"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "anba l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:25:38.925853662Z",
+  "model": "glm-5.3"
+}

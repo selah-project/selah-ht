@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Pa gen tankou ou nan mitan dye yo, Adònay, e pa gen ⟨tankou⟩ zèv ou yo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Pa gen"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tankou ou"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nan mitan dye yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "tankou zèv ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:20.737236757Z",
+  "model": "glm-5.3"
+}

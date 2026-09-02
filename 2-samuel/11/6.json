@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi David voye ⟨mesaj⟩ jwenn Yoav: Voye ⟨את⟩ Uriya Hitit la ban mwen. Epi Yoav voye ⟨את⟩ Uriya jwenn David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Voye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ban mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya Hitit la"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitit la"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:33.770376364Z",
+  "model": "glm-5.3"
+}

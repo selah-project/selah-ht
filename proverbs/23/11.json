@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Paske gowètè yo fò, se li ap defann ⟨את⟩ kòz yo ⟨את⟩ avèk ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "gowètè yo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "fò"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ap defann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòz yo"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "kòz yo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:56.020871864Z",
+  "model": "glm-5.3"
+}

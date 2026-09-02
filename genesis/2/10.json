@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi yon rivyè soti nan Edèn pou dloze ⟨את⟩ jaden an; epi de la li separe epi vin kat tèt ⟨sous⟩.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "epi yon rivyè"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "nan Edèn"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "pou dloze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaden an"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "epi de la"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "separe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "epi vin"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "tèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:40.772302327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E si ofrann nan kasròl la se korban ou a, li dwe fèt ak farin fin nan lwil.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ofrann"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "kasròl la"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "korban ou"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "farin fin"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nan lwil"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fèt"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:51.486299567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Se yo menm ki pase ⟨את⟩ Yardèn lan nan premye mwa a, pandan li te debòde sou tout bò rivyè l yo, epi yo fè ⟨את⟩ tout moun val yo chape, bò solèy leve a ak bò solèy kouche a.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo menm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardèn lan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardèn lan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "nan mwa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "premye a"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "pandan li"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "te debòde"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "bò rivyè l yo"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "epi yo fè ... chape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout moun val yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "moun val yo"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "bò solèy leve a"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "ak bò solèy kouche a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:18:38.082579632Z",
+  "model": "glm-5.3"
+}

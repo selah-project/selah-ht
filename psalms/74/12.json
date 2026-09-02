@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "E Elohim, wa m nan, ⟨se⟩ moun ki depi tan ansyen ap fè delivrans nan mitan tè a.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "E Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa m"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "depi tan ansyen"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:04.623394072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi Yehochoua beni l, e li bay ⟨את⟩ Chevròn pou Kalev, pitit Yefoune, kòm eritaj.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "Epi … beni l"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e li bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevròn"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevròn"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "pou Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefoune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "kòm eritaj"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:58.222555260Z",
+  "model": "glm-5.3"
+}

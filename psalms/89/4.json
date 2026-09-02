@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Mwen koupe yon alyans ak moun ke mwen chwazi a; mwen sèmante pou David, sèvitè mwen an.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Mwen koupe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "yon alyans"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "pou moun ke mwen chwazi a"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mwen sèmante"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:28.517681793Z",
+  "model": "glm-5.3"
+}

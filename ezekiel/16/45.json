@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Ou se pitit fi manman ou, ki rejte mari l ak pitit li yo; ou se sè sè ou yo, yo ki rejte mari yo ak pitit yo yo; manman nou an se yon Hetit, e papa nou an se yon Emori.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "manman ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "ou",
+      "marks": "געלת"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "ki rejte"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mari l"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "ak pitit li yo"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "e sè"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "sè ou yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "ou",
+      "marks": "אשר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo ki"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "rejte"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "mari yo"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "ak pitit yo yo"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "manman nou an"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hetit"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "e papa nou an"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Emori"
+    }
+  ],
+  "timestamp": "2026-09-02T21:56:37.598730830Z",
+  "model": "glm-5.3"
+}

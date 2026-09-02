@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E pèp la reponn e di: Pa janm pou nou kite ⟨את⟩ Yawe pou sèvi lòt dye!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Pa janm!"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pou sèvi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lòt"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:47.356385950Z",
+  "model": "glm-5.3"
+}

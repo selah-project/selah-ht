@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Paske kè a t ap fèmenmen anndan m, ak ren m t ap pwen m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "t ap fèmenmen"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "kè a"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ak ren m"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "t ap pwen m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:27.813783705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E Yoram kouche ak papa l yo, e yo antere ⟨l⟩ ak papa l yo nan vil David; e Aazya, pitit gason l, wayal nan plas l.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E ⟨li⟩ kouche"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e yo antere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e ⟨li⟩ wayal"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Aazya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:12.357566720Z",
+  "model": "glm-5.3"
+}

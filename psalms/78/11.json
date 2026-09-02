@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "E yo bliye aksyon ⟨li⟩ yo, ak miray ⟨li⟩ yo, sa ⟨li⟩ fè yo wè.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "E yo bliye"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "aksyon ⟨li⟩ yo"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ak miray ⟨li⟩ yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "⟨li⟩ fè yo wè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:31.317330689Z",
+  "model": "glm-5.3"
+}

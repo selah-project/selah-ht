@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Se pou hesed (lanmou ou ki rete fèm) ou a, Yawe, vin sou nou, menm jan nou tann espwa nan ou.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Se pou"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed (lanmou ou ki rete fèm) ou a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "vin sou nou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "menm jan"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "nou tann espwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:15.203406520Z",
+  "model": "glm-5.3"
+}

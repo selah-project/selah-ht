@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E si yon nonm sedwi yon vjè ki pa pwomèt, e li dòmi avè l, kòm dote li dwe peye pou li vin madanm li.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "E si"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "sedwi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "vjè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "pwomèt"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "e dòmi"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kòm dote"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "li dwe peye pou li"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vin madanm"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:18.539817727Z",
+  "model": "glm-5.3"
+}

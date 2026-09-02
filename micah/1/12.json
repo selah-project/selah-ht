@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Paske abitan Marot ap tann sa ki bon, paske mal desann soti ⟨את⟩ Yawe, jouk nan pòt Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ap tann"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "pou sa ki bon"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "abitant"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "soti ⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "jouk nan pòt"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:23.924115936Z",
+  "model": "glm-5.3"
+}

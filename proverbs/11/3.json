@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Sanjte moun ki dwat ap gide yo, men move fòs trayè yo ap detwi yo.",
+  "tokens": [
+    {
+      "surface": "תֻּמַּת",
+      "gloss": "Sanjte"
+    },
+    {
+      "surface": "יְשָׁרִים",
+      "gloss": "moun ki dwat"
+    },
+    {
+      "surface": "תַּנְחֵם",
+      "gloss": "ap gide yo"
+    },
+    {
+      "surface": "וְסֶלֶף",
+      "gloss": "men move fòs"
+    },
+    {
+      "surface": "בֹּגְדִים",
+      "gloss": "trayè"
+    },
+    {
+      "surface": "וְשָׁדָם",
+      "gloss": "ap detwi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:39.635293796Z",
+  "model": "glm-5.3"
+}

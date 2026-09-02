@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Si mwen wè mal nan kè mwen, Adònay pa ap koute.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "mal"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mwen wè"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nan kè mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ap koute"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:17.812380963Z",
+  "model": "glm-5.3"
+}

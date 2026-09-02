@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 137,
+  "translation": "Kouman n ap chante ⟨את⟩ chante Yawe a, sou yon tè etranje?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Kouman"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "n ap chante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chante Yawe a"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "chante"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tè"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "etranje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:58.087753203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Pou l mare prens li yo selon volonte l, e pou l fè ansyen yo vin saj.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Pou l mare"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "prens li yo"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "selon volonte l"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "e ansyen li yo"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "fè vin saj"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:59.006424537Z",
+  "model": "glm-5.3"
+}

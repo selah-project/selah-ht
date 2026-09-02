@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "«Manje l, m ap beni anpil; pòv yo annan l, m ap fè yo satwi ak pen.»",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Manje l"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "(pou) beni"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "m ap beni anpil"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "pòv yo annan l"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "m ap fè yo satwi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ak pen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:23.689025269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 13:8",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Èske n ap leve vizo li, èske pou El n ap diskite?",
+  "tokens": [
+    {
+      "surface": "הֲפָנָיו",
+      "gloss": "vizo li"
+    },
+    {
+      "surface": "תִּשָּׂאוּן",
+      "gloss": "n ap leve"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "èske"
+    },
+    {
+      "surface": "לָאֵל",
+      "gloss": "pou El"
+    },
+    {
+      "surface": "תְּרִיבוּן",
+      "gloss": "n ap diskite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:20.533986753Z",
+  "model": "glm-5.3"
+}

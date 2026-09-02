@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi li fè Chaaf, papa Madmanah; ⟨את⟩ Cheva, papa Makhbena, e papa Giva; e pitit fi Kalev la ⟨se⟩ Akhsa.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Epi li fè"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "Chaaf"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmanah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheva"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Makhbena"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "e papa"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Giva"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "e pitit fi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:07.606727160Z",
+  "model": "glm-5.3"
+}

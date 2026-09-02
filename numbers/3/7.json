@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yo ap gade ⟨את⟩ sèvis l a, ak ⟨את⟩ sèvis tout asanble a, devan tant rankont la, pou fè ⟨את⟩ travay tabènak la.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvis l a"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "sèvis l a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sèvis tout asanble a"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sèvis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "travay tabènak la"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "travay"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènak la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:56.766077078Z",
+  "model": "glm-5.3"
+}

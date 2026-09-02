@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Men sèlman, ⟨את⟩ san nou pou lavi nou, m ap mande ⟨l⟩; nan men tout bèt vivan m ap mande ⟨l⟩; e nan men moun nan, nan men tout moun frè l, m ap mande ⟨את⟩ lavi moun nan.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "men sèlman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san nou"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "san nou"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "pou lavi nou"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "m ap mande ⟨l⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "bèt vivan"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "m ap mande ⟨l⟩"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "e nan men"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tout moun"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "m ap mande ⟨l⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavi moun nan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:20.396419716Z",
+  "model": "glm-5.3"
+}

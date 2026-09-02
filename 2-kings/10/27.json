@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E yo ranverse ⟨את⟩ poto Baal la, e yo ranverse ⟨את⟩ kay Baal la, e yo fè l vin yon twalè jouk jodi a.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "e yo ranverse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poto Baal la"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "poto"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal la"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "e yo ranverse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Baal la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal la"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "e yo fè l vin"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "yon twalè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:51:25.275433630Z",
+  "model": "glm-5.3"
+}

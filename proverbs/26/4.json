@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Pa reponn yon sòt dapre sòtès li, pou ou pa vin tankou li menm, oumenm.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "yon sòt"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "dapre sòtès li"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou ... pa"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "vin tankou"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "oumenm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:07.900639116Z",
+  "model": "glm-5.3"
+}

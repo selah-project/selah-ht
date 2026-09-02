@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Paske mwen te jalou sou moun ki fou yo, lè m te wè byennèt mechan yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "mwen te jalou"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "sou moun ki fou yo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "byennèt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "lè m te wè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:37.404840615Z",
+  "model": "glm-5.3"
+}

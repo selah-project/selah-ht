@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E li kouvwi ak sèd anlè, sou bò ki chita sou kolòn yo — karant-ak-senk, senk-dis pa ranje.",
+  "tokens": [
+    {
+      "surface": "וְסָפֻן",
+      "gloss": "e li kouvwi"
+    },
+    {
+      "surface": "בָּאֶרֶז",
+      "gloss": "ak sèd"
+    },
+    {
+      "surface": "מִמַּעַל",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הַצְּלָעֹת",
+      "gloss": "bò yo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הָעַמּוּדִים",
+      "gloss": "kolòn yo"
+    },
+    {
+      "surface": "אַרְבָּעִים",
+      "gloss": "karant"
+    },
+    {
+      "surface": "וַחֲמִשָּׁה",
+      "gloss": "ak senk"
+    },
+    {
+      "surface": "חֲמִשָּׁה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "עָשָׂר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הַטּוּר",
+      "gloss": "ranje a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:45.892581423Z",
+  "model": "glm-5.3"
+}

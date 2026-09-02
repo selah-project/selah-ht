@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Ak lajan ak lò ⟨yo⟩ bèlifye ⟨li⟩, ak klou ak mato ⟨yo⟩ ranfòse ⟨yo⟩, epi ⟨li⟩ pa ap bouje.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "ak lajan"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "epi ak lò"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "bèlifye"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "ak klou"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "epi ak mato"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "ranfòse"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "bouje"
+    }
+  ],
+  "timestamp": "2026-09-02T18:50:49.205613187Z",
+  "model": "glm-5.3"
+}

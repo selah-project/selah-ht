@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Men lè mouton yo te fèb, li pa t mete yo; e sa ki fèb yo te pou Lavan, e sa ki solid yo te pou Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Men lè te fèb"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "mete"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e te vin fèt"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "sa ki fèb yo"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "pou Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "e sa ki solid yo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "pou Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T15:27:04.674264532Z",
+  "model": "glm-5.3"
+}

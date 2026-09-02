@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Epi l fè ⟨את⟩ baw santral la, pou l pase nan mitan palanch yo, soti nan yon bout rive nan lòt bout la.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baw santral la"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "baw la"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "santral la"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "pou l pase"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "palanch yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "yon bout"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "lòt bout la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:22.171878340Z",
+  "model": "glm-5.3"
+}

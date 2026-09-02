@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Mwen fatige ak soupirasyon mwen an; mwen fè dlo monte sou kabann mwen tout lannwit; mwen mouye divan mwen ak lè m ap plere.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Mwen fatige"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ak soupirasyon mwen an"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "mwen fè dlo monte sou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lannwit"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "kabann mwen"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "ak lè m ap plere"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "divan mwen"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "mwen mouye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:13.060625249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Sou Elohim, delivrans m ak glwa m; wòch fòs m, refij m, nan Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "delivrans m"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ak glwa m"
+    },
+    {
+      "surface": "צור",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "fòs m"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "refij m"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nan Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:42.104489428Z",
+  "model": "glm-5.3"
+}

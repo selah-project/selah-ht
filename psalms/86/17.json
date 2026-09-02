@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Fè yon siy pou byen avèk mwen, epi kè moun ki rayi mwen yo gade l epi yo wont, paske se ou, Yawe, ki ede m ak ki konsôle m.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fè"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "avèk mwen"
+    },
+    {
+      "surface": "אות",
+      "gloss": "yon siy"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "pou byen"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "epi kè … yo gade"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "moun ki rayi mwen yo"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "epi yo wont"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "ki ede m"
+    },
+    {
+      "surface": "וינחמתני",
+      "gloss": "ak ki konsôle m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:31.490785005Z",
+  "model": "glm-5.3"
+}

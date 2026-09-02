@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Ou gen wont, Tsidon, paske lanmè a pale — fòtès lanmè a — pou l di: Mwen pa t soufyans, mwen pa fè pitit, mwen pa elève jèn gason, mwen pa pote jèn fi wo.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "ou gen wont"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fòtès"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "mwen soufyans"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "mwen fè pitit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "mwen elève"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "mwen pote wo"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jèn fi"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:46.456165769Z",
+  "model": "glm-5.3"
+}

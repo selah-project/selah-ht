@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Wa a voye epi l delivre l; gouvènè pèp yo, epi l libere l.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "epi l delivre l"
+    },
+    {
+      "surface": "משל",
+      "gloss": "gouvènè"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "epi l libere l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:33.760241154Z",
+  "model": "glm-5.3"
+}

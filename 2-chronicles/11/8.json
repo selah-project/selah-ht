@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "ak ⟨את⟩ Gat, ak ⟨את⟩ Marecha, ak ⟨את⟩ Zif.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Marecha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Marecha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Zif"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    }
+  ],
+  "timestamp": "2026-09-02T21:26:55.417008484Z",
+  "model": "glm-5.3"
+}

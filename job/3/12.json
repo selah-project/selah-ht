@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Poukisa jenou yo vin devan m? E kisa tetin yo ye, pou m ap tete?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "vin devan m"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "jenou yo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "E kisa"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "tetin yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "m ap tete"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:07.688360950Z",
+  "model": "glm-5.3"
+}

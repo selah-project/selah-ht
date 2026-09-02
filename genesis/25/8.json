@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Èd, Avraham mouri nan yon byen vye granmoun, vye ak satitye, e yo reyini l ak pèp li.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "Èd"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "nan yon byen vye granmoun"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "byen"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vye"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ak satitye"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "e yo reyini l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "pèp li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:00.757465540Z",
+  "model": "glm-5.3"
+}

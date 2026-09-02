@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Nan tout tè a soti kòd li a, e nan bout monn lan, mo yo; pou solèy la ⟨li⟩ mete yon tant nan mitan yo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Nan tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kòd li a"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "e nan bout"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "monn lan"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "mo yo"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "pou solèy la"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "yon tant"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan mitan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:28.534918883Z",
+  "model": "glm-5.3"
+}

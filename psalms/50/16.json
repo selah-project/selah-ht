@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Epi pou mechàn an Elohim di: Kisa ⟨ou gen⟩ pou w konte lwa m yo, epi pou w pote alianse m la sou bouch ou?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Epi pou mechàn an"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou gen"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "pou w konte"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "lwa m yo"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "epi pou w pote"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alianse m la"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bouch ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:05.710619343Z",
+  "model": "glm-5.3"
+}

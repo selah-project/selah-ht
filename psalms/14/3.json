@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Tout ansanm vire lwen, tout ansanm vin korompi; pa gen moun ki fè byen, pa gen, pa menm yon sèl.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vire lwen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "vin korompi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:50.855633479Z",
+  "model": "glm-5.3"
+}

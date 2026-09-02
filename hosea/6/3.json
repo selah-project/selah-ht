@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Ann konnen, ann chache konnen Yawe; kòmansman bonjou a sèten kòm chak maten, epi l ap vini sou nou kòm lapli a, kòm dènye lapli sezon an ki douse tè a.",
+  "tokens": [
+    {
+      "surface": "וְנֵדְעָ֣ה",
+      "gloss": "Ann konnen"
+    },
+    {
+      "surface": "נִרְדְּפָ֗ה",
+      "gloss": "ann chache"
+    },
+    {
+      "surface": "לָדַ֨עַת֙",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כְּשַׁ֖חַר",
+      "gloss": "kòm chak maten"
+    },
+    {
+      "surface": "נָכ֣וֹן",
+      "gloss": "sèten"
+    },
+    {
+      "surface": "מֽוֹצָא֑וֹ",
+      "gloss": "kòmansman bonjou a"
+    },
+    {
+      "surface": "וְיָב֤וֹא",
+      "gloss": "epi l ap vini"
+    },
+    {
+      "surface": "כַגֶּ֨שֶׁם֙",
+      "gloss": "kòm lapli a"
+    },
+    {
+      "surface": "לָ֔נוּ",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "כְּמַלְק֖וֹשׁ",
+      "gloss": "kòm dènye lapli sezon an"
+    },
+    {
+      "surface": "י֥וֹרֶה",
+      "gloss": "ki douse"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:23:37.450056249Z",
+  "model": "glm-5.3"
+}

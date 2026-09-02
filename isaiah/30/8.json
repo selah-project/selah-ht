@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Kounye a, va, ekri li sou yon tablèt ⟨את⟩ yo, epi grave l nan yon liv, pou l ye pou jou dènye a, pou tout tan, jouk nan tan ki pa gen fen.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Kounye a"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "va"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "ekri li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tablèt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "epi sou"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "liv"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "grave l"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "pou l ye"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pou jou"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "dènye a"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tan ki pa gen fen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:33:10.259618417Z",
+  "model": "glm-5.3"
+}

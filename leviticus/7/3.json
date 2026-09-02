@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E ⟨את⟩ tout grès li yo ap pote pre soti nan li: ⟨את⟩ ke grès la, ak ⟨את⟩ grès ki kouvri ⟨את⟩ vant an.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tout grès li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "grès li"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "pote pre"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "soti nan li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ke grès la"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ke grès la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "grès ki kouvri vant an"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grès"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ki kouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vant an"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "vant an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:07.674489464Z",
+  "model": "glm-5.3"
+}

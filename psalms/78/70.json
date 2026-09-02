@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "E chwazi David, sèvitè l, e pran l soti nan kèral mouton yo.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "e chwazi"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sèvitè l"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "e pran l"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "soti nan kèral"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:23.974652715Z",
+  "model": "glm-5.3"
+}

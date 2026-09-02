@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Mir, aloe, ak kasya — tout rad ou yo; soti nan palè dan yo, kòd mizik yo fè ou kontan.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ak aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "rad ou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "palè"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kòd mizik"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "fè ou kontan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:39.104091304Z",
+  "model": "glm-5.3"
+}

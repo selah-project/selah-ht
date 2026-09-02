@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "⟨את⟩ otèl ofrann boule a, ak ⟨את⟩ griy kivè a li genyen, ⟨את⟩ bar li yo, ak ⟨את⟩ tout vase li yo, ⟨את⟩ basen an, ak ⟨את⟩ pye li.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otèl"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otèl"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrann boule a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "griy"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "griy"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kivè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li genyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bar li yo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bar li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vase li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basen an"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "basen an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pye li"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pye li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:59.667361169Z",
+  "model": "glm-5.3"
+}

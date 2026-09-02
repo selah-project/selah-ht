@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "⟨Li⟩ ki voye lòd ⟨li⟩ sou tè a; vi \\{t\\}, pawòl ⟨li⟩ kouri trè vit.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "ki voye"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "lòd li"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jis"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "trè vit"
+    },
+    {
+      "surface": "יירוץ",
+      "gloss": "kouri"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pawòl li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:40.278251335Z",
+  "model": "glm-5.3"
+}

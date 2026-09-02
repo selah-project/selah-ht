@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E nan branch Dan ⟨את⟩ Eltekeh ak ⟨את⟩ dejde l, ⟨את⟩ Givton ak ⟨את⟩ dejde l.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "e nan branch"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekeh"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dejde l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dejde l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Givton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dejde l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dejde l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:01.888037778Z",
+  "model": "glm-5.3"
+}

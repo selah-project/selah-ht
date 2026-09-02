@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "epi mwen menm mwen mennen ⟨את⟩ nou karentan lane nan dezè a; rad nou pa fin vye sou kò nou, e sandal ou pa fin vye sou pye ou.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "epi mwen mennen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "karentan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "fin vye"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "rad nou"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "sou kò nou"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "e sandal ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "fin vye"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "pye ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:41.336742972Z",
+  "model": "glm-5.3"
+}

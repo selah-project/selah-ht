@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Yawe se pòsyon eritaj m ak (kòb) vè m — se ou menm ki kenbe sò mwen an.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pòsyon"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "eritaj m"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ak (kòb) vè m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou menm"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ki kenbe"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "sò mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T22:24:42.800507333Z",
+  "model": "glm-5.3"
+}

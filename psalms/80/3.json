@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Devan Efrayim, Binyamin ak Menache, reyeve ⟨את⟩ fòs ou, epi vini pou sove nou.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Devan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ak Menache"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "reyeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fòs ou"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "fòs ou"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "epi vini"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "pou sove"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:17.381790382Z",
+  "model": "glm-5.3"
+}

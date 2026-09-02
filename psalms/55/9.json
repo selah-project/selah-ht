@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Mwen t ap prese yon fwaye pou mwen, sot nan yon van ki soufle di, sot nan yon tanpèt.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "mwen t ap prese"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "yon fwaye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "sot nan yon van"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ki soufle di"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "sot nan yon tanpèt"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:59.018223277Z",
+  "model": "glm-5.3"
+}

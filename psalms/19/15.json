@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Ke pawòl bouch m ak meditasyon kè m vin plezi devan ou, Yawe, wòch m ak delivran m.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ke ... vin"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "plezi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch m"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "ak meditasyon"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "wòch m"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "ak delivran m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:19.572252851Z",
+  "model": "glm-5.3"
+}

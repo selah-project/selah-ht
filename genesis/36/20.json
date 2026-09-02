@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Se pitit Seir ⟨ki se⟩ Horyen an, moun ki te rete ⟨nan⟩ tè a: Lotàn, Choval, Tsibòn, e Ana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horyen an"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun ki te rete"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotàn"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "Choval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "Tsibòn"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "e Ana"
+    }
+  ],
+  "timestamp": "2026-09-02T15:30:06.369928932Z",
+  "model": "glm-5.3"
+}

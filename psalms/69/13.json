@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Moun k ap chita nan pòt la ap pale sou m, e moun k ap bwè bwason fò chante neguinot [sou m].",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "ap pale sou"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sou m"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun k ap chita"
+    },
+    {
+      "surface": "שער",
+      "gloss": "nan pòt la"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "e neguinot"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "moun k ap bwè"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "bwason fò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:00.267152594Z",
+  "model": "glm-5.3"
+}

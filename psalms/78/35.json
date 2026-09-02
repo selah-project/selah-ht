@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Epi yo sonje ke Elohim ⟨se⟩ wòch yo, ak El Elyòn (Bondye ki pi wo a) ⟨se⟩ sa k delivre yo.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "epi yo sonje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "wòch yo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ki delivre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:11.421269581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Ale nan kay Rechabit yo, pale ak ⟨את⟩ yo, epi pote ⟨את⟩ yo nan kay Yawe, nan youn nan chanm yo, epi fè ⟨את⟩ yo bwè ven.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Rechabit yo"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "epi pale"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ak ⟨את⟩ yo",
+      "marks": "Rechabit yo"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "epi pote yo",
+      "marks": "Rechabit yo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "youn nan"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "chanm yo"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "epi fè bwè"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (Rechabit yo)"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ven"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.585172927Z",
+  "model": "glm-5.3"
+}

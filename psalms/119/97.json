@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Ki jan mwen renmen tora ou a! Tout jou a, se li meditasyon mwen.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ki jan"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mwen renmen"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tora ou a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "meditasyon mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:56.858026581Z",
+  "model": "glm-5.3"
+}

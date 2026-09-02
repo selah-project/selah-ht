@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Pa gen sonb nan cha m ⟨paske⟩ jeunea ou, pa gen lapè nan zo m ⟨paske⟩ peche m.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sonb"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "nan cha m"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨paske⟩ jeunea"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "nan zo m"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨paske⟩ peche"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:10.795344647Z",
+  "model": "glm-5.3"
+}

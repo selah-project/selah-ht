@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Nan nevyèm lane Hochea, wa Achkour a kaptire ⟨את⟩ Chomeron, e li depòte ⟨את⟩ Yisrayèl ⟨nan⟩ Achkour, e li fè ⟨את⟩ yo rete nan Halah e nan Havour, rivyè Gozan, e nan vil yo nan Maday.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Nan lane"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "nevyèm"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hochea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "kaptire"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achkour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chomeron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "depòte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Achkour"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "fè rete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (Yisrayèl la)"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "nan Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "e nan Havour"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rivyè"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "e vil yo"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maday"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:28.589595308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Nan Yawe nanm m ap glorifye ⟨tèt li⟩; moun ki gen kè koube yo ap tande e yo ap kontante.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Nan Yawe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ap glorifye tèt li"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ap tande"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "moun ki gen kè koube yo"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "e yo ap kontante"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:47.149607359Z",
+  "model": "glm-5.3"
+}

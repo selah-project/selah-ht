@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Li touye bèt li te touye a, li melanje diven l, menm li prepare tab li.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "touye"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "bèt li te touye a"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "melanje"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "diven l"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "tab li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:45.111812708Z",
+  "model": "glm-5.3"
+}

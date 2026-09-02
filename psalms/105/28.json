@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li voye fenwa, e li fè tout nwa — e yo pa rebèl ⟨sou⟩ ⟨את⟩ pawòl li.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fenwa"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "e li fè nwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e … pa"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "rebèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl li"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "pawòl li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:50.292501627Z",
+  "model": "glm-5.3"
+}

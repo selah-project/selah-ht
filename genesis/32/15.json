@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "kabrit femèl de san, ak bouk vandin, kòt mouton femèl de san, ak belè kòt",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "kabrit femèl"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "de san"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "ak bouk vandin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kòt"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "mouton femèl"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "de san"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "ak belè"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kòt"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:01.634197996Z",
+  "model": "glm-5.3"
+}

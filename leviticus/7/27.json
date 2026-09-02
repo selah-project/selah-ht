@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Tout nanm ki manje nenpòt ki san, se nanm sa a ⟨yo⟩ ap koupe soti nan pami pèp li a.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nanm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt ki"
+    },
+    {
+      "surface": "דם",
+      "gloss": "san"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ap koupe"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nanm la"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "soti nan pami pèp li a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:36.353538991Z",
+  "model": "glm-5.3"
+}

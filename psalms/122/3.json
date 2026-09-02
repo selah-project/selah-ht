@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 122,
+  "translation": "Yerouchalayim, ⟨ki⟩ bati kòm yon vil ki mare ansanm pou li ansanm.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "kòm yon vil"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "ki mare ansanm"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:38.801868557Z",
+  "model": "glm-5.3"
+}

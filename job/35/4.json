@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Mwen ap reponn ou ak mo, e ⟨את⟩ zanmi w yo ansanm ak ou.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ap reponn ou"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ak mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "zanmi w yo"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "zanmi w yo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ansanm ak ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:41:40.471039980Z",
+  "model": "glm-5.3"
+}

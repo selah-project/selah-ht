@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Pitit Elpaal yo se Eved, ak Micham, ak Chamed — li menm ki bati ⟨את⟩ Ono ak ⟨את⟩ Lod ak ti vil ki bò kote l yo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eved"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Micham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Chamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ti vil ki bò kote l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:35.509500439Z",
+  "model": "glm-5.3"
+}

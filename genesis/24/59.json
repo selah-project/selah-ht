@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi yo voye ⟨את⟩ Rivka, sè yo, ale, ak ⟨את⟩ noris li, ak ⟨את⟩ sèvitè Avraham, ak ⟨את⟩ gason li yo.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "yo voye... ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "sè yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "noris li"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "noris li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sèvitè Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "gason li yo"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "gason li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:22:44.569030010Z",
+  "model": "glm-5.3"
+}

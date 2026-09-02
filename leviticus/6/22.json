@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Tout gason ki annan prèt yo ap manje ⟨את⟩ li; li ⟨se⟩ sen nan pi sen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ki annan prèt yo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (ofrann nan)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nan pi sen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:04:50.074672239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Jou a bay jou a fè pawòl jewen, e lannwit la bay lannwit la montre konesans.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bay jou a"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "fè jewen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e lannwit la"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "bay lannwit la"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "montre"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konesans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:18.010524527Z",
+  "model": "glm-5.3"
+}

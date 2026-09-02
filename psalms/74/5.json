@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Yo vin konnen tankou moun ki pote anlè — nan bwa epè yo — aks yo.",
+  "tokens": [
+    {
+      "surface": "יִ֭וָּדַע",
+      "gloss": "yo vin konnen"
+    },
+    {
+      "surface": "כְּמֵבִ֣יא",
+      "gloss": "tankou moun ki pote"
+    },
+    {
+      "surface": "לְמָ֑עְלָה",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "בִּֽסֲבָךְ",
+      "gloss": "nan bwa epè yo"
+    },
+    {
+      "surface": "עֵ֝֗ץ",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "קַרְדֻּמּֽוֹת",
+      "gloss": "aks yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:22.469346992Z",
+  "model": "glm-5.3"
+}

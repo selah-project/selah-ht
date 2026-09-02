@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "E yo, yo chèche nanm mwen pou dechwìt li — yo prale nan fon tè a.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "E yo, yo"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "pou dechwìt li"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "yo prale"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "nan fon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:09.199178332Z",
+  "model": "glm-5.3"
+}

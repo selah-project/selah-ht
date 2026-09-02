@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Lev ou tankou yon fil rouj, e pawòl ou bèl; kote zòrèy ou tankou yon moso grenad dèyè voal ⟨ou⟩ an.",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "tankou fil"
+    },
+    {
+      "surface": "השני",
+      "gloss": "rouj"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "lev ou"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "e pawòl ou"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "tankou moso"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "grenad"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "kote zòrèy ou"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "voal ou an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:45:25.264703870Z",
+  "model": "glm-5.3"
+}

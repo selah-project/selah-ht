@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Asè pou nou fè toutou ⟨את⟩ mòn sa a; vire pou nou ale bò nor.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Asè"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "סב",
+      "gloss": "fè toutou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mòn sa a"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "vire"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "bò nor"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:44.800466993Z",
+  "model": "glm-5.3"
+}

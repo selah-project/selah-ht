@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E ou pou w kole ⟨את⟩ chenk twal yo pou kont yo, e ⟨את⟩ sis twal yo pou kont yo; e ou pou w doub ⟨את⟩ twal la, sizyèm la, nan direksyon fas tant la.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "e kole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chenk twal yo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "chenk"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "twal yo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "pou kont yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sis twal yo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sis"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "twal yo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "pou kont yo"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "e fè doub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twal la"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "twal la"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "sizyèm la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "מול",
+      "gloss": "an fas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tant la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:54.007287795Z",
+  "model": "glm-5.3"
+}

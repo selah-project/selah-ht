@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Koute m, Yaakov, epi Yisrael, moun m rele ⟨yo⟩: se m menm ⟨ki la⟩; m ⟨se⟩ premye a, menm m tou, dènye a.",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "m"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וְיִשְׂרָאֵל",
+      "gloss": "epi Yisrael"
+    },
+    {
+      "surface": "מְקֹרָאִי",
+      "gloss": "moun m rele"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "m"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "menm ⟨ki la⟩"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "m"
+    },
+    {
+      "surface": "רִאשׁוֹן",
+      "gloss": "premye a"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "menm m tou"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אַחֲרוֹן",
+      "gloss": "dènye a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:49.100329621Z",
+  "model": "glm-5.3"
+}

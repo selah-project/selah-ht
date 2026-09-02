@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Se pou pye ⟨ou⟩ ka plonje nan san, pou lang chyen ⟨ou⟩ yo jwenn pòsyon an nan san enmi yo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "se pou"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "ka kraze"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "pye ou"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nan san"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lang"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "chyen ou yo"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "depi enmi"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "pòsyon nan li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:28.141518292Z",
+  "model": "glm-5.3"
+}

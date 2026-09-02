@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi ⟨את⟩ grès ofann fòt la ap fimen sou lotèl la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "grès"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "grès"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofann fòt la"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "fimen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sou lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:15.978120500Z",
+  "model": "glm-5.3"
+}

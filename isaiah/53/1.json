@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Ki moun ki te kwè sa nou te tande a? Bra Yawe a, sou ki moun li te parèt?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "te kwè"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "sa nou te tande a"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ak bra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "te parèt"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:04.178315726Z",
+  "model": "glm-5.3"
+}

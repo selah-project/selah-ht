@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Wa David konsakre ⟨את⟩ yo tou pou Yawe, ansanm ak ajan an ak lò a li te pran nan tout nasyon yo — nan Edom, nan Moav, nan pitit Amòn yo, nan Filistin yo, ak nan Amalek.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (vasèl yo)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ajan an"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ak lò a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "te pran"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "nan Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "nan Moav"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "nan pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amòn yo"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "nan Filistin yo"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "nan Amalek"
+    }
+  ],
+  "timestamp": "2026-09-02T21:20:29.868461098Z",
+  "model": "glm-5.3"
+}

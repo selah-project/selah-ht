@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Pou tout limite mwen fin wè bout, men kòmandman ou an laj anpil — anpil anpil.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Pou tout"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "limite"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mwen fin wè"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "bout"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "laj"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "kòmandman ou an"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:40.090348301Z",
+  "model": "glm-5.3"
+}

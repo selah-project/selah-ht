@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Se ⟨li⟩ Yawe, Elohim nou an; jijman ⟨li yo⟩ nan tout tè a.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "jijman li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:16.903565859Z",
+  "model": "glm-5.3"
+}

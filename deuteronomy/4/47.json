@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E yo pran posesyon ⟨את⟩ tè li a, ak ⟨את⟩ tè Og wa Bachan an — de wa Emori yo, yo te lòt bò Yarden an, bò kote solèy leve a.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "e yo pran posesyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè li a"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tè li a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè Og"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bachan an"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "lòt bò"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "bò kote solèy leve"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solèy"
+    }
+  ],
+  "timestamp": "2026-09-02T16:44:27.361799614Z",
+  "model": "glm-5.3"
+}

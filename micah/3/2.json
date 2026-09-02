@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Ki rayi byen e ki renmen mal; ki vole po yo sou yo, ak chè yo sou zo yo.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "ki rayi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "e ki renmen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "ki vole"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "po yo"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "ak chè yo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "zo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:41:08.276287443Z",
+  "model": "glm-5.3"
+}

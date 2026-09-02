@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi moun ki tann ⟨tann⟩ Yawe ap renouvle fòs; yo ap monte zèl ⟨zèl yo⟩ koum figidan yo; yo ap kouri epi pa ap lanse; yo ap mache epi pa ap fatigue.",
+  "tokens": [
+    {
+      "surface": "וְקוֹיֵ",
+      "gloss": "epi moun ki tann"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יַחֲלִיפוּ",
+      "gloss": "ap renouvle"
+    },
+    {
+      "surface": "כֹּחַ",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "יַעֲלוּ",
+      "gloss": "ap monte"
+    },
+    {
+      "surface": "אֵבֶר",
+      "gloss": "zèl"
+    },
+    {
+      "surface": "כַּנְּשָׁרִים",
+      "gloss": "koum figidan yo"
+    },
+    {
+      "surface": "יָרוּצוּ",
+      "gloss": "ap kouri"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יִיגָעוּ",
+      "gloss": "ap lanse"
+    },
+    {
+      "surface": "יֵלְכוּ",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יִיעָפוּ",
+      "gloss": "ap fatigue"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:16.917776062Z",
+  "model": "glm-5.3"
+}

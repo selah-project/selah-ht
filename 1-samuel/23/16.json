@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi Yonatan, pitit Chaoul, kanpe, epi l ale jwenn David nan forè a, epi li ren fò ⟨את⟩ men l nan Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "forè a"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ren fò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nan Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:20.432378767Z",
+  "model": "glm-5.3"
+}

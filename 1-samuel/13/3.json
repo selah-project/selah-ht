@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E Yonatan frape ⟨את⟩ pòs Filistin yo ki nan Geva; e Filistin yo tande ⟨sa⟩; e Chaoul soufle nan choufar nan tout peyi a, pou di: Ebre yo, tande!",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "e li frape"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pòs Filistin yo"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "pòs"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "nan Geva"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "e yo tande"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "e Chaoul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "soufle"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "nan choufar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ebre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:44.794490162Z",
+  "model": "glm-5.3"
+}

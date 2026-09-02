@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Lè ou travay ⟨את⟩ tè a, li pa ap bay fòs li ban ou ankò; ou ap vage epi deplase san rete sou tè a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "travay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "תת",
+      "gloss": "bay"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "fòs li"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ban ou"
+    },
+    {
+      "surface": "נע",
+      "gloss": "vage"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "epi deplase san rete"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:17.454714083Z",
+  "model": "glm-5.3"
+}

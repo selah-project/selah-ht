@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Èske El ap pèvèti jijman, oubyen Èske Chadday ap pèvèti jistis?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Èske El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ap pèvèti"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oubliyen Èske"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ap pèvèti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:02.012875795Z",
+  "model": "glm-5.3"
+}

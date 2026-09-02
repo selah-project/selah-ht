@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 61,
+  "translation": "Pou chèf mizisyen an, sou mizik kòd — yon chante David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "mizik kòd"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yon chante David"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:44.331764734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "E pitit etranje yo ap bati mi ou yo, e wa yo ap sèvi ou: paske nan kòlè m m te frape ou, men nan volonte m m te gen pitye sou ou.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "e ⟨yo⟩ ap bati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "mi ou yo"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "ak wa yo"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ap sèvi ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "nan kòlè m"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "m te frape ou"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "men nan volonte m"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "m te gen pitye sou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:59.579802364Z",
+  "model": "glm-5.3"
+}

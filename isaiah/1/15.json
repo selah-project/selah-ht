@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lè nou lonje men nou, mwen kache je mwen sou ⟨kont⟩ nou; menm lè nou plime lapriyè, mwen pa koute — men nou plen san.",
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "lè nou lonje"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "mwen kache"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je mwen"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sou kont nou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "nou plime"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lapriyè"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "mwen pa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "plen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:40.473855011Z",
+  "model": "glm-5.3"
+}

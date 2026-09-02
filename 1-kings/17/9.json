@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Leve, ale nan Tsarefat, ki pou Tsidon, epi rete ⟨la a⟩: gade, mwen kòmande ⟨la a⟩ yon fanm vèv pou nouri ou.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "nan Tsarefat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "pou Tsidon"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "epi ou rete"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mwen kòmande"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yon fanm"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vèv"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "pou nouri ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:04.866498670Z",
+  "model": "glm-5.3"
+}

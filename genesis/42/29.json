@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 42:29",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Yo rive kotr Yaakov, papa yo, nan peyi Kenaàn, epi yo rakonte l ⟨את⟩ tout sa ki rive ⟨את⟩ yo, pou yo di:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "yo rive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kotr"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "yo rakonte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa ki rive nou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הקרת",
+      "gloss": "sa ki rive"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:30.437519645Z",
+  "model": "glm-5.3"
+}

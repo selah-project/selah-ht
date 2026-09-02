@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Pa manje anyen ki degostan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anyen"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ki degostan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:47:54.454591536Z",
+  "model": "glm-5.3"
+}

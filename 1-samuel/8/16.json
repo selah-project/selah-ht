@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi ⟨את⟩ sèvitè gason yo, ⟨את⟩ sèvitè fi yo, ⟨את⟩ jèn gason yo — bon yo — ak ⟨את⟩ bourikèt yo ap pran, epi l ap fè yo travay pou travay li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "sèvitè gason yo"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "sèvitè gason yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sèvitè fi yo"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "sèvitè fi yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jèn gason yo"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "jèn gason yo"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "bon yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bourikèt yo"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "bourikèt yo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ap pran"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "epi l ap fè"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "pou travay li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:24.050872597Z",
+  "model": "glm-5.3"
+}

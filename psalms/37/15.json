@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epe yo ap antre nan pwòp kè yo, ak yo (zo pou tire flèch) ap kase.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "epe yo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ap antre"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "nan kè yo"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ap kase"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:32.510633446Z",
+  "model": "glm-5.3"
+}

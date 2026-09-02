@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Yawe bon pou tout moun, ak pitie l ap repoze sou tout zèv li yo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout moun"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ak pitie l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zèv li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:15.309813214Z",
+  "model": "glm-5.3"
+}

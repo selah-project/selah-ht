@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E li di: Maledi Kenaàn — sèvitè nan sèvitè yo l ap ye pou frè l yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "maledi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sèvitè yo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "l ap ye"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "pou frè l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:46.842335616Z",
+  "model": "glm-5.3"
+}

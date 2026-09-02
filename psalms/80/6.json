@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Ou fè yo manje pen de lamè, epi ou fè yo bwè lamè an twa fwa.",
+  "tokens": [
+    {
+      "surface": "הֶ֭אֱכַלְתָּם",
+      "gloss": "ou fè yo manje"
+    },
+    {
+      "surface": "לֶ֣חֶם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "דִּמְעָ֑ה",
+      "gloss": "de lamè"
+    },
+    {
+      "surface": "וַ֝תַּשְׁקֵ֗מוֹ",
+      "gloss": "epi ou fè yo bwè"
+    },
+    {
+      "surface": "בִּדְמָע֥וֹת",
+      "gloss": "ak lamè"
+    },
+    {
+      "surface": "שָׁלִֽישׁ",
+      "gloss": "an twa fwa"
+    }
+  ],
+  "timestamp": "2026-09-02T22:34:00.886666289Z",
+  "model": "glm-5.3"
+}

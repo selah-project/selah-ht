@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Yo tounen lè leswa soti; yo fè brui tankou chen, epi yo ap toulede toutou lavil la.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "yo tounen"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "lè leswa soti"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "yo fè brui"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "tankou chen"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "epi yo ap toulede toutou"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lavil la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:51.285774134Z",
+  "model": "glm-5.3"
+}

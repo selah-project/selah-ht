@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "E Yawe di ak Yaakov: Retounen nan peyi papa zansèt ou yo ak nan kote ou fèt, e m ap avèk ou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Retounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "papa zansèt ou yo"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ak nan kote ou fèt"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "e m ap"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:28.641733317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Chaoul, yo, ak tout moun Yisrael te nan vale Ela, ap goumen ak Filistin yo.",
+  "tokens": [
+    {
+      "surface": "וְשָׁאוּל",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "וְהֵמָּה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "moun"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בְּעֵמֶק",
+      "gloss": "nan vale"
+    },
+    {
+      "surface": "הָאֵלָה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "נִלְחָמִים",
+      "gloss": "ap goumen"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "פְּלִשְׁתִּים",
+      "gloss": "Filistin yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:32:19.952931669Z",
+  "model": "glm-5.3"
+}

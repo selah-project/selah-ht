@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Lè kàn an ap soti kont enmi ou yo, ou ap gade tèt ou pou ou pa fè nenpòt ki afè movan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ap soti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kàn an"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "enmi ou yo"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "ou ap gade tèt ou"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "afè"
+    },
+    {
+      "surface": "רע",
+      "gloss": "movan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:49.391987301Z",
+  "model": "glm-5.3"
+}

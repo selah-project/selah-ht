@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen konnen, Yawe, jijman ou yo ⟨se⟩ jistis, e se nan bon fidelite ou aflige m.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "mwen konnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jijman ou yo"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "e nan bon fidelite"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "ou aflige m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:56.356444893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Ou prepare yon tab devan m, anfas enmi m yo; ou sèvi lwil sou tèt m; kwi m ap debòde ⟨plin⟩.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Ou prepare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan m"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "yon tab"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "anfas"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "ou sèvi lwil"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt m"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kwi m"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "ap debòde"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:46.208711709Z",
+  "model": "glm-5.3"
+}

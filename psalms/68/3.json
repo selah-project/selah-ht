@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Menm jan yo chase foume, se konsa chase yo; menm jan silann fènen devan dife, se konsa mechèt yo vin nil depi devan Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Menm jan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "foume"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "chase"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "menm jan"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "silann"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vin nil"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechèt yo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:34.902009203Z",
+  "model": "glm-5.3"
+}

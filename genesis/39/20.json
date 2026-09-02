@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Epi mèt Yosef pran ⟨את⟩ l, epi li mete l nan kay prizon nan, kote ki prizonye wa a kenbe; epi l te la, nan kay prizon nan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "li pran"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mèt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "li mete l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "prizon nan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "prizonye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "epi l te"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "prizon nan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:49.880394996Z",
+  "model": "glm-5.3"
+}

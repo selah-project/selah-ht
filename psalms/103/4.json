@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Li delivre lavi ou soti nan toutoutou — nan gòpj la, li mete kouwòn sou tèt ou ak hesed (lanmou leal) ak pitié.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Li delivre"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "soti nan toutoutou"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "lavi ou"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "li mete kouwòn sou tèt ou"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "ak pitié"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:10.237482506Z",
+  "model": "glm-5.3"
+}

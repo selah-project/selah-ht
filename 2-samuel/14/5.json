@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi wa a di li : Kisa ou genyen ? Epi li di : Wi, m se yon fanm vèv, epi mari m mouri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi… di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou genyen"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Epi… di"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Wi, se vre"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vèv"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mari m"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:52.912533869Z",
+  "model": "glm-5.3"
+}

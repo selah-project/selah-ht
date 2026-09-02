@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Mwen fatigue nan kri m, gòj m ap boule, je m fini, pandan m ap tann Elohim m.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Mwen fatigue"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "nan kri m"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ap boule"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "gòj m"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fini"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "pandan m ap tann"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:16.518483602Z",
+  "model": "glm-5.3"
+}

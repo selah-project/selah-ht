@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Epi moun jis yo ap gade, epi yo ap pè, epi yo ap ri sou li.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "epi … ap gade"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "epi yo ap pè"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "yo ap ri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:30.497620344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Paske panse m yo pa ⟨se⟩ panse nou yo, e wout nou yo pa ⟨se⟩ wout m yo, deklarasyon Yawe a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "panse m yo"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "panse nou yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "wout nou yo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "wout m yo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklarasyon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:40:36.629290836Z",
+  "model": "glm-5.3"
+}

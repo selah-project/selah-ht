@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Yawe, banen syèl ou yo vin desi, manyen mòn yo epi yo ap fimen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "banen vin desi"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "syèl ou yo"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "epi (ou) desi"
+    },
+    {
+      "surface": "גע",
+      "gloss": "manyen"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "epi yo ap fimen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:15.438482321Z",
+  "model": "glm-5.3"
+}

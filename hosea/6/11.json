@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 6:11",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Menm ou, Yehouda, ⟨y ap mete⟩ yon rekòt pou ⟨ou⟩, lè m ap fè tounen prizonye ⟨yo⟩ pèp mwen an.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ou, Yehouda"
+    },
+    {
+      "surface": "שת",
+      "gloss": "elanje"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "yon rekòt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "lè m ap fè tounen"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "prizonye yo \/ kondisyon anvan an"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:31:39.078488153Z",
+  "model": "glm-5.3"
+}

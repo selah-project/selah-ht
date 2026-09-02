@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "⟨Se⟩ yon chabat repo pou nou, epi n ap aflije ⟨את⟩ kè nou; nevyèm jou mwa a, aswè a, soti aswè rive aswè, n ap obsève chabat nou an.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "chabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "repo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Se⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "epi n ap aflije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè nou"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "kè nou"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "nevyèm jou"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mwa a"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "aswè a"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "soti aswè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "rive"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aswè"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "n ap obsève"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "chabat nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:16:52.417149131Z",
+  "model": "glm-5.3"
+}

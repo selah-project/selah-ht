@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E lè li pa t kapab kache l ankò, li pran pou li yon kaz papiro, e li pasye l ak lasaj ak goudwon; e li mete ⟨את⟩ timoun nan nan ladan l, e li mete l nan rouch yo, sou kenbe larivyè a.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "kache l"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "yon kaz"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "papiro"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "pasye l"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "ak lasaj"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "ak goudwon"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan ladan l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timoun nan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "mete l"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "nan rouch yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "larivyè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:45.880575175Z",
+  "model": "glm-5.3"
+}

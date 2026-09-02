@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Epi mwen te beyè, mwen pa t konnen; mwen te yon bèt ⟨a⟩ avèk ou.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Epi mwen"
+    },
+    {
+      "surface": "בער",
+      "gloss": "te beyè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa t"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "yon bèt"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mwen te"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:27.814089915Z",
+  "model": "glm-5.3"
+}

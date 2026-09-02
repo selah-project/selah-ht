@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi Yaakov mache nan wout l, epi mesaje Elohim rankontre l.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "nan wout l"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "rankontre"
+    },
+    {
+      "surface": "בו",
+      "gloss": "l"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "mesaje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:37.413519765Z",
+  "model": "glm-5.3"
+}

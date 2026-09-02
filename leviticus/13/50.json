@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Kohen an ap gade ⟨את⟩ mak la, epi l ap fèmen ⟨את⟩ mak la pou sèt jou.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mak la"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "mak la"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "epi l ap fèmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mak la"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "mak la"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:33.212380555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Sa ki rete nan vyann la ak nan pen la, nan dife nou boule l.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "sa ki rete"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "nan vyann la"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ak nan pen la"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "boule"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:20.635558530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E Yawe beni ⟨את⟩ met mwen an anpil, e li vin gran; e li bay li mouton ak bèf, ajan ak lò, sèvant gason ak sèvant fi, chamo ak bourik.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "E Yawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "met mwen an"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "met mwen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "e li vin gran"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e li bay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ak bèf"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ak ajan"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ak lò"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "ak sèvant gason"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ak sèvant fi"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ak chamo"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ak bourik"
+    }
+  ],
+  "timestamp": "2026-09-02T15:22:31.505850437Z",
+  "model": "glm-5.3"
+}

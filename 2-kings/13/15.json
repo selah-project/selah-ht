@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E Elicha di l: Pran yon ak ak flèch. E l pran ⟨pran⟩ pou l yon ak ak flèch.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yon ak"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ak flèch"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e l pran"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pou l"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yon ak"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ak flèch"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:17.986378511Z",
+  "model": "glm-5.3"
+}

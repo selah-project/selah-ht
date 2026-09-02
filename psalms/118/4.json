@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Ke moun ki gen krentif pou Yawe di tanmen: 'Pou tout tan hesed li.'",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanmen"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "moun ki gen krentif pou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨paske⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:48.509055114Z",
+  "model": "glm-5.3"
+}

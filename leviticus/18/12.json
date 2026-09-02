@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Erva sè papa ou — ou pa gen pou dekouvri l; se che papa ou li ye.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Erva"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sè"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "dekouvri"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa ou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:57.125001043Z",
+  "model": "glm-5.3"
+}

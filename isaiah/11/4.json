@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 11:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E l ap jije pòv yo nan jitis, e l ap deside ak ekite pou moun ki gen kè konfòme yo sou tè a; ak baton bouch li l ap frape tè a, ak souf lèv li ap touye mechan nan.",
+  "tokens": [
+    {
+      "surface": "ושפט",
+      "gloss": "e l ap jije"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nan jitis"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "pòv yo"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "e l ap deside"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "ak ekite"
+    },
+    {
+      "surface": "לענוי",
+      "gloss": "pou moun ki gen kè konfòme yo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "e l ap frape"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a",
+      "marks": "tè a"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ak baton"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ak souf"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "lèv li"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "ap touye"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechan nan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:37.305776002Z",
+  "model": "fable-5-hand"
+}

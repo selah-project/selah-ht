@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Gade, jou yo ap vini, e m ap koupe ⟨את⟩ bra w ak ⟨את⟩ bra kay papa w, pou pa gen vyèy moun nan kay w.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "e m ap koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bra w"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "bra w"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bra kay papa w"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "pou pa gen"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vyèy moun"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nan kay w"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:27.471872852Z",
+  "model": "glm-5.3"
+}

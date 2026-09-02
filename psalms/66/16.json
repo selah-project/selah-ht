@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Vini, koute, tout nou moun ki pè Elohim, e m ap rakonte sa li te fè pou nanm mwen.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "koute"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "e m ap rakonte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "moun ki pè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li te fè"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pou nanm mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:23.484771118Z",
+  "model": "glm-5.3"
+}

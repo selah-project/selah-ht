@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 82,
+  "translation": "Chante pou Asaf. Elohim kanpe nan asanble El; nan mitan dye yo ⟨li⟩ jije.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "לְאָסָף",
+      "gloss": "pou Asaf"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נִצָּב",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "בַּעֲדַת",
+      "gloss": "nan asanble"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בְּקֶרֶב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "dye yo"
+    },
+    {
+      "surface": "יִשְׁפֹּט",
+      "gloss": "jije"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:45.421470788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Mitsrayim fè ⟨את⟩ pitit Yisrayèl sèvi nan dizi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "fè sèvi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrayèl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "nan dizi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:26.699709248Z",
+  "model": "glm-5.3"
+}

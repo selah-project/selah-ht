@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Ou chita, ou pale kont frè ou, ou sou pitit manman ou ⟨ou⟩ mete akizasyon.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Ou chita"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "kont frè ou"
+    },
+    {
+      "surface": "טדבר",
+      "gloss": "ou pale"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "sou pitit"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "manman ou"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "akizasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:09.085200933Z",
+  "model": "glm-5.3"
+}

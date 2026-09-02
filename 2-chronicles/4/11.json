@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 4:11",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi Chouram fè ⟨את⟩ marmit yo ak ⟨את⟩ pèl yo ak ⟨את⟩ basen yo; e Chiram fin fè ⟨את⟩ travay la ke l fè pou wa Chelomo, nan kay HaElohim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Chouram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marmit yo"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "marmit yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèl yo"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "pèl yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "basen yo"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "basen yo"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "fin"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "travay la"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "travay la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:25:22.972169071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Gade, mwen ap voye yon mesaje devan ⟨ou⟩, pou kenbe ⟨ou⟩ nan wout la, e pou mennen ⟨ou⟩ nan kote a ⟨ke⟩ mwen prepare.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ap voye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "yon mesaje"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ⟨ou⟩"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "pou kenbe ⟨ou⟩"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout la"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "e pou mennen ⟨ou⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "mwen prepare"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:17.369436619Z",
+  "model": "glm-5.3"
+}

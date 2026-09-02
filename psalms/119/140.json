@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Purifye ⟨⟨את⟩⟩ pawòl ou an trè byen, ak esklav ou renmen l.",
+  "tokens": [
+    {
+      "surface": "צְרוּפָה",
+      "gloss": "purifye"
+    },
+    {
+      "surface": "אִמְרָתְךָ",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "trè byen"
+    },
+    {
+      "surface": "וְֽעַבְדְּךָ",
+      "gloss": "ak esklav ou"
+    },
+    {
+      "surface": "אֲהֵבָהּ",
+      "gloss": "renmen l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:17.240762699Z",
+  "model": "glm-5.3"
+}

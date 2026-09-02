@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Gade epi fè yo dapre modèl yo, menm sa w ap wè yo montre w sou mòn nan.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "dapre modèl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm sa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "w ap wè"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou mòn nan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:47.609768178Z",
+  "model": "glm-5.3"
+}

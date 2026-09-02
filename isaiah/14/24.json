@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Yawe Tsvaot jire, li di: se vre — jan m te imajinen l, konsa l ye; jan m te konsèyé l, se konsa l ap kanpe.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "jire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se vre —"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa gen doub"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "m te imajinen l"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "l ye"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "m te konsèyé l"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se konsa l"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ap kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:00.433920636Z",
+  "model": "glm-5.3"
+}

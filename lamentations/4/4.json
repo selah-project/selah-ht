@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Lang timoun ki ap tete a kole sou plè pa l ak swaf; ti timoun yo mande pen, e pa gen moun k ap pataje pou yo.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "kole"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lang"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "timoun ki ap tete a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "plè pa l"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ak swaf"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ti timoun yo"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "mande"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "pataje"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:48:36.261040006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 11:22",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E Rehavam met ⟨את⟩ Aviya, pitit Maakha, kòm tèt ⟨ak⟩ chèf paranmi frè l yo, paske ⟨l te⟩ vle fè l wa.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "met"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "kòm tèt"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "kòm chèf"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "paranmi frè l yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "fè l wa"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:09.092092814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Chante ⟨pou⟩ Yawe, moun k ap rete nan Tsiyòn, anonse zak ⟨li⟩ yo nan mitan pèp yo.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨pou⟩ Yawe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "k ap rete"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "nan mitan pèp yo"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "zak ⟨li⟩ yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:58.274411852Z",
+  "model": "glm-5.3"
+}

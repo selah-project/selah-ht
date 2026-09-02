@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Chante pou Yawe, paske li fè gwo bèl bagay; fè ⟨sa⟩ konnen nan tout tè a.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "gwo bèl bagay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:50.977205008Z",
+  "model": "glm-5.3"
+}

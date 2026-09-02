@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Elohim, yon chante nouvèl m ap chante pou ou, ak yon nèb dis kòd m ap jwe pou ou.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouvèl"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ap chante"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ak yon nèb"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dis kòd"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ap jwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:11.347337989Z",
+  "model": "glm-5.3"
+}

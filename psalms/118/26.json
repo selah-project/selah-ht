@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Beni ⟨se⟩ sa k ap vini nan non Yawe a; nou beni ⟨ou⟩ soti nan kay Yawe a.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "sa k ap vini"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "nou beni ou"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soti nan kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:54.367614998Z",
+  "model": "glm-5.3"
+}

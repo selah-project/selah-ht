@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Gwoufon ap rele gwoufon nan bri chanèl dlo ou yo; tout vag-kase ou yo ak lamè ou yo te pase sou m.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Gwoufon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "gwoufon"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ap rele"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "nan bri"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "chanèl dlo ou yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "vag-kase ou yo"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ak lamè ou yo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "te pase"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:00.742764993Z",
+  "model": "glm-5.3"
+}

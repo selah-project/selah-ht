@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Lè sa a dife Yawe a tonbe, e li devore ⟨את⟩ ofrann boule a, ak ⟨את⟩ bwa yo, e ⟨את⟩ wòch yo, e ⟨את⟩ pousyè a, e ⟨את⟩ dlo a ki nan chanèl la, li leche l monte.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "devore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann boule a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrann boule a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bwa yo"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "bwa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "wòch yo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "wòch yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pousyè a"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "pousyè a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dlo a"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "nan chanèl la"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "leche l monte"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:53.174991123Z",
+  "model": "glm-5.3"
+}

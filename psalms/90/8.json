@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Wou ⟨te⟩ mete fòt nou yo devan ⟨w⟩, sekrè nou yo ekleri nan limyè figè ⟨w⟩.",
+  "tokens": [
+    {
+      "surface": "שַׁתָּ",
+      "gloss": "⟨te⟩ mete"
+    },
+    {
+      "surface": "עֲוֺנֹתֵינוּ",
+      "gloss": "fòt nou yo"
+    },
+    {
+      "surface": "לְנֶגְדֶּךָ",
+      "gloss": "devan w"
+    },
+    {
+      "surface": "עֲלֻמֵנוּ",
+      "gloss": "sekrè nou yo"
+    },
+    {
+      "surface": "לִמְאוֹר",
+      "gloss": "nan limyè"
+    },
+    {
+      "surface": "פָּנֶיךָ",
+      "gloss": "figè w"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:09.114374168Z",
+  "model": "glm-5.3"
+}

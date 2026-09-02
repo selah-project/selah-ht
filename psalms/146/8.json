@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 146,
+  "translation": "Yawe louvri je avèg yo, Yawe redrese moun ki pliye, Yawe renmen moun ki jis.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פֹּ֘קֵ֤חַ",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "עִוְרִ֗ים",
+      "gloss": "avèg yo"
+    },
+    {
+      "surface": "יְהוָ֭ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זֹקֵ֣ף",
+      "gloss": "redrese"
+    },
+    {
+      "surface": "כְּפוּפִ֑ים",
+      "gloss": "moun ki pliye"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֹהֵ֥ב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "צַדִּיקִֽים",
+      "gloss": "moun ki jis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:43.635237455Z",
+  "model": "glm-5.3"
+}

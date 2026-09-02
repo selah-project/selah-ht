@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "E yo leve l wo nan asanble pèp la, e nan chèz ansyen yo yo fè lwanj l.",
+  "tokens": [
+    {
+      "surface": "וירוממוהו",
+      "gloss": "e yo leve l wo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nan asanble"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "e nan chèz"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ansyen yo"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "yo fè lwanj l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:16.420954433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Rin pouri nan mitan li, ak opresyon ak TWOU pa janm ale lwen lari li yo.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "rin pouri"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "nan mitan li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa janm"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ale lwen"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "lari li"
+    },
+    {
+      "surface": "תך",
+      "gloss": "opresyon"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ak TWOU"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:59.018941096Z",
+  "model": "glm-5.3"
+}

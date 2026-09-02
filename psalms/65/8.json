@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Li kalme bri lanmè yo, bri vag yo yo, ak tout kè sote pèp yo yo.",
+  "tokens": [
+    {
+      "surface": "מַשְׁבִּיחַ",
+      "gloss": "li kalme"
+    },
+    {
+      "surface": "שְׁאוֹן",
+      "gloss": "bri"
+    },
+    {
+      "surface": "יַמִּים",
+      "gloss": "lanmè yo"
+    },
+    {
+      "surface": "שְׁאוֹן",
+      "gloss": "bri"
+    },
+    {
+      "surface": "גַּלֵּיהֶם",
+      "gloss": "vag yo yo"
+    },
+    {
+      "surface": "וַהֲמוֹן",
+      "gloss": "ak tout kè sote"
+    },
+    {
+      "surface": "לְאֻמִּים",
+      "gloss": "pèp yo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:56.997388935Z",
+  "model": "glm-5.3"
+}

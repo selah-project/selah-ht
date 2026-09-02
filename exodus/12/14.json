@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E jou sa a ap pou nou kòm yon souvni, e n ap fè ⟨את⟩ li kòm yon fèt pou Yawe, nan jenerasyon nou yo — yon lwa pou tout tan, n ap fè l kòm fèt.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e ... ap"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "kòm yon souvni"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "e n ap fè ... kòm fèt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (jou a)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "yon fèt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "nan jenerasyon nou yo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "yon lwa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "n ap fè l kòm fèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:13.502752260Z",
+  "model": "glm-5.3"
+}

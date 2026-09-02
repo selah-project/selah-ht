@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Ròso kraze a li pa ap kase, ak fil len ki gen limen ba a li pa ap etenn; li ap pote jistis deyò nan verite.",
+  "tokens": [
+    {
+      "surface": "קָנֶה",
+      "gloss": "ròso"
+    },
+    {
+      "surface": "רָצוּץ",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יִשְׁבּוֹר",
+      "gloss": "ap kase"
+    },
+    {
+      "surface": "וּפִשְׁתָּה",
+      "gloss": "ak fil len"
+    },
+    {
+      "surface": "כֵהָה",
+      "gloss": "limen ba"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יְכַבֶּנָּה",
+      "gloss": "ap etenn"
+    },
+    {
+      "surface": "לֶאֱמֶת",
+      "gloss": "nan verite"
+    },
+    {
+      "surface": "יוֹצִיא",
+      "gloss": "pote deyò"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "jistis"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:45.395351876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Moun ki fè mwen jis la pre. Ki moun ki diskite ⟨את⟩ ak mwen? Annou kanpe ansanm. Ki moun ki gen yon pouswit kont mwen? Fòk li vini pre pou mwen.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "la pre"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "moun ki fè mwen jis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "diskite"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ak mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "annou kanpe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "moun ki gen yon pouswit kont"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "vini pre"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:33.603438354Z",
+  "model": "glm-5.3"
+}

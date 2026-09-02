@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Lyon vyè a pèdi san pwòp, e pitit lyonnan yo dispès.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "Lyon vyè a"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "san"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "pwòp"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "epi pitit"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "lyonnan"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "yo dispès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:55.514461582Z",
+  "model": "glm-5.3"
+}

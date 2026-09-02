@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 149,
+  "translation": "Kado yo ap sote lajwa nan glwa, yo ap chante byen fò sou kabann yo.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "ap sote lajwa"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "Kado yo"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "nan glwa"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ap chante byen fò"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "kabann yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:01.713972380Z",
+  "model": "glm-5.3"
+}

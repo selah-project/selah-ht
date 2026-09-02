@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Lè m tande ⟨את⟩ pawòl sa a, m chire ⟨את⟩ rad m ak manto m, m rache cheve tèt m ak bab m, e m chita apèbwi.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Lè m tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "m chire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad m"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "rad m"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "ak manto m"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "m rache"
+    },
+    {
+      "surface": "משער",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt m"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ak bab m"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "e m chita"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "apèbwi"
+    }
+  ],
+  "timestamp": "2026-09-02T21:06:49.579112073Z",
+  "model": "glm-5.3"
+}

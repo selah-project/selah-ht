@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi mwen reponn e mwen di bay malèt la ki te pale nan mwen an, pou m di: Kisa bagay sa yo ye, Adònay mwen an?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "mwen reponn"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malèt la"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ki te pale"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nan mwen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou m di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bagay sa yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    }
+  ],
+  "timestamp": "2026-09-02T19:47:05.900985434Z",
+  "model": "glm-5.3"
+}

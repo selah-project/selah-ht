@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E tout jou Noach yo te nèf san senkant an, epi li mouri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "epi senkant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "epi li mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:54.694277130Z",
+  "model": "glm-5.3"
+}

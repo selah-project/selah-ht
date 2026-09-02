@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi ou fè ⟨את⟩ bar yo an bwa shitim, epi ou kouvri ⟨את⟩ yo ak lò.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Epi ou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bar yo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bar yo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "an bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "epi ou kouvri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (bar yo)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ak lò"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:39.341726591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Pa yon sèl jou n ap manje l, ni de jou, ni senk jou, ni dis jou, ni ven jou —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yon jou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "n ap manje l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "de jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:28:13.658632524Z",
+  "model": "glm-5.3"
+}

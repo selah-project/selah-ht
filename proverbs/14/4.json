@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Lè pa gen bèf, kabann bèf la vid, men anpil rekòt vini ak fòs bèf la.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Lè pa gen"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "kabann bèf la"
+    },
+    {
+      "surface": "בר",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "men anpil"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "rekòt"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ak fòs"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:42.419716453Z",
+  "model": "glm-5.3"
+}

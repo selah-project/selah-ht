@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Sa rive nan twazyèm ane Hocha, pitit Elah, wa Izrayèl la: Khizkiya, pitit Ahaz, wa Yehouda la, vin wa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sa rive"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "nan ane"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "twazyèm"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hocha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vin wa"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T18:18:13.522960174Z",
+  "model": "glm-5.3"
+}

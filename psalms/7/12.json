@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Elohim se yon jij jis, ak yon El ki fache chak jou.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "jij"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "fache"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan chak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:09.677374740Z",
+  "model": "glm-5.3"
+}

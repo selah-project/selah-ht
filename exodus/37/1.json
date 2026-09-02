@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E Betsalel fè ⟨את⟩ Kòv la an bwa chitim: de kibit ak dimi longè li, yon kibit ak dimi lajè li, e yon kibit ak dimi wotè li.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kòv la"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kòv la"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "de kibit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak dimi"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "longè li"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yon kibit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak dimi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lajè li"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yon kibit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak dimi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "wotè li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:45.334080412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Yawe, kisa moun ye, pou ou konnen l? Pitit moun fatal ye, pou ou pran l nan kont?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "pou ou konnen l"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moun fatal"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "pou ou pran l nan kont"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:33.428521602Z",
+  "model": "glm-5.3"
+}

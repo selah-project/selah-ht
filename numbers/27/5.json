@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "E Moche prezante ⟨את⟩ kòz pitit fi yo devan Yawe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "prezante"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòz pitit fi yo"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "kòz pitit fi yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:36:05.197405756Z",
+  "model": "glm-5.3"
+}

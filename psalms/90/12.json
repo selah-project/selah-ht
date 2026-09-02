@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Ansèyne nou konte jou nou yo byen, pou nou ka pote yon kè sajès.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "pou konte"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "jou nou yo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "byen"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ansèyne nou"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "pou nou ka pote"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yon kè"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:13.220210413Z",
+  "model": "glm-5.3"
+}

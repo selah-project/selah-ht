@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Ak ⟨את⟩ tout vil yo nan kote ⟨yo te⟩ rete yo, ak ⟨את⟩ tout kan yo — yo boule yo ak dife.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout vil yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "nan kote yo rete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout kan yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kan yo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "boule"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ak dife"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:47.045195343Z",
+  "model": "glm-5.3"
+}

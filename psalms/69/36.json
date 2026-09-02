@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Paske Elohim delivre Tsiyòn, e li rebati vil Yehouda yo; yo pral rete la a, e yo pral eritye l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "e rebati"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e pral rete"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "e pral eritye l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:37.275297081Z",
+  "model": "glm-5.3"
+}

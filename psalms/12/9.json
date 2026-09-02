@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "De tout kote moun ki move yo ap mache alantou, lè se ki ba ki vin wo ⟨nan⟩ mitan pitit moun yo.",
+  "tokens": [
+    {
+      "surface": "סָבִ֗יב",
+      "gloss": "de tout kote"
+    },
+    {
+      "surface": "רְשָׁעִ֥ים",
+      "gloss": "moun ki move yo"
+    },
+    {
+      "surface": "יִתְהַלָּכ֑וּן",
+      "gloss": "ap mache alantou"
+    },
+    {
+      "surface": "כְּרֻ֥ם",
+      "gloss": "lè ki ba a vin wo"
+    },
+    {
+      "surface": "זֻ֝לּ֗וּת",
+      "gloss": "ki ba"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "nan mitan pitit"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "moun yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:48.826386081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi Pelichtim kanpe sou mòn nan sou bò sa a, epi Yisrael kanpe sou mòn nan sou lòt bò a, epi valè a ant yo.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Epi Pelichtim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn nan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bò sa a"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "epi Yisrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn nan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "lòt bò a"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "epi valè a"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "ant yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:32:23.643126976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E ou, ale jouk nan fen an, e w ap repoze, e w ap kanpe nan pòsyon ou nan fen jou yo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E ou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "jouk nan fen an"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "e w ap repoze"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "e w ap kanpe"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "nan pòsyon ou"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "nan fen"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "jou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:01:42.421264315Z",
+  "model": "glm-5.3"
+}

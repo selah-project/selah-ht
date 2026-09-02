@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E n ap fè yon bwat bwa chitim: de kibit ak yon dimi longè l, yon kibit ak yon dimi lajè l, yon kibit ak yon dimi wotè l.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "n ap fè"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "yon bwat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "de kibit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak yon dimi"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "longè l"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yon kibit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak yon dimi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lajè l"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yon kibit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak yon dimi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "wotè l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:01.479491156Z",
+  "model": "glm-5.3"
+}

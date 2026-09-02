@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi pou dezyèm kote tabènak la, pou kote nò a, vent planch.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Epi pou kote"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènak la"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "dezyèm"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pou kote"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nò"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vent"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "planch"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:33.407370346Z",
+  "model": "glm-5.3"
+}

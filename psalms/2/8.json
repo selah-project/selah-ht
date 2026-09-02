@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Mande m, e mwen ap ba ou nasyon yo kòm eritaj ou, e limit tè a kòm pwopriyete ou.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Mande"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "m"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "e mwen ap ba ou"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "eritaj ou"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "e pwopriyete ou"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "limit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:41.119505452Z",
+  "model": "glm-5.3"
+}

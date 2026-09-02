@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Chante, yon Mizmò, pou pitit Korach yo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmò"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit … yo"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:05.224414806Z",
+  "model": "glm-5.3"
+}

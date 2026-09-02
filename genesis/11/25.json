@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Nahor viv apre li fè ⟨את⟩ Terah nèf-dis lane e san lane, e li fè pitit gason ak pitit fi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "e san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e li fè"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ak pitit fi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:40.845465682Z",
+  "model": "glm-5.3"
+}

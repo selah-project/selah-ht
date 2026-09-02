@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ak moun ki konte yo nan fanmi pitit Merari yo, dapre fanmi yo, dapre kay papa yo,",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Ak moun ki konte yo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "nan fanmi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dapre kay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "papa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:09.078240210Z",
+  "model": "glm-5.3"
+}

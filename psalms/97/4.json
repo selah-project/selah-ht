@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Zèklè yo limen tinèv la; tè a wè, epi tè a tranble.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "limen"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "zèklè yo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tinèv la"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "epi tè a tranble"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:42.976913821Z",
+  "model": "glm-5.3"
+}

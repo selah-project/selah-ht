@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Kontante ou nan Yawe, moun jis yo, epi fè lwanj sou memwa sante ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Kontante ou"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "ביהוָה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "epi fè lwanj"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "sou memwa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sante li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.593757120Z",
+  "model": "glm-5.3"
+}

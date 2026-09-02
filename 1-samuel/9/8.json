@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 9:8",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E jèn gason an reponn Chaoul ankò, li di: Gade, mwen jwenn nan men m yon ka yon chèkèl ajan; m ap ba l ba nonm HaElohim nan, e l ap di nou ⟨את⟩ wout nou an.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "anjou ... ankò"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jèn gason an"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "pou reponn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "nan men m"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "chèkèl"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "m ap bay"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ba nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "e l ap di"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wout nou an"
+    },
+    {
+      "surface": "דרכנו",
+      "gloss": "wout nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:56.778976468Z",
+  "model": "glm-5.3"
+}

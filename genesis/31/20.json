@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Yaakov vòlè ⟨את⟩ kè Lavan Arameyen an, paske li pa t di l ke li te kouri ale.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "vòlè"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè Lavan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Arameyen an"
+    },
+    {
+      "surface": "על",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "pa t"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "te kouri ale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:27:50.859236543Z",
+  "model": "glm-5.3"
+}

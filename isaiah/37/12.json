@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Èske dye nasyon yo delivre ⟨את⟩ yo, moun ke zansèt mwen te detri — ⟨את⟩ Gozan, ak ⟨את⟩ Haran, ak Retsèf, ak pitit Edèn ki te nan Telasar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Èske ... delivre"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "dye nasyon yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "te detri"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "zansèt mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ak Retsèf"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ak pitit"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edèn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "nan Telasar"
+    }
+  ],
+  "timestamp": "2026-09-02T18:34:10.876228288Z",
+  "model": "glm-5.3"
+}

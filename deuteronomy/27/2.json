@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi lè w ap pase ⟨את⟩ Yarden an, ale nan tè a ke Yawe Elohim ou ap ban w, w ap kanpe ⟨את⟩ gwo wòch pou w, e w ap fin platre yo ak platre.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "epi lè"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "w ap pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden an"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ap ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "w"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "w ap kanpe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou w"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "w ap platre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "wòch yo"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "ak platre"
+    }
+  ],
+  "timestamp": "2026-09-02T16:54:13.462769862Z",
+  "model": "glm-5.3"
+}

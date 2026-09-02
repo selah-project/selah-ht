@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E l di ak Yehochafat: Èske w pral ak ⟨את⟩ mwen nan lagè Ramot-Gilad? E Yehochafat di ak wa Yisrael la: Mwen jan ak ou, pèp mwen jan ak pèp ou, chwal mwen jan ak chwal ou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Èske w pral"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ak ⟨את⟩ mwen"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "nan lagè"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e ... di"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "jan ak mwen"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jan ak ou"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "jan ak pèp mwen"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "jan ak pèp ou"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "jan ak chwal mwen"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "jan ak chwal ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:08:35.454737755Z",
+  "model": "glm-5.3"
+}

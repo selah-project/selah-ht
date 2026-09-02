@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E Lavan ban li ⟨את⟩ Zilpa, sèvant li a, pou Lea, pitit fi l — kòm sèvant.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "sèvant li"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "pou Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "pitit fi l"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "sèvant"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:05.020760530Z",
+  "model": "glm-5.3"
+}

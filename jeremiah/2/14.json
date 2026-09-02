@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Èske Yisrael ⟨se⟩ esklav? Èske li ⟨se⟩ yon timoun ki fèt nan kay ⟨la⟩? Poukisa li vin yon pwomi?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "esklav la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "èske"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "timoun ki fèt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "yon pwomi"
+    }
+  ],
+  "timestamp": "2026-09-02T18:44:58.890071105Z",
+  "model": "glm-5.3"
+}

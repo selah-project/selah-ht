@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Kont pèp ou a yo ap fè konsèy kache, e yo ap konsilte kont moun ou kache ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Kont"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "yo ap fè"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "konsèy kache"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "e yo ap konsilte"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "moun ou kache"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.588004033Z",
+  "model": "glm-5.3"
+}

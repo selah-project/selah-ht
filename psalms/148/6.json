@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "E li kanpe yo pou tout tan, pou tan san fen; yon lwa li bay, e l ap pase pa.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "e li kanpe yo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tan san fen"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "li bay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "li ap pase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:41.793686142Z",
+  "model": "glm-5.3"
+}

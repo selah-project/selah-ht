@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Moun k ap chèche bonè ⟨nan jounen⟩ bon bagay ap jwenn favè; e moun k ap chèche mal, mal la pral rive l.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "k ap chèche bonè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ap chèche"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "favè"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "e moun k ap chèche"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "pral rive l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:36.534794571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Èske Elohim pa ap foure sa a? Paske li konesan sekrè ki nan kè a.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske…pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ap foure"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konesan"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "sekrè"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ki nan kè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:01.315339997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Paske nan anpil sayans gen anpil chagrin, e moun ki ajoute konesans ajoute doulè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nan anpil"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sayans"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "chagrin"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "e … ajoute"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "doulè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:30.389917222Z",
+  "model": "glm-5.3"
+}

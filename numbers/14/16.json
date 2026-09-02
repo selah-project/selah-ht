@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Se paske Yawe pa t kapab pote ⟨את⟩ pèp sa a nan tè a li te jire pou yo, se poutèt sa li masakre yo nan dezè a.",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "se paske … pa"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp sa a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "te jire"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "li masakre yo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:27:15.748713482Z",
+  "model": "glm-5.3"
+}

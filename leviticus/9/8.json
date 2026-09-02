@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Aharòn vin pre bò lotèl la, e li touye ⟨את⟩ jèn bèf la, ofrann fòt la, ki pou li.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "vin pre"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jèn bèf la, ofrann fòt la"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "jèn bèf"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofrann fòt la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:16.782395482Z",
+  "model": "glm-5.3"
+}

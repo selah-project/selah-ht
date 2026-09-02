@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Paske ou menm, Yawe, ap beni moun jis la; ak favè ap antoure l tankou yon boat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ap beni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "tankou yon boat"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ak favè"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "ap antoure l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:49:54.780287324Z",
+  "model": "glm-5.3"
+}

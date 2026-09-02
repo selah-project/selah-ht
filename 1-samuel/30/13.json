@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 30:13",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E David di l: ki moun pou ⟨ou⟩, e kote ou soti? E li di: se yon jèn gason Mitsrayim mwen ye, sèvitè pou yon nonm Amalekit; e mèt mwen kite m, paske mwen malad twa jou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ki moun pou"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "e kote"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pou yon nonm"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekit"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "e li kite m"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mèt mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "malad"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:31.560212437Z",
+  "model": "glm-5.3"
+}

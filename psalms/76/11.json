@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "Paskè kòlè moun ap fè lwanj Ou; rès kòlè a, Ou ap chèch seke l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paskè"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "ap fè lwanj Ou"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "rès"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kòlè a"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "Ou ap chèch seke l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:04.725341813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Tout bagay jan pou tout: yon sèl destine pou jis la ak pou mechan nan, pou bon moun, ak pou pwòp, ak pou sal, ak pou moun ki sakrifye, ak pou moun ki pa sakrifye; jan bon moun, jan pechè a; moun ki sèmen, jan moun ki pè sèman.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Tout bagay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "destine"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pou jis la"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "ak pou mechan nan"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "pou bon moun"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "ak pou pwòp"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "ak pou sal"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "ak pou moun ki sakrifye"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ak pou moun ki"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakrifye"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "jan bon moun"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "jan pechè a"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "moun ki sèmen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "sèman"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:50.408134509Z",
+  "model": "glm-5.3"
+}

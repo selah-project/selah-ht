@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen prese, e m pa t ezite — pou kenbe kòmandman ou yo.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "mwen prese"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "m ezite"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pou kenbe"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kòmandman ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:13.077916432Z",
+  "model": "glm-5.3"
+}

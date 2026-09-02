@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Men ou, Yawe, ou chita pou toutan, ak sonvans ou pou chak jenerasyon ak jenerasyon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ak sonvans ou"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou chak jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:52.983789641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi li te kòmande l sou bagay sa a, pou pa swiv dye lòt yo; men li pa te kenbe ⟨את⟩ sa ke Yawe te kòmande.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "te kòmande"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "swiv"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lòt yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men li pa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ke Yawe te kòmande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:24.612847455Z",
+  "model": "glm-5.3"
+}

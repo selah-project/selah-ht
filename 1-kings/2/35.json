@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E wa a mete Benayahu, pitit Yehoyada, ⟨את⟩ nan plas li sou lame a; e ⟨את⟩ Tsadok kòvè a, wa a mete l nan plas Evyatar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu, pitit Yehoyada"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "lame a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tsadok kòvè a"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòvè a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nan plas"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:10.687928725Z",
+  "model": "glm-5.3"
+}

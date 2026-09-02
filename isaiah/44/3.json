@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Paskè m ap vèse dlo sou ⟨moun ki gen swaf⟩, ak kouran dlo sou tè sèch la; m ap vèse souf mwen sou desandan ou, ak benediksyon mwen sou pitit pitit ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paskè"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "m ap vèse"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "⟨moun ki gen swaf⟩"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ak kouran dlo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "tè sèch la"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "m ap vèse"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "souf mwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "desandan ou"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "ak benediksyon mwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "pitit pitit ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:40.329863515Z",
+  "model": "glm-5.3"
+}

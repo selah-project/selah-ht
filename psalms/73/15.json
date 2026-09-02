@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Si m te di, m pral rakonte konsa, gade, m te trayi jenerasyon pitit ou yo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m te di"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "m pral rakonte"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "m te trayi"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:43.138849629Z",
+  "model": "glm-5.3"
+}

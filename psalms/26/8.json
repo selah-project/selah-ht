@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Yawe, mwen renmen kote kay ou ye, ak kote kay glwa ou ye a.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mwen renmen"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ak kote"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "glwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:27.776000296Z",
+  "model": "glm-5.3"
+}

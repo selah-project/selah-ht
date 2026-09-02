@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "si yo profane règleman mwen yo, e yo pa kenbe kòmandman mwen yo —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "règleman mwen yo"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "profane"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e kòmandman mwen yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:41.711516759Z",
+  "model": "glm-5.3"
+}

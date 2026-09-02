@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Si lespri gouvènè a monte sou ou, pa kite plas ou, paske dousè ap fann fòt yo ki gwo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "gouvènè a"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "plas ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "kite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "dousè"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ap fann"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "fòt yo"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "ki gwo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:06.991807501Z",
+  "model": "glm-5.3"
+}

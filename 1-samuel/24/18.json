@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi l di ba David: Ou pi jis pase m, paske ou trete m avèk byen, e menm mwen, mwen trete w avèk mal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi l di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pase m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "ou trete m"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "avèk byen"
+    },
+    {
+      "surface": "ו אני",
+      "gloss": "epi menm mwen"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "mwen trete w"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "avèk mal"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:47.214988280Z",
+  "model": "glm-5.3"
+}

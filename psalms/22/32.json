@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Yo ap vini e yo p ap anonse jistis li bay yon pèp k ap fèt, paske ⟨li⟩ te fè ⟨sa⟩.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Yo ap vini"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "e yo p ap anonse"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "jistis li"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bay yon pèp"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "k ap fèt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:17.640295276Z",
+  "model": "glm-5.3"
+}

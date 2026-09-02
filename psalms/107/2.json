@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Ke moun Yawe rachete a di sa, moun ⟨ke⟩ li rachete yo nan men lènmi an,",
+  "tokens": [
+    {
+      "surface": "יֹאמְרוּ",
+      "gloss": "di"
+    },
+    {
+      "surface": "גְּאוּלֵי",
+      "gloss": "rachete"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "גְּאָלָם",
+      "gloss": "rachete yo"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "צַר",
+      "gloss": "lènmi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:03.835322772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Tann ⟨sou⟩ Yawe; fè kè fò, epi kite kè w pran kouraj; wi, tann ⟨sou⟩ Yawe!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Tann"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sou⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "fè kè fò"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "epi kite … pran kouraj"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kè w"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "wi, tann"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sou⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:44.296131795Z",
+  "model": "glm-5.3"
+}

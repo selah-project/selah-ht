@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Men nan lane sèvyèm nan, yon chabat chabaton tè a ap genyen, yon chabat pou Yawe: champ ou, ou pa prale seme l; epi vyenn ou, ou pa prale taye l.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Men nan lane"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "sèvyèm nan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "chabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "chabaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap genyen"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "chabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "champ ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "prale seme"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "epi vyenn ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תזמור",
+      "gloss": "prale taye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:35.999329430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi Yarovam pa rekityèl fòs ankò pandan jou Aviya yo, e Yawe frape l, epi li mouri.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "rekityèl"
+    },
+    {
+      "surface": "כח",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pandan jou"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "epi frape l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "epi mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T21:29:45.607267284Z",
+  "model": "glm-5.3"
+}

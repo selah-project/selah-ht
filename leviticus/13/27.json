@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E prèt la gade l nan sètyèm jou a; si l gaye anpil nan pepo a, prèt la deklare ⟨את⟩ li pa koupe: se plèg lepra sa a.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sètyèm la"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "li gaye"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nan pepo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "deklare pa koupe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "plèg"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "lepra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:22.843854351Z",
+  "model": "glm-5.3"
+}

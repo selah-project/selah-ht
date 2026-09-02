@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Ba Yawe glwa non li; pote yon ofrann e antre nan lakou li yo.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ofrann"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "e antre"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "nan lakou li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:40.475959215Z",
+  "model": "glm-5.3"
+}

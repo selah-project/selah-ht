@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Ou, Yawe, pa kenbe racham ou lwen m — hesed ou ak verite ou, toutan yo kenbe m.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "racham ou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "lwen m"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ak verite ou"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toutan"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "yo kenbe m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:14.526762312Z",
+  "model": "glm-5.3"
+}

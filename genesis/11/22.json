@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Seroug vivan trant an, epi li fè ⟨את⟩ Nahòr.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seroug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahòr"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahòr"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:36.939718085Z",
+  "model": "glm-5.3"
+}

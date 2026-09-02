@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Reveye, nevel ak kinòr; m ap reveye dematen an.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Reveye"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel la"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ak kinòr"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "m ap reveye"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "dematen an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:56.564464477Z",
+  "model": "glm-5.3"
+}

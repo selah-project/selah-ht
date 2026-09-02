@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "E li vin ansent ankò, e li fè yon pitit gason, e l rele ⟨את⟩ non l Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "vin ansent"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yon pitit gason"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:11.089298149Z",
+  "model": "glm-5.3"
+}

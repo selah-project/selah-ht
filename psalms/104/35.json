@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Ke pechè yo fini, yo disparèt anba tè a, ak mechan yo pa la ankò. Beni Yawe, ô nanm m; di l glwa, alelouya pou Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ke … fini, yo disparèt"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "pechè yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "anba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ak mechan yo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "pa la"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "beni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ô nanm m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "di l glwa, alelouya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:57.794755834Z",
+  "model": "glm-5.3"
+}

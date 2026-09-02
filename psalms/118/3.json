@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Ke kay Aharòn di tanmen: 'Pou tout tan hesed li.'",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanmen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨paske⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:48.508911929Z",
+  "model": "glm-5.3"
+}

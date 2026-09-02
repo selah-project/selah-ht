@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Yawe di ak li: Sa ki nan men ou la? Li di: Yon baton.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "baton"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:22.870953676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Bay mèsi bay Yawe ak kinòr la; ak nevel dis-kòd, jwe pou li.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "bay mèsi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bay Yawe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ak kinòr la"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ak nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dis-kòd"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "jwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:17.229562495Z",
+  "model": "glm-5.3"
+}

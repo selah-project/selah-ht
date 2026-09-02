@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi wa a di: Mouri w ap mouri — Aḥimelekh, ou ak tout kay papa ou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "w ap mouri"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aḥimelekh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:14.001999489Z",
+  "model": "glm-5.3"
+}

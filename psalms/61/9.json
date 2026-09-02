@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 61:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 61,
+  "translation": "Konsa m ap chante Non ou pou tout tan, lè m akonpli sèman mwen yo jou apre jou.",
+  "tokens": [
+    {
+      "surface": "כֵּן",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אֲזַמְּרָה",
+      "gloss": "chante"
+    },
+    {
+      "surface": "שִׁמְךָ",
+      "gloss": "Non ou"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "לְשַׁלְּמִי",
+      "gloss": "pou m akonpli"
+    },
+    {
+      "surface": "נְדָרַי",
+      "gloss": "sèman mwen yo"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "jou"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:39.421633218Z",
+  "model": "glm-5.3"
+}

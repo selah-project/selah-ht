@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E Chaoul pran twa mil gason chwazi nan tout Izrayèl, epi li ale pou l chèche ⟨את⟩ David ak gason l yo sou fas wòch kabrit sovaj yo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "chwazi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pou chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ak gason l yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "wòch yo"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "kabrit sovaj yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:37.682258082Z",
+  "model": "glm-5.3"
+}

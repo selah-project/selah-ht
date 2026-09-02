@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 95,
+  "translation": "Ki gen nan men l fon prafon tè a, epi tèt montay yo se pou ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "fon prafon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "epi tèt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "montay yo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou ⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:03.353423734Z",
+  "model": "glm-5.3"
+}

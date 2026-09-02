@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi mouri tou de yo, Mahlon ak Khilyon, epi fanm nan rete ⟨san⟩ de pitit li yo ak ⟨san⟩ mari l.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de yo"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "ak Khilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "epi rete"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "משני",
+      "gloss": "san de"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "ak mari l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:47:08.310184807Z",
+  "model": "glm-5.3"
+}

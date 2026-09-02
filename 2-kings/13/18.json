@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E li di: Pran flèch yo; e li pran yo. E li di a wa Izrayèl la: Frape tè a; e li frape twa fwa, e li kanpe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "קח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "flèch yo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e li pran yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "הך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e li frape"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "twa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e li kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:44.735089283Z",
+  "model": "glm-5.3"
+}

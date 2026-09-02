@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Yoav sonnen kòn nan, e pèp la sispann pouswit yo t ap fè apre Yisrayèl, paske Yoav te kenbe ⟨את⟩ pèp la.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "sonnen"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "kòn nan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "pèp la tounen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "pouswit"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "te kenbe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:06.699276490Z",
+  "model": "glm-5.3"
+}

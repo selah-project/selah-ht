@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Yo menm wè sa, epi yo etònè; yo truble, yo kouri ale nan pè.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Yo menm"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "etònè"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "truble"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "kouri ale nan pè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:39.648714764Z",
+  "model": "glm-5.3"
+}

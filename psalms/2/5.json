@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Lè sa a ⟨li⟩ pale ak yo nan kòlè li, e nan fache li fè yo pè.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "nan kòlè li"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "e nan fache li"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "fè yo pè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:41.118519418Z",
+  "model": "glm-5.3"
+}

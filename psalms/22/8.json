@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Tout moun ki wè m ap mok mwen; yo louvri lèv, yo sakote tèt yo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "moun ki wè m"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ap mok"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "yo louvri"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "lèv"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "yo sakote"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:44.641624578Z",
+  "model": "glm-5.3"
+}

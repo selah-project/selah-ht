@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Ehood voye men gòch li, pran ⟨את⟩ koutia a depi kwisit dwa li, epi plante l nan vant li.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men gòch li"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "gòch li"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koutia a"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "koutia a"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "depi"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kwisit"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dwa li"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "plante l"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "nan vant li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:13:16.172404446Z",
+  "model": "glm-5.3"
+}

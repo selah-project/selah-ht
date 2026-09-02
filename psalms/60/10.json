@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Moab se bò lave mwen; sou Edòm m ap jete sandal mwen; sou m, Pelechet, fè bri pou m.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "bò"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "lave mwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edòm"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "m ap jete"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandal mwen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelechet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "fè bri pou m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:15.561375785Z",
+  "model": "glm-5.3"
+}

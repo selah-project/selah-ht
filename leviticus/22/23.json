@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi yon bèf oswa yon agnèl ki twò long oswa ki twò kout — ou ka fè ⟨את⟩ li kòm yon ofrand volontè, men pou yon nèd li pa ap aksèpte.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Epi yon bèf"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "oswa yon agnèl"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ki twò long"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "oswa ki twò kout"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ofrand volontè"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (bèt la)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "men pou yon nèd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ap aksèpte"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:01.958832496Z",
+  "model": "glm-5.3"
+}

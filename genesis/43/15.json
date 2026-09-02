@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 43:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Epi nonm yo pran ⟨את⟩ kado sa a, yo pran kola ajàn an doub nan men yo, ak ⟨את⟩ Benyamin; yo levez, yo desann an Mitsrayim, e yo kanpe devan Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nonm yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kado sa a"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kado"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "doub"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kola ajàn"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "nan men yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Benyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "levez"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "desann"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:37.312175540Z",
+  "model": "glm-5.3"
+}

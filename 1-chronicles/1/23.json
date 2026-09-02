@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "ak ⟨את⟩ Ofir, ak ⟨את⟩ Chavilah, ak ⟨את⟩ Yovav; tout sa yo se pitit Yoctan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoctan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:35.306122376Z",
+  "model": "glm-5.3"
+}

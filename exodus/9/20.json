@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Moun ki te pè ⟨את⟩ pawòl Yawe a, nan mitan sèvàn Paro yo, te fè sèvàn li yo ak ⟨את⟩ bèt li yo kouri al nan kay yo.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Moun ki te pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl Yawe a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "nan mitan sèvàn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "te fè kouri al"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvàn li yo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvàn li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèt li yo"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "bèt li yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al nan"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "kay yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:50.386159160Z",
+  "model": "glm-5.3"
+}

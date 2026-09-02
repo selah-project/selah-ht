@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi Khazael, wa Aram lan, mouri; e Ben-Hadad, pitit gason l, wayive an plas li.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Epi … mouri"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e … wayive"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:34.213303942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 122,
+  "translation": "Ke lapè nan ranpa ou yo, trankilite nan palè ou yo!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ke"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "nan ranpa ou yo"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "trankilite"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "nan palè ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:25.225284504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Mare yo sou dwèt ou yo; ekri yo sou tablèt kè ou.",
+  "tokens": [
+    {
+      "surface": "קָשְׁרֵץם",
+      "gloss": "mare yo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אֶצְבְּעֹתֶיךָ",
+      "gloss": "dwèt ou yo"
+    },
+    {
+      "surface": "כָּתְבֵם",
+      "gloss": "ekri yo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "לוּחַ",
+      "gloss": "tablèt"
+    },
+    {
+      "surface": "לִבֶּךָ",
+      "gloss": "kè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:17.872484471Z",
+  "model": "glm-5.3"
+}

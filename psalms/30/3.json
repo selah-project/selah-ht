@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Yawe, Elohim m, m te rele nan direksyon ou, e ou geri m.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "m te rele"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nan direksyon ou"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "e ou geri m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:18.459566128Z",
+  "model": "glm-5.3"
+}

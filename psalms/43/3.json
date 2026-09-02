@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Voye limyè w ak verite w; se yo ki gide m, se yo ki pote m nan mòn sen w la ak nan demè w yo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "limyè w"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ak verite w"
+    },
+    {
+      "surface": "המה",
+      "gloss": "se yo"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ki gide m"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "ki pote m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sen w la"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak nan"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "demè w yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:49.146478037Z",
+  "model": "glm-5.3"
+}

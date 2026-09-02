@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Yaakov rete pou kont li sèl, e yon nonm goumen ak li jiska monte laswaf la.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "rete"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "pou kont li sèl"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "goumen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "monte"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "laswaf la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:42.849492786Z",
+  "model": "glm-5.3"
+}

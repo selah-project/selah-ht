@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Je mwen toujou dirije ⟨anvwè⟩ Yawe, paske se li ki ap fè pye mwen soti an deyo nan filè a.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Je mwen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dirije ⟨anvwè⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li ki"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ap fè … soti"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "an deyo nan filè a"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pye mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:06.363375285Z",
+  "model": "glm-5.3"
+}

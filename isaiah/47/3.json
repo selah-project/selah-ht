@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Nuidite w ap dekouvri, wont ou pral wè; m ap pran vanjans, e m p ap rankontre moun.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "ap dekouvri"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "nuidite w"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "pral wè"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "wont ou"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "vanjans"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "m ap pran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e m pa"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "rankontre"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:35.246916776Z",
+  "model": "glm-5.3"
+}

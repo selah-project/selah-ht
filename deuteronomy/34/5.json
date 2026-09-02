@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Epi Moche, sèvant Yawe a, mouri la, nan peyi Moav la, dapre bouch Yawe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sèvant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "על",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:41.594151449Z",
+  "model": "glm-5.3"
+}

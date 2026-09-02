@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E Chemouèl grandi, e Yawe te ⟨ak⟩ li, e li pa fè youn nan tout pawòl li tonbe atè.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "E ... grandi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e li pa"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "fè ... tonbe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "youn nan tout"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "pawòl li"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:42.707498296Z",
+  "model": "glm-5.3"
+}

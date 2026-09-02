@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Ou pral frape ⟨את⟩ kay Ahab mèt ou an, e mwen pral venge san pwofèt yo, sèvitè m yo, ak san tout sèvitè Yawe yo, nan men Izebèl.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mèt ou an"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "venge"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "san"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pwofèt yo"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:49.144059154Z",
+  "model": "glm-5.3"
+}

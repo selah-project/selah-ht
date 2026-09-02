@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Yo abève tout bèt chan yo; bourik sovaj yo kase swaf yo.",
+  "tokens": [
+    {
+      "surface": "יַ֭שְׁקוּ",
+      "gloss": "abève"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חַיְת֣וֹ",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "שָׂדָ֑י",
+      "gloss": "chan"
+    },
+    {
+      "surface": "יִשְׁבְּר֖וּ",
+      "gloss": "kase"
+    },
+    {
+      "surface": "פְרָאִ֣ים",
+      "gloss": "bourik sovaj"
+    },
+    {
+      "surface": "צְמָאָֽם",
+      "gloss": "swaf yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.838130348Z",
+  "model": "glm-5.3"
+}

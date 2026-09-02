@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Paske mechan an fè lwanj sou dezi nanm li, e moun ki swaf pwofit beni; li meprize Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "fè lwanj"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechan an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "dezi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nanm li"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "e moun ki swaf pwofit"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "li meprize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:04.499434302Z",
+  "model": "glm-5.3"
+}

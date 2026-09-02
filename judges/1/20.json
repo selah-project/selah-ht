@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yo bay Kalev ⟨את⟩ Khevron, jan Moche te pale a, epi li depossede la ⟨את⟩ twa pitit gason Anak yo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "yo bay"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "li depossede"
+    },
+    {
+      "surface": "משם",
+      "gloss": "la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twa pitit gason Anak"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anak"
+    }
+  ],
+  "timestamp": "2026-09-02T17:12:15.005724885Z",
+  "model": "glm-5.3"
+}

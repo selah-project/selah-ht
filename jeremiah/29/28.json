@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 29:28",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Paske se pou rezon sa li voye di nou nan Babilòn, di: ⟨Egzil la⟩ long; bati kay yo, epi rete, epi plante jaden yo, epi manje ⟨את⟩ fwi yo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rezon sa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "di nou"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "nan Babilòn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "long"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bati"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kay yo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "epi rete"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "epi plante"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "jaden yo"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "epi manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fwi yo"
+    },
+    {
+      "surface": "פריהן",
+      "gloss": "fwi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:58:44.084645157Z",
+  "model": "glm-5.3"
+}

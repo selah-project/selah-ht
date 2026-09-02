@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yon tan pou renmen, e yon tan pou rayi; yon tan pou lagè, e yon tan pou lapè.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yon tan"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "pou renmen"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "pou rayi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yon tan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:46.025319357Z",
+  "model": "glm-5.3"
+}

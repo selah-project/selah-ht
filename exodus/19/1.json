@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Nan mwa twazyèm nan, lè pitit Yisrayèl yo soti nan peyi Mitsrayim, menm jou a, yo rive nan dezè Sinay.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Nan mwa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "twazyèm"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "soti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Nan jou"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "באו",
+      "gloss": "rive"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dezè"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:32.006878837Z",
+  "model": "glm-5.3"
+}

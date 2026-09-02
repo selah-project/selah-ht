@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Nan yon rev, nan yon vizyon lannwit, lè dòmi pwofon tonbe sou moun, nan dòmi lejè sou kabann la;",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "Nan yon rev"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "vizyon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lannwit"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "lè tonbe"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "dòmi pwofon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moun"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "nan dòmi lejè"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "kabann"
+    }
+  ],
+  "timestamp": "2026-09-02T22:03:13.754723708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Tout jou a li fè gras epi li prete, epi desandans li ⟨se⟩ pou yon benediksyon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "fè gras"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "epi li prete"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "epi desandans li"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "pou yon benediksyon"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:52.511911216Z",
+  "model": "glm-5.3"
+}

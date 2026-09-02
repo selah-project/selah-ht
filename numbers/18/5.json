@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E nou pral kenbe ⟨את⟩ gad kadoch la ak ⟨את⟩ gad lotèl la, e pa gen fache sou pitit Yisrael yo ankò.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gad"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gad"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kadoch la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "gad"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gad"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "fache"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:30:45.363245742Z",
+  "model": "glm-5.3"
+}

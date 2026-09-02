@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Sòt la mete nan wòchwo anpil, e rich yo chita nan kote ki ba.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "Sòt la"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "nan wòchwo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "e rich yo"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "nan kote ki ba"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "chita"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:37.659405222Z",
+  "model": "glm-5.3"
+}

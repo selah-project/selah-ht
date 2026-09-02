@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E l te pase, lè Avram rive nan Mitsrayim, Mitsrayim yo wè ⟨את⟩ fanm la, ke li te bèl anpil.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E l te pase"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "lè ... rive"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mitsrayim yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm la"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:53.860475728Z",
+  "model": "glm-5.3"
+}

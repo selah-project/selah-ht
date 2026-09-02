@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi yo di l: Non! Se ⟨את⟩ avèk ou n ap tounen, jwi pèp ou.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "epi yo di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ avèk ou"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "n ap tounen"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "jwi pèp ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:11.113186737Z",
+  "model": "glm-5.3"
+}

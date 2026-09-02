@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 13:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi prèt la ap gade ⟨את⟩ li nan jou setyèm la dezyèm fwa, e gade, si plak la vin fèb, e plak la pa gaye nan po a, prèt la ap deklare l pròp — gratèl se sa — e l ap lave rad l, e l ap vin pròp.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "setyèm la"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "dezyèm fwa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "vin fèb"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plak la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plak la"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nan po"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ap deklare l pròp"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "מספחת",
+      "gloss": "gratèl"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "epi lave"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad l"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "vin pròp"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:14.903413474Z",
+  "model": "glm-5.3"
+}

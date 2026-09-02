@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E Yehoachaz fè plè ⟨את⟩ figi Yawe, e Yawe tande l, paske li te wè ⟨את⟩ opresyon Yisrael, paske wa Aram te oprese ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "E ... fè plè"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e ... tande"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "te wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opresyon"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "opresyon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "te oprese"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-02T18:16:25.833844924Z",
+  "model": "glm-5.3"
+}

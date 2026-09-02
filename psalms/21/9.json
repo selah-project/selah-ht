@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Men w ap jwenn tout enmi w yo; men dwat w ap jwenn moun ki rayi w yo.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ap jwenn"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men w"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "enmi w yo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "men dwat w"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ap jwenn"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "moun ki rayi w yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:48.506390009Z",
+  "model": "glm-5.3"
+}

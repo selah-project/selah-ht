@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Men ekri sa a ki ekri ⟨la⟩: Mene, Mene, Tekel, ak Farsin.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "Men"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ekri sa a"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ekri ⟨la⟩"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "Tekel"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ak Farsin"
+    }
+  ],
+  "timestamp": "2026-09-02T20:57:34.781268446Z",
+  "model": "glm-5.3"
+}

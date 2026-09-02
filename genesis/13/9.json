@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Èske tout tè a pa devan ou? Separe ou, souple, apati mwen; si bò goch, mwen pral bò adwat; e si bò adwat, mwen pral bò goch.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske ... pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "separe ou"
+    },
+    {
+      "surface": "נא",
+      "gloss": "souple"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "apati mwen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "bò goch"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "e mwen pral bò adwat"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "bò adwat"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "e mwen pral bò goch"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:19.496573495Z",
+  "model": "glm-5.3"
+}

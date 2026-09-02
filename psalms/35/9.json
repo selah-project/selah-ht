@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Epi nanm mwen ap kè kontan nan Yawe, ap kontan anpil nan sekou li.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Epi nanm mwen"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ap kè kontan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "ap kontan anpil"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "nan sekou li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:51.844119353Z",
+  "model": "glm-5.3"
+}

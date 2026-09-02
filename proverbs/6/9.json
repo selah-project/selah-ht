@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Jouk lè, parese, ⟨ap⟩ dòmi? Jouk lè w ap leve nan dòmi ⟨ou⟩ a?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jouk"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "parese"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "leve"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "dòmi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:28.980540331Z",
+  "model": "glm-5.3"
+}

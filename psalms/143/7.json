@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 143,
+  "translation": "Fè vit, reponn m, Yawe; lespri m ap fini — pa kache figi ou pou mwen, oswa m ap tankou moun ki ap desann nan fou a.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Fè vit"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "reponn m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ap fini"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lespri m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kache"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "oswa m ap tankou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "moun ki"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ap desann"
+    },
+    {
+      "surface": "בור",
+      "gloss": "nan fou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:45.851011453Z",
+  "model": "glm-5.3"
+}

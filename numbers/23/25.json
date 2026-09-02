@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Balak di ba Bilam: ni maledi ⟨ou⟩ pa fè l, ni beni pa fè l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E di"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קב",
+      "gloss": "maledi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקבננו",
+      "gloss": "ou maledi l"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ou beni l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:33:00.975117910Z",
+  "model": "glm-5.3"
+}

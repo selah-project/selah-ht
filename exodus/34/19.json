@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Tout sa ki louvri vant ⟨se pa mwen⟩, ak tout premye pitit gason bèt ou yo — premye pitit bèf ak premye pitit mouton.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "sa ki louvri"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "vant"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨se pa mwen⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "bèt ou"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "premye pitit"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ak mouton"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:34.090940066Z",
+  "model": "glm-5.3"
+}

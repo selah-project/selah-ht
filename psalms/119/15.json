@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Nan presepte ou mwen ap medite, epi mwen ap gade chemen ou yo.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "Nan presepte ou"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ap medite"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "epi mwen ap gade"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "chemen ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:06.788476980Z",
+  "model": "glm-5.3"
+}

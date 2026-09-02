@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Pou yo detoune jistis pou pòv yo, e pou yo vòlè dwa moun ki mizerab nan pèp mwen an, pou vèv vin butin yo, e ⟨את⟩ òfelen yo yo ap pilye.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "pou detoune"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "pòv yo"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "e pou vòlè"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "moun ki mizerab"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nan pèp mwen an"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "pou vin"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "vèv"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "butin yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "òfelen yo"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "òfelen yo"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "yo ap pilye"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:32.463440068Z",
+  "model": "glm-5.3"
+}

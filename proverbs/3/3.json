@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Hesed ak emet, pa kite ⟨ou⟩ yo; mare yo sou gorg ou, ekri yo sou plak kè ⟨ou⟩",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ak emet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "kite ou yo"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "mare yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "gorg ou"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ekri yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "plak"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:51.998479389Z",
+  "model": "glm-5.3"
+}

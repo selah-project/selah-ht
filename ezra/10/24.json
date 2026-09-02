@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Ak pami chantè yo: Elyachiv. Ak pami gadyè pòt yo: Chaloum, Telem, ak Oury.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ak pami"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "chantè yo"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyachiv"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ak pami"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "gadyè pòt yo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Chaloum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "ak Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ak Oury"
+    }
+  ],
+  "timestamp": "2026-09-02T21:06:15.942407092Z",
+  "model": "glm-5.3"
+}

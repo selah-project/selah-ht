@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Lang mwen ap chante pawòl ou, paske tout kòmandman ou yo ⟨se⟩ jistis.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ap chante"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lang mwen"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kòmandman ou yo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:05.121111655Z",
+  "model": "glm-5.3"
+}

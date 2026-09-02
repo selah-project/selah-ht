@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Mwen anfonse nan pwofondè a, e pa gen pye kote m kanpe; mwen antre nan fon dlo yo, e yon kouran debòdman pote m ale.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Mwen anfonse"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "pwofondè a"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "pye kote m kanpe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "mwen antre"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "nan fon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "e yon kouran debòdman"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "pote m ale"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:16.518336993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Kè m ap towole andedan m, ak pè lanmò tonbe sou m.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Kè m"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ap towole"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "andedan m"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ak pè"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lanmò"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:42.167548030Z",
+  "model": "glm-5.3"
+}

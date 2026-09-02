@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "gade, men yawe ap lance lamen sou bèt yo ki nan jaden an — sou chwal yo, sou bourik yo, sou chamo yo, sou bèf yo, ak sou mouton yo — yon epidemi trè lou anpil.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "יד",
+      "gloss": "lamen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "ap ... lance"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "sou bèt ou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden an"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sou chwal yo"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "sou bourik yo"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "sou chamo yo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sou bèf yo"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "ak sou mouton yo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon epidemi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "trè lou"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:38.454695613Z",
+  "model": "glm-5.3"
+}

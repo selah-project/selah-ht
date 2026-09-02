@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Pa fè pou ou imaj grave, ni nenpòt fòm nenpòt bagay ki nan syèl yo anlè, ni ki nan tè a anba, ni ki nan dlo yo anba tè a.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "imaj grave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "fòm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ni ki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ni ki"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo yo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "nan tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:26.208370526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "(Yawe, Elohim zansèt nou yo, ajoute sou nou, jan nou ye, mil fwa, e li beni ⟨את⟩ nou, jan li pale pou nou!)",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "zansèt nou yo"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "jan nou ye"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e li beni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:16.237653422Z",
+  "model": "glm-5.3"
+}

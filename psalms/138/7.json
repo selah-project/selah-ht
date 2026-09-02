@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 138,
+  "translation": "Si m mache nan mitan detres, w fè m viv; sou kòlè enmi m yo w voye men w, epi bò dwat w sove m.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "detres"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "fè m viv"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men w"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "epi sove m"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "bò dwat w"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:15.980018539Z",
+  "model": "glm-5.3"
+}

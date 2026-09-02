@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Malè pou peyi bri zèl yo, ki lòt bò rivyè Kouch!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malè"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "bri"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "zèl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "lòt bò"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "rivyè"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kouch"
+    }
+  ],
+  "timestamp": "2026-09-02T18:29:02.477610911Z",
+  "model": "glm-5.3"
+}

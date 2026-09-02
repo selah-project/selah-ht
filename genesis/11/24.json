@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Nahòr vivan nèf ak ven an, epi li fè ⟨את⟩ Terah.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahòr"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ak ven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:36.939982036Z",
+  "model": "glm-5.3"
+}

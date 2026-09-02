@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 8:17",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Mwen renmen moun ki renmen mwen, e moun ki chèche mwen depi bonè maten ap jwenn mwen.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "moun ki renmen mwen"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mwen renmen"
+    },
+    {
+      "surface": "ומשחרי",
+      "gloss": "e moun ki chèche mwen depi bonè maten"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "ap jwenn mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:18.456438093Z",
+  "model": "glm-5.3"
+}

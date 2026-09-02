@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Jou a rive, pitit gason yo ak pitit fi yo te ap manje ak bwè diven nan kay frè yo, premye a fè a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rive"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "pitit gason yo"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "pitit fi yo"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ak bwè"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diven"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "frè yo"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "premye a fè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:26.976393580Z",
+  "model": "glm-5.3"
+}

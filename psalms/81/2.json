@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Chante joye pou Elohim, fòs nou an; fè gwo kri pou Elohim Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Chante joye"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "fòs nou"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "fè gwo kri"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:50.536551796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi m fè temwen fidel yo tèmwen pou m: ⟨את⟩ Ouriyah kòwàn an, ak ⟨את⟩ Zekharyahou, pitit Yeverekhyahou.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Epi m fè ... tèmwen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "temwen yo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "fidel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ouriyah kòwàn an"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ouriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòwàn an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Zekharyahou"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyahou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekhyahou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:34.647160067Z",
+  "model": "glm-5.3"
+}

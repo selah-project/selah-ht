@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Ou pa pè diven nan nwit la, ni flèch k ap vole jounen an.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "diven"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nan nwit la"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "flèch"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "vole"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "jounen an"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:04.672028594Z",
+  "model": "glm-5.3"
+}

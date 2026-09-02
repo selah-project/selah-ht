@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Chèf Paro yo wè ⟨את⟩ li, e yo fè lwanj ⟨את⟩ li devan Paro, e fanm la te pote ale nan kay Paro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (fanm la)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf yo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "fè lwanj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (fanm la)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "te pote ale"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:53.860677725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 12:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Selon sajès li, yo ap loue ⟨yon⟩ nonm, men ki gen kè twis ap vin pou mepriz.",
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "Selon"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "sajès li"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "yo ap loue"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ונעוה",
+      "gloss": "men ki gen kè twis"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "pou mepriz"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:25.070348143Z",
+  "model": "glm-5.3"
+}

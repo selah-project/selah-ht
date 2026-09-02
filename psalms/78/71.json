@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 78:71",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Soti dèyè bèf ki ap tete, li mennen l pou l peye Yaakov, pèp li, ak Yisrael, eritaj li.",
+  "tokens": [
+    {
+      "surface": "מאחר",
+      "gloss": "soti dèyè"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "bèf ki ap tete"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "li mennen l"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "pou l peye"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "ak Yisrael"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "eritaj li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:23.974818253Z",
+  "model": "glm-5.3"
+}

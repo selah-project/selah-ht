@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Mwen te ban ou ⟨את⟩ kay mèt ou, e ⟨את⟩ fanm mèt ou yo nan pwatrin ou; mwen te ban ou ⟨את⟩ kay Izrayèl ak Yehouda; e si sa te twò piti, mwen ta ajoute pou ou yon bagay konsa ak yon bagay konsa.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mwen te ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay mèt ou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mèt ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fanm mèt ou yo"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "fanm... yo"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mèt ou"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "nan pwatrin ou"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mwen te ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Izrayèl ak Yehouda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ak Yehouda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "piti"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "ta ajoute"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "yon bagay konsa"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "ak yon bagay konsa"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:12.669027148Z",
+  "model": "glm-5.3"
+}

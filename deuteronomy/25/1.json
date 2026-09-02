@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Si yon diskisyon genyen ant moun, epi yo mache vin devan jijman an, epi yo jije yo, epi yo deklare jis ⟨את⟩ moun ki jis la, epi yo deklare koupab ⟨את⟩ moun ki mechan an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "genyen"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "yon diskisyon"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moun"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "epi yo mache vin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan devan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "jijman an"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "epi yo jije yo"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "epi yo deklare jis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki jis la"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "moun ki jis la"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "epi yo deklare koupab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki mechan an"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "moun ki mechan an"
+    }
+  ],
+  "timestamp": "2026-09-02T21:47:18.323831419Z",
+  "model": "glm-5.3"
+}

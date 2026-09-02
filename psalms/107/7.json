@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "E li mennen yo nan yon chemen dwat, pou yo ale rive nan yon vil kote pou rete.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "E li mennen yo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan yon chemen"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou yo ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rive"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nan yon vil"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "kote pou rete"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:05.302762725Z",
+  "model": "glm-5.3"
+}

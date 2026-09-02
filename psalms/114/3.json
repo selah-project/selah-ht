@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 114,
+  "translation": "Lanmè a wè ⟨li⟩ epi li chape, Yardèn an vire tounen nan direksyon dèyè.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Lanmè a"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "epi li chape"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardèn an"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "vire tounen"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "nan direksyon dèyè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.822755466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Koute pawòl Yawe a, chèf Sodom yo; fè zòrèy pou lwa Elohim nou an, pèp Amora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "fè zòrèy"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:08.124164634Z",
+  "model": "glm-5.3"
+}

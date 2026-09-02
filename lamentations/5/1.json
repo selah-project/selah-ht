@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Sonje, Yawe, sa ki rive nou; gade byen epi wè ⟨את⟩ wont nou.",
+  "tokens": [
+    {
+      "surface": "זְכֹר",
+      "gloss": "Sonje"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מֶה",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "rive"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "nou"
+    },
+    {
+      "surface": "הַבִּיט",
+      "gloss": "gade byen"
+    },
+    {
+      "surface": "וּרְאֵה",
+      "gloss": "epi wè"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wont nou"
+    },
+    {
+      "surface": "חֶרְפָּתֵנוּ",
+      "gloss": "wont nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:57.470211455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Pa fè ⟨את⟩ mwen dye ajàn, ni dye lò; pa fè pou nou menm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "dye ajàn ak dye lò"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ni dye"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou menm"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:34.070878017Z",
+  "model": "glm-5.3"
+}

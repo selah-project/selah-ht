@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "E Moche fè vit, e li voure atè, e li adore.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "fè vit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "voure"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "adore"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:08.314391663Z",
+  "model": "glm-5.3"
+}

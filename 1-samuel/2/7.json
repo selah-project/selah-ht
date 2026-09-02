@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Yawe fè pòv epi fè rich, li bese ⟨moun⟩ epi menm elve ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "fè pòv"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "epi fè rich"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "bese"
+    },
+    {
+      "surface": "אף",
+      "gloss": "epi menm"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "elve"
+    }
+  ],
+  "timestamp": "2026-09-02T17:23:28.103276904Z",
+  "model": "glm-5.3"
+}

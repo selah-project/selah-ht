@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "ak pyè yo li yo vent, ak baz yo vent, an kwiv; kwoke pyè yo ak gad yo an ajan.",
+  "tokens": [
+    {
+      "surface": "ועמודיו",
+      "gloss": "ak pyè yo li"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vent"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ak baz yo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vent"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "an kwiv"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "kwoke"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "pyè yo"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ak gad yo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "an ajan"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:24.953104958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "E yo rele ba Yawe nan detres yo, e nan angoès yo a li delivre yo.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "E yo rele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nan detres"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "nan angoès yo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "li delivre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:56.329519777Z",
+  "model": "glm-5.3"
+}

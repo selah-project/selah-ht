@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi apre sa Levyi yo ap antre pou sèvi ⟨את⟩ tant randevou a; epi ou purifye ⟨את⟩ yo, epi ou secoue ⟨את⟩ yo kòm yon tenoufa.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "epi apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ap antre"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levyi yo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pou sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant randevou a"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "randevou"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "epi ou purifye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "Levyi yo"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "epi ou secoue"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "Levyi yo"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenoufa"
+    }
+  ],
+  "timestamp": "2026-09-02T16:25:38.849011898Z",
+  "model": "glm-5.3"
+}

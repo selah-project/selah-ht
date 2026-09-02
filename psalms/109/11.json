@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Se kreditor la ki met tranpe pou tout sa li genyen, epi etranje yo pilye travay li.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "met tranpe pou"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "kreditor la"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li genyen"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "epi pilye"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "etranje yo"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "travay li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:35.057142703Z",
+  "model": "glm-5.3"
+}

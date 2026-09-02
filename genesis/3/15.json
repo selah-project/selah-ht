@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Ak enemite m ap mete ant ou ak fanm la, ant desandan ou ak desandan l; li ap kraze ⟨tèt⟩ ou, e ou ap kraze ⟨talon⟩ l.",
+  "tokens": [
+    {
+      "surface": "וְאֵיבָה",
+      "gloss": "ak enemite"
+    },
+    {
+      "surface": "אָשִׁית",
+      "gloss": "m ap mete"
+    },
+    {
+      "surface": "בֵּינְךָ",
+      "gloss": "ant ou"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "הָאִשָּׁה",
+      "gloss": "fanm la"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "זַרְעֲךָ",
+      "gloss": "desandan ou"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "זַרְעָהּ",
+      "gloss": "desandan l"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "li"
+    },
+    {
+      "surface": "יְשׁוּפְךָ",
+      "gloss": "ap kraze ou"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "וְאַתָּה",
+      "gloss": "e ou"
+    },
+    {
+      "surface": "תְּשׁוּפֶנּוּ",
+      "gloss": "w ap kraze l"
+    },
+    {
+      "surface": "עָקֵב",
+      "gloss": "talon"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:05.116306483Z",
+  "model": "glm-5.3"
+}

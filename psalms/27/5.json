@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Paske l ap kache m nan kay pay li, nan jou mal, l ap kache m nan kachèt tant li; sou yon wòch l ap fè m monte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "l ap kache m"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "nan kay pay li"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "l ap kache m"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nan kachèt"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tant li"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sou yon wòch"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "l ap fè m monte"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:40.638932453Z",
+  "model": "glm-5.3"
+}

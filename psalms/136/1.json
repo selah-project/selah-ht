@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Rendi gras bay Yawe, paske ⟨li⟩ bon, paske pou tout tan hesed ⟨li⟩ genyen.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Rendi gras bay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:30.057448678Z",
+  "model": "glm-5.3"
+}

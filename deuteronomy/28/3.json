@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Beni ou nan vil la, epi beni ou nan chan an.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil la"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "epi beni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan chan an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:51.427114873Z",
+  "model": "glm-5.3"
+}

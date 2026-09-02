@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "E m te reflechi pou m konnen sa a — se travay di sa ye nan je m.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "E m te reflechi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pou konnen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "travay di"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:43.139076002Z",
+  "model": "glm-5.3"
+}

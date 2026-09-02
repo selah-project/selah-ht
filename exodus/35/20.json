@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Lè sa a, tout asanble pèp pitit gason Yisrayèl yo soti devan Moche a.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "yo soti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:26.351120093Z",
+  "model": "glm-5.3"
+}

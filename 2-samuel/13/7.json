@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi David voye mesaj bay Tamar nan kay la, pou li di: Ale, tanpri, nan kay Amnon, frè w la, epi fè manje a pou li.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "epi voye mesaj"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "nan kay la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè w"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "manje a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:22.750998593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E yo mete ⟨את⟩ zam li yo nan kay dye yo, e ⟨את⟩ tèt li (galgalto) yo kloure l nan kay Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "E yo mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zam li yo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zam li yo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dye yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tèt li"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "tèt li (galgalto)"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "yo kloure l"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-09-02T22:26:57.000330744Z",
+  "model": "glm-5.3"
+}

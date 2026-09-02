@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "E li bay lòd ak nwèl yo anlè, e li louvri pòt syèl yo —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e li bay lòd"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nwèl yo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "e pòt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "louvri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:39.605992411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E kòtchan an ap ekri ⟨את⟩ malédiksyon sa yo nan yon liv, epi l ap efase yo annan dlo amè yo.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malédiksyon sa yo"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "malédiksyon yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòtchan an"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nan yon liv"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "efase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "annan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "amè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:22:46.517784256Z",
+  "model": "glm-5.3"
+}

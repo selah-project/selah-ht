@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "menm ki fè ou manje man nan dezè a, yon man zansèt ou yo pa t konnen — pou li abiye ou, epi pou li tcheke ou, pou fè byen pou ou nan fen lavi w",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "menm ki fè ou manje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yon man ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa t"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "zansèt ou yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "li abiye ou"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "epi pou"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "li tcheke ou"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "fè byen pou ou"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "nan fen lavi w"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:08.381238156Z",
+  "model": "glm-5.3"
+}

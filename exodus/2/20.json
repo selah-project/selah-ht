@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E li di a pitit fi l yo: e kote ⟨li ye⟩? Poukisa konsa nou kite ⟨את⟩ gason an? Rele l, e l ap manje pen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "pitit fi l yo"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "e kote"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "nou kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gason an"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gason an"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "rele l"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "e l ap manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:21.231691533Z",
+  "model": "glm-5.3"
+}

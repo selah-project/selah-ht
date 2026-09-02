@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 35:3",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "E vil yo ap ye pou yo pou abite; e teren yo ap ye pou bèt yo, pou byen yo, ak pou tout zannimo yo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pou abite"
+    },
+    {
+      "surface": "ומגרשיהם",
+      "gloss": "teren yo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "לבהמתם",
+      "gloss": "pou bèt yo"
+    },
+    {
+      "surface": "ולרכשם",
+      "gloss": "pou byen yo"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ak pou tout"
+    },
+    {
+      "surface": "חיתם",
+      "gloss": "zannimo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:40:29.565384041Z",
+  "model": "glm-5.3"
+}

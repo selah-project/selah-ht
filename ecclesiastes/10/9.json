@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Moun ki deplase wòch ap blese ak yo; moun ki fann bwa ap mete ⟨tèt li⟩ an danje ak yo.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ki deplase"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "ap blese"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "ki fann"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ap mete an danje"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ak yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:27.028519522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Men desandans Aharòn ak Moche, nan jou Yawe pale ⟨את⟩ Moche, sou mòn Sinay la.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Men"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "desandans"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ak Moche"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou mòn"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:42.830128285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Èske èstranòd ou yo ap konnen nan fènwa a, ak jistis ou nan tè kote tout moun bliye?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "ap konnen"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "nan fènwa"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "èstranòd ou"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ak jistis ou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "kote tout moun bliye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:55.905486902Z",
+  "model": "glm-5.3"
+}

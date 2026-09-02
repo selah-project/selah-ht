@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Ladan m ap fè yon kòn pouse pou David; mwen òganize yon lanp pou Machiya m nan.",
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "Ladan"
+    },
+    {
+      "surface": "אַצְמִיחַ",
+      "gloss": "m ap fè pouse"
+    },
+    {
+      "surface": "קֶרֶן",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "עָרַכְתִּי",
+      "gloss": "mwen òganize"
+    },
+    {
+      "surface": "נֵר",
+      "gloss": "lanp"
+    },
+    {
+      "surface": "לִמְשִׁיחִי",
+      "gloss": "pou Machiya m nan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:56.030936620Z",
+  "model": "glm-5.3"
+}

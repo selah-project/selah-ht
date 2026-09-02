@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Lè pòtay zam li a wè Chaoul mouri, li tonbe tou li menm sou epè a, epi li mouri.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zam li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "epè a"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T21:17:31.773848890Z",
+  "model": "glm-5.3"
+}

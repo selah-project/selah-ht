@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Yo pa sonje ⟨את⟩ men l, ni jou l te rachte yo soti nan men oppresè a.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "rachte"
+    },
+    {
+      "surface": "מני",
+      "gloss": "soti nan men"
+    },
+    {
+      "surface": "צר",
+      "gloss": "oppresè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:08.457202515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li fè pitit ak Khodech, madanm li: ⟨את⟩ Yovav, ak ⟨את⟩ Tsivya, ak ⟨את⟩ Meycha, ak ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "li fè pitit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ak"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Khodech"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Tsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Meycha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meycha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:35.509034140Z",
+  "model": "glm-5.3"
+}

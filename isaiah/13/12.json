@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "M ap fè moun vin ra plis pase lò fin, plis pase lò pi renmen — yon moun plis pase lò Ofir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "fè vin ra"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "plis pase lò fin"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "plis pase lò pi"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:30.566922396Z",
+  "model": "glm-5.3"
+}

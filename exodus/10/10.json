@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E li di yo: Ke Yawe la avèk ou menm jan m ap voye ⟨את⟩ ou ak ⟨את⟩ ti moun nou yo — gade byen: move deyò devan figi nou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ke … la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "menm jan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avèk ou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan m ap"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou (אתכם, pwonon objè)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ti moun nou yo (טפכם)"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ti moun nou yo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gade byen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "move"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "deyò devan"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "figi nou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:29.327152709Z",
+  "model": "glm-5.3"
+}

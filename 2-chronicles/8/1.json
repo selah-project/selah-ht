@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E l rive nan fen ven tan kote Chelomo te bati ⟨את⟩ kay Yawe ak ⟨את⟩ kay li.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֞י",
+      "gloss": "E l rive"
+    },
+    {
+      "surface": "מִקֵּ֣ץ",
+      "gloss": "nan fen"
+    },
+    {
+      "surface": "עֶשְׂרִ֣ים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "שָׁנָ֗ה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "בָּנָ֧ה",
+      "gloss": "te bati"
+    },
+    {
+      "surface": "שְׁלֹמֹ֛ה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yawe"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kay li"
+    },
+    {
+      "surface": "בֵּיתֽוֹ",
+      "gloss": "kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:59.774107214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E David fè ⟨את⟩ lantman sa a sou Chaoul ak sou Yehonatan, pitit gason l.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "fè lantman"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lantman sa a"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "lantman"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:45.235638256Z",
+  "model": "glm-5.3"
+}

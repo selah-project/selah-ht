@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E l konte yo nan Bezek, e pitit Yisrayèl te twa san mil, e moun Youda trant mil.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "e l konte yo"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "nan Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e ⟨yo te⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "twa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e moun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Youda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:30.233342226Z",
+  "model": "glm-5.3"
+}

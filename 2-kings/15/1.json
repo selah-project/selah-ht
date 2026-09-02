@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Nan lane ven ak sèt nan wayote Yarobàm, wa Yisrayèl la, Azarya, pitit Amatsya, wa Yehouda, waye.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Nan lane"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ak sèt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Yarobàm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "waye"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:47.252576409Z",
+  "model": "glm-5.3"
+}

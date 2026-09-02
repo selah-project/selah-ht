@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 15:7",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Èske ou fèt premye, ⟨oubyen⟩ nonm premye a? E anvan kolin yo, èske ou te fòme?",
+  "tokens": [
+    {
+      "surface": "הראישון",
+      "gloss": "Èske ... premye"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nonm premye a"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "ou fèt"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e anvan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "kolin yo"
+    },
+    {
+      "surface": "חוללת",
+      "gloss": "te fòme"
+    }
+  ],
+  "timestamp": "2026-09-02T20:36:13.135480305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "(Yawe) renmen jistis ak jijman; tè a plen ak hesed (Yawe).",
+  "tokens": [
+    {
+      "surface": "אֹ֭הֵב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "צְדָקָ֣ה",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "וּמִשְׁפָּ֑ט",
+      "gloss": "ak jijman"
+    },
+    {
+      "surface": "חֶ֥סֶד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מָלְאָ֥ה",
+      "gloss": "plen"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:30.091279329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Chak moun pè manman l ak papa l, epi nou kenbe ⟨את⟩ chom yo mwen yo; mwen ⟨se⟩ Yawe Elohim nou.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ak papa l"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nou pè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "chom yo mwen yo"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "chom yo mwen yo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "nou kenbe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:45.570225024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "⟨Ki⟩ ap voye sous dlo nan ravìn yo — ant mòn yo yo ap mache.",
+  "tokens": [
+    {
+      "surface": "הַֽמְשַׁלֵּ֣חַ",
+      "gloss": "⟨Ki⟩ ap voye"
+    },
+    {
+      "surface": "מַ֭עְיָנִים",
+      "gloss": "sous dlo"
+    },
+    {
+      "surface": "בַּנְּחָלִ֑ים",
+      "gloss": "nan ravìn yo"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הָרִ֗ים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "יְהַלֵּכֽוּן",
+      "gloss": "mache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.837991213Z",
+  "model": "glm-5.3"
+}

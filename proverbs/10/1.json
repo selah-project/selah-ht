@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Pawòl Chelomo yo. Yon gason saj fè papa l kontan; men yon gason sòt se chagren manman l.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Pawòl"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gason"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saj"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "fè kontan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "men gason"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "chagren"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:46.128343979Z",
+  "model": "glm-5.3"
+}

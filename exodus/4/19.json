@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Yawe te di Moche nan Midyan: ale, tounen nan Mitsrayim, paske tout moun ki t ap chèche ⟨את⟩ lavi ou yo mouri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "te di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "nan Midyan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "ki t ap chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavi ou"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lavi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:19.984539930Z",
+  "model": "glm-5.3"
+}

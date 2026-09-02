@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Menm jan yon sèv ap langwi souple pou kouran dlo yo, konsa nefech mwen ap langwi pou ou, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Menm jan yon sèv"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ap langwi souple"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "kouran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ap langwi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:51.403403035Z",
+  "model": "glm-5.3"
+}

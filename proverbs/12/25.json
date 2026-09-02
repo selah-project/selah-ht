@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Enkyetid nan kè yon nonm fè l tonbe, men yon bon pawòl fè l kontan.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "enkyetid"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "nan kè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "fè l tonbe"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "men yon pawòl"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "fè l kontan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:36.174521908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi ou prale pote ⟨את⟩ Lavit yo devan Yawe, e pitit Yisrayèl yo pral mete ⟨את⟩ men yo sou Lavit yo.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "epi ou prale pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavit yo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lavit yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "epi ... pral mete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men yo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lavit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:24:39.298468826Z",
+  "model": "glm-5.3"
+}

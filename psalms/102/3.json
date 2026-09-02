@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Pa kache figi ou lwen mwen nan jou angoch mwen an; banche zòrèy ou bò mwen; nan jou m ap rele a, fè vit, reponn mwen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kache"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "lwen mwen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "צר",
+      "gloss": "angoch"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen an"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "banche"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bò mwen"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "zòrèy ou"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ap rele a"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "fè vit"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "reponn mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:26.829686281Z",
+  "model": "glm-5.3"
+}

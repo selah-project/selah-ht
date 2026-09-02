@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E Etàn! Non — vèsè 9: Enoch viv katrevìn diz an, e li fè ⟨את⟩ Kenan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoch"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "katrevîn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "diz an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:01.571972321Z",
+  "model": "glm-5.3"
+}

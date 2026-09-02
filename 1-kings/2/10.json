@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E David kouche ak zansèt yo, papa l yo, e yo antere l nan lavil David an.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E kouch"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt yo, papa l yo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e yo antere l"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:34.597025780Z",
+  "model": "glm-5.3"
+}

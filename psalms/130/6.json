@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 130,
+  "translation": "Nanm m pou Adònay plis pase gadyen yo ki ap veye pou maten, gadyen ki ap veye pou maten.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nanm m"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "pou Adònay"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "gadyen yo"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pou maten"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "gadyen"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pou maten"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:18.277509357Z",
+  "model": "glm-5.3"
+}

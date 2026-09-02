@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E Moche di: Manje l jodi a, paske jodi a se yon chabat pou Yawe; jodi a nou p ap jwenn l nan jaden an.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "manje l"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "chabat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "nou p ap jwenn l"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:35.863423051Z",
+  "model": "glm-5.3"
+}

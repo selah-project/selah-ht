@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Koute, tanpri, e menm mwen menm m ap pale ; m ap mande ou kesyon, e fè m konnen.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e menm mwen menm"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "m ap pale"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "m ap mande ou kesyon"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "e fè m konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:00.841410410Z",
+  "model": "glm-5.3"
+}

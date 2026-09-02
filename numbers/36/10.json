@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Jan Yawe kòmande ⟨את⟩ Moche, se konsa pitit fi Tselofhad yo fè.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofhad"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:08.405524394Z",
+  "model": "glm-5.3"
+}

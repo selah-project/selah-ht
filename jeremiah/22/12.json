@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Paske nan kote yo depòte ⟨את⟩ li, se la l ap mouri, e ⟨את⟩ tè sa a li p ap wè li ankò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "depòte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Chaloum)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè sa a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T18:54:52.135422284Z",
+  "model": "glm-5.3"
+}

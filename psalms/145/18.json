@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Yawe ⟨se⟩ pre pou tout moun ki rele l yo, pou tout moun ki rele l nan verite.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "pre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "moun ki rele l yo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "rele l"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "nan verite"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:01.749758986Z",
+  "model": "glm-5.3"
+}

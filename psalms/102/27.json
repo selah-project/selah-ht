@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Yo pèdi, men ou kanpe; tout yo ap vye tankou yon rad; kòm yon abiman ou chanje yo, e yo ap pase.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "ak tout yo"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "tankou yon rad"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ap vye"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kòm yon abiman"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "ou chanje yo"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "e yo ap pase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:32.981241178Z",
+  "model": "glm-5.3"
+}

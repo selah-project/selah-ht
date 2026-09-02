@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Eli reponn epi di: Ale an lapè, ak Elohim Izrayèl ban ⟨את⟩ demann ou an ke ou te mande de douvant li.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "an lapè"
+    },
+    {
+      "surface": "ו��להי",
+      "gloss": "ak Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "demann ou an"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "demann ou an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ou te mande"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "de douvant li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:40.689542467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pitit gason l yo te al fè fèt, chak nan kay pa l nan jounen l, e yo te voye chache twa (3) sè yo pou yo manje ak bwe ak yo.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "te al"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "yo te fè"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "nan jounen l"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "e yo te voye"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "chache"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "twa (3)"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "sè yo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pou yo manje"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ak bwe"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ak yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:38.036508406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Epi ou menm, Adònay, gen hesed (lanmou leyal): paske se ou ki ap peye chak moun dapre travay li a.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "epi pou ou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ap peye"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "dapre travay li a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:46.821175410Z",
+  "model": "glm-5.3"
+}

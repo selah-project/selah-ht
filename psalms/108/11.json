@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Kilès ki ap mennen m nan vil fòtifye a? Kilès ki ap gide m jouk Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kilès"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ki ap mennen m"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fòtifye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kilès"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ki ap gide m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:42.768694963Z",
+  "model": "glm-5.3"
+}

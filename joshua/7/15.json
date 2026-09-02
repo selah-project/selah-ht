@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi ⟨li pral pase konsa⟩: moun ki pran ak cherèm nan ap boule nan dife, li menm ak ⟨את⟩ tout sa ki pa l, paske li pase atravè ⟨את⟩ alyans Yawe a, e paske li fè yon nebala nan Izrayèl.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "epi ⟨li pral pase konsa⟩"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "moun ki pran"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "ak cherèm nan"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ap boule"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa ki pa l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pa l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "li pase atravè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alyans Yawe a"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alyans"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e paske"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "nebala"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:03:24.834179095Z",
+  "model": "glm-5.3"
+}

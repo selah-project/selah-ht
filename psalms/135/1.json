@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Louvri Yah, louvri ⟨את⟩ non Yawe a; louvri, ou sèvitè Yawe!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non Yawe a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ou sèvitè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:47.815359649Z",
+  "model": "glm-5.3"
+}

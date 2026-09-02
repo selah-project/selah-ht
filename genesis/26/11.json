@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi Avimelek bay lòd ⟨את⟩ tout pèp la, pou l di: «Moun ki manyen gason sa a osinon fanm l ap mouri, wi, ap mouri.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Epi ... bay lòd"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pèp la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Moun ki manyen"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "osinon fanm l"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wi, ap mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:16.648342970Z",
+  "model": "glm-5.3"
+}

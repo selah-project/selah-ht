@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E yo te ye nan uitvyè jou a, Moche rele Aharòn, ak pitit gason l yo, ak ansyen yo nan Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yo te ye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "uitvyè a"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ak pitit gason l yo"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "ak ansyen yo nan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:29.005006261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Kòm yon touye nan zo m yo, anmi m yo ap fè m wont, lè yo di m tout jou long: Kote Elohim ou a?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Kòm yon touye"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "nan zo m yo"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "yo ap fè m wont"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "anmi m yo"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "lè yo di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou long"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kote"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:19.209994295Z",
+  "model": "glm-5.3"
+}

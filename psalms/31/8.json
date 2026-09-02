@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "M ap rejwi e m ap kontan nan hesed ou, paske ou wè ⟨את⟩ mizè mwen; ou konnen angwa nanm mwen.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "m ap rejwi"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "e m ap kontan"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "nan hesed ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ou wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizè mwen"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mizè mwen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ou konnen"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "angwa nan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:57.773319438Z",
+  "model": "glm-5.3"
+}

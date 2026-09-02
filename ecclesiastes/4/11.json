@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Tou, si de moun kouche ansanm, yo gen chalè; epi pou youn sèl, kouman li ap gen chalè?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "kouche ansanm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de moun"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "epi chalè"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "epi pou youn sèl"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kouman"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ap gen chalè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:49.913719285Z",
+  "model": "glm-5.3"
+}

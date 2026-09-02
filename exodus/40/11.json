@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou onnen ⟨את⟩ basen an ak ⟨את⟩ pye li, epi ou konsakre ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "epi ou onnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basen an"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "basen an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pye li"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pye li"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "epi ou konsakre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (basen an ak pye li)"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:09.411412565Z",
+  "model": "glm-5.3"
+}

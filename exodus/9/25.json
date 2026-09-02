@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Grel la frape nan tout tè Mitsrayim ⟨את⟩ tout sa ki te nan jaden an, soti nan moun rive nan bèt; e ⟨את⟩ tout zèb jaden an grel la frape l, e ⟨את⟩ tout pyebwa jaden an li kraze.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grel la"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa ki te nan jaden an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden an"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "soti nan moun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tout zèb jaden an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zèb"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grel la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tout pyebwa jaden an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pyebwa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kraze"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:20.248698666Z",
+  "model": "glm-5.3"
+}

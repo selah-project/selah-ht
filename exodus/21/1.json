@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E se yo michtwaye sa yo ke ou mete devan yo:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E se yo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "michtwaye sa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "devan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:13.634929553Z",
+  "model": "glm-5.3"
+}

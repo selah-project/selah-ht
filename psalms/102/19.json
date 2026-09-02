@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Sa ap ekri pou yon jenerasyon ki ap vini an, epi yon pèp ki ap kreye ap fè lasaj Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "ap ekri"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pou yon jenerasyon"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ki ap vini an"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "epki yon pèp"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "ki ap kreye"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ap fè lasaj"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:01.281066475Z",
+  "model": "glm-5.3"
+}

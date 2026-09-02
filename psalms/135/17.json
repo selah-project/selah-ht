@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Yo gen zòrèy men yo pa tande; ⟨men⟩ pa gen souf nan bouch yo.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "zòrèy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo genyen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men yo pa"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אף",
+      "gloss": "men"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "souf"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nan bouch yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:57.130948702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Li ap appuye sou kay li, epi li pa kanbe; li ap kenbe sou li, epi li pa kanpe.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "appuye"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi li pa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kanbe"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi li pa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:46.875331332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi Yawe frape ⟨את⟩ pèp la paske yo te fè ⟨את⟩ bèf la, ke Aharòn te fè.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "frape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "על",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo te fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèf la"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:45.075881475Z",
+  "model": "glm-5.3"
+}

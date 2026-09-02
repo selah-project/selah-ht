@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Nan Elohim nou ap fè brayo, e se li menm k ap piten ènmi nou yo.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Nan Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nou ap fè"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "brayo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e se li menm"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "k ap piten"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ènmi nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:46.138584896Z",
+  "model": "glm-5.3"
+}

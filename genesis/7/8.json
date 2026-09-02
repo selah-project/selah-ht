@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Soti nan bèt la yo ki pi, ak soti nan bèt la yo ki pa pi, ak soti nan zwazo yo, ak tout sa ki k ap rampe sou tè a.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt la yo"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "ki pi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ak soti nan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt la yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ak soti nan"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "zwazo yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "k ap rampe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:58.083237979Z",
+  "model": "glm-5.3"
+}

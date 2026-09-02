@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Pitit Gad yo dapre fanmi yo: pou Tsefòn, fanmi ⟨la⟩ Tsefonit yo; pou Khagi, fanmi ⟨la⟩ Khagit yo; pou Chouni, fanmi ⟨la⟩ Chounit yo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "yo dapre fanmi yo"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "pou Tsefòn"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "⟨la⟩ Tsefonit yo"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "pou Khagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "⟨la⟩ Khagit yo"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "pou Chouni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "⟨la⟩ Chounit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:34:11.554915773Z",
+  "model": "glm-5.3"
+}

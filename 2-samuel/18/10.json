@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi yon nonm wè sa, epi l anonse bay Yoav, epi l di: Gade, mwen wè ⟨את⟩ Avchalom ap pann nan pyebwa a.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "bay Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mwen wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avchalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "ap pann"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "nan pyebwa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:48:48.463331185Z",
+  "model": "glm-5.3"
+}

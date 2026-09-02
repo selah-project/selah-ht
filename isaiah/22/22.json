@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi m ap mete kle kay David la sou zepòl li; l ap louvri, e pa gen ⟨moun ki ap fèmen⟩; l ap fèmen, e pa gen ⟨moun ki ap louvri⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "epi m ap mete"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "kle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "zepòl li"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "e l ap louvri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "moun ki ap fèmen"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "e l ap fèmen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "moun ki ap louvri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:29:32.175379769Z",
+  "model": "glm-5.3"
+}

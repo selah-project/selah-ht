@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Elohim, nan kadosh ⟨la⟩ chemen ou ye; kiyès ⟨se⟩ yon El gran kòm Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nan kadosh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "chemen ou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kòm Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:19.079833512Z",
+  "model": "glm-5.3"
+}

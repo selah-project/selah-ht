@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi gason yo fè konsa : yo pran de bèf ki t ap bay lèt, yo mare yo nan charyo a, e ⟨את⟩ pitit yo yo fèmen nan kay la.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Epi yo fè"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gason yo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "yo pran"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "bèf femèl"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ki t ap bay lèt"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "yo mare yo"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "nan charyo a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pitit yo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yo fèmen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:31.112526927Z",
+  "model": "glm-5.3"
+}

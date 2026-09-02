@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Epi yo konnen ke ou sèlman — non ou se Yawe — se ou ki Elyòn (ki pi wo a) sou tout tè a.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "epi yo konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ou sèlman"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn (ki pi wo a)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:18.115085829Z",
+  "model": "glm-5.3"
+}

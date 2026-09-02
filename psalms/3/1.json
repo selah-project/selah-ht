@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Mizmòr pou David, lè l te fwi devan Avchalom, pitit li.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmòr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "lè l te fwi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:26.620741305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "ak lame l, ak moun ki konte yo: yon sèl ak karant mil, ak senk san.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ak lame l"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ak moun ki konte yo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ak karant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ak senk"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:04.254792984Z",
+  "model": "glm-5.3"
+}

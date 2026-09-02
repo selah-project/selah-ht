@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Yon Maskil (pwezi ansèyman) pou Asaf. Poukisa, Elohim, ou rejte ⟨nou⟩ pou tout tan? Kòlè ou a fimen sou mouton patiraj ou a.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ou rejte"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "fimen"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kòlè ou"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "sou mouton"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "patiraj ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:41.743542105Z",
+  "model": "glm-5.3"
+}

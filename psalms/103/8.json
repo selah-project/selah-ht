@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Yawe gen konpasyon ak favè, kòlè ⟨li⟩ long pou vin, e li gen anpil hesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "gen konpasyon"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ak favè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "long pou vin"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e gen anpil"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:52.583545196Z",
+  "model": "glm-5.3"
+}

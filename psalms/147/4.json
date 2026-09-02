@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "⟨Li⟩ konte kantite zetwal yo, ⟨li⟩ rele tout non yo pou chak.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "konte"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kantite"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "zetwal yo"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non yo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "rele pou chak"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:30.330076562Z",
+  "model": "glm-5.3"
+}

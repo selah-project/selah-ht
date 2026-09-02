@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Yon vwa ap rele nan dezè: prepare wout Yawe a, fè dwat nan savàn lan yon gwo wout pou Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ap rele"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "wout"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "fè dwat"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "nan savàn"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "gwo wout"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "pou Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:17.821964478Z",
+  "model": "glm-5.3"
+}

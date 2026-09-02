@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Nan tès li, li tounen sou Yawe, Elohim Yisrael; l chèche l, e l vin jwenn pou yo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nan tès"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "e l chèche l"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "e l vin jwenn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:30:00.764467511Z",
+  "model": "glm-5.3"
+}

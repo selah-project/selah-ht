@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Ak lame l ak moun ki konte yo nan mitan yo: senk ak karant mil ak sis san ak senkant.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ak lame l"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ak moun ki konte yo nan mitan yo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ak karant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ak sis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ak senkant"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:42.258548001Z",
+  "model": "glm-5.3"
+}

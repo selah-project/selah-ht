@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E l te pase konsa: lè wayòm Ròboàm fin ranfòme e lè l fin vin fò, l te kite lòt ⟨את⟩ lwa Yawe a, e tout Yisrael ak li.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e l te pase konsa"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "lè ... fin ranfòme"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Ròboàm"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "e lè l fin vin fò"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "l te kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwa Yawe a"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ak li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:28:20.505473399Z",
+  "model": "glm-5.3"
+}

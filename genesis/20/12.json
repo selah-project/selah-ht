@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi vrèman vrè, se sè mwen li ye, pitit papa mwen ⟨li ye⟩, men se pa pitit manman mwen ⟨li ye⟩; epi li vin madanm mwen.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Epi vrèman vrè"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "vrèman vrè"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "se sè mwen"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa mwen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    },
+    {
+      "surface": "אך",
+      "gloss": "men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "manman mwen"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "epi li vin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "madanm"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:15.320192220Z",
+  "model": "glm-5.3"
+}

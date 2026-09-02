@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Lè m te kenbe silans, zo mwen te konvomi, nan wouch mwen tout jounen an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "m te kenbe silans"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "te konvomi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "zo mwen"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "nan wouch mwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jounen an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:13.921227323Z",
+  "model": "glm-5.3"
+}

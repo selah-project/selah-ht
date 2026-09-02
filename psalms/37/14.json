@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Movèz yo ouvri epe, e yo piye ak yo (zo pou tire flèch), pou fè pòv la ak needie a tonbe, pou masakre moun k'ap mache dwat sou wout la.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "epe"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ouvri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "movèz yo"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "e piye"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "pou fè tonbe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ak needie a"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "pou masakre"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "moun k'ap mache dwat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sou wout la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:32.510456663Z",
+  "model": "glm-5.3"
+}

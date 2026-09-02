@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Lave m byen, depase limit, nan faut mwen an; epi vin netwaye m nan peche mwen an.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "byen, depase limit"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Lave m"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "nan faut mwen an"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "epi nan peche mwen an"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "vin netwaye m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:41.282928983Z",
+  "model": "glm-5.3"
+}

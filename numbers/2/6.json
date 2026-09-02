@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E lame l ak moun ki konte nan l la yo, kat ak senkant mil ak kat san.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "E lame l"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ak moun ki konte nan l la"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ak senkant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:28.525879031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi li retire ⟨את⟩ po gòj li ak plim l, epi voye ⟨את⟩ li pre otèl la, bò solèy levan an, nan kote lasaj yo.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "epi retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "po gòj li"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "po gòj li"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "ak plim l"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "epi voye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pre"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otèl la"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "bò solèy levan an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "lasaj yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:59.831583978Z",
+  "model": "glm-5.3"
+}

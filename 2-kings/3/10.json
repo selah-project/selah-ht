@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E wa Izrayèl la di: Ah! paske Yawe rele twa wa sa yo ansanm, pou l bay ⟨את⟩ yo nan men Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "pou twa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pou bay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (twa wa yo)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-02T18:08:50.401517841Z",
+  "model": "glm-5.3"
+}

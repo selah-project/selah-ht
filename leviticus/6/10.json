@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Pa kwit l ak leven. Pataj yo mwen bay ⟨את⟩ li nan ofrann dife m yo; li sen nan sannte, tankou ofrann peche a ak tankou ofrann koupab la.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "kwit"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ak leven"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "Pataj yo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen bay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "nan ofrann dife m"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nan sannte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "tankou ofrann peche a"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "ak tankou ofrann koupab la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:04:46.004457548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E li jije ⟨את⟩ Yisrael nan jou Filistin yo, ven an.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "e li jije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    }
+  ],
+  "timestamp": "2026-09-02T17:19:35.918694916Z",
+  "model": "glm-5.3"
+}

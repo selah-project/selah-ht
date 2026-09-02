@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Menm ⟨את⟩ pitit esklav fi a, m ap fè l vin yon nasyon, paske li se desandan ou.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit esklav fi a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "esklav fi a"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "yon nasyon"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "m ap fè l vin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "desandan ou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:15.581204046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Kote hesed ou yo, premye yo, Adònay, ⟨ou⟩ jire pou David nan lealtè ou?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Kote"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed ou yo"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "premye yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "jire"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "nan lealtè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:23.017452867Z",
+  "model": "glm-5.3"
+}

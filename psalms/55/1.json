@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Pou chèf mizisyen an, sou enstruman kòd, yon maskil (pwezi enstriktif), pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "sou enstruman kòd"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:32.181137493Z",
+  "model": "glm-5.3"
+}

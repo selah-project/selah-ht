@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "E li bay ⟨את⟩ mechan yo simityè li, ak ⟨את⟩ moun rich nan lanmò li; paske vyolans li pa fè, e pa gen twòp nan bouch li.",
+  "tokens": [
+    {
+      "surface": "וַיִּתֵּן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "mechan yo"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "קִבְרוֹ",
+      "gloss": "simityè li"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "moun rich"
+    },
+    {
+      "surface": "עָשִׁיר",
+      "gloss": "moun rich"
+    },
+    {
+      "surface": "בְּמֹתָיו",
+      "gloss": "nan lanmò li"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חָמָס",
+      "gloss": "vyolans"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "מִרְמָה",
+      "gloss": "twòp"
+    },
+    {
+      "surface": "בְּפִיו",
+      "gloss": "nan bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:40.366984777Z",
+  "model": "glm-5.3"
+}

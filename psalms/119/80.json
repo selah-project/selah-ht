@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Se pou kè mwen san defo nan estatri ou yo, pou m pa vin wont.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "se pou"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "san defo"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "nan estatri ou yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "vin wont"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:36.374842234Z",
+  "model": "glm-5.3"
+}

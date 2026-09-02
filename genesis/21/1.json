@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Yawe vizite ⟨את⟩ Sarah, jan l te di a, e Yawe fè pou Sarah jan l te pale a.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Epi Yawe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "vizite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "te di"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "pou Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:00.761762779Z",
+  "model": "glm-5.3"
+}

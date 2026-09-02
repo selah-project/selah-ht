@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E nou plante ⟨את⟩ lane yeyèm lan, e nou ap manje nan ansyen rekòt la jouk lane nevyèm lan, jouk lè rekòt li rive — nou ap manje ansyen an.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "nou plante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lane yeyèm lan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "yeyèm lan"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "nou ap manje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "rekòt la"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ansyen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "nevyèm lan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "lè … rive"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "rekòt li"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou ap manje"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ansyen an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:16:24.313023116Z",
+  "model": "glm-5.3"
+}

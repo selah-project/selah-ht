@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Paske Yawe wè ⟨את⟩ mizè Yisrael, li te byen amè; pa gen moun ki fèmen, pa gen moun ki kite, e pa gen moun ki ede pou Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizè Yisrael"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mizè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "amè"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "byen (vi)"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "moun ki fèmen"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ni pa gen"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "moun ki kite"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "moun ki ede"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pou Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:35.389790817Z",
+  "model": "glm-5.3"
+}

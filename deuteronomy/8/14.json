@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "epi kè w monte anwo, epi ou bliye ⟨את⟩ Yawe, Elohim ou, menm ki fè ou soti nan peyi Mitsrayim, soti nan kay esklav yo",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "epi kè w monte anwo"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "kè w"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "epi ou bliye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "ki fè ou soti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soti nan kay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "esklav yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:08.380821588Z",
+  "model": "glm-5.3"
+}

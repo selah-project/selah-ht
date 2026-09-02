@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi ou mete yon limit ⟨את⟩ pèp la toutotou, w ap di: Fè atansyon pa moute sou montay la, pa manyen fwontyè l: nenpòt moun ki manyen montay a ap mouri — yo ap fè l mouri.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Epi ou mete yon limit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "w ap di"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Fè atansyon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨pou nou⟩"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "pa moute"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou montay la"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "e pa manyen"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "fwontyè l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt moun"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ki manyen"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "montay a"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "yo ap fè l mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:11.235241850Z",
+  "model": "glm-5.3"
+}

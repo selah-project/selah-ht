@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Bati kay, epi rete nan yo; plante jaden, epi manje ⟨את⟩ fwi yo.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Bati"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "epi rete"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "epi plante"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "jaden"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "epi manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fwi yo"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "fwi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:58:48.651402315Z",
+  "model": "glm-5.3"
+}

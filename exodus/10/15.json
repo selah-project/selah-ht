@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Li kouvri ⟨את⟩ je tout tè a, epi tè a vin nwa; li manje ⟨את⟩ tout zèb tè a ak ⟨את⟩ tout fwi pyebwa yo ke laray te kite a; epi pa gen anyen vèt ki rete, ni nan pyebwa yo ni nan zèb chan an, nan tout tè Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "kovri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je tout tè a"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "vin nwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout zèb tè a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zèb"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout fwi pyebwa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pyebwa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "te kite"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "laray"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "rete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anyen"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "vèt"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "nan pyebwa"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "ni nan zèb"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chan an"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:26.606930922Z",
+  "model": "glm-5.3"
+}

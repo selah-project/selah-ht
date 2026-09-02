@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E yo antere ⟨את⟩ Avnèr nan Chebron; e wa a leve ⟨את⟩ vwa l, e li plore sou tonm Avnèr a; e tout pèp la plere.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "e yo antere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnèr"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnèr"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "nan Chebron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "e leve"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa l"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "vwa l"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "e plore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "tonm"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnèr"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "e plere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:41:08.207557564Z",
+  "model": "glm-5.3"
+}

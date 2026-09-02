@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Chatayim yo, se move ki pouse yo; men ⟨את⟩ jis yo, ⟨li⟩ ap ranbouse ak bon.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "chatayim yo"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "pouse"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "move"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jis yo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "jis yo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ap ranbouse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:13.942278151Z",
+  "model": "glm-5.3"
+}

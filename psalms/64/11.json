@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "Moun jis la ap chèche reyisi nan Yawe, pran refij nan ⟨li⟩; epi tout moun kè dwat ap fè lwanj.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ap chèche reyisi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "pran refij"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan ⟨li⟩"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ap fè lwanj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:05.646215528Z",
+  "model": "glm-5.3"
+}

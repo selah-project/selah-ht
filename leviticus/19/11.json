@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Zòt pa dwe vòlè, epi zòt pa dwe fòse, epi zòt pa dwe manti sou pròch zòt.",
+  "tokens": [
+    {
+      "surface": "לֹ֖א",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תִּגְנֹ֑בוּ",
+      "gloss": "vòlè"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תְכַחֲשׁ֥וּ",
+      "gloss": "fòse"
+    },
+    {
+      "surface": "וְלֹא־",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תִשְׁקְּר֖וּ",
+      "gloss": "manti"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "moun"
+    },
+    {
+      "surface": "בַּעֲמִיתֽוֹ",
+      "gloss": "sou pròch li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:11.888348986Z",
+  "model": "glm-5.3"
+}

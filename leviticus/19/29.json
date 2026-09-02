@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Pa salì ⟨את⟩ pitit fi ou pou fè l pwostitye, pou tè a pa fònikri, e pou tè a pa plen vyès.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "salì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit fi ou"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "pitit fi ou"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "pou fè l pwostitye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pou... pa"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "fònikri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "e plen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "vyès"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:12.864783763Z",
+  "model": "glm-5.3"
+}

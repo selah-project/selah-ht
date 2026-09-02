@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi ou ap fè selon sajès ou a, e pa fè chèvi l desann nan lapè nan Cheol.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Epi ou ap fè"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "selon sajès ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "fè desann"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "chèvi l"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "nan lapè"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Cheol"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:59.874340393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Sòt la anbrase ⟨את⟩ men l yo, epi li manje ⟨את⟩ chè l menm.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Sòt la"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "anbrase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l yo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "men l yo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "epi li manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chè l menm"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "chè l menm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:46.095081253Z",
+  "model": "glm-5.3"
+}

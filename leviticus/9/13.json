@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi yo pote ⟨את⟩ ofran dife a ba li, koupe an moso, ak ⟨את⟩ tèt la; epi li fè l fimen sou lotèl la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ofran dife a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofran dife a"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "koupe an moso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tèt la"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tèt la"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "fè fimen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:28.020223376Z",
+  "model": "glm-5.3"
+}

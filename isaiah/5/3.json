@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi kounye a, èh abitan Yerouchalayim ak gason Yehouda, jije, tanpri, ant mwen ak vinyè mwen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Epi kounye a"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "abitan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ak gason"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "jije"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ant mwen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "vinyè mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:23.607800144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi li pote ofann li soti nan li, ofann dife pou Yawe: ⟨את⟩ gès la ki kouvri ⟨את⟩ trip yo, ak ⟨את⟩ tout gès la ki sou trip yo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "epi pote"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "soti nan li"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ofann li"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofann dife"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gès la"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gès la"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ki kouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trip yo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "trip yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout gès la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gès la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "trip yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:02.306792131Z",
+  "model": "glm-5.3"
+}

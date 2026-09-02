@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E wa Yehoram soti jou sa a nan Chemron, e l fè kont ⟨את⟩ tout Izrayèl.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E … soti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "nan Chemron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "e l fè kont"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout Izrayèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:12.371223252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Lè wayòm nan vin solid nan men l, li frape ⟨את⟩ sèvitè l yo, yo menm ki te frape ⟨את⟩ wa a, papa l.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lè l te pase"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "vin solid"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "wayòm nan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "li frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvitè l yo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè l yo"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ki te frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:58.006692910Z",
+  "model": "glm-5.3"
+}

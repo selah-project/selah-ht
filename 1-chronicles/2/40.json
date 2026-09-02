@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Elasa fè ⟨את⟩ Sismay, e Sismay fè ⟨את⟩ Chaloum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismay"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "e Sismay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaloum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Chaloum"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:09.378507738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 149,
+  "translation": "Yisrael dwe kontan nan Kreyatè l, pitit Tsiyòn dwe rejwi nan Wa yo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "dwe kontan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "nan Kreyatè l"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "dwe rejwi"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "nan Wa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:00.026389229Z",
+  "model": "glm-5.3"
+}

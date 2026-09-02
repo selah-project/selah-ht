@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Yehochoua tounen, avèk tout Yisrael ansanm ak li, nan kan Gilgala.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "epi ... tounen"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ansanm ak li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgala"
+    }
+  ],
+  "timestamp": "2026-09-02T17:03:46.361534471Z",
+  "model": "glm-5.3"
+}

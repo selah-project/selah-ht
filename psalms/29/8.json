@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Vwa Yawe fè dezè a tranble; Yawe fè dezè Kadèch la tranble.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "fè tranble"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dezè a"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "fè tranble"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dezè"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadèch"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:05.939727444Z",
+  "model": "glm-5.3"
+}

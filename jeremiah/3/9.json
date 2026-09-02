@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E paske adulèt li a te lejè, li sali ⟨את⟩ tè a, e l fè adultè ak ⟨את⟩ pyè yo ak ⟨את⟩ bwa yo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "paske … lejè"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "adulèt li"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "li sali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "e l fè adultè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyè yo"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "pyè yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bwa yo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "bwa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:45:37.291667223Z",
+  "model": "glm-5.3"
+}

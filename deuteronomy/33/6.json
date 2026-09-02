@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Reouvèn ap viv e pa mouri, e nonm l yo dwe gen yon nonb.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ap viv"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reouvèn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ... dwe gen"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "nonm l yo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nonb"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:58.363077812Z",
+  "model": "glm-5.3"
+}

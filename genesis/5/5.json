@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Tout jou Adam te vivan yo te nèf san ane ak trant ane, epi l mouri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yo te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חי",
+      "gloss": "te vivan"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ak trant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "epi l mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:47.855219632Z",
+  "model": "glm-5.3"
+}

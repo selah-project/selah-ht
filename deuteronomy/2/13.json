@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Koulye a, levez, e pase pou nou ⟨את⟩ rivyè Zered la — e nou te pase ⟨את⟩ rivyè Zered la.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Koulye a"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "e pase"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rivyè Zered la"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "rivyè"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "e nou te pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rivyè Zered la"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "rivyè"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:14.421439342Z",
+  "model": "glm-5.3"
+}

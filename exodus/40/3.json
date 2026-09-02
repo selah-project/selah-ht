@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou mete la ⟨את⟩ wat temwayaj la, epi ou kouvri sou wat la ⟨את⟩ rido a.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat temwayaj la"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "wat"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "temwayaj la"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "epi ou kouvri"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "wat la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rido a"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "rido a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:25.027058904Z",
+  "model": "glm-5.3"
+}

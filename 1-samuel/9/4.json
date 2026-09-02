@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 9:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Li pase nan mòn Ef rayim, e li pase nan peyi Chalicha, e yo pa jwenn; e yo pase nan peyi Chaalim, e yo pa la; e li pase nan peyi Yemini, e yo pa jwenn.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ef rayim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "e pase"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "Chalicha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "e pase"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "Chaalim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen yo"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "e pase"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yemini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "jwenn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:27:22.207868063Z",
+  "model": "glm-5.3"
+}

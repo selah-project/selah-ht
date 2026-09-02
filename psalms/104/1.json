@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Beni, nanm mwen, ⟨את⟩ Yawe; Yawe, Elohim mwen, ou vin trè gran; ou abiye ak majeste ak bèlte.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "ou vin trè gran"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "trè"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "majeste"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ak bèlte"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ou abiye ak"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:31.600536395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi li kanpe figi l fiks ⟨את⟩ sou li, jouk li vin wont, e mesye Elohim an anmèdan plede kriye.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "li kanpe fiks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi l (sou li)"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "epi li mete"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "בש",
+      "gloss": "li vin wont"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "anmèdan plede kriye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mesye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:18.094088744Z",
+  "model": "glm-5.3"
+}

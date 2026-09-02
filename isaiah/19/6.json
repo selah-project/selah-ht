@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E larivyè yo pral vin ⟨pouri⟩; kanal Mitsrayim yo pral diminye e pral vin dezol; kenk ak souf pral kale.",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "e pral vin ⟨pouri⟩"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "larivyè yo"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "pral diminye"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "e pral vin dezol"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kenk"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "ak souf"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "pral kale"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:00.267301570Z",
+  "model": "glm-5.3"
+}

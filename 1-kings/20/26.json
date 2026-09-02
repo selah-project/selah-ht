@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E l te pase, nan tounen lane a, Ben-Hadad te fè resansman ⟨את⟩ Aram, e l te moute Afek la, pou l te al goumen ak Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e l te pase"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "nan tounen"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "lane a"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "te fè resansman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e l te moute"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afek la"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pou l te al goumen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:06:15.620189566Z",
+  "model": "glm-5.3"
+}

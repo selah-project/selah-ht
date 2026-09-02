@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "Montre m favè, Elohim, montre m favè, paske nan ou nanm m ap pran refij; epi nan lonbraj zèl ou m ap kache, jouk désastre yo fin pase.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Montre m favè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "montre m favè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "ap pran refij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "epi nan lonbraj"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "zèl ou"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "m ap kache"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "fin pase"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "désastre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:53.249054932Z",
+  "model": "glm-5.3"
+}

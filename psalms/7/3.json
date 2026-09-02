@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Pou ⟨li⟩ pa dechire nanm mwen tankou yon lyon, ap wete l an moso, san gen moun ki delivre.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Pou…pa"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "dechire"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "tankou yon lyon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ap wete an moso"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "san gen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "moun ki delivre"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:02.842311356Z",
+  "model": "glm-5.3"
+}

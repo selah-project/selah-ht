@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E mesaje yo rive nan Gibea Chaoul, e yo pale pawòl yo nan zòrèy pèp la; e tout pèp la leve ⟨את⟩ vwa yo, e yo plere.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "rive"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "mesaje yo"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "nan zòrèy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa yo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "vwa yo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "plere"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:45.171974761Z",
+  "model": "glm-5.3"
+}

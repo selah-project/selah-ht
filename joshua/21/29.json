@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmout ak ⟨את⟩ zòn louvri l yo, ⟨את⟩ Èn-Ganèn ak ⟨את⟩ zòn louvri l yo — kat vil.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmout"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmout"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zòn louvri l yo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zòn louvri l yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Èn-Ganèn"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Èn-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganèn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zòn louvri l yo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zòn louvri l yo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "vil"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:41.088307087Z",
+  "model": "glm-5.3"
+}

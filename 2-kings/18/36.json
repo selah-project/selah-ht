@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi pèp la rete an silans, epi yo pa reponn l ⟨את⟩ pa yon mo, paske lòd wa a se ⟨sa⟩ ki di: pa reponn l.",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "epi yo rete an silans"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "pa yon mo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "lòd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se ⟨sa⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ki di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "reponn l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:23.818432948Z",
+  "model": "glm-5.3"
+}

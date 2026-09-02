@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "L ap vide toutafè tè a vid, e l ap pilye l toutafè, paske Yawe pale ⟨את⟩ pawòl sa a.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "L ap vide"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "toutafè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "e l ap pilye l"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "toutafè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:54.792051085Z",
+  "model": "glm-5.3"
+}

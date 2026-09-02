@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Gade, se pou Yawe Elohim ou an syèl yo ak syèl syèl yo, tè a ak tout sa ki nan l.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou an"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ak syèl"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:35.891875271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E te gen yon ⟨wa⟩ an Yechouroun, lè tèt pèp la te rasanble ansanm, tribi Yisrael yo ansanm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E te gen"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "an Yechouroun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "lè ... te rasanble"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:58.362832509Z",
+  "model": "glm-5.3"
+}

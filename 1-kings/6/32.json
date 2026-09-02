@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 6:32",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E de pòtay bwa pye oliv — e li kloure sou yo gravur kerubim, ak pye palm, ak flè louvri — e li kouvwi yo ak lò, e li fè ⟨את⟩ lò a desann sou kerubim yo ak sou pye palm yo.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "e de"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "pye oliv"
+    },
+    {
+      "surface": "וקלע",
+      "gloss": "e li kloure"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "gravur kloure"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "ותמרות",
+      "gloss": "ak pye palm"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "ak flè louvri"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "flè louvri"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "e li kouvwi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e li fè desann"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubim yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "התמרות",
+      "gloss": "pye palm yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lò a"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:10.458957702Z",
+  "model": "glm-5.3"
+}

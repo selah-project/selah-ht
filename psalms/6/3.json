@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Fè m gràs, Yawe, paske mwen fèb ⟨anpil⟩; geri m, Yawe, paske zo yo ap tranble.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fè m gràs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "fèb"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "geri m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ap tranble"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "zo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:28.705767337Z",
+  "model": "glm-5.3"
+}

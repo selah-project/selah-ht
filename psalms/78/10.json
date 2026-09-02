@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Yo pa kenbe kontra Elohim, e yo refize mache nan lwa ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "nan lwa ⟨li⟩"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "yo refize"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:31.317223194Z",
+  "model": "glm-5.3"
+}

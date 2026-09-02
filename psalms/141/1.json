@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 141,
+  "translation": "Mizmor pou David. Yawe, mwen rele ou, vit pou mwen, pran vwa m nan zòrèy ou lè m rele ou.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mwen rele ou"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pran nan zòrèy"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vwa m"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "lè m rele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:23.517285587Z",
+  "model": "glm-5.3"
+}

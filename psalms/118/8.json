@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Pi byen refijye nan Yawe pase mete konfyans nan moun.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Pi byen"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "refijye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "pase mete konfyans"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nan moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:34.047855158Z",
+  "model": "glm-5.3"
+}

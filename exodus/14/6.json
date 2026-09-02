@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E l pare ⟨את⟩ charyo l, e ⟨את⟩ pèp li a l pran avèk l.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "e l pare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "charyo l"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "charyo l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèp li"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avèk l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:58.974382408Z",
+  "model": "glm-5.3"
+}

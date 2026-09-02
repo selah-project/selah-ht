@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi moun k ap kanpe bò solèy leve a, se drapo kan Yehouda a ⟨se⟩, dapre lame yo; epi chèf pitit Yehouda yo se Nakhchon, pitit gason Aminadav.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "epi moun k ap kanpe"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kòtè"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "solèy leve"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "drapo"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "dapre lame yo"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "epi chèf"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhchon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:07.956538909Z",
+  "model": "glm-5.3"
+}

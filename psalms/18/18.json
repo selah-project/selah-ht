@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Li delivre m de enmi fò mwen an, ak de moun ki rayi m la, paske yo pi fò pase m.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "delivre m"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "de enmi mwen"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fò"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "ak de moun ki rayi m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "yo pi fò"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pase m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:51.857116624Z",
+  "model": "glm-5.3"
+}

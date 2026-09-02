@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 40:10",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Chanm pòtay kote lès la: twa nan bò sa a, ak twa nan lòt bò; yon sèl mezire pou twa yo, ak yon sèl mezire pou poto yo, nan bò sa a epi nan lòt bò.",
+  "tokens": [
+    {
+      "surface": "ותאי",
+      "gloss": "ak chanm yo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pòtay la"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "lès la"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "depi bò sa a"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ak twa"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "depi lòt bò"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "mezire"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "לשלשתם",
+      "gloss": "pou twa yo"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "ak mezire"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "pou poto yo"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "depi bò sa a"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "epi depi lòt bò"
+    }
+  ],
+  "timestamp": "2026-09-02T19:28:10.351656535Z",
+  "model": "glm-5.3"
+}

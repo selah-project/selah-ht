@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Anpil moun ap di: Kimoun ki pral fè nou wè ⟨l⟩ bon? Leve sou nou limyè figè ou, Yawe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Anpil moun"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kimoun"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ki pral fè nou wè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨l⟩ bon"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "אור",
+      "gloss": "limyè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figè ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:39.053244236Z",
+  "model": "glm-5.3"
+}

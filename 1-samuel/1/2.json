@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E li te gen de fanm: non youn se Hana, e non dezyèm nan se Penina; Penina te gen timoun, men Hana pa t gen timoun.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "e li te gen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "youn"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "dezyèm nan"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "te gen"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "timoun"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "e Hana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa t gen"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "timoun"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:48.721499818Z",
+  "model": "glm-5.3"
+}

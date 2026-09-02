@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "L ale kite ⟨nan men⟩ Eliça, vin jwenn mèt li a; li mande l: Kisa Eliça di ou? Epi li reponn: Li di m: Ou pral vivan — wi, ou pral vivan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kite ⟨nan men⟩ ⟨את⟩"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliça"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vin jwenn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kote"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mèt li"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliça"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ou pral vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:46.777611292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E goèl la a di: Mwen pa ka rachte l pou mwen, pou mwen pa detwi ⟨את⟩ eritaj mwen an. Rachte ⟨את⟩ dwa goèl mwen an pou ou menm, paske mwen pa ka rachte l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "goèl la a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "rachte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou mwen pa"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "detwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eritaj mwen an"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "eritaj mwen an"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "rachte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwa goèl mwen an"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "dwa goèl mwen an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "rachte l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:36.129539201Z",
+  "model": "glm-5.3"
+}

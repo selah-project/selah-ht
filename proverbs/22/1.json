@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Yon non chwazi pi bon pase richès anpil, plis pase lajanjan ak plis pase lò — favor ki bon.",
+  "tokens": [
+    {
+      "surface": "נִבְחָר",
+      "gloss": "chwazi"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "non"
+    },
+    {
+      "surface": "מֵעֹשֶׁר",
+      "gloss": "pase richès"
+    },
+    {
+      "surface": "רָב",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "מִכֶּסֶף",
+      "gloss": "pase lajanjan"
+    },
+    {
+      "surface": "וּמִזָּהָב",
+      "gloss": "ak pase lò"
+    },
+    {
+      "surface": "חֵן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "ki bon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:34.324541643Z",
+  "model": "glm-5.3"
+}

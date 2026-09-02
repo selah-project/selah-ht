@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 101,
+  "translation": "Pa m ap mete devan zye m ⟨yon⟩ bagay Beliyal (san valè); travay ⟨moun⟩ ki detounen, mwen rayi; ⟨li⟩ pa ap kole sou m.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mete"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "zye m"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "ki detounen"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mwen rayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "ap kole"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sou m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:16.607459335Z",
+  "model": "glm-5.3"
+}

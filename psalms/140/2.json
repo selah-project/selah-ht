@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 140,
+  "translation": "Delivre m, Yawe, de nonm move; kenbe m lwen nonm vyolan yo.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Delivre m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "de nonm"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nan men nonm"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "vyolan yo"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "kenbe m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:13.991291564Z",
+  "model": "glm-5.3"
+}

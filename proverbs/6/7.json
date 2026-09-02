@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Ki pa gen ni chèf, ni sipèvizè, ni gouvènè ⟨pou li⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨pou li⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "ni chèf"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ni sipèvizè"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ni gouvènè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:32.703868826Z",
+  "model": "glm-5.3"
+}

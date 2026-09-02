@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 36:19",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E l fè yon kouvèti pou tant la, an pè beLYE wouje, e yon kouvèti an pè tachach anlè.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kouvèti"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "pou tant la"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "an pè"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "beLYE"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "wouje"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "e yon kouvèti"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "an pè"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachach"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "anlè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:56.426783888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Li pa tounen ankò nan kay li, ak kote ⟨li⟩ pa rekonèt l ankò.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "nan kay li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ak pa"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "rekonèt l"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "kote li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:33:16.120388391Z",
+  "model": "glm-5.3"
+}

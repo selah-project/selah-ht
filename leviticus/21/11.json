@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi sou nenpòt moun mò li pa antre — pou papa l ni pou manman l li pa vin imond.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Epi sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt moun \/ tout"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nefèch (moun)"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mò"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "pou papa l"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "e pou manman l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "vin imond"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:19.618251983Z",
+  "model": "glm-5.3"
+}

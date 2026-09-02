@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "M ap tande sa El Yawe ap pale, paske l ap pale chalom ak pèp li a, e ak moun hesed li yo, e ⟨pa⟩ ⟨ke⟩ yo pa tounen nan sotiz.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "M ap tande"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ap pale"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ap pale"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "chalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ak"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "moun hesed li yo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ⟨ke pa⟩"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "yo tounen"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "nan sotiz"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:54.551298848Z",
+  "model": "glm-5.3"
+}

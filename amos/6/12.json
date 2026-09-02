@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Èske chval yo kouri sou wòch? Èske yon moun labouren ak bèf? Paske nou fin vèji jijman an an djanm, ak fwi jistis la an lowansyon.",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "Èske kouri"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "sou wòch"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "chval yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Èske"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "labouren"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "ak bèf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "fin vèji"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "an djanm"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman an"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ak fwi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "jis la"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "an lowansyon"
+    }
+  ],
+  "timestamp": "2026-09-02T19:37:50.638854473Z",
+  "model": "glm-5.3"
+}

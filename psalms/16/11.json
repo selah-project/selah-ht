@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Fè m konnen chemen lavi a; satisfaksyon kè kontan yo ⟨את⟩ ak ⟨את⟩ figou; plèzi yo nan men dwat ou pou tout tan.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Fè m konnen"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "satisfaksyon"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "kè kontan yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ak",
+      "marks": "figou"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figou"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "plèzi yo"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "nan men dwat ou"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "pour tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:06.087121790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Sa k ap viv bònè: moun nan ke Yawe pa konte inikite pou li, e ki pa gen twopri nan lespri ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sa k ap viv bònè"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "konte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "עון",
+      "gloss": "inikite"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa gen"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "nan lespri ⟨li⟩"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "twopri"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:13.920839671Z",
+  "model": "glm-5.3"
+}

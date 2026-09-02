@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Ak moun ki pi ou montre ou pi; ak moun ki tòdi ou montre ou tòdi.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Ak"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "moun ki pi"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "ou montre ou pi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "moun ki tòdi"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ou montre ou tòdi"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:03.499303129Z",
+  "model": "glm-5.3"
+}

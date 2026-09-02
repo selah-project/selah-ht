@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Kè kontan pou pòp ki konnen son kòlèt la! Yawe, yo ap mache nan limyè figè ou.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kè kontan pou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pòp la"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ki konnen"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "son kòlèt la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "nan limyè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figè ou"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "yo ap mache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:18.217018682Z",
+  "model": "glm-5.3"
+}

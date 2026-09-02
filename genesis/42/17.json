@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Epi li ranmase ⟨את⟩ yo nan yon plas gadyen twa jou.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ranmase"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "plas gadyen"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:24.992250265Z",
+  "model": "glm-5.3"
+}

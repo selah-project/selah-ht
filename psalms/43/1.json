@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Jije m, Elohim, epi defann kòz mwen an kont yon nasyon ki pa pi, de yon nonm trik ak enjistis ou delivre m.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "jije m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "epi defann"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "kòz mwen an"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kont yon nasyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de yon nonm"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "trik"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "ak enjistis"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "ou delivre m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:49.145862194Z",
+  "model": "glm-5.3"
+}

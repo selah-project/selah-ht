@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 112,
+  "translation": "Louwe Yah! Kè kontan pou nonm ki gen respe pou ⟨את⟩ Yawe, ki pran plezi anpil nan kòmandman li yo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louwe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "kè kontan pou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ki gen respe pou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "nan kòmandman li yo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ki pran plezi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:38.486938660Z",
+  "model": "glm-5.3"
+}

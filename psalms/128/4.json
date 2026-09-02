@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 128,
+  "translation": "Gade, sètadi, konsa nonm ki pè Yawe ⟨ap⟩ beni.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sètadi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ki pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:08.605844564Z",
+  "model": "glm-5.3"
+}

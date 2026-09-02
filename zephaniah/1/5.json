@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "ak ⟨את⟩ moun ki plope sou do kay yo pou lame syèl yo, ak ⟨את⟩ moun ki plope, moun ki jire an non Yawe, epi moun ki jire an non Malkam;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "moun ki plope sou do kay yo"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "moun ki plope"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "do kay yo"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "pou lame"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "moun ki plope"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "moun ki plope"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "moun ki jire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an non Yawe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "epi moun ki jire"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "an non Malkam"
+    }
+  ],
+  "timestamp": "2026-09-02T19:44:50.946544797Z",
+  "model": "glm-5.3"
+}

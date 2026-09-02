@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Li chwazi pou nou ⟨את⟩ eritaj nou, ⟨את⟩ glwa Yaakov ke li renmen. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "chwazi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eritaj nou"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "eritaj nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glwa Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:47.888791658Z",
+  "model": "glm-5.3"
+}

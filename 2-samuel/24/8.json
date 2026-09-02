@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Yo pase toutou nan tout tè a, e apre nèf mwa ak ven jou yo rantre nan Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "yo pase toutou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "yo rantre"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "apre fen"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ak ven"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T17:52:20.502337973Z",
+  "model": "glm-5.3"
+}

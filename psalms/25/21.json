@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Toh ak adrès kenbe m, paske m tann ou.",
+  "tokens": [
+    {
+      "surface": "תֹּם",
+      "gloss": "Toh"
+    },
+    {
+      "surface": "וָיֹשֶׁר",
+      "gloss": "ak adrès"
+    },
+    {
+      "surface": "יִצְּרֻנִי",
+      "gloss": "kenbe m"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קִוִּיתִיךָ",
+      "gloss": "m tann ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:46.646683770Z",
+  "model": "glm-5.3"
+}

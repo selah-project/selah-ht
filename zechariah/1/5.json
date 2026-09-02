@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Papa nou yo, kote yo ye? Èske profèt yo ap viv pou toutan?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "papa nou yo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ו הנבאים",
+      "gloss": "ak profèt yo"
+    },
+    {
+      "surface": "ה לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ap viv"
+    }
+  ],
+  "timestamp": "2026-09-02T19:46:00.476480307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "E Moche reyini ⟨את⟩ tout konmònote timoun Yisrayèl yo, e li di yo: Se pawòl sa yo Yawe kòmande pou yo fè ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "E reyini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout konmònote timoun Yisrayèl yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "konmònote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "timoun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:10.547677105Z",
+  "model": "glm-5.3"
+}

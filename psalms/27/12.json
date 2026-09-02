@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Pa livre m bay volonte a nan enmi m yo, paske temwen fo yo leve kont mwen, epi yo respire vyolans.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "livre m bay"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "volonte a nan"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "yo leve"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kont mwen"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "temwen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fo"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "epi yo respire"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:06.555434403Z",
+  "model": "glm-5.3"
+}

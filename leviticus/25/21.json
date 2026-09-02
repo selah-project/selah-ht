@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E m ap kòmande ⟨את⟩ benediksyon mwen an pou nou nan lane sizyèm lan, e ⟨li⟩ ap fè ⟨את⟩ rekòt la pou twa lane.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "m ap kòmande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benediksyon mwen an"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "benediksyon mwen an"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nan lane"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "sizyèm lan"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rekòt la"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "rekòt la"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "pou twa"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "lane"
+    }
+  ],
+  "timestamp": "2026-09-02T16:16:24.312649365Z",
+  "model": "glm-5.3"
+}

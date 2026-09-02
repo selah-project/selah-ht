@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Rele ak doulè! Paske jou Yawe a toupre; li ap vini kòm destriksyon ki soti anba Chadday.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Rele ak doulè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "toupre"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "kòm destriksyon"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "ki soti anba Chadday"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "li ap vini"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:38.727109047Z",
+  "model": "glm-5.3"
+}

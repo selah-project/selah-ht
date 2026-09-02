@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Yawe ap gade l ak jemèt li anviw, e l ap fè l mache dwat sou tè a; pa ban l ⟨nan⟩ men anmwe nan dyab l yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "ap gade l"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "e ap kenbe l an vi"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "ap fè l mache dwat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "ban l"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nan men anmwe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "nan dyab l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:25.942071762Z",
+  "model": "glm-5.3"
+}

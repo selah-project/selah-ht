@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E ou prale kouvri ⟨את⟩ l avèk lò pi, e ou pral fè pou li yon bòdè lò toutotou.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "e ou prale kouvri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "tab la (lò pi)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e ou pral fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yon bòdè"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:54.333409592Z",
+  "model": "glm-5.3"
+}

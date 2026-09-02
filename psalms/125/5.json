@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 125,
+  "translation": "Epi moun k'ap vire ⟨nan⟩ chemen kwoke yo, Yawe pral mennen ⟨yo⟩ ansanm ak ⟨את⟩ moun k'ap fè mechansèt la — lapè sou Yisrael!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Epi moun k'ap vire"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "chemen kwoke yo"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "pral mennen yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun k'ap fè mechansèt la"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun k'ap fè"
+    },
+    {
+      "surface": "האון",
+      "gloss": "mechansèt la"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:45.212995262Z",
+  "model": "glm-5.3"
+}

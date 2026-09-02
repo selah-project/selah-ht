@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 8:7",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E mwen wè l rive pre belè a, e li fache Move kontra l, e li frape ⟨את⟩ belè a, e li kase ⟨את⟩ de kòn li yo; e pa t gen fòs nan belè a pou l te ka kanpe devan l; e li jete l atè, e li piten l, e pa t gen moun ki te ka delivre belè a nan men l.",
+  "tokens": [
+    {
+      "surface": "וראיתיו",
+      "gloss": "E mwen wè l"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "rive"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pre"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "belè a"
+    },
+    {
+      "surface": "ויתמרמר",
+      "gloss": "e li fache Move kontra l"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e li frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belè a"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "belè a"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "e li kase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kòn yo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "קרניו",
+      "gloss": "kòn li yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te genyen"
+    },
+    {
+      "surface": "כח",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "nan belè a"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "pou kanpe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "e li jete l"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    },
+    {
+      "surface": "וירמסהו",
+      "gloss": "e li piten l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te genyen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "moun ki delivre"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "pou belè a"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "nan men l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:00:31.126923092Z",
+  "model": "glm-5.3"
+}

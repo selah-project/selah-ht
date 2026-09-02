@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi m ap fè, ak kòlèr ak furi, vanjans ⟨את⟩ nasyon yo ki pa t koute.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "epi m ap fè"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ak kòlèr"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "ak furi"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "vanjans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasyon yo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "t koute"
+    }
+  ],
+  "timestamp": "2026-09-02T19:39:27.683589585Z",
+  "model": "glm-5.3"
+}

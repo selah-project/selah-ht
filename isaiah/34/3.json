@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Yo pral jete moun kwè yo deyò, e kò yo pral fè move odè monte, e mòn yo prantòde fon ak san yo.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "moun kwè yo"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "pral jete deyò"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "e kò yo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "pral monte"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "fè move odè"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "prantòde fon"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "ak san yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:33:48.022047374Z",
+  "model": "glm-5.3"
+}

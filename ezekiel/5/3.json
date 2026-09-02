@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi ou pran yon ti kote nan kè ladan an, yon ti nòmb, epi ou mare ⟨את⟩ yo nan kòt rad ou yo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Epi ou pran"
+    },
+    {
+      "surface": "משם",
+      "gloss": "nan kè ladan an"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yon ti kote"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "yon ti nòmb"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "epi ou mare"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (cheve yo)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "nan kòt rad ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:12:54.926285033Z",
+  "model": "glm-5.3"
+}

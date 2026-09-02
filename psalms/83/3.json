@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Paske gade, enmi ou yo ap fè bri, e moun ki rayi ou yo ap leve tèt ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "enmi ou yo"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ap fè bri"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "e moun ki rayi ou yo"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:56.849239346Z",
+  "model": "glm-5.3"
+}

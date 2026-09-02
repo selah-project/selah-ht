@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E Yawe bay pèp la ⟨את⟩ favè a nan je Mitsrayim yo; menm nonm Moche a te trè gran nan peyi Mitsrayim, nan je sèvè Paro yo ak nan je pèp la.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "E bay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "favè a"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favè"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim yo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "trè"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ak nan je"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:52.579503292Z",
+  "model": "glm-5.3"
+}

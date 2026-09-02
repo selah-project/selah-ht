@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Epi ou, Yawe, ap ri sou yo; ou ap moke tout nasyon yo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Epi ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ap ri"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ap moke"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:57.746687190Z",
+  "model": "glm-5.3"
+}

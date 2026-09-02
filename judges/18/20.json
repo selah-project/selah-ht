@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi kè kòhan nan kontan, epi l pran ⟨את⟩ efod la, ak ⟨את⟩ terafim yo, ak ⟨את⟩ estati a, epi l antre nan mitan pèp la.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhan nan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "epi l pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod la"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "terafim yo"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "estati a"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "estati a"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "epi l antre"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:22:15.476995352Z",
+  "model": "glm-5.3"
+}

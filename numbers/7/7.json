@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "⟨את⟩ de char yo ak ⟨את⟩ kat bèf yo, li bay pitit Gèrchon yo, dapre sèvis yo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de char yo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "char yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kat bèf yo"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "kat"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bèf yo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "li bay"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bay pitit"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gèrchon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "sèvis yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:23:05.277187681Z",
+  "model": "glm-5.3"
+}

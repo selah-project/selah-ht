@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Kilès ki konnen si lespri pitit gason moun nan, k ap monte anlè, e lespri bèt la, k ap desann anba, sou tè a?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kilès"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "k ap monte"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ak lespri"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt la"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "k ap desann"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "anba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:52.187399886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Yo fache ⟨li⟩ tou nan dlo Meriva, e Move rive sou Moche paske zafè yo.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "fache"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "Move rive"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "sou Moche"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "paske zafè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:01.612914236Z",
+  "model": "glm-5.3"
+}

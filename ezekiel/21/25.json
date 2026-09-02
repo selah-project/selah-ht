@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "W ap mete yon wout pou epe a vini — ⟨את⟩ Raba bèt Amòn, ak ⟨את⟩ Yehouda nan Yerouchalayim, nan vil ki ranfòse a.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yon wout"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "w ap mete"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pou ... vini"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epe a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raba bèt Amòn"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yehouda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "nan vil ki ranfòse a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:18:10.990416939Z",
+  "model": "glm-5.3"
+}

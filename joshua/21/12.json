@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Men ⟨את⟩ jaden vil la ak ⟨את⟩ lakou yo, yo te bay Kalev, pitit Yefoune, kòm posesisyon l.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Men ⟨את⟩",
+      "marks": "jaden vil la"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "jaden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lakou yo"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "lakou yo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "te bay"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefoune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "kòm posesisyon l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:08.219392731Z",
+  "model": "glm-5.3"
+}

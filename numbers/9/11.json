@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Nan dezyèm mwa a, katòzèm jou a, ant de solèy kouche yo, yo fè ⟨את⟩ li; ak pen san levan ak zèb amè yo pral manje l.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Nan mwa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "katòz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(katòz)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de solèy kouche yo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (Pak la)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ak"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "pen san levan"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "ak zèb amè"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "yo pral manje l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:46.910706917Z",
+  "model": "glm-5.3"
+}

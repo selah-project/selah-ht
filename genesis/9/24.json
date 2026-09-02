@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Noach reveye nan diven l, epi li konnen ⟨את⟩ sa pitit gason l, ti piti a, te fè ⟨pou⟩ li.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "reveye"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "nan diven l"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "li konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ti piti a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:01.929957464Z",
+  "model": "glm-5.3"
+}

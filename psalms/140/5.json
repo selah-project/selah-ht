@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 140,
+  "translation": "Kenbe m, Yawe, kite men moun k'ap fè mal yo pa rive m; sere m lwen moun vyolan yo, kifè pwan pou pouse pa m yo deyò.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "kenbe m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "men"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moun k'ap fè mal"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "vyolan yo"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "sere m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "fè pwan"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "pou pouse deyò"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "pa m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:23.129128464Z",
+  "model": "glm-5.3"
+}

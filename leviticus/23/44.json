@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E Moche pale ⟨את⟩ fèt apwente Yawe yo pou pitit Yisrael yo.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fèt apwente Yawe yo"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "fèt apwente yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T16:16:32.913055321Z",
+  "model": "glm-5.3"
+}

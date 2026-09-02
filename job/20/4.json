@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Èske ou pa konnen sa depi lontan an, depi lè ⟨yo⟩ mete moun sou tè a?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ou konnen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "depi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "lontan an"
+    },
+    {
+      "surface": "מני",
+      "gloss": "depi"
+    },
+    {
+      "surface": "שים",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:38:09.384428765Z",
+  "model": "glm-5.3"
+}

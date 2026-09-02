@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Ou dwe sètenman voye ale ⟨את⟩ manman an, e ⟨את⟩ piti yo ou ka pran pou ou, pou sa byen pase avèk ou e pou w prolonge jou yo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sètenman voye"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ale voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manman an"
+    },
+    {
+      "surface": "האם",
+      "gloss": "manman an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "piti yo"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "piti yo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "byen pase"
+    },
+    {
+      "surface": "לך",
+      "gloss": "avèk ou"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "e prolonge"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:08.863243449Z",
+  "model": "glm-5.3"
+}

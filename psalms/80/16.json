@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "ak souche ke dwa ou plante a, epi sou pitit gason ou te fè solid pou tèt ou.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ak souche"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "ou plante"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dwa ou"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "epi sou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "te fè solid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou tèt ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:04.252708999Z",
+  "model": "glm-5.3"
+}

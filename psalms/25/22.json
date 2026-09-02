@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Rachte, Elohim, ⟨את⟩ Yisrael nan tout tribilasyon l yo.",
+  "tokens": [
+    {
+      "surface": "פְּדֵה",
+      "gloss": "Rachte"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "צָרוֹתָיו",
+      "gloss": "tribilasyon l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:46.647034473Z",
+  "model": "glm-5.3"
+}

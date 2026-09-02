@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Chante pou Yawe, moun ki fè byen devan ⟨li⟩ yo, epi rekonèt pou memwa sanktifye ⟨li⟩ an.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Chante pou"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "moun ki fè byen devan ⟨li⟩"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "epi rekonèt"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "pou memwa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sanktifye ⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:36.109193060Z",
+  "model": "fable-5-hand"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E Yehochoua levan bonè maten an, e li fè revizyon ⟨את⟩ pèp la, e li monte — li menm ak ansyen Yisrael yo — devan pèp la, jiskon Ay.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "levan bonè"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maten an"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "fè revizjon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ak ansyen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ay"
+    }
+  ],
+  "timestamp": "2026-09-02T17:02:41.502606460Z",
+  "model": "glm-5.3"
+}

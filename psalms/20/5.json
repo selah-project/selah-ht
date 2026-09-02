@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "⟨Li⟩ ban ou selon kè ou, epi li ranpli tout konsey ou.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "selon kè ou"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "epi tout"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "konsey ou"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ranpli"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:33.220362684Z",
+  "model": "glm-5.3"
+}

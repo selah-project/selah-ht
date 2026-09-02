@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi kòhen an plonje ⟨את⟩ dwèt li nan san an, epi fouye voye nan san an sèt fwa devan Yawe, ⟨את⟩ sou fas parokhèt sanktifye a.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "Epi … plonje"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwèt li"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "dwèt li"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nan san an"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "epi fouye voye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "san an"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ sou fas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parokhèt"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sanktifye a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:20.355260687Z",
+  "model": "glm-5.3"
+}

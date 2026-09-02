@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Oved fè ⟨את⟩ Yehou, e Yehou fè ⟨את⟩ Azarya.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehou"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehou"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "e Yehou"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:09.378212704Z",
+  "model": "glm-5.3"
+}

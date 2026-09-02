@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi pitit Yisrayèl yo bay Lavit yo, nan eritaj yo a, dapre bouch Yawe, ⟨את⟩ vil sa yo ak ⟨את⟩ jaden yo kote bèt yo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lavit yo"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "nan eritaj yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vil sa yo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "vil"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jaden yo kote bèt yo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "jaden yo kote bèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:34.314186256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi yo ap mande w koman w ye, epi yo ap ba w de pen, epi w ap pran yo nan men yo.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "epi yo ap mande"
+    },
+    {
+      "surface": "לך",
+      "gloss": "w"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "koman w ye"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "epi yo ap ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "w"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "epi w ap pran"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "nan men yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:01.627619270Z",
+  "model": "glm-5.3"
+}

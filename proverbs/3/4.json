@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E w ap jwenn favour e bon diskè nan je Elohim ak nan je moun",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "E w ap jwenn"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favour"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "e diskè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ak moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:51.998646952Z",
+  "model": "glm-5.3"
+}

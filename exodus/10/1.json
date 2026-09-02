@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Yawe di bay Moche: Antre jwenn Paro, paske se mwen menm ki fe ⟨את⟩ kè l lou, ak ⟨את⟩ kè sèvitè l yo, pou m mete seny mwen sa yo nan mitan l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "fe lou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè l"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kè"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè l yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "seny mwen yo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nan mitan l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:45.222131159Z",
+  "model": "glm-5.3"
+}

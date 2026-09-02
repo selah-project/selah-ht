@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Li di ak li: Ou konnen ⟨את⟩ sa m sèvi ou ak ⟨את⟩ sa bèt ou te ye avè m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa m sèvi ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "m sèvi ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa bèt ou te ye avè m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "bèt ou"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ avè m"
+    }
+  ],
+  "timestamp": "2026-09-02T15:27:22.120268147Z",
+  "model": "glm-5.3"
+}

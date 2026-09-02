@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Moche pale, ak prèt Levi yo tou, bay tout Yisrael, pou yo di: Kite silans, e koute, Yisrael! Jodi a ou vin yon pòp pou Yawe, Elohim ou.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ak prèt yo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "kite silans"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "e koute"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "ou vin"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yon pòp"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:00.105995405Z",
+  "model": "glm-5.3"
+}

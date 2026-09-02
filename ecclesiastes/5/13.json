@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Richès sa a pèdi nan yon move travay, e li fè yon pitit gason, e pa gen anyen nan men l.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "richès la"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "nan yon travay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "e fè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anyen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:28.654385340Z",
+  "model": "glm-5.3"
+}

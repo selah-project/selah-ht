@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 120,
+  "translation": "Malè pou mwen, paske m se etranjè nan Mèshekh, m abite ak tanch Kedar yo.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Malè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "m se etranjè"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Mèshekh"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "m abite"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "tanch yo"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:40.487601079Z",
+  "model": "glm-5.3"
+}

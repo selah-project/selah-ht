@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Nan detrès ⟨ou⟩ rele, e m te delivre ⟨ou⟩; m te reponn ⟨ou⟩ nan kache loray; m te eseye ⟨ou⟩ nan dlo Meriva. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "Nan detrès"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "⟨ou⟩ rele"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "e m te delivre ⟨ou⟩"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "m te reponn ⟨ou⟩"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nan kache"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "loray"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "m te eseye ⟨ou⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:01.737987966Z",
+  "model": "glm-5.3"
+}

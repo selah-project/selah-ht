@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Ki bonè pou moun ki san defo nan wout yo, moun ki ap mache nan Lwa Yawe a.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Ki bonè pou"
+    },
+    {
+      "surface": "תְמִימֵי",
+      "gloss": "moun ki san defo"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "nan wout yo"
+    },
+    {
+      "surface": "הַהֹלְכִים",
+      "gloss": "moun ki ap mache"
+    },
+    {
+      "surface": "בְּתוֹרַת",
+      "gloss": "nan Lwa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:20.073322512Z",
+  "model": "glm-5.3"
+}

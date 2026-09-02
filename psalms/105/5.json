@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Sonje bagay etonan yo ke li fè, mak etonan li yo ak jijman bouch li yo.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "bagay etonan li yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "mak etonan li yo"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ak jijman"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:16.903253363Z",
+  "model": "glm-5.3"
+}

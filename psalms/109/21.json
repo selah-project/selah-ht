@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Men ou, Yawe Adònay, fè ⟨את⟩ mwen pou non ou, paske hesed ou a bon — delivre mwen.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "delivre mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:27.651544749Z",
+  "model": "glm-5.3"
+}

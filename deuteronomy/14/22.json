@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Dîm, ou pran dîm ⟨את⟩ tout pwodui gras ou, sa ki soti nan chan an, ane apre ane.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Dîm"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "pran dîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pwodui gras ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "pwodui"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "gras ou"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "sa ki soti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nan chan an"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "apre ane"
+    }
+  ],
+  "timestamp": "2026-09-02T16:48:52.610611986Z",
+  "model": "glm-5.3"
+}

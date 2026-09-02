@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Sa n ap fè jou fèt apwintman an, ak jou fèt Yawe a?",
+  "tokens": [
+    {
+      "surface": "מַֽה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "תַּעֲשׂוּ",
+      "gloss": "n ap fè"
+    },
+    {
+      "surface": "לְיוֹם",
+      "gloss": "jou"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "fèt apwintman"
+    },
+    {
+      "surface": "וּלְיוֹם",
+      "gloss": "ak jou"
+    },
+    {
+      "surface": "חַג",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:23:38.697218435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 4:42",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi nan mitan yo, nan pitit gason Chimòn an, senk san gason mache ale nan mòn Seir, ak Pelatya ak Neariya ak Refaya ak Uziyèl, pitit gason Yichi yo, nan tèt yo.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "epi nan mitan yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimòn"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mache ale"
+    },
+    {
+      "surface": "להר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "gason"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "senk"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "ופלטיה",
+      "gloss": "ak Pelatya"
+    },
+    {
+      "surface": "ונעריה",
+      "gloss": "ak Neariya"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "ak Refaya"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ak Uziyèl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Yichi"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "nan tèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:04.133329318Z",
+  "model": "glm-5.3"
+}

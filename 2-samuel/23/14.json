@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "David lè sa a te nan fò a, e pòs Filisti yo te lè sa a nan Betlehèm.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "nan fò a"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "ak pòs"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisti yo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehèm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:52:24.074715410Z",
+  "model": "glm-5.3"
+}

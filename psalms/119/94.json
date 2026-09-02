@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Pa ou mwen ye, sove m, paske preskripsyon ou yo se sa m chèche.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Pa ou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sove m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "preskripsyon ou yo"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "m chèche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:40.090027216Z",
+  "model": "glm-5.3"
+}

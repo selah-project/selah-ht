@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Ou bay yo, yo ramase; ou louvri men ou, yo satisfè ak sa ki bon.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ou bay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "yo ramase"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ou louvri"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "yo satisfè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ak sa ki bon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:36.649247425Z",
+  "model": "glm-5.3"
+}

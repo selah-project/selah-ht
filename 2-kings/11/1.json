@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Atalya, manman Ahazya, wè ke pitit gason li mouri, epi li kanpe epi li fè disparèt ⟨את⟩ tout semans wayòm nan.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Epi Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manman"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazya"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pitit gason li"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "li kanpe"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "li fè disparèt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout semans wayòm nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semans"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "wayòm nan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:09.043164829Z",
+  "model": "glm-5.3"
+}

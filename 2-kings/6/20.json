@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Lè yo rive nan Chomeron, Elicha di: Yawe, louvri ⟨את⟩ je moun sa yo, pou yo wè. Yawe louvri ⟨את⟩ je yo, e yo wè — e gade: ⟨yo te⟩ nan mitan Chomeron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "yo rive"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "moun sa yo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "pou yo wè"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je yo"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "je yo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "e yo wè"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:22.091277074Z",
+  "model": "glm-5.3"
+}

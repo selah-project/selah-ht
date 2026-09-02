@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Epi Ada fè pitit pou Esav ⟨את⟩ Elifaz, epi Bosmat fè ⟨את⟩ Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "pou Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "epi Bosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:08.090345342Z",
+  "model": "glm-5.3"
+}

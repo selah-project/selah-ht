@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E li mete ⟨את⟩ yo nan gad, nan kay chèf la pou kwizinè yo, rive nan kay prizon an, plas kote Yosèf te kenbe fèmen la.",
+  "tokens": [
+    {
+      "surface": "וַיִּתֵּן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo, nan gad"
+    },
+    {
+      "surface": "בְּמִשְׁמַר",
+      "gloss": "nan gad"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שַׂר",
+      "gloss": "chèf la"
+    },
+    {
+      "surface": "הַטַּבָּחִים",
+      "gloss": "kwizinè yo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הַסֹּהַר",
+      "gloss": "prizon an"
+    },
+    {
+      "surface": "מָקוֹם",
+      "gloss": "plas"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "אָסוּר",
+      "gloss": "kenbe fèmen"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:05.337522742Z",
+  "model": "glm-5.3"
+}

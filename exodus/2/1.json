@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E yon nonm nan kay Levi a ale, e li pran ⟨את⟩ yon fi Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yon fi Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yon fi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:45.880182425Z",
+  "model": "glm-5.3"
+}

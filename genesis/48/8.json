@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "E Yisrael gade ⟨את⟩ pitit gason Yosef yo, e l di: Kimoun sa yo?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason Yosef yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kimoun"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:37:42.165827423Z",
+  "model": "glm-5.3"
+}

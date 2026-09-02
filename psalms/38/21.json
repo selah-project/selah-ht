@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Epi yo ki peye ⟨את⟩ mechanste ⟨nan plas⟩ byen, yo akize m, paske m ap swiv byen.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "epi yo ki peye"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mechanste"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nan plas"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "yo akize m"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "m ap swiv"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:53.334114101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yo ap gade ⟨את⟩ tout vesèl tant rankont la, ak ⟨את⟩ sèvis pitit Yisrayèl yo, pou fè ⟨את⟩ travay tabènak la.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout vesèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vesèl"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sèvis pitit Yisrayèl yo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sèvis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "travay tabènak la"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "travay"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènak la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:56.766244501Z",
+  "model": "glm-5.3"
+}

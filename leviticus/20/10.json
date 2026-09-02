@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi yon moun ki kominote ⟨את⟩ madanm yon lòt moun — ki kominote ⟨את⟩ madanm vwazen l — lanmò ⟨pou⟩ mouri: adiltè ⟨a⟩ a ak adiltè ⟨la⟩ a.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi yon moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "kominote (kòm adiltè)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madanm yon lòt moun"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "madanm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon lòt moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "kominote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madanm vwazen l"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "madanm"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "vwazen l"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lanmò"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "adiltè a (gason)"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "ak adiltè a (fi)"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:57.617678109Z",
+  "model": "glm-5.3"
+}

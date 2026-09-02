@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi Mikhayou di: Yawe vivan, se sèlman ⟨את⟩ sa ki Yawe di ban m, ⟨את⟩ sa m ap pale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi ... di"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayou"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se sèlman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ban m"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa m ap pale"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "m ap pale"
+    }
+  ],
+  "timestamp": "2026-09-02T21:51:16.668552815Z",
+  "model": "glm-5.3"
+}

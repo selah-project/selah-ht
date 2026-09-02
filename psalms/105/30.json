@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Payi yo swèm krapo, jiska nan chanm wa yo a.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "swèm"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "payi yo"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "krapo"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "nan chanm"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "wa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:54.673976127Z",
+  "model": "glm-5.3"
+}

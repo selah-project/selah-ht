@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Yon koud longè l, e yon koud lajè l; li ⟨ap⟩ kare ⟨est⟩; e de koud wotè l; kòn yo soti poukont ⟨את⟩ l.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "yon koud"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "longè l"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e yon koud"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lajè l"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kare"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "li ap ⟨est⟩"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "e de koud"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "wotè l"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "poukont l"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "kòn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:04.939369016Z",
+  "model": "glm-5.3"
+}

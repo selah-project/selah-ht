@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Pitit gason Chem yo: Èlam, ak Achour, ak Arpakhchad, ak Loud, ak Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit gason"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Èlam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ak Achour"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ak Arpakhchad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ak Loud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ak Aram"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:40.052944364Z",
+  "model": "glm-5.3"
+}

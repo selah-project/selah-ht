@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Yawe dechwichi ⟨את⟩ bra ki sen l nan je tout nasyon yo, epi tout fen tè a wè ⟨את⟩ delivrans Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "dechwichi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bra ki sen l"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "bra"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ki sen l"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "epi … wè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "fen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "delivrans Elohim nou an"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:40:36.670030515Z",
+  "model": "glm-5.3"
+}

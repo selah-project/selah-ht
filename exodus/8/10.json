@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E yo anpile ⟨את⟩ yo an pil sou pil, pil sou pil, e tè a vin sant move.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "E anpile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (krapo yo)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "pil sou pil"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "pil sou pil"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "e vin sant move"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:11.367701310Z",
+  "model": "glm-5.3"
+}

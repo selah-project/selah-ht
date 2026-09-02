@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 57:11",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "Epi ⟨את⟩ ak kim ou te enkyete, kim ou te pè, paske ou te manti? Epi mwen, ou pa t sonje, ou pa t mete ⟨li⟩ sou kè ou. Èske se pa mwen ki te kenbe silans depi lontan, ⟨את⟩ epi mwen ou pa pè?",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "דאגת",
+      "gloss": "ou enkyete"
+    },
+    {
+      "surface": "ותיראyi",
+      "gloss": "epi ou pè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תכזבי",
+      "gloss": "ou manti"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ epi mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "ou sonje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kè ou"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "èske se pa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מחשה",
+      "gloss": "ki kenbe silans"
+    },
+    {
+      "surface": "ומעלם",
+      "gloss": "epi depi lontan"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ epi mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ou pè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:02.673498413Z",
+  "model": "glm-5.3"
+}

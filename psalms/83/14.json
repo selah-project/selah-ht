@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Elohim m, fè yo tankou yon wou k ap woule, tankou pay devan van.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "fè yo"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "tankou yon wou k ap woule"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "tankou pay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:46.590283301Z",
+  "model": "glm-5.3"
+}

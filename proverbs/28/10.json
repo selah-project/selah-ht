@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Moun ki fè moun dwat yo egare nan yon chemen move, se nan twou l menm li ap tonbe, e moun ki gen kè san fyè ap eritye byen.",
+  "tokens": [
+    {
+      "surface": "מַשְׁגֶּה",
+      "gloss": "fè egare"
+    },
+    {
+      "surface": "יְשָׁרִים",
+      "gloss": "moun dwat yo"
+    },
+    {
+      "surface": "בְּדֶרֶךְ",
+      "gloss": "nan chemen"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "move"
+    },
+    {
+      "surface": "בְּשַׁחְתּוֹ",
+      "gloss": "nan twou l"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "יִפֹּל",
+      "gloss": "ap tonbe"
+    },
+    {
+      "surface": "וּתְמִימִים",
+      "gloss": "e moun san fyè yo"
+    },
+    {
+      "surface": "יִנְחֲלוּ",
+      "gloss": "ap eritye"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "byen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:34.823153041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": " Kòlè ou lanse sou mwen, ak tout vag ou yo ou finn aprese m. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "lanse"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Kòlè ou"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "vag ou yo"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "ou finn aprese m"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:36.717001865Z",
+  "model": "glm-5.3"
+}

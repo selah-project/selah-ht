@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Ahab voye nan mitan tout pitit Yisrael yo, e li ramase ⟨את⟩ pwofèt yo sou mòn Karmèl la.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E Ahab voye"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan mitan tout"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "e li ramase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pwofèt yo"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pwofèt yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:58.944755751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi Yawe mete yon moman chwazi, ⟨li⟩ di: demen Yawe ap fè pawòl sa a nan peyi a.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Epi … mete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yon moman chwazi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "demen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:34.290673412Z",
+  "model": "glm-5.3"
+}

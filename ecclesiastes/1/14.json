@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Mwen wè ⟨את⟩ tout travay yo ki fèt anba solèy la, e gade, tout ⟨se⟩ vanite ak tourman lespri.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mwen wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout travay yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "travay yo"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ki fèt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ak tourman"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:09.962208194Z",
+  "model": "glm-5.3"
+}

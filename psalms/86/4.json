@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Fè nefech sèvitè ou la kontan, paske se viè ou, Adònay, mwen leve nefech mwen.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Fè kontan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefech"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvitè ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "viè ou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mwen leve"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:44.890974658Z",
+  "model": "glm-5.3"
+}

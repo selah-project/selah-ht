@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Yo te pote dlo pou moun ki gen swaf, moun k abite peyi Tema a; ak pen li yo te devane moun k ap chape a.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "pou rankontre"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "moun ki gen swaf"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "yo te pote"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun k abite"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "ak pen li"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "yo te devane"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "moun k ap chape"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:55.265662260Z",
+  "model": "glm-5.3"
+}

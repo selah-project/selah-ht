@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Travay sòt yo fatige yo, paske yo pa konnen ⟨kòman⟩ pou yo ale nan vil.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Travay"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "sòt yo"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "fatige yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "vil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:36.516452525Z",
+  "model": "glm-5.3"
+}

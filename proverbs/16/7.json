@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Lè chemen yon nonm plezi Yawe, ⟨li⟩ fè menm lènmi yo fè lapè avè ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Lè ... plezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "lènmi yo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fè lapè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avè ⟨את⟩ li",
+      "marks": "li (nonm ki chemen li plezi Yawe)"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:22.794386184Z",
+  "model": "glm-5.3"
+}

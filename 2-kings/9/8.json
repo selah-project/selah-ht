@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E tout kay Ahab pral disparèt; mwen pral koupe pou Ahab tout moun ki pise sou mi a, tout moun ki fèmen ak tout moun ki kite dèyè, nan Izrayèl.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "disparèt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "pou Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "ki pise"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sou mi a"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "ki fèmen"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ki kite dèyè"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:49.144184180Z",
+  "model": "glm-5.3"
+}

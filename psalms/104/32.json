@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Li ki gade tè a, epi li tranble; li manyen mòn yo, epi yo fimen.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Li ki gade"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "epi li tranble"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "li manyen"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "epi yo fimen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:02.035993999Z",
+  "model": "glm-5.3"
+}

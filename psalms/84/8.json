@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Yo ap mache de fòs rive nan fòs, chak moun ap parèt devan Elohim nan Tsiyòn.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "yo ap mache"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "de fòs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ap parèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "nan Tsiyòn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:47.212248704Z",
+  "model": "glm-5.3"
+}

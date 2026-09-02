@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "M ap fè non ou sonje nan tout jenerasyon ak jenerasyon; se poutèt sa pèp yo ap fè lwanj ou pou tout tan ak pou touttan.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "M ap fè sonje"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "דר",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak jenerasyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "se"
+    },
+    {
+      "surface": "כן",
+      "gloss": "poutèt sa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "ap fè lwanj ou"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ak pou touttan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:11.641822711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "anvan solèy la pa vin nwa, ak limyè a, ak lalin nan, ak zetwal yo, epi nway yo tounen apre lapli a.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "vin nwa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ak limyè a"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ak lalin nan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ak zetwal yo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "epi … tounen"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "nway yo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "lapli a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:10.685717662Z",
+  "model": "glm-5.3"
+}

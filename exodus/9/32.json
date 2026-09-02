@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Men ble a ak kèsmèt la pa t frape, paske yo apilòt (yo rip ta).",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "men ble a"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ak kèsmèt la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "t frape"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אפילות",
+      "gloss": "apilòt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:22.037119587Z",
+  "model": "glm-5.3"
+}

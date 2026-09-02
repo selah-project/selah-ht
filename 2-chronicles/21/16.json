@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Yawe reveye kont Yehoram ⟨את⟩ lespri Filistin yo ak ⟨את⟩ Arab yo ki te bò kote Kouchit yo.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "epi reveye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lespri Filistin yo ak Arab yo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "ak Arab yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "bò kote"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kote"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Kouchit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:31:37.342801264Z",
+  "model": "glm-5.3"
+}

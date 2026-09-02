@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Wi menm, yo pa fè movèz; nan wout li yo yo mache.",
+  "tokens": [
+    {
+      "surface": "אַף",
+      "gloss": "Wi menm"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פָּעֲלוּ",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "עַוְלָה",
+      "gloss": "movèz"
+    },
+    {
+      "surface": "בִּדְרָכָיו",
+      "gloss": "nan wout li yo"
+    },
+    {
+      "surface": "הָלָכוּ",
+      "gloss": "yo mache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:20.073653307Z",
+  "model": "glm-5.3"
+}

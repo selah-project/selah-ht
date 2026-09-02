@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 67,
+  "translation": "Elohim ap beni nou, epi tout bout tè a ap pè ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "יְבָרְכֵ֥נוּ",
+      "gloss": "ap beni nou"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְיִֽירְא֥וּ",
+      "gloss": "epi ap pè"
+    },
+    {
+      "surface": "אֹת֗וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "bout"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:35.276505412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E apre l, Ivtsan, ki soti nan Beit-Lekhem, jije ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "e jije"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "apre l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ki soti nan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lekhem"
+    }
+  ],
+  "timestamp": "2026-09-02T17:19:07.857233890Z",
+  "model": "glm-5.3"
+}

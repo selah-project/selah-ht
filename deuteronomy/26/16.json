@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Jou sa a, Yawe Elohim ou a kòmande w pou w fè ⟨את⟩ lwa yo sa yo ak ⟨את⟩ jijman yo; w ap gade byen e w ap fè ⟨את⟩ yo ak tout kè ou ak tout nanm ou.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kòmande w"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou w fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwa yo sa yo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lwa yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jijman yo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "jijman yo"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "w ap gade byen"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "w ap fè"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (lwa ak jijman yo)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "kè ou"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nanm ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:54:26.484223503Z",
+  "model": "glm-5.3"
+}

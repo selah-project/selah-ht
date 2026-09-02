@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Poukisa w kache figèt ou, epi w bliye mizè nou an ak presyon nou an?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figèt ou"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "w kache"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "w bliye"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "mizè nou an"
+    },
+    {
+      "surface": "ו לחצנו",
+      "gloss": "ak presyon nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:00.760898083Z",
+  "model": "glm-5.3"
+}

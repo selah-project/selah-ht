@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Paske wa tout tè a se Elohim; chante ak entelijans.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ak entelijans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:47.889407501Z",
+  "model": "glm-5.3"
+}

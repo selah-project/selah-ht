@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi tè a te fin kòwonpi devan HaElohim, e tè a te ranpli ak vyolans.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "te fin kòwonpi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "te ranpli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:49.873236111Z",
+  "model": "glm-5.3"
+}

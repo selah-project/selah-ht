@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "pou fè plan, pou travay an lò, ak an ajàn, ak an kwiv.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "pou fè plan"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "plan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou travay"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "an lò"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ak an ajàn"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ak an kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:53.788556727Z",
+  "model": "glm-5.3"
+}

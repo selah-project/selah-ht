@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Yawe, Elohim mwen, nan ou mwen pran refij; sove mwen tout moun k ap pouse mwen, epi delivre mwen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mwen pran refij"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sove mwen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "moun k ap pouse mwen"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "epi delivre mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:02.842113129Z",
+  "model": "glm-5.3"
+}

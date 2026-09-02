@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "epi Yawe Elohim ou ap fè retou ⟨את⟩ egzil ou, epi l ap gen pitye pou ou, epi l ap tounen epi ranmase ou nan mitan tout pèp yo kote Yawe Elohim ou te dispèse ou, la a.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "epi l ap fè retou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egzil ou"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "egzil ou"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "epi l ap gen pitye pou ou"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "epi l ap tounen"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "epi ranmase ou"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nan mitan tout"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "te dispèse ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:57:02.427654623Z",
+  "model": "glm-5.3"
+}

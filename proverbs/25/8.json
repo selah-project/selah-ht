@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Pa soti touswit al nan diskisyon, pou ou pa gen sa w ap fè nan fen l lè zanmi ou fè ⟨את⟩ ou wont.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "soti al"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "nan diskisyon"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "touswit"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou ou pa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "w ap fè"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "nan fen l"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "lè … fè wont"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "zanmi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:17.724271591Z",
+  "model": "glm-5.3"
+}

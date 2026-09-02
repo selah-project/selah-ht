@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E yo di: Sa a se san! Wa yo vrèman detwi ansanm, yo frape chak moun ⟨את⟩ zanmi l; e kounye a, Mowab, ale pran butin!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E yo di"
+    },
+    {
+      "surface": "דם",
+      "gloss": "san"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "vrèman detwi"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "yo detwi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "yo frape"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanmi l"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zanmi l"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "pou pran butin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowab"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:46.961177099Z",
+  "model": "glm-5.3"
+}

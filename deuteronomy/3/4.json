@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi nou pran ⟨את⟩ tout vil li yo nan tan sa a; pa t gen yon vil ⟨ki⟩ nou pa pran ⟨את⟩ nan men yo: swasan vil, tout rejyòn Argob la, wayòm Og la nan Basan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "epi nou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout vil li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "vil li yo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "te gen"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "vil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "nou pran"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ nan men yo"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "swasan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "rejyòn"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "nan Basan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:47:52.122072054Z",
+  "model": "glm-5.3"
+}

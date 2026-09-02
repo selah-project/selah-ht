@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Elichoref ak Ahiyah, pitit Chicha yo, ⟨te⟩ sekretè; Yehochafat, pitit Achiloud, ⟨se⟩ kwonikè a.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Elichoref"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ak Ahiyah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Chicha"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "sekretè"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Achilould"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "kwonikè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:30.147397005Z",
+  "model": "glm-5.3"
+}

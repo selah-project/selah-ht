@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Tann, epi etone; fè je wou foule, epi vin avèg; vin iv, men pa ak diven; tite, men pa ak like.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "Tann"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "epi etone"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "fè je wou foule"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "epi vin avèg"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "vin iv"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ak diven"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "tite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ak like"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:22.611076698Z",
+  "model": "glm-5.3"
+}

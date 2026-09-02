@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Ke yo tankou pousyè devan van an, epi ke mesajè Yawe chase yo ⟨lwen⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ke yo ye"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "tankou pousyè"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van an"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "epi mesajè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "chase lwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:52.301178186Z",
+  "model": "glm-5.3"
+}

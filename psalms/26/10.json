@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "kote men yo plen move plan, ak men dwat yo plen kichòy pou achi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "nan men yo"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "move plan"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ak men dwat yo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plen"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "kichòy pou achi"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:48.554122286Z",
+  "model": "glm-5.3"
+}

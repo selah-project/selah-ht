@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "genesis 24:56",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E li di yo: pa retann ⟨את⟩ mwen, paske Yawe fè wout m reyisi; voye m ale, e m ap ale kay mèt m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאחרו",
+      "gloss": "retann"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "fè ... reyisi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "wout m"
+    },
+    {
+      "surface": "שלחוני",
+      "gloss": "voye m ale"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "e m ap ale"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kay mèt m"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:04.657846400Z",
+  "model": "glm-5.3"
+}

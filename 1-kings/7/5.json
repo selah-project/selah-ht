@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Ak tout pòtay yo ak montan yo te ⟨yo te⟩ kare ⟨ak⟩ kadre; ak anfas fenèt bò kote fenèt, twa fwa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "pòtay yo"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "ak montan yo"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "kare"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "kadre"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "ak anfas"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "fenèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò kote"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "fenèt"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "twa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fwa"
+    }
+  ],
+  "timestamp": "2026-09-02T17:57:01.787966065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Nou peche, nou fè mal, nou fè mechanste, nou rebèl, ak nou vire do sou kòmandman ou ak sou jijman ou.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nou peche"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "nou fè mal"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "nou fè mechanste"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "nou rebèl"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ak nou vire do"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "sou kòmandman ou"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ak sou jijman ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:00:44.009140141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 138,
+  "translation": "Paske Yawe wo, moun ki ba ⟨li⟩ wè ⟨yo⟩, epi moun ki an bwo li konnen de lwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ki ba"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ki an bwo"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "de lwen"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:15.979810116Z",
+  "model": "glm-5.3"
+}

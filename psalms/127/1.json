@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 127,
+  "translation": "Chante Montey yo, pou Chelomo. Si Yawe pa bati kay la, an van bati yo te fatige sou li; si Yawe pa garde vil la, an van gadman nan vye san dòmi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Montey yo"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "pou Chelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "an van"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "yo fatige"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "bati yo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "an van"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "vye san dòmi"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "gadman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:33.003823899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Mwen pral fè ⟨את⟩ ou byen fètil, anpil anpil, e mwen pral fè ou tounen nasyon yo, e wa yo pral soti nan ou.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "mwen pral fè fètil"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "mwen pral fè ou"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "nan nasyon yo"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "e wa yo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "soti nan ou"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "pral soti"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:46.403810149Z",
+  "model": "glm-5.3"
+}

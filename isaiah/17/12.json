@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Malè pou tanmouden an nan anpil pèp ki ap fè bri, kòm bri lanmè yo ap fè, e pou kouri nasyon yo ki ap kouri kòm kouri dlo ki pwisan!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malè pou"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tanmouden an"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "kòm bri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lanmè yo"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "yo ap fè bri"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "e kouri"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "kòm kouri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "ki pwisan"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "yo ap kouri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:30.380834508Z",
+  "model": "glm-5.3"
+}

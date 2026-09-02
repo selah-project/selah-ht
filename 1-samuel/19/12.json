@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E Mikal desann ⟨את⟩ David apa fenèt la; e li ale, e li kouri sove, e li chape.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "e li desann"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "apa"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fenèt la"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e li ale"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "e li kouri sove"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "e li chape"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:55.831722025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Èske pou tout tan Adònay ap rejte ⟨nou⟩, e èske l ap pa kontinye fè plezi plis?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Èske pou tout tan"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ap rejte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ap kontinye"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "fè plezi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:55.795217470Z",
+  "model": "glm-5.3"
+}

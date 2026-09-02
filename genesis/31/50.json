@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Si ou mize ⟨את⟩ fi m yo, epi si ou pran lòt fanm sou fi m yo, pa gen moun ak nou; gade, Elohim se temwen ant mwen ak ant ou.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ou mize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fi m yo"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "fi m yo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "epi si"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ou pran"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "lòt fanm"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "fi m yo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ak nou"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "temwen"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ant mwen"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ak ant ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:27.041585555Z",
+  "model": "glm-5.3"
+}

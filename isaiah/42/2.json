@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Li pa ap kriye, epi li pa ap leve ⟨vwa⟩, epi li pa ap fè vwa li tande deyò.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יִצְעַק",
+      "gloss": "ap kriye"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יַשְׁמִיעַ",
+      "gloss": "ap fè tande"
+    },
+    {
+      "surface": "בַּחוּץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "קוֹלוֹ",
+      "gloss": "vwa li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:45.395207852Z",
+  "model": "glm-5.3"
+}

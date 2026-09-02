@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Kouman pou m malèdi ⟨sa⟩ El pa malèdi? E kouman pou m fache ⟨sa⟩ Yawe pa fache?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kouman"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "pou m malèdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "malèdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "E kouman"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "pou m fache"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "fache"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:33:49.989400158Z",
+  "model": "glm-5.3"
+}

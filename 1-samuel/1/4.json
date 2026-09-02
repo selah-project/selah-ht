@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Jou a rive, e Elkana fè sakrifis: li ba Penina, madanm li, ak tout pitit gason l yo ak pitit fi l yo, chak pati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rive"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "fè sakrifis"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "ak pitit fi l yo"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "pati"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:48.721849683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Dlo a fin ran soti nan boutèy la, e li jete ⟨את⟩ timoun nan anba youn nan ti pyebwa yo.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "fin ran"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "boutèy la"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "e li jete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timoun nan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn nan"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "ti pyebwa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:17:41.116711060Z",
+  "model": "glm-5.3"
+}

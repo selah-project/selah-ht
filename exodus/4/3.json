@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Li di: Jete l atè! Li jete l atè, epi l vin yon koulèv, epi Moche chape devan l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "jete l"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "li jete l"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "epi l vin"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "yon koulèv"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "chape"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "devan l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:22.871091344Z",
+  "model": "glm-5.3"
+}

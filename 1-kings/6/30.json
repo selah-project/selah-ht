@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E ⟨את⟩ pltè kay la li kouvwi ak lò — anndan ak deyò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pltè a"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "pltè"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kouvwi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "anndan"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "ak deyò"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:10.458614543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Poukisa mwen pè joumove yo, lè fòt ki nan pye m ap antoure m?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mwen pè"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "joumove yo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fòt"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "ki nan pye m"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ap antoure m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:25.565728622Z",
+  "model": "glm-5.3"
+}

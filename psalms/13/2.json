@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Jiskakan ou ap bliye m, Yawe, pou toutan? Jiskakan ou ap kache ⟨את⟩ figi ou sot nan mwen?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jiskakan"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ou ap bliye m"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Jiskakan"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ou ap kache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi ou"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sot nan mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:55.630312348Z",
+  "model": "glm-5.3"
+}

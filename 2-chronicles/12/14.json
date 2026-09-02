@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi li fè mal, paske li pa t prepare kè l pou l chèche ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "pou chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T21:30:42.857391220Z",
+  "model": "glm-5.3"
+}

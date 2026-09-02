@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Tounen nou, Elohim delivrans nou an, epi anile kòlè ou an sou nou.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Tounen nou"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "delivrans nou an"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "epi anile"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "kòlè ou"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:46.266436089Z",
+  "model": "glm-5.3"
+}

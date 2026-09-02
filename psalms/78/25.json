@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Pen fò yo chak moun manje; provizyon li voye bay yo pou yo satisfè.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "fò yo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "provizyon"
+    },
+    {
+      "surface": "שׁלח",
+      "gloss": "li voye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bay yo"
+    },
+    {
+      "surface": "לשׂבע",
+      "gloss": "pou yo satisfè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:51.618496844Z",
+  "model": "glm-5.3"
+}

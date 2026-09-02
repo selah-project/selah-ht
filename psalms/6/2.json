@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Yawe, pa reprimann m nan kòlè ou, epi pa disiplinen m nan furi ou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "nan kòlè ou"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "reprimann m"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "nan furi ou"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "disiplinen m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:28.705525944Z",
+  "model": "glm-5.3"
+}

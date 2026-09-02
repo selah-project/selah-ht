@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E moun ki kenbe arc la pa ap kanpe, e moun ki lejè sou pye l pa ap sove ⟨li⟩, e moun ki monte chwal la pa ap sove lavi l.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "e moun ki kenbe"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "arc la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "e moun ki lejè"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sou pye l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ap sove"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "e moun ki monte"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "chwal la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ap sove"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lavi l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:36:25.545460753Z",
+  "model": "glm-5.3"
+}

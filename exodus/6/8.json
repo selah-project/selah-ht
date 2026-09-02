@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E m ap mennen ⟨את⟩ nou nan tè a kote m leve ⟨את⟩ men m pou bay l bay Avraham, bay Yitshak, e bay Yaakov, e m ap bay l ba nou kòm yon eritaj: mwen se Yawe.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "e mennen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "mennen nan tè a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men m"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pou bay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "bay Avraham, bay Yitshak, e bay Yaakov"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "bay Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "bay Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "e bay Yaakov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e bay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "ba nou kòm eritaj"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba nou"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "eritaj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:49.125753808Z",
+  "model": "glm-5.3"
+}

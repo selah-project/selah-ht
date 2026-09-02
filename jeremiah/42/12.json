@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "E mwen ba ou pitye, e li ap gen pitye pou ⟨את⟩ ou, e li ap fè ⟨את⟩ ou tounen sou tè ou menm.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "E mwen ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ou"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "pitye"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "li ap gen pitye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ou"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "li ap fè tounen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tè ou menm"
+    }
+  ],
+  "timestamp": "2026-09-02T19:06:25.799318600Z",
+  "model": "glm-5.3"
+}

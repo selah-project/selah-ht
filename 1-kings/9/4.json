@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 9:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E ou menm: si w mache devan m, jan David papa w te mache, ak kè senp ak dyab, pou fè tout sa mwen kòmande w, epi w kenbe lwa m ak jijman m,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E ou menm"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "te mache"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "senp"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "ובישר",
+      "gloss": "ak dyab"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "mwen kòmande w"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "lwa m"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ak jijman m"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:03.338695354Z",
+  "model": "glm-5.3"
+}

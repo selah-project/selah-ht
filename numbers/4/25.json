@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi yo pral pote ⟨את⟩ ridèl tabènakèl la, ak ⟨את⟩ tant reyinyon an, kouvèti l, ak kouvèti po tachach ki anlè li soti anlè, ak ⟨את⟩ ride devan pòtay tant reyinyon an.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "epi yo pral pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ridèl yo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ridèl"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènakèl la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tant la"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "kouvèti l"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "ak kouvèti a"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "po tachach"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "anlè li"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "soti anlè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ride a"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ride"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "devan pòtay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:58.003008122Z",
+  "model": "glm-5.3"
+}

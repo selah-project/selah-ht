@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi retire kòlè soti nan kè ou, epi fè mal a ale loin kò ou, paske timoun ak jèn nan, se vanite.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Epi retire"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "soti nan kè ou"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "epi fè ale"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "loin kò ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "timoun"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "jèn nan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:05.635711191Z",
+  "model": "glm-5.3"
+}

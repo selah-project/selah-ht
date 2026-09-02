@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 87,
+  "translation": "E de Tsiyòn yo ap di: nonm ak nonm fèt nan li; e se li menm, Elyòn (Ki Wo Pare pi Djanm), ki ap fonde l.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "E de Tsiyòn"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yo ap di"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ak nonm"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e se li menm"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ki ap fonde l"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:17.368506828Z",
+  "model": "glm-5.3"
+}

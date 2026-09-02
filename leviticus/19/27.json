@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Nou pa pral koupe bò tèt nou yo, ni detwi ⟨את⟩ bò bab ou a.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "nou pral koupe"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "bò"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "tèt nou yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "detwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bò bab ou a"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "bò"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "bab ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:04.953301679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "ak ⟨את⟩ parfen yo ak ⟨את⟩ lwil la, pou limyè a, ak pou lwil konsakrasyon an, ak pou ensans bonodè a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "parfen yo"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "parfen yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lwil la"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lwil la"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "pou limyè a"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "ak pou lwil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "konsakrasyon an"
+    },
+    {
+      "surface": "ולקטורת",
+      "gloss": "ak pou ensans"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "bonodè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:31.360263653Z",
+  "model": "glm-5.3"
+}

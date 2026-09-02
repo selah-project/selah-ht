@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Epi Yaakov wè ki gen gren nan Mitsrayim, epi Yaakov di bay pitit gason li yo: Poukisa n ap gade youn sou lòt?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "epi wè"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gren"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "bay pitit gason li yo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "n ap gade"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:33.312072305Z",
+  "model": "glm-5.3"
+}

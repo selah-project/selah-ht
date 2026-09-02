@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "M ap di pou Yawe: se refij m ak fòtès m; Elohim mwen, se nan ⟨li⟩ m ap fè konfyans.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "m ap di"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "refij m"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ak fòtès m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "m ap fè konfyans"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan ⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:16.036452189Z",
+  "model": "glm-5.3"
+}

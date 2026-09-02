@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Se onè pou yon nonm kanpe lwen nan deba; epi tout sòt ap chèche diskisyon.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "onè"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pou yon nonm"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kanpe lwen"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "deba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "epi tout"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "chèche diskisyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:33.349473141Z",
+  "model": "glm-5.3"
+}

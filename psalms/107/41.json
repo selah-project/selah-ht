@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "E li mete pòv la wo, ⟨soti⟩ nan mizè, e li fè fanmi yo vin tankou mouton.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "e li mete wo"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "soti nan mizè"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e li fè vin"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "tankou mouton"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fanmi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:14.552017148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "E kounye a, tout ansanm yo kraze ak hatchè ak pèk grav° travay° ki nan kay ou a.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "פִּתּוּחֶ֣יהָ",
+      "gloss": "grav° travay° ki nan kay ou a"
+    },
+    {
+      "surface": "יָ֑חַד",
+      "gloss": "tout ansanm"
+    },
+    {
+      "surface": "בְּכַשִּׁ֥יל",
+      "gloss": "ak hatchè"
+    },
+    {
+      "surface": "וְכֵֽילַפֹּ֗ת",
+      "gloss": "ak pèk"
+    },
+    {
+      "surface": "יַהֲלֹמֽוּן",
+      "gloss": "yo kraze"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:22.469593343Z",
+  "model": "glm-5.3"
+}

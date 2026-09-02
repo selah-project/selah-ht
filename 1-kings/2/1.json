@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Jou David yo rive pou l mouri, epi l bay ⟨את⟩ Chelomo, pitit gason l, lòd pou l di:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "rive"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pou mouri"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "epi l bay lòd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:18.486276615Z",
+  "model": "glm-5.3"
+}

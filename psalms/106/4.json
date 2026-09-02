@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Sonje m, Yawe, nan favor ou genyen pou pèp ou a; vizite m nan delivrans ou a.",
+  "tokens": [
+    {
+      "surface": "זָכְרֵ֣נִי",
+      "gloss": "Sonje m"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בִּרְצ֣וֹן",
+      "gloss": "nan favor"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "pèp ou a"
+    },
+    {
+      "surface": "פָּקְדֵ֗נִי",
+      "gloss": "vizite m"
+    },
+    {
+      "surface": "בִּֽישׁוּעָתֶֽךָ",
+      "gloss": "nan delivrans ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:42.744769577Z",
+  "model": "glm-5.3"
+}

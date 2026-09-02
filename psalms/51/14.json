@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Retounen ban mwen kè kontan delivrans ⟨ou⟩ la, e yon lespri jenerèz sipòte mwen.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Retounen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ban mwen"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kè kontan"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "delivrans ou"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e yon lespri"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "jenerèz"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "sipòte mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:51.988163007Z",
+  "model": "glm-5.3"
+}

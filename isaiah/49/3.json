@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Epi li di m: Ou se sèvitè m, Yisrael, nan ou menm m ap fè m klere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "m ap fè m klere"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:49.560803953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "ak ⟨את⟩ pitit fi yaana a, ak ⟨את⟩ tahmas la, ak ⟨את⟩ chahaf la, ak ⟨את⟩ epèvyè a, dapre espès l.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit fi yaana a"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "yaana a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tahmas la"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tahmas la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "chahaf la"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "chahaf la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "epèvyè a"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "epèvyè a"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "dapre espès l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:36.151538542Z",
+  "model": "glm-5.3"
+}

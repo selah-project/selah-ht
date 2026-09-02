@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 79,
+  "translation": "Psalèm pou Asaf. Elohim, nasyon yo antre nan eritaj ou, yo sal ⟨את⟩ palè sakre ou, yo mete ⟨את⟩ Yerouchalayim an pil wòch.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalèm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "antre"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "nan eritaj ou"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "yo sal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palè sakre ou"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "palè"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sakre ou"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "an pil wòch"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:44.425944285Z",
+  "model": "glm-5.3"
+}

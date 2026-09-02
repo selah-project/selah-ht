@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Se sis bagay Yawe rayi, e se sèt bagay ki degozan nanm li.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "sis"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "rayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e sèt"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "degozan bagay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nanm li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:32.560932791Z",
+  "model": "glm-5.3"
+}

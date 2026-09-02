@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Yawe Elohim plante yon jaden nan Edèn, bò solèy leve a, e li mete la ⟨את⟩ nonm nan ke li te fòme.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "plante"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "yon jaden"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "nan Edèn"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "bò solèy leve a"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e mete"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonm nan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nonm nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "te fòme"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:45.635541830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Pou ⟨li⟩ ki deplwaye ⟨את⟩ tè a sou dlo yo, paske hesed ⟨li⟩ dire pou tout tan.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Pou ki deplwaye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed ⟨li⟩ dire"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:27.620770254Z",
+  "model": "glm-5.3"
+}

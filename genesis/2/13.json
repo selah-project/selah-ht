@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E non dezyèm rivyè a se Gichon, se li menm ki ap toune toutotou tout tè Kouch.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "E non"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "rivyè a"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ki ap toune toutotou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout tè Kouch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kouch"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:35.428912496Z",
+  "model": "glm-5.3"
+}

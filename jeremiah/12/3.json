@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E ou, Yawe, ou konnen m; ou wè m; ou eseye kè m ⟨את⟩ devan ou. Tire yo deyò kòm mouton pou sachat la, e separe yo pou jou touye a.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ou konnen m"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "ou wè m"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "ou eseye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ devan ou",
+      "marks": "devan ou"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "Tire yo deyò"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kòm mouton"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "pou sachat la"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "e separe yo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pou jou"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "touye a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:51:27.747157498Z",
+  "model": "glm-5.3"
+}

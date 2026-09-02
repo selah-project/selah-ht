@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "E l fè ⟨את⟩ tout zouti otèl la: ⟨את⟩ marmit yo, ⟨את⟩ pèl yo, ⟨את⟩ basen ki sèvi pou vèse yo, ⟨את⟩ kravat vyann yo, ak ⟨את⟩ reftil dife yo — tout zouti li yo li fè ak kwiv.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E l fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout zouti otèl la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zouti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otèl la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marmit yo"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "marmit yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèl yo"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "pèl yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "basen ki sèvi pou vèse yo"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "basen ki sèvi pou vèse yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kravat vyann yo"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "kravat vyann yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "reftil dife yo"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "reftil dife yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti li yo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ak kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T22:11:46.447414257Z",
+  "model": "glm-5.3"
+}

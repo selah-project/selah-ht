@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si ou pa genyen kisa pou ou peye, poukisa yo pran kabann ou anba ou?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa genyen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "pou peye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "kabann ou"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "anba ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:56.166477905Z",
+  "model": "glm-5.3"
+}

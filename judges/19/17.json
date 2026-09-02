@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Lè l leve je l, li wè ⟨את⟩ nonm vwayajè a nan plas piblik lavil la; epi nonm vye a di: Kote w prale, e ki kote w soti?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "leve"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "je l"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "epi li wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonm vwayajè a"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "vwayajè a"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "nan plas"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi … di"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "vye a"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kote"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "w prale"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "e ki kote"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "w soti"
+    }
+  ],
+  "timestamp": "2026-09-02T17:22:09.457653635Z",
+  "model": "glm-5.3"
+}

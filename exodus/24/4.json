@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi Moche ekri ⟨את⟩ tout pawòl Yawe yo; li levan byen bonè nan maten an, li bati yon lotèl anba montayn lan, ak douz pilye pou douz branch Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl Yawe yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "levan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "bati"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lotèl"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "montayn lan"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ak de"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "pilye"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "pou de"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "branch"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:08.482767816Z",
+  "model": "glm-5.3"
+}

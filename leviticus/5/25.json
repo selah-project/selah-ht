@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi l ap pote ⟨את⟩ fòt li pou Yawe, yon belo san defo soti nan mouton yo, dapre estimasyon ou, kòm ofrand fòt, ba prèt la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Epi ⟨את⟩",
+      "marks": "fòt li"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "fòt li"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ap pote"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "belo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "san defo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "dapre estimasyon ou"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "kòm ofrand fòt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:04:45.314750629Z",
+  "model": "glm-5.3"
+}

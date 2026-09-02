@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Pouse yo pral gaye; glwa l ap tankou pye zeletiv, e sant l ap tankou Levanòn.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "pral gaye"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "pouse yo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ap⟩"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "tankou pye zeletiv"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "glwa l"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "e sant"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "tankou Levanòn"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:40.812002258Z",
+  "model": "glm-5.3"
+}

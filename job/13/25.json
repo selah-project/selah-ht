@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Èske ⟨w⟩ ap efwaye yon fèy pote pa van, e w ap pouswi ⟨את⟩ pay ki cheke?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "fèy"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "pote pa van"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "w ap efwaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "pay ki cheke"
+    },
+    {
+      "surface": "קש",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ki cheke"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "w ap pouswi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:43.973358060Z",
+  "model": "glm-5.3"
+}

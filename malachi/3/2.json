@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E kiyès ki ka endire jou l ap vini ⟨את⟩ a? E kiyès ki ka kanpe lè l ap parèt? Paske li tankou dife moun ki raffine, e tankou savon moun k ap lave yo.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "E kiyès"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "ki ka endire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "l ap vini"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "E kiyès"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ki ka kanpe"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "lè l ap parèt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "tankou dife"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "moun ki raffine"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "e tankou savon"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "moun k ap lave yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:25.732834704Z",
+  "model": "glm-5.3"
+}

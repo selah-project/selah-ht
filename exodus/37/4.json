@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E li fè bar yo ak bwa chitim, e li kouvri ⟨את⟩ yo ak lò.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "bar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bar yo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:45.334711061Z",
+  "model": "glm-5.3"
+}

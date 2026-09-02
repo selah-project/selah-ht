@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Yo pral vide yo sou men epè a; yo pral vin patajen chakal yo.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "yo pral vide yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epè a"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "patajen"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "chakal yo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yo pral vin"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:09.199336535Z",
+  "model": "glm-5.3"
+}

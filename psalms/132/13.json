@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Paske Yawe chwazi Tsiyòn, li te lwenvi l kòm kote pou l chita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "chwazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "te lwenvi l"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "kòm kote pou l chita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(pou li)"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:23.688628329Z",
+  "model": "glm-5.3"
+}

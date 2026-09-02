@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E nou reponn ⟨את⟩ mwen, nou di: Bon bagay la w pale pou fè a.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "E nou reponn"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "nou di"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa...a"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "w pale"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:20.634473435Z",
+  "model": "glm-5.3"
+}

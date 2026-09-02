@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Se pou yo wont e konfonn ansanm, yo menm k ap chèche nefech m pou detwi l; se pou yo tounen dèyè e pèdi figi, yo menm ki vle mal m.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "wont"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "e konfonn"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "k ap chèche"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech m"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "pou detwi l"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "e pèdi figi"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ki vle"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mal m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:25.209536238Z",
+  "model": "glm-5.3"
+}

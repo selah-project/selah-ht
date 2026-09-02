@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 87,
+  "translation": "Pou pitit Korah, yon mizmor, yon chante. Fondasyon ⟨li⟩ nan mòn sen yo.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Pou pitit"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "Fondasyon ⟨li⟩"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "nan mòn yo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:31.892529396Z",
+  "model": "glm-5.3"
+}

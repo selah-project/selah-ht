@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E yon moun ki soti la reponn e di: E kiyès papa ⟨pwofèt sa yo⟩ yo? Se poutèt sa sa vin yon pwovèb: Èske Chaoul ⟨tou⟩ nan pwofèt yo?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e reponn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ki soti la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e kiyès"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "sa vin"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "yon pwovèb"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "èske"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "nan pwofèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:34.773264264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Kòd mezanre yo tonbe pou m nan kote ki dous; wi, eritaj m nan bèl anpil sou m.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "Kòd mezanre yo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "nan kote ki dous"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wi"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "eritaj m nan"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "bèl anpil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:26.848540699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Kè l ap viv, e y ap ba l nan lò Cheva; e y ap priye pou l toujou, tout jou a y ap beni l.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kè l ap viv"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e y ap ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "nan lò"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "e y ap priye"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "pou l"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "y ap beni l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:28.570446403Z",
+  "model": "glm-5.3"
+}

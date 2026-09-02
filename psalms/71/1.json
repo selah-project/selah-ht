@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "An ou, Yawe, m pran refij — pa janm kite m wont pou toutan.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "An ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m pran refij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "kite m wont"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:12.939625031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Chante pou Elohim, chante; chante pou wa nou a, chante.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "pou wa nou"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chante"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:47.889276188Z",
+  "model": "glm-5.3"
+}

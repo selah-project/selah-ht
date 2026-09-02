@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E li jije ⟨את⟩ Yisrayèl ventntwa an, e li mouri, e yo antere l nan Chamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "E li jije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ventn"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ak twa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e li mouri"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e yo antere l"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "nan Chamir"
+    }
+  ],
+  "timestamp": "2026-09-02T17:17:28.057627012Z",
+  "model": "glm-5.3"
+}

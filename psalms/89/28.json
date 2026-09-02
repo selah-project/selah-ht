@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Se m menm ki pral fè l premye ne, pi wo pase wa ki sou tè a.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Se m"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "premye ne"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ki pral fè l"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "pi wo"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "pase wa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ki sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:57.180493474Z",
+  "model": "glm-5.3"
+}

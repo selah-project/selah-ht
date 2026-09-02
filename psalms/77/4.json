@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Mwen sonje Elohim e mwen pa ka dòmi; mwen medite, e lespri mwen ap fenks. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Mwen sonje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "e mwen pa ka dòmi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mwen medite"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "e lespri mwen ap fenks"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lespri mwen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:38.001664984Z",
+  "model": "glm-5.3"
+}

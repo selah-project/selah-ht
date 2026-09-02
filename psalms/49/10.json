@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "E ⟨li⟩ viv anko pou tout tan; li p ap wè fosa a.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "e ⟨li⟩ viv"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "anko"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "fosa a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:29.837352277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Yehochoua fè yo tout sa Yawe di l fè: li koupé janm ⟨את⟩ chval yo epi li boule ⟨את⟩ charyo yo nan dife.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chval yo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "chval yo"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "koupé janm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "charyo yo"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "charyo yo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "boule"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    }
+  ],
+  "timestamp": "2026-09-02T17:05:14.695922703Z",
+  "model": "glm-5.3"
+}

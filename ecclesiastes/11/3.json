@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Si nwèl yo plen, yo vide lapli a sou tè a; e si yon pyebwa tonbe nan sid, oswa si nan nò, nan kote pyebwa a tonbe, la li ye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "plen"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "nwèl yo"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "lapli"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "yo vide"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pyebwa"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "nan sid"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oswa si"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "nan nò"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pyebwa a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "li ye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:25.734462086Z",
+  "model": "glm-5.3"
+}

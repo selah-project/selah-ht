@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi Yitro di: Beni se Yawe, ki delivre ⟨את⟩ nou nan men Mitsrayim ak nan men Paro, li ki delivre ⟨את⟩ pèp la anba men Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ak nan men"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li ki"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:02.635500364Z",
+  "model": "glm-5.3"
+}

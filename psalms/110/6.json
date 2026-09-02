@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 110,
+  "translation": "L ap jije ⟨nan mitan⟩ nasyon yo, ranpli ⟨kadav⟩ sou tè a — li kraze tèt la sou yon gwo peyi.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "jije"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "kadav"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "gwo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:16.249451478Z",
+  "model": "glm-5.3"
+}

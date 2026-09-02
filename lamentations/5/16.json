@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Kouwòn tèt nou a tonbe; malè pou nou, paske nou peche!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kouwòn"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "tèt nou"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "malè"
+    },
+    {
+      "surface": "נא",
+      "gloss": "alò"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "peche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:36.280915150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 120,
+  "translation": "Mwen, lapè; men lè m pale, yo nan lagè.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "men lè"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "m pale"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "nan lagè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:40.487980068Z",
+  "model": "glm-5.3"
+}

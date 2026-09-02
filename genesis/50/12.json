@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Pitit gason yo fè pou li jan sa, menm jan ak sa l te kòmande yo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason yo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jan sa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "menm jan ak sa"
+    },
+    {
+      "surface": "צום",
+      "gloss": "l te kòmande yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:48.683562169Z",
+  "model": "glm-5.3"
+}

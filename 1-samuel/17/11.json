@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Lè Chaoul ak tout Yisrayèl tande ⟨את⟩ pawòl Filistyen an sa yo, yo pèdi kouraj e yo pè anpil.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl Filistyen an sa yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistyen an"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "yo pèdi kouraj"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "yo pè"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:51.274765801Z",
+  "model": "glm-5.3"
+}

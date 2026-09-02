@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Moun yo pèse ak epe a te pi bon pase moun yo pèse ak grangou, paske yo ap koule, pèse, san pwodwi champ lan.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "pi bon"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "moun pèse"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epe a"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "pase moun pèse"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "grangou"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "paske yo"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "ap koule"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "pèse"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "san pwodwi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "champ lan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:48:32.081276656Z",
+  "model": "glm-5.3"
+}

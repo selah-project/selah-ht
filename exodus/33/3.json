@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "al nan yon tè k ap koule ak lèt ak siwo myèl; paske m ap pa monte nan mitan ou, paske ou se yon pèp ki gen kou règid, de krapo m pa detwi ou sou wout la.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yon tè"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "k ap koule"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ak lèt"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ak siwo myèl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "m ap monte"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "nan mitan ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "règid"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kou"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de krapo"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "m detwi ou"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sou wout la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:46.395489764Z",
+  "model": "glm-5.3"
+}

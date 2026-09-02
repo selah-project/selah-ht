@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Chelomo renmen ⟨את⟩ Yawe, ap mache nan lwa David papa l; sèlman sou kote wo yo l ap sacrifie epi l ap fè Lanfom monte.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "nan lwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sou kote wo yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "l"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ap sacrifie"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "epi l ap fè Lanfom monte"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:44.132468890Z",
+  "model": "glm-5.3"
+}

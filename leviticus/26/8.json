@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Senk pami nou ap kouri dèyè san, e san pami nou ap kouri dèyè dis mil; enmi nou yo pral tonbe devan nou anba kle a.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "ap kouri dèyè"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "pami nou"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "e san"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "pami nou"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "dis mil"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ap kouri dèyè"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "e pral tonbe"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "enmi nou yo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "anba kle"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:14.140634998Z",
+  "model": "glm-5.3"
+}

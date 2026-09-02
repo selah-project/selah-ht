@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Elohim, fè nou tounen, fè klere vizo ou, epi nou ap sove.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "fè nou tounen"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "fè klere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "vizo ou"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "epi nou ap sove"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:17.381905560Z",
+  "model": "glm-5.3"
+}

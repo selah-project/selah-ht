@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 26:58",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Sa yo se fanmi Levi a: fanji Libnit yo, fanji Hevronit yo, fanji Mahlit yo, fanji Mouchit yo, fanji Korahit yo; e Kehat fè ⟨את⟩ Amram.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Sa yo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanji"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanji"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "Libnit yo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanji"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "Hevronit yo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanji"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "Mahlit yo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanji"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "Mouchit yo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanji"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "Korahit yo"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "e Kehat"
+    },
+    {
+      "surface": "הולד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amram"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    }
+  ],
+  "timestamp": "2026-09-02T16:35:07.258713116Z",
+  "model": "glm-5.3"
+}

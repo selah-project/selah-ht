@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi Yawe di bay Avram: «Ale pou ou, ale sòti nan peyi ou, ak nan fanmi ou, ak nan kay papa ou, rive nan tè a ke mwen ap montre ou.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "sòti nan peyi ou"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "ak nan fanmi ou"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ak nan kay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "mwen ap montre ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:11.871558810Z",
+  "model": "glm-5.3"
+}

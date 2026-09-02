@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Li frape premye-nee Mitsrayim, depi moun rive bèt.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Li frape"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "premye-nee"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "depi moun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "rite"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bèt"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:58.165907229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Zwazo syèl yo ak pwason lanmè a, tout sa ki pase nan chemen lanmè yo.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "Zwazo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ak pwason"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lanmè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:47.244653406Z",
+  "model": "glm-5.3"
+}

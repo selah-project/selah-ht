@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Fè je yo vin nwa pou yo pa wè, e fè ren yo toujou ap tranble.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "fè vin nwa"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "je yo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "e fè ren yo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "ap tranble"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:24.992963244Z",
+  "model": "glm-5.3"
+}

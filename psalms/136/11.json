@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Epi li fè Yisrael soti nan mitan yo, paske pou touttan hesed li.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Epi li fè soti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "nan mitan yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:24.918896559Z",
+  "model": "glm-5.3"
+}

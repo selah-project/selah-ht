@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi David delivre ⟨את⟩ tout sa Amalek te pran; ak ⟨את⟩ de madanm li yo, David delivre yo.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "epi delivre"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa Amalek te pran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "te pran"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "de madanm li yo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "madanm li yo"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:29.617902316Z",
+  "model": "glm-5.3"
+}

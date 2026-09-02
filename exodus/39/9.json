@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Karè li te ye; doble yo fè ⟨את⟩ hochen an: yon zètè longè li, epi yon zètè lajè li, ⟨te ye⟩ doble.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "karè"
+    },
+    {
+      "surface": "היה",
+      "gloss": "li te ye"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "doble"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hochen an"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hochen an"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "yon zètè"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "longè li"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "epi yon zètè"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lajè li"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "doble"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:55.364654695Z",
+  "model": "glm-5.3"
+}

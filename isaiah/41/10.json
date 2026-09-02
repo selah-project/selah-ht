@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Pa pè, paske mwen avèk ou; pa gade tout bò ⟨pou sekou⟩, paske mwen ⟨se⟩ Elohim ou: mwen ranfòse ou, wi, mwen ede ou, wi, mwen kenbe ou ak menm dwat jistis mwen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "gade tout bò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "ranfòse ou"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wi"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ede ou"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wi"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "kenbe ou"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "ak menm dwat"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "jistis mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:44.441952705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi Yehochoua, wa Yehouda a, tounen lakay li an lapè, nan Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "lakay li"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "an lapè"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "nan Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:31:10.519005709Z",
+  "model": "glm-5.3"
+}

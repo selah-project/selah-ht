@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Epi Iyov viv apre sa san karant ane, e li wè ⟨את⟩ pitit gason li yo ak ⟨את⟩ pitit pitit gason li yo, kèt jenerasyon.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "karant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason li yo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit pitit gason li yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kèt"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:22.329151828Z",
+  "model": "glm-5.3"
+}

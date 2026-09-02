@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "M ap rekonèt ⟨ou⟩ nan mitan pèp yo, Adònay; m ap chante ⟨pou ou⟩ nan mitan nasyon yo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "M ap rekonèt ⟨ou⟩"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "nan mitan pèp yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "m ap chante ⟨pou ou⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "nan mitan nasyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:00.159235165Z",
+  "model": "glm-5.3"
+}

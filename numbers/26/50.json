@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 26:50",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Se yo menm fanmi Naftali yo dapre fanmi yo, e moun ki konte nan mitan yo senkant-kat mil kat san.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Se yo menm"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "e moun ki konte nan mitan yo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "katant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T21:46:28.161211772Z",
+  "model": "glm-5.3"
+}

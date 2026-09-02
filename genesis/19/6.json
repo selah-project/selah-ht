@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Lot soti al jwenn yo nan pòtay la, e li fèmen pòt la dèyè li.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "al jwenn yo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "nan pòtay la"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "e pòt la"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dèyè li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:55.554436189Z",
+  "model": "glm-5.3"
+}

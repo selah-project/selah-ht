@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi pitit Yisrael kriye bay Yawe, pou di: Nou peche kont ou, paske nou kite ⟨את⟩ Elohim nou an e nou sèvi ⟨את⟩ Baäl yo.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "kriye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nou peche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kont ou"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "nou kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim nou an"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "e nou sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baäl yo"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baäl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:15:53.059987207Z",
+  "model": "glm-5.3"
+}

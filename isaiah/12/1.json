@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi ou ap di nan jou sa a: M ap rekonèt ou, Yawe; paske ou te fache kont mwen, kòlè ⟨w⟩ ap vire tounen, epi w ap konsole m.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "epi ou ap di"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "m ap rekonèt ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "ou te fache"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kont mwen"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ap vire tounen"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kòlè ou"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "epi w ap konsole m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:30.116532366Z",
+  "model": "glm-5.3"
+}

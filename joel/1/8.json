@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pran plenté, kòm yon jèn fi ki pase sèk nan ren l, pou mari jènntlèt li a.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Pran plenté"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "kòm yon jèn fi"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "ki pase sèk nan ren l"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sèk"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mari"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "jènntlèt li a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:24.526867090Z",
+  "model": "glm-5.3"
+}

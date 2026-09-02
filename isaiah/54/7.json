@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Pou yon ti kout je, mwen te gen pou m kite w, men ak pitye san limit m ap ranmase w.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "Pou yon ti kout je"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "mwen te gen pou m kite w"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "ak pitye"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "san limit"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "m ap ranmase w"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:07.321630264Z",
+  "model": "glm-5.3"
+}

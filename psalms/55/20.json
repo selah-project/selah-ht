@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "El ap tande, e l ap reponn yo, ⟨li⟩ ki chita depi lontan — Sela — moun ki pa gen chanjman, e ki pa pè ⟨pa⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ap tande"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "e l ap reponn yo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "li ki chita"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "depi lontan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "chanjman"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨pa⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ki pa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "pè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:10.933024612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "E prèt la ap value ⟨את⟩ li, ant bon ak movan; jan ou value l, ou menm ki se prèt la, konsa l ap ye.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "e value"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (bèt la)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "movan"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "jan ou value l"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ou menm ki se prèt la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "l ap ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:01.131661745Z",
+  "model": "glm-5.3"
+}

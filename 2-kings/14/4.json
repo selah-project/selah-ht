@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Sèlman, wotè yo pa t disparèt; pèp la ap toujou ap sakrifye ak boule ansans sou wotè yo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "wotè yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "t disparèt"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ap sakrifye"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ak boule ansans"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sou wotè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:03.771270751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "Kache m nan ⟨anndan⟩ konsèy moun ki fè mal yo, lwen debò moun ki ap travay vanite a.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Kache m"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "nan ⟨anndan⟩ konsèy"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "moun ki fè mal yo"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "lwen debò"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun ki ap travay"
+    },
+    {
+      "surface": "און",
+      "gloss": "vanite a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:59.149390575Z",
+  "model": "glm-5.3"
+}

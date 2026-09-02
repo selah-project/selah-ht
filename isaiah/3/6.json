@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Paske yon moun ap kenbe frè l nan kay papa l, li ap di: Ou gen yon manto — vini, vin chèf pou nou, epi kraze sa a mete l anba men ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "ap kenbe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "manto"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "vini"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "e kraze sa a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:20.606645689Z",
+  "model": "glm-5.3"
+}

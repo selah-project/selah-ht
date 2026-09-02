@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "ak ⟨את⟩ Hadòràm, ak ⟨את⟩ Ouzal, ak ⟨את⟩ Diklah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Hadòràm"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadòràm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ouzal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Ouzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Diklah"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklah"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:35.305587208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Paske janbiz ⟨li gen an⟩ pi bon pase komès lajan, e revni l pi bon pase lò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pi bon"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "janbiz li"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "komès"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lajan"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "e revni l"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "revni l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:51.756742794Z",
+  "model": "glm-5.3"
+}

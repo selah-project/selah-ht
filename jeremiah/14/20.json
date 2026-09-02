@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Nou konnen, è Yawe, mechansète nou an ak fot papa nou yo — paske nou peche kont ou.",
+  "tokens": [
+    {
+      "surface": "יָדַעְנוּ",
+      "gloss": "nou konnen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רִשְׁעֵנוּ",
+      "gloss": "mechansète nou an"
+    },
+    {
+      "surface": "עֲוֺן",
+      "gloss": "fot"
+    },
+    {
+      "surface": "אֲבֹתֵינוּ",
+      "gloss": "papa nou yo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חָטָאנוּ",
+      "gloss": "nou peche"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "kont ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:53:15.250537724Z",
+  "model": "glm-5.3"
+}

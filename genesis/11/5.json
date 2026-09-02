@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Yawe desann pou l wè ⟨את⟩ vil la ak ⟨את⟩ tour la ke pitit moun yo te bati.",
+  "tokens": [
+    {
+      "surface": "וַיֵּרֶד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לִרְאֹת",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vil la"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tour la"
+    },
+    {
+      "surface": "הַמִּגְדָּל",
+      "gloss": "tour la"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בָּנוּ",
+      "gloss": "te bati"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "moun yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:36.598651721Z",
+  "model": "glm-5.3"
+}

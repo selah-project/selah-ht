@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Mechan nan ap siveye jis la, epi ap chèche pou touye l.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ap siveye"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechan nan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "jis la"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "epi ap chèche"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "pou touye l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:39.268652494Z",
+  "model": "glm-5.3"
+}

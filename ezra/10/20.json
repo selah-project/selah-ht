@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Ak nan pitit Imer yo: Hanani ak Zevadya.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ak nan pitit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Imer"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Hanani"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "Zevadya"
+    }
+  ],
+  "timestamp": "2026-09-02T21:05:54.392471108Z",
+  "model": "glm-5.3"
+}

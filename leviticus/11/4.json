@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Men sa a nou pa manje: nan moun ki monte jèra a epi ki gen patwon ki fèy — ⟨את⟩ chamèl la, paske li monte jèra, men patwon l pa fèy nèt; li ⟨pa⟩ bon pou nou.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "men"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa a"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "nan moun ki monte"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "jèra a"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "epi ki gen patwon ki fèy"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "patwon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chamèl la"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "chamèl la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "li monte"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "jèra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "epi patwon"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "fèy nèt"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "pa bon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:16.201492415Z",
+  "model": "glm-5.3"
+}

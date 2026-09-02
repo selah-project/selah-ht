@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E pyès li, non l Reouma, menm li fè ⟨את⟩ Tevakh, ak ⟨את⟩ Gakham, ak ⟨את⟩ Takhach, ak ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "E pyès li"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ak non li"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reouma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e li fè"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevakh"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Gakham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gakham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Takhach"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Takhach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:48.917722652Z",
+  "model": "glm-5.3"
+}

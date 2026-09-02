@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Wa Yisrael la di Elicha: lè l wè ⟨את⟩ yo — èske m ap frape, èske m ap frape — papa m?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "lè l wè"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "èske m ap frape"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "èske m ap frape"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:10:37.413907053Z",
+  "model": "glm-5.3"
+}

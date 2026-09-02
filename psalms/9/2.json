@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "M ap rekonèt Yawe ak tout kè m, m ap konte tout mirak ou yo.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "M ap rekonèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "m ap konte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "mirak ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:54.416774629Z",
+  "model": "glm-5.3"
+}

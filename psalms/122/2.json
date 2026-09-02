@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 122,
+  "translation": "Pyè nou yo te kanpe nan pòt ou yo, Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Pyè nou yo"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "nan pòt ou yo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:38.801721669Z",
+  "model": "glm-5.3"
+}

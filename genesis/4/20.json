@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Ada fè ⟨את⟩ Yaval; li te vin papa moun ki rete nan tant ak moun ki posede bèt.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "E … fè"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te vin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "moun ki rete"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "nan tant"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ak bèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:21.774147797Z",
+  "model": "glm-5.3"
+}

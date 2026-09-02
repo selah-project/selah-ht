@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "M te jèn, e m vye tou, e m pa wè jis ⟨la⟩ abandone, ⟨ni⟩ desandans li ap chèche dible.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "jèn"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "m te ye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "m vye"
+    },
+    {
+      "surface": "וloא",
+      "gloss": "e m pa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "wè"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "abandone"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "epi desandans li"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ap chèche"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dible"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:52.511640420Z",
+  "model": "glm-5.3"
+}

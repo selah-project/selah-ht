@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi satan la reponn ⟨את⟩ Yawe, e li di: èske pou anyen Iyob ap pè Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Epi … reponn"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "pou anyen"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ap pè"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:35.428344631Z",
+  "model": "glm-5.3"
+}

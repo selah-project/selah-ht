@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi pitit gason Chaoul tande ke Avnèr mouri nan Hevròn, epi men l vin flechi, e tout Yisrayèl antre nan pè.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnèr"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "nan Hevròn"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "epi ... vin flechi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "epi tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "antre nan pè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:40:51.923827281Z",
+  "model": "glm-5.3"
+}

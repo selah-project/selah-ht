@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Pou anonse hesed ou (fidel ou a, layans ou) nan maten an, ak fe ou nan lannwit yo.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Pou anonse"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten an"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ak fe ou"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "nan lannwit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:48.370277503Z",
+  "model": "glm-5.3"
+}

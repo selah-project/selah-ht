@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Ak lò peyi sa a bon; la ⟨gen⟩ bedòlach ak pyè choham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ak lò"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedòlach"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ak pyè"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "choham"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:40.772830998Z",
+  "model": "glm-5.3"
+}

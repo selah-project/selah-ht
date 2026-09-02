@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Ansèyman mwen ap tonbe kòm lapli, pawòl mwen ap degoute kòm larosé, kòm ti lapli sou zèb tènan yo, ak kòm gout dlo sou zèb yo.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "ap tonbe"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "kòm lapli"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "ansèyman mwen"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "ap degoute"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "kòm larosé"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "pawòl mwen"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "kòm ti lapli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "zèb tènan yo"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "ak kòm gout dlo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zèb yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:15.554876432Z",
+  "model": "glm-5.3"
+}

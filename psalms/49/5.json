@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Mwen penche zòrèy mwen viò yon ⟨mashal⟩ (pawòl konparezon); mwen louvri devinèt mwen sou ⟨kinòr⟩ a (zouting mizik).",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "penche"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "viò yon mashal"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "zòrèy mwen"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sou kinòr a"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "devinèt mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:42.975505416Z",
+  "model": "glm-5.3"
+}

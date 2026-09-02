@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Prayers Davit, pitit Yichay, fini.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "fini"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "Prayers"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yichay"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:29.559607475Z",
+  "model": "glm-5.3"
+}

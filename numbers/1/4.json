@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi ak ⟨את⟩ ou menm ap gen yon nonm, chak nonm pou yon branch, yon nonm ki tèt kay papa yo — menm li.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ap gen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pou yon branch"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ki tèt"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "menm li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:08.641658296Z",
+  "model": "glm-5.3"
+}

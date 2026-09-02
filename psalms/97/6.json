@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Syèl yo anonse jistis li, e tout pèp yo wè glwa l.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "jistis li"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e wè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glwa l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:06.397129511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi chèf majisyen yo fè menm bagay la ak sekre yo, epi yo fè ⟨את⟩ krapo yo monte sou tè Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Epi … fè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "menm bagay la"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "chèf majisyen yo"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ak sekre yo"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "epi yo fè … monte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krapo yo"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "krapo yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:57.134378973Z",
+  "model": "glm-5.3"
+}

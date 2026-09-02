@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E fanm ki te ap jwe yo te reponn youn ak lòt, e yo te di: Chaoul frape nan mil yo, e David nan diz-mil yo.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "te reponn"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "ki te ap jwe yo"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "e yo te di"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "nan mil yo"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e David"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "nan diz-mil yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:26.542718900Z",
+  "model": "glm-5.3"
+}

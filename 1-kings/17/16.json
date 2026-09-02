@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Kwi a farin nan pa t fini, ni vazo lwil nan pa t manke, dapre pawòl Yawe a, sa l te pale nan men Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "kwi a"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "farin nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "fini"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "e vazo"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lwil nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "manke"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dapre pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:22.992966103Z",
+  "model": "glm-5.3"
+}

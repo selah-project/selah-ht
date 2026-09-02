@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Kòm m ap viv — lokal Adònay Yawe — se sèten: nan plas wa a ki fè ⟨את⟩ l wa, wa ki meprize ⟨את⟩ sèman li a epi ki kraze ⟨את⟩ akò l a, avè ⟨את⟩ li menm, nan mitan Babil, l ap mouri.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lokal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan plas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "ki fè wa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "wa ki fè l wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "meprize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèman li"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "sèman li"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "epi ki"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akò l"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "akò l"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ avè l",
+      "marks": "li menm"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ap mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T19:17:03.499008201Z",
+  "model": "glm-5.3"
+}

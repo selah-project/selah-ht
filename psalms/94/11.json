@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Yawe konnen pansè moun, paske yo ⟨se⟩ van.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "pansè"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:24.226660251Z",
+  "model": "glm-5.3"
+}

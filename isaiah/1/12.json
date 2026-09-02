@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lè nou vin pou wè figi mwen, ki menm ki mande sa nan men nou — piten lakou m yo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "nou vin"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi mwen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "mande"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "nan men nou"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "piten"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "lakou m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:08.124572471Z",
+  "model": "glm-5.3"
+}

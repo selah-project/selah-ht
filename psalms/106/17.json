@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Tè a louvri epi li vale Datàn, li kouvri asanble Aviram la.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "epi li vale"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datàn"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "li kouvri"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviram"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:42.710191430Z",
+  "model": "glm-5.3"
+}

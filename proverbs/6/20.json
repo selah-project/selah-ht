@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Kenbe, pitit mwen, kòmandman papa w la, e pa kite lwa manman w la.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Kenbe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "kite"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "manman w"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:44.499164345Z",
+  "model": "glm-5.3"
+}

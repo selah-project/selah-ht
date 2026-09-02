@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 99,
+  "translation": "Yawe ⟨wa⟩ — ke pèp yo tranble; ⟨li⟩ chita sou keroubim yo — ke tè a fè tranble.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ke yo tranble"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "sou keroubim yo"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ke … fè tranble"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:03.759428373Z",
+  "model": "glm-5.3"
+}

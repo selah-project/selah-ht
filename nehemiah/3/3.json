@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Pitit gason Hassenaa bati ⟨את⟩ pòt pwason yo; ⟨yo⟩ menm mete travèl li, e yo kanpe pòt li yo, vè li yo, ak bèr li yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pòt pwason yo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "pwason yo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hassenaa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo menm"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "mete travèl l"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "e yo kanpe"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "pòt li yo"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "vè li yo"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "ak bèr li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:05:08.337876293Z",
+  "model": "glm-5.3"
+}

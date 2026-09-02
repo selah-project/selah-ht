@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Sèlman vyann ki gen nanm li — san li — nou pa manje.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ak nanm li"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:53.995419458Z",
+  "model": "glm-5.3"
+}

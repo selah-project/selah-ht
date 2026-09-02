@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E l louvri l, e l wè ⟨את⟩ timoun nan — e menm, yon ti gason t ap plire; e l gen pitye pou li, e l di: Sa a se youn nan pitit Ivrim yo.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "e l louvri l"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "e l wè l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timoun nan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yon ti gason"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "t ap plire"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "e l gen pitye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "youn nan pitit"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ivrim yo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:26.478355370Z",
+  "model": "glm-5.3"
+}

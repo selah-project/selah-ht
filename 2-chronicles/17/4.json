@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Paske ⟨l⟩ te chèche Elohim papa l, e l te mache nan kòmandman l yo, e pa janm jan ak zak Yisrael yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "ak nan kòmandman l yo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "jan ak zak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T21:29:26.268024091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E Yawe di bay Moche: Yon lòt koup m ap pote sou Paro ak sou Mitsrayim; apre sa l ap voye ⟨את⟩ nou soti nan kote sa a; lè l fin voye ⟨את⟩ nou, l ap chase nou, vrèman chase nou soti nèt nan kote sa a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yon lòt"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "koup"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "m ap pote"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "l ap voye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "soti nan kote sa a"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "soti nan kote sa a"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "lè l fin voye"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nèt"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "chase"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "ap chase"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "soti nèt nan kote sa a"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nan kote sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:52.579095874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "La a, yon pè kite yo tranble — pè kote pa te gen pè — paske Elohim dispèye zo moun ki kanpe ⟨kont⟩ ou; ou fè yo wont, paske Elohim rejte yo.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "La a"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "yo tranble"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te genyen"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "dispèye"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "zo"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "ki kanpe (kont ou)"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "ou fè wont"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "rejte yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:28.977540049Z",
+  "model": "glm-5.3"
+}

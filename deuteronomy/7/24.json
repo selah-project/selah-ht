@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E l ap bay wa yo nan men ou, e ou ap fè ⟨את⟩ non yo disparèt anba syèl yo; pa gen moun k ap kanpe devan ou jouk ou fin detwi ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "E l ap bay"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "e ou ap fè … disparèt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non yo"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "non yo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "k ap kanpe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ou fin detwi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (nasyon yo)"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:27.075462527Z",
+  "model": "glm-5.3"
+}

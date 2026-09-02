@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Reveye ou, reveye ou pou jijman mwen, Elohim mwen ak Adònay mwen, pou defans mwen!",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "reveye"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "ak reveye"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "pou jijman mwen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ak Adònay"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "pou defans mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:42.996862716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E m ap bay ⟨את⟩ Yerouchalayim kòm tiyo wòch, kòm antre chyen sovaj yo; e ⟨את⟩ vil Yehouda yo m ap fè yo tounen dezolasyon, san moun k ap abite yo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "E m ap bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "kòm tiyo wòch"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "kòm antre"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "chen sovaj yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "vil Yehouda yo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ap fè"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tounen dezolasyon"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "san"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "moun k ap abite"
+    }
+  ],
+  "timestamp": "2026-09-02T18:49:57.370284773Z",
+  "model": "glm-5.3"
+}

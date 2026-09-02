@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Ou fè nou tounen dèyè an fas enmi a, e moun ki rayi nou yo pilye pou tèt yo.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Ou fè nou tounen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "מני",
+      "gloss": "an fas"
+    },
+    {
+      "surface": "צר",
+      "gloss": "enmi a"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "e moun ki rayi nou yo"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "pilye"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pou tèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:58.210772291Z",
+  "model": "glm-5.3"
+}

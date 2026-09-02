@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Se poutèt sa pèp ⟨li⟩ ap tounen isit la, ak dlo ki plen an yo ap sike pou yo.",
+  "tokens": [
+    {
+      "surface": "לָכֵ֤ן",
+      "gloss": "se poutèt sa"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ap tounen"
+    },
+    {
+      "surface": "עַמּ֣וֹ",
+      "gloss": "pèp ⟨li⟩"
+    },
+    {
+      "surface": "הֲלֹ֑ם",
+      "gloss": "isit la"
+    },
+    {
+      "surface": "וּמֵ֥י",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "מָ֝לֵ֗א",
+      "gloss": "plen"
+    },
+    {
+      "surface": "יִמָּ֥צוּ",
+      "gloss": "yo ap sike"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "pou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:51.464481100Z",
+  "model": "glm-5.3"
+}

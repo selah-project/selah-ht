@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Noach antre, ak pitit gason l yo, ak madanm l, ak madanm pitit gason l yo ⟨ak⟩ li, nan batwo a, devan dlo delij la.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E antre"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ak pitit gason l yo"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ak madanm l"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ak madanm"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ak li",
+      "marks": "li (Noach)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "batwo a"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "delij la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:58.083077610Z",
+  "model": "glm-5.3"
+}

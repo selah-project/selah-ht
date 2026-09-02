@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi yo pa fè kont ⟨את⟩ moun yo ke yo bay ⟨את⟩ ajan an nan men yo, pou bay sa ki fè travay la, paske nan lafwa yo fè l.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "fè kont"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun yo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajan an"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ajan an"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pou bay"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "sa ki fè"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "travay la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "nan lafwa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "fè l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:03.646856039Z",
+  "model": "glm-5.3"
+}

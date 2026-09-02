@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Lwanj mwen soti depi ⟨את⟩ ou nan yon gran asanble; mwen ap peye vò mwen devan moun ki gen krentif pou li.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "depi ⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lwanj mwen"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nan asanble"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gran"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "vò mwen"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "mwen ap peye"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "moun ki gen krentif pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:17.794294821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Mwen pase kòm lonbraj lè l ap bese; yo fwite mwen kòm.kòm kriye.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "kòm lonbraj"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "lè l ap bese"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "mwen pase"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "yo fwite mwen"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kòm kriye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:27.651928069Z",
+  "model": "glm-5.3"
+}

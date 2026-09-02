@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Paske pandan yo ansere kòm epèn, e sou ak bwè yo, yo ap konsome kòm pay ki sèk totalman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pandan"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "epèn yo"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "ansere"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "ak bwè yo"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yo ap konsome"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kòm pay"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "sèk"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "totalman"
+    }
+  ],
+  "timestamp": "2026-09-02T19:42:02.763717594Z",
+  "model": "glm-5.3"
+}

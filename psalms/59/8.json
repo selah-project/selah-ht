@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Gade, yo fè lage nan bouch yo; epe nan lev yo; paske kilès k ap tande?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "yo fè lage"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nan bouch yo"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "epe"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "nan lev yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kilès"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "k ap tande"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:51.285908101Z",
+  "model": "glm-5.3"
+}

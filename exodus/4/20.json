@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Moche pran ⟨את⟩ madanm li ak ⟨את⟩ pitit gason li yo, li fè yo chache sou bourik la, epi li tounen ale nan peyi Mitsrayim; Moche pran ⟨את⟩ baton HaElohim la nan men l.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madanm li"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit gason li yo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "li fè yo chache"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "bourik la"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tounen ale"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baton HaElohim la"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "baton"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim la"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:19.984679065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi yo bay yo ⟨את⟩ Kiryat-Arba, papa Anak la, se Chèvron li ye, nan mòn Yehouda, ak ⟨את⟩ plenn bò kote l yo toutotou l.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "yo bay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo (pou yo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anak la"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se … li ye"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "plenn bò kote l yo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "plenn bò kote l"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "toutotou l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:33:51.035985296Z",
+  "model": "fable-5-hand"
+}

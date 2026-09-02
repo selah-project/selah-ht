@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi yo mete moun anba, yo abese ⟨chaak⟩ gason, epi je moun ki wo ⟨yo⟩ ap bese.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "yo mete anba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "yo abese"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "epi je"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "moun ki wo"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "ap bese"
+    }
+  ],
+  "timestamp": "2026-09-02T18:23:39.742108899Z",
+  "model": "glm-5.3"
+}

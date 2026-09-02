@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E te genyen ankò yon lagè ak Filistin yo pou ⟨את⟩ Izrayèl; David desann ak sèvitè li ansanm avè l, e yo goumen ⟨את⟩ Filistin yo, e David te fatige.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "e te genyen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "ak Filistin yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e l desann"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ak sèvitè li yo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ansanm avè l"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "e yo goumen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistin yo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "e l te fatige"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:49:28.753606332Z",
+  "model": "glm-5.3"
+}

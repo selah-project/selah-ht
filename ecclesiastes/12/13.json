@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Finenn tout bagay la, li fin tande: peye respe HaElohim, epi gad ⟨את⟩ kòmandman l yo, paske se sa tout moun nan.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Finenn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "li fin tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "paye respe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi gad ⟨את⟩",
+      "marks": "kòmandman l yo"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kòmandman l yo"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "gad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:57.055459775Z",
+  "model": "glm-5.3"
+}

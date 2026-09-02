@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Yo deplase soti nan Refidim, yo antre nan dezè Sinay, epi yo kanpe nan dezè a; Yisrael kanpe la, an fas montayn nan.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "yo deplase"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "Refidim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "yo antre"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dezè"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "yo kanpe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "li kanpe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "an fas"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "montayn nan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:32.007140693Z",
+  "model": "glm-5.3"
+}

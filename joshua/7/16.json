@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi Yehochoua lese anvan jou a, epi l fè ⟨את⟩ Izrayèl pwoche selon tribi yo; epi tribi Yehouda pran.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "epi l lese anvan jou a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten an"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "epi l fè pwoche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "selon tribi yo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "epi li pran"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T17:03:24.834315786Z",
+  "model": "glm-5.3"
+}

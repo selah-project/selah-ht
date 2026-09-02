@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Paske nan plizyè rev ak vanite ak pawòl anpil — ⟨את⟩ HaElohim, respecte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nan plizyè"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "rev"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ak vanite"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ak pawòl"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "respecte"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:04.942593641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Sara di: Elohim fè ri pou mwen; nenpòt moun ki tande ap ri ⟨pou⟩ mwen.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Epi … di"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "ri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt moun"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ki tande"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ap ri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pou⟩ mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:10.357673064Z",
+  "model": "glm-5.3"
+}

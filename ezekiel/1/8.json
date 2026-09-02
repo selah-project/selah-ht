@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi men moun an anba zèl yo sou kat kote yo, e figi yo ak zèl yo ⟨se⟩ pou kat yo.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "Epi men"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "zèl yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "kat"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "kote yo"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "epi figi yo"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "ak zèl yo"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "pou kat yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:10:22.699669222Z",
+  "model": "glm-5.3"
+}

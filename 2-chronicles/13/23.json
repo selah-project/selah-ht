@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 13:23",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Aviya kouch ak zansèt li yo, e yo antere ⟨את⟩ l nan lavil David, e Asa, pitit li a, vin wa nan plas li; nan jou l yo tè a trankil dis an.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kouch"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt li yo"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "e yo antere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l (Aviya)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "vin wa"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li a"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "nan jou l yo"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "trankil"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "an"
+    }
+  ],
+  "timestamp": "2026-09-02T21:29:05.458727294Z",
+  "model": "glm-5.3"
+}

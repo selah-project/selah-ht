@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Epi Filistyen te goumen kont Yisrayèl, e mesaye Yisrayèl te kouri devan Figi Filistyen yo, e moun touye yo te tonbe sou mòn Gilboa a.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Epi Filistyen"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "te goumen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kont Yisrayèl"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "e ... te kouri"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mesaye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan Figi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "e ... tonbe"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "moun touye yo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou mòn"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:04.046292729Z",
+  "model": "glm-5.3"
+}

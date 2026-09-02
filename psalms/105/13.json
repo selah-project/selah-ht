@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "E yo te mache soti nan yon nasyon rive nan yon lòt nasyon, soti nan yon wayòm rive nan yon lòt pèp.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "e yo te mache"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "soti nan yon nasyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "lòt nasyon"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "soti nan yon wayòm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lòt"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:06.171237433Z",
+  "model": "glm-5.3"
+}

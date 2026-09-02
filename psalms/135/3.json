@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Louvri Yah, paske Yawe bon; chante pou non l, paske l dous.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "pou non l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dous"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:47.815681713Z",
+  "model": "glm-5.3"
+}

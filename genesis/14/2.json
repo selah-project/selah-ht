@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "yo fè lagè kont ⟨את⟩ Bera wa Sedom ak ⟨את⟩ Bircha wa Amora, Chinav wa Adma, Chemèvèr wa Tsevoyim, ak wa Bela — se li Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Bircha"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Bircha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Chinav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "ak Chemèvèr"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevoyim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ak wa"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:31.490391117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 111,
+  "translation": "Majeste ak bèlte nan zèv li, e jistis li kanpe pou tout tan.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Majeste"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ak bèlte"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "nan zèv li"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "e jistis li"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:00.432836261Z",
+  "model": "glm-5.3"
+}

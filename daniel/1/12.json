@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Eseye tanpri ⟨את⟩ sèvant ou yo dis jou: ba nou nan grenn-legim yo pou n manje, epi dlo pou n bwè.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Eseye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvant ou yo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvant ou yo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "epi yo bay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "grenn-legim yo"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "pou n manje"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "epi dlo"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "pou n bwè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:47.892222035Z",
+  "model": "glm-5.3"
+}

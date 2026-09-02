@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Paske mechan yo pèdi, e lènmi Yawe yo — kòm presye mouton yo — fini; nan fimen yo fini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "e lènmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "kòm presye"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fini"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "nan fimen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fini"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:41.362468346Z",
+  "model": "glm-5.3"
+}

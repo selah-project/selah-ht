@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "⟨Li⟩ ki di solèy la e li pa leve, e ⟨li⟩ sekle etwal yo.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ki di"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "leve"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "e sou"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "etwal yo"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "sekle"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:23.315363505Z",
+  "model": "glm-5.3"
+}

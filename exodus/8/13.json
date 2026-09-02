@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E ⟨yo⟩ fè konsa: Aharòn lonje men l ak baton l, e li frape ⟨את⟩ pousyè tè a, e ⟨את⟩ kinnim yo te vin sou moun ak sou bèt yo; tout pousyè tè a te vin kinnim nan tout peyi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "E yo fè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "lonje"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "ak baton l"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e li frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pousyè tè a"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e te vin"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kinnim yo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sou moun"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ak sou bèt yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te vin"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "kinnim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:10.511120151Z",
+  "model": "glm-5.3"
+}

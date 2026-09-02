@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "ak lwil pou limyè a, ak pwavan pou lwil ansentman an, ak pou ansans bwouwa a.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "ak lwil"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "pou limyè a"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "ak pwavan"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "pou lwil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ansentman an"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ak pou ansans"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "bwouwa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:09.417272264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi Zikhri, yon gason vayan nan Efrayim, touye ⟨את⟩ Maaseyahou pitit wa a, ak ⟨את⟩ Azrikam, chèf kay la, ak ⟨את⟩ Elkanah, dezyèm apre wa a.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "epi touye"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gason vayan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseyahou"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyahou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "dezyèm"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:34:08.776988723Z",
+  "model": "glm-5.3"
+}

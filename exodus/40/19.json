@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Li deplope ⟨את⟩ tant la sou tabènakil la, li mete ⟨את⟩ kouvèti tant la sou li anlè, jan Yawe kòmande ⟨את⟩ Moche.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "li deplope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant la"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènakil la"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kouvèti tant la"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kouvèti"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:05.156824611Z",
+  "model": "glm-5.3"
+}

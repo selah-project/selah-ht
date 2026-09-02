@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Paske Aza ap vin yon kote dechou, ak Achkelon ap vin dezè; Achdod ap chase yo {{l}} nan midi, ak Ekron ap rasinen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "ap vin yon kote dechou"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "ak Achkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ap vin dezè"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Achdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "nan midi"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "ap chase yo l"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "ak Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "ap rasinen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:45:06.837791289Z",
+  "model": "glm-5.3"
+}

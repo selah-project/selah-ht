@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Nan Elohim nou fè lwanj tout jou a, e non ou a pou toutan nou ap rekonèt. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Nan Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "nou fè lwanj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "e non ou a"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "nou ap rekonèt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:58.210300613Z",
+  "model": "glm-5.3"
+}

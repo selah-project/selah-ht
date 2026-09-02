@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi pran plezi ou nan Yawe, epi l ap ba ou sa kè w ap mande.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Epi pran plezi ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "epi l ap ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "sa … ap mande"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kè w"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:33.403112509Z",
+  "model": "glm-5.3"
+}

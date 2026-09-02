@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Ou ap pale ⟨את⟩ tout sa mwen kòmande ou, e Aharòn, frè w, ap pale ak Paro, pou l voye ⟨את⟩ pitit Yisrayèl yo soti nan peyi l.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ap pale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "mwen kòmande ou"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharòn"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè w"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ap pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "pou l voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrayèl yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "soti nan peyi l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:42:26.119168276Z",
+  "model": "glm-5.3"
+}

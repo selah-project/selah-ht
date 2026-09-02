@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 140,
+  "translation": "Ke yo fè charbon boule tonbe sou yo; nan dife fè l tonbe, nan twou fon nan — pou yo pa leve anko.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "fè tonbe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "charbon boule"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "fè l tonbe"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "nan twou fon nan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "leve anko"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:48.085683267Z",
+  "model": "glm-5.3"
+}

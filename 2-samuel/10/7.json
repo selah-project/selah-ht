@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "David tande ⟨sa⟩, e li voye ⟨את⟩ Yoav ak ⟨את⟩ tout lame a, gason fò yo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout lame a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "lame a"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "gason fò yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:43:33.932310452Z",
+  "model": "glm-5.3"
+}

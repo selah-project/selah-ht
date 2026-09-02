@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Tout jou Chet yo te douz ane ak nèf san ane, epi l mouri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yo te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ak nèf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "epi l mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:47.856773446Z",
+  "model": "glm-5.3"
+}

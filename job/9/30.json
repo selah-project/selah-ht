@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Si mwen lave kò mwen ak neig, e mwen fè men mwen vini blan ak ⟨losoy⟩,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "mwen lave kò mwen"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ak"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "neig"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "e mwen fè vini blan"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "ak ⟨losoy⟩"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "men mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:44.989901859Z",
+  "model": "glm-5.3"
+}

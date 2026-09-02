@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 56,
+  "translation": "Jou m pè, se nan ou m met konfyans m.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "m pè"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "met konfyans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:26.908255532Z",
+  "model": "glm-5.3"
+}

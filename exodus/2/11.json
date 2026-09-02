@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi rive, nan jou yo sa yo, lè Moche te grandi, li soti ale kay frè li, epi li wè charg yo; epi li wè yon nonm Mitsrayim ap frape yon nonm Ebre, youn nan frè li.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi rive"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nan jou yo"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "granandi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "soti ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè li"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "epi li wè"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "charg yo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "epi li wè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ap frape"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ebre"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "youn nan frè li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:32.726428469Z",
+  "model": "glm-5.3"
+}

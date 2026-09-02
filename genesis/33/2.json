@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Li mete ⟨את⟩ sèvant yo ak ⟨את⟩ timoun yo an premye, ⟨את⟩ Lea ak timoun li dèyè, ⟨את⟩ Rachèl ak ⟨את⟩ Yosèf dèyè.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvant yo"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "sèvant yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "timoun yo"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "timoun yo"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "an premye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ak timoun li"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Rachèl"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachèl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yosèf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "dèyè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:17.284002770Z",
+  "model": "glm-5.3"
+}

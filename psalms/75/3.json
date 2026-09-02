@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 75,
+  "translation": "Lè m ap pran tan rankontre a, se mwen menm k ap jije ak jistis.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "m ap pran"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tan rankontre a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ak jistis"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "k ap jije"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:32.495681845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "Yo fin depeye, kè vayan yo; yo dòmi dòmi yo, e tout gason fòs yo pa jwenn ⟨men yo⟩.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "fin depeye"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "vayan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "dòmi yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gason"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "men yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:36.119559820Z",
+  "model": "glm-5.3"
+}

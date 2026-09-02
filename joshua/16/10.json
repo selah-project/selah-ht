@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi yo pa chase ⟨את⟩ Kenaàn an, moun ki t ap abite nan Gazè; epi Kenaàn an te rete nan mitan Efrayim jou la a jodi a, epi li vin tache tribi, ap sèvi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi yo pa"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "chase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaàn an"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaàn an"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "moun ki t ap abite"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "nan Gazè"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "epi … te rete"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaàn an"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskaske"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "והי",
+      "gloss": "epi … vin"
+    },
+    {
+      "surface": "למס",
+      "gloss": "tache tribi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ap sèvi"
+    }
+  ],
+  "timestamp": "2026-09-02T22:20:21.409910912Z",
+  "model": "glm-5.3"
+}

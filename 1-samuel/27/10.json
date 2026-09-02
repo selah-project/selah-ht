@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi Akich di: Kote nou al fè razya jodi a? Epi David di: Sou sid Yehouda, ak sou sid Yerachmeli yo, ak nan sid Keni yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kesyon⟩"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "fè razya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sid"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerachmeli yo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak nan"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sid"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keni yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:24.193282850Z",
+  "model": "glm-5.3"
+}

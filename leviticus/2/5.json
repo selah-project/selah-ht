@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E si ofrann sou gril la se korban ou a, farin fin melanje nan lwil, li pral ⟨fèt⟩ san leviren.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ofrann"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "gril la"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "korban ou"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "farin fin"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "melanje"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nan lwil"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "san leviren"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "pral"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:51.485961297Z",
+  "model": "glm-5.3"
+}

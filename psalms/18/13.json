@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Nan klèté ki devan l an, nwaj èp yo pase, grèl ak chabon dife.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Nan klèté"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ki devan l an"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "nwaj èp yo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pase"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "grèl"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ak chabon"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:45.363477403Z",
+  "model": "glm-5.3"
+}

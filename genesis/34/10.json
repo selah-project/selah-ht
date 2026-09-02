@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "e ak ⟨את⟩ nou nou pran abitans, e tè a ap devan nou; rete ladan l, fè komès l, e pran l kòm posesion.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "ak ⟨את⟩ nou"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "pran abitans"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e tè a"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "rete"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "e fè komès l"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "e pran kòm posesion"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l \/ l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:59.273204036Z",
+  "model": "glm-5.3"
+}

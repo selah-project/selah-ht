@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Pou David. Baw, Yawe, m ap rele; wòch mwen an, pa fè sòt de mwen, pou ou pa vin silans de mwen, e mwen vin tankou moun k ap desann nan fou a.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pou David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Baw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ap rele"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "wòch mwen an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "fè sòt"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mwen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou ou pa"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "vin silans"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mwen"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "e mwen vin tankou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "moun k ap desann"
+    },
+    {
+      "surface": "בור",
+      "gloss": "nan fou a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:00.456806661Z",
+  "model": "glm-5.3"
+}

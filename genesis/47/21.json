@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "E ak ⟨את⟩ pèp la, ⟨li⟩ fè yo deplase nan vil yo, depi yon bout fwontyè Mitsrayim jouk lòt bout li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "deplase"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yo",
+      "marks": "vil yo"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "nan vil yo"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "depi yon bout"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fwontyè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "lòt bout li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:37:51.684271046Z",
+  "model": "glm-5.3"
+}

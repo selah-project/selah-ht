@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Elohim beni ⟨את⟩ Noach ak ⟨את⟩ pitit gason li yo, e li di yo: fwi, miltipliye, e rempli ⟨את⟩ tè a.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit gason li yo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "miltipliye"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e rempli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:53.994758706Z",
+  "model": "glm-5.3"
+}

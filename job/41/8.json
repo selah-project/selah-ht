@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Yonn rankontre ak lòt ⟨yonn⟩, e van pa antre antre yo.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Yonn"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ak lòt yonn"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "rankontre"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e van"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "antre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:43:41.932158023Z",
+  "model": "glm-5.3"
+}

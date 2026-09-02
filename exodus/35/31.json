@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Epi li fill li ak ⟨את⟩ lespri Elohim, nan sajès, nan entelijans, nan konesans, ak nan tout kalite travay",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Epi li fill"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lespri"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "nan sajès"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "nan entelijans"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ak nan konesans"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak nan tout"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kalite travay"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:06.421586307Z",
+  "model": "glm-5.3"
+}

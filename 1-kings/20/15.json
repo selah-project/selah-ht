@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi li fè kont ⟨את⟩ jèn gason chèf provens yo, e yo te de sant trant-de ; apre yo, li fè kont ⟨את⟩ tout pèp la, tout pitit Izrayèl yo, sèt mil.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "epi li fè kont"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jèn gason chèf provens yo"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "provens yo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e yo te"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "de sant"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ak trant"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "apre yo"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "li fè kont"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pèp la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:32.079940635Z",
+  "model": "glm-5.3"
+}

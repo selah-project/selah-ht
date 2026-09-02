@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "⟨את⟩ yon sèl mouton ou fè ⟨nan⟩ maten, epi ⟨את⟩ dezyèm mouton an ou fè ant dezè ak solèy kouche.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yon sèl mouton"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "dezyèm mouton an"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dezè ak solèy kouche"
+    }
+  ],
+  "timestamp": "2026-09-02T16:36:00.779539940Z",
+  "model": "glm-5.3"
+}

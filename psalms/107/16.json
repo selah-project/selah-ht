@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Paske li kraze pòt kwèv yo, epi bè fè yo li koupe an moso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "li kraze"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kwèv"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ak bè"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "fè"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "li koupe an moso"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:01.218570565Z",
+  "model": "glm-5.3"
+}

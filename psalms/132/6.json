@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Gade, nou tande l an Efrata, nou jwenn l nan jaden yo nan forè a.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "nou tande l"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "an Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "nou jwenn l"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "nan jaden yo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "nan forè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:40.610854885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 67,
+  "translation": "Elohim, fè nou lajwa e beni nou; fè figi l klere ⟨את⟩ sou nou. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "fè nou lajwa"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "e beni nou"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "fè klere"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ak nou",
+      "marks": "sou nou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:49.880924588Z",
+  "model": "glm-5.3"
+}

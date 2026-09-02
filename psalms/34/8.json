@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Yon mesaje Yawe kanpe toutotou moun ki pè l' yo, e li delivre yo.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "yon mesaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "moun ki pè l' yo"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "e li delivre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:17.990730882Z",
+  "model": "glm-5.3"
+}

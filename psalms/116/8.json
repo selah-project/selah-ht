@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Paske ou delivre nanm m soti nan lanmò, ⟨את⟩ je m soti nan dlo je, ⟨את⟩ pye m soti nan derap.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "ou delivre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "soti nan lanmò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je m"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "dlo je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pye m"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pye m"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "derap"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:56.934174375Z",
+  "model": "glm-5.3"
+}

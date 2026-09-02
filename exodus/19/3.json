@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi Moche monte bò kote HaElohim, epi Yawe rele l soti nan montayn nan, pou l di: Konsa ou ap di bay kay Yaakov, epi ou ap anonse bay pitit Yisrayèl yo:",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Epi Moche"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò kote"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "epi ... rele"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "montayn nan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ou ap di"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bay kay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "epi ou ap anonse"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bay pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:32.007303437Z",
+  "model": "glm-5.3"
+}

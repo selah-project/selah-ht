@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Kè tout tè a dwe pè Yawe; tout moun k ap abite tevèl la dwe tranble devan l.",
+  "tokens": [
+    {
+      "surface": "יִֽירְא֣וּ",
+      "gloss": "dwe pè"
+    },
+    {
+      "surface": "מֵיְהוָ֗ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "מִמֶּ֥נּוּ",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "יָ֝ג֗וּרוּ",
+      "gloss": "dwe tranble"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יֹשְׁבֵ֥י",
+      "gloss": "moun k ap abite"
+    },
+    {
+      "surface": "תֵּבֵֽל",
+      "gloss": "tevèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:30.092149625Z",
+  "model": "glm-5.3"
+}

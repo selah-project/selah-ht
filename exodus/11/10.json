@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Moche ak Aharòn fè ⟨את⟩ tout mirak sa yo devan Paro; epi Yawe fè kè Paro di, e li pa voye ⟨את⟩ pitit Yisrayèl yo soti nan peyi l.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Epi Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ak Aharòn"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout mirak sa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "mirak yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "epi ... fè di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e li pa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrayèl yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "soti nan peyi l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:42:55.217216004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi Yawe pale avè m, li di: Mwen wè ⟨את⟩ pèp sa a, e men, li se yon pèp ki gen kou di.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "avè m"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Mwen wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp sa a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e men"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "di"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li se"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:40.983042820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Kòm korbàn premye fwi, nou pote ⟨את⟩ yo ba Yawe; men yo pa monte sou lotèl la kòm yon odor ki plezi.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "kòm korbàn"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "premye fwi"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (lemèt ak myèl vèse 11)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ba Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "men sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "monte"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "kòm odor"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "ki plezi"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:48.233812611Z",
+  "model": "glm-5.3"
+}

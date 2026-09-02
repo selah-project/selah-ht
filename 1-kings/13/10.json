@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E li mache nan yon lòt wout, e li pa retounen nan wout ke li te antre avè l la, nan Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:45.598814142Z",
+  "model": "glm-5.3"
+}

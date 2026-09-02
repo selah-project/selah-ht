@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Ki profite nan san mwen, nan desann mwen nan fouwa a? Èske pousyè a pral rekonèt ou? Èske l anonse verite ou?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "profite"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "nan san mwen"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "nan desann mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "fouwa a"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Èske … pral rekonèt ou"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè a"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Èske l anonse"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "verite ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:12.763106275Z",
+  "model": "glm-5.3"
+}

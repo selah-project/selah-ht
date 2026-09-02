@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "paske esklav ou a te pran ⟨את⟩ jèn gason an an gad devan papa m, lè l di: si m pa mennen l ba ou, m ap fòt kont papa m tout jou mwen yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "esklav ou"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "te pran an gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jèn gason an"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jèn gason an"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lè l di"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "mennen l"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "m ap fòt"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "kont papa m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jou mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:36:19.404169211Z",
+  "model": "glm-5.3"
+}

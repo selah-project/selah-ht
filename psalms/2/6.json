@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E mwen menm, mwen enstale wa mwen an sou Tsiyòn, mòn sen mwen an.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "E mwen menm"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "mwen enstale"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa mwen an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sen mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:41.118831496Z",
+  "model": "glm-5.3"
+}

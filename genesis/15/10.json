@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Li pran ⟨את⟩ tout bèt sa yo pou li, koupe ⟨את⟩ yo nan mitan, mete chak mòso fè fas ak kamarad l; men ⟨את⟩ zwazo a li pa koupe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "li pran"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout bèt sa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bèt sa yo"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "mòso"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "fè fas ak"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kamarad l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zwazo a"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "zwazo a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "koupe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:19:41.705730634Z",
+  "model": "glm-5.3"
+}

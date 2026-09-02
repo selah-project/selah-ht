@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Pou chèf mizisyen an, sou ⟨Nehilot⟩ — yon mizmor pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "⟨Nehilot⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:46.111555833Z",
+  "model": "glm-5.3"
+}

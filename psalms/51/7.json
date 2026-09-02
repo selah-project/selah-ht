@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Gade, nan inikite mwen fèt soti, epi nan peche manman mwen pran ensent avèk mwen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "nan inikite"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "mwen fèt soti"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "epi nan peche"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "pran ensent avèk mwen"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "manman mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:50.515046446Z",
+  "model": "glm-5.3"
+}

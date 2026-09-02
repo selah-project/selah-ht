@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Mwen ⟨se⟩ Yawe, Elohim ou, ki fè ou soti nan tè Mitsrayim, soti nan kay sèvitid la —",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "fè ou soti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soti nan kay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sèvitid"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:26.208046855Z",
+  "model": "glm-5.3"
+}

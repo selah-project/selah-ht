@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Pran gad sou m, pèp m, e nasyon m, koute m: paske yon lwa ap soti ⟨nan men⟩ m ⟨את⟩, ak jijman m pou limyè pèp yo, m ap fè l kanpe vit.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Pran gad sou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp m"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "e nasyon m"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "koute"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "nan men m ⟨את⟩",
+      "marks": "yon lwa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ap soti"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ak jijman m"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "pou limyè"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "m ap fè l kanpe vit"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:43.626083848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Ou fè byen ak esklav ou a, Yawe, dapre pawòl ou.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "fè"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "esklav ou a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "dapre pawòl ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:28.545790909Z",
+  "model": "glm-5.3"
+}

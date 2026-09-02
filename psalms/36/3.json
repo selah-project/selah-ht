@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Paske li fè tèt li dous pou l, nan zye l, pou jwenn fot li, pou rayi ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "fè dous \/ fè lis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pou l"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nan zye l"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "pou jwenn"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "fot li"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "pou rayi"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:05.619088138Z",
+  "model": "glm-5.3"
+}

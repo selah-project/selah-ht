@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Pou mwen sezi ⟨את⟩ fanmi Yisrael nan kè yo menm, paske yo tournen de sou mwen ak zidòl yo — tout yo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "sezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanmi Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "nan kè yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "tournen"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de sou mwen"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "ak zidòl yo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tout yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:16:50.486842169Z",
+  "model": "glm-5.3"
+}

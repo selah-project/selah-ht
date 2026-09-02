@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pa kite l, l ap pwoteje ou; renmen l, l ap garde ou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "kite l"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "l ap pwoteje ou"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "renmen l"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "l ap garde ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:38.538252385Z",
+  "model": "glm-5.3"
+}

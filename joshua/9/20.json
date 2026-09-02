@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Sa a nou pral fè pou yo: n ap kite yo vivan, pou ⟨li⟩ pa gen kòlè ki pran sou nou, sou sèman an ke nou te sèmante pou yo.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "pral fè"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "epi kite vivan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gen pran"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "sèman an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "te sèmante"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:02:39.761920080Z",
+  "model": "glm-5.3"
+}

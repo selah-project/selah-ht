@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi mwen te bay kè m pou konnen sajès ak konnen foli ak wont: mwen konnen ke menm sa a se yon chache apre van.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "epi mwen bay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pou konnen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ak pou konnen"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "foli"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "ak wont"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mwen konnen"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "ke menm"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "chache apre"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-09-02T22:26:31.019984693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Kay moun jis la gen anpil richès, men nan pwofi moun mechan yo gen twoub.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "richès"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "epi nan pwofi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moun mechan"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "gen twoub"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:20.277293929Z",
+  "model": "glm-5.3"
+}

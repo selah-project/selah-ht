@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Nan jounen an Yawe ap lòdè hesed li (lanmou fidelity), e nan lannwit yon chante avè m — yon lapriyè pou El lavi m.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Nan jounen an"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ap lòdè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "e nan lannwit"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "yon chante"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "avè m"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "yon lapriyè"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "pou El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "lavi m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:19.209366509Z",
+  "model": "glm-5.3"
+}

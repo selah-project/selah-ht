@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Avraham sikonswiz ⟨את⟩ Yitshak, pitit gason l a, lè li te gen uit jou, jan Elohim te kòmande l.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Epi sikonswiz"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lè li te gen"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "uit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "te kòmande"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:00.762260508Z",
+  "model": "glm-5.3"
+}

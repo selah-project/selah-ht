@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Men pèp mwen an pa t koute vwa mwen, e Yisrael pa t vle anyen ak mwen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Men… pa t"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen an"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "vwa mwen"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa t"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "vle anyen ak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:23.637458705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "ak ⟨את⟩ Patrousim, ak ⟨את⟩ Kaslouhim — se la Pelichtim soti — ak ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Patrousim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrousim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Kaslouhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaslouhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "משם",
+      "gloss": "la"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pleichtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:24.134084133Z",
+  "model": "glm-5.3"
+}

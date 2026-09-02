@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Devan l moun dezè yo ap jenouyone, ak enemis li yo ap leche pousyè.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "Devan l"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ap jenouyone"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "moun dezè yo"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "ak enemis li yo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ap leche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:48.709991367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Paske mwen se pòv ak bezwen, e kè mwen blese anndan mwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ak bezwen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen se"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "e kè mwen"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "blese"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "anndan mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:27.651798084Z",
+  "model": "glm-5.3"
+}

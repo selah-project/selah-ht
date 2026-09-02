@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E li kontinye fè pitit ⟨את⟩ frè l, ⟨את⟩ Hebel. E Hevel te vin bègè mouton, e Kayin te vin kiltivatè tè.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "E li kontinye"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè l"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "E … te vin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bègè"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "e Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te vin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kiltivatè"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:47.504926694Z",
+  "model": "glm-5.3"
+}

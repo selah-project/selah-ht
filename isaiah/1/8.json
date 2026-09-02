@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi piti fi Tsiyòn ap rete kòm yon kay gad nan yon venn, kòm yon ti kay gad nan yon jaden kònichon, kòm yon vil ki an asyejman.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "epi ap rete"
+    },
+    {
+      "surface": "בת",
+      "gloss": "piti fi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "kòm yon kay gad"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "nan yon venn"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "kòm yon ti kay gad"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "nan yon jaden kònichon"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "kòm yon vil"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "ki an asyejman"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:23.451767536Z",
+  "model": "glm-5.3"
+}

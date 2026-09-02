@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "E se mwen Yawe, Elohim ou, ki mete lanme a an movman e fè vag li yo fè bri; Yawe Tsevao se Non li.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "e se mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ki mete lanme a an movman"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanme a"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "e ... fè bri"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "vag li yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevao"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Non li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:43.546053854Z",
+  "model": "glm-5.3"
+}

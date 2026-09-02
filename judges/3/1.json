@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Men nasyon yo ke Yawe kite pou teste ak yo ⟨את⟩ Yisrael — ⟨את⟩ tout moun ki pa t konnen ⟨את⟩ tout lagè yo nan Kenaàn.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Men"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "kite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "pou teste"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout moun ki pa t konnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "t konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout lagè yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "lagè yo"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:13:13.858977892Z",
+  "model": "glm-5.3"
+}

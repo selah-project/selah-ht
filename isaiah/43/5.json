@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Pa pè, paske ⟨את⟩ ou genyen mwen; depi lès m ap mennen desandan ou, e depi lwès m ap ranmase ou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ avèk ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "depi lès"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "m ap mennen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "desandan ou"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "e depi lwès"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "m ap ranmase ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:10.792501425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Elohim, pa ⟨mande⟩ mal; e yon chèf nan pèp w la, pa fè madichon.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "mande mal"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "e yon chèf"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "nan pèp w la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "fè madichon"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:32.350898166Z",
+  "model": "glm-5.3"
+}

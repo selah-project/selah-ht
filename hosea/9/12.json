@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Paske menm si yo grandi ⟨את⟩ pitit yo, m ap fè yo pèdi pitit, san yon sèl moun ki rete; wi, malè pou yo lè m ap vire do kite yo!",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "menm si"
+    },
+    {
+      "surface": "יְגַדְּלוּ֙",
+      "gloss": "yo grandi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pitit yo"
+    },
+    {
+      "surface": "בְּנֵיהֶ֔ם",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "וְשִׁכַּלְתִּ֖ים",
+      "gloss": "m ap fè yo pèdi pitit"
+    },
+    {
+      "surface": "מֵֽאָדָ֑ם",
+      "gloss": "san yon sèl moun ki rete"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "paskè"
+    },
+    {
+      "surface": "גַּ֥ם",
+      "gloss": "wi"
+    },
+    {
+      "surface": "א֥וֹי",
+      "gloss": "malè"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "בְּשׂוּרִ֥י",
+      "gloss": "lè m ap vire do"
+    },
+    {
+      "surface": "מֵהֶֽם",
+      "gloss": "kite yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:04.954738728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Chever fè ⟨את⟩ Yaflet, ak ⟨את⟩ Chomer, ak ⟨את⟩ Chotam, ak ⟨את⟩ Choua se sè yo.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "ak Chever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Chomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Choua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Choua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "se sè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:16:26.098345297Z",
+  "model": "glm-5.3"
+}

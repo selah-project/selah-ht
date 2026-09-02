@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi ou wè ⟨את⟩ abominasyon yo ak ⟨את⟩ zidòl yo — bwa ak pye, ajan ak lò — ki te avèk yo.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "Epi ou wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abominasyon yo"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "abominasyon yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zidòl yo"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "zidòl yo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ak pye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ak lò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "te avèk yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:47.764002068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Pa eseye ⟨את⟩ Yawe Elohim nou an, jan nou te eseye ⟨li⟩ nan Masa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "eseye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim nou an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "nou te eseye"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "nan Masa"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:43.797543242Z",
+  "model": "glm-5.3"
+}

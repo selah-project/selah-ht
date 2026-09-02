@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E nenpòt ki vas tè kwit ki kwit nan li a, l ap kraze; e si l kwit nan yon vas kwiv, l ap grate e rinse nan dlo.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "ak nenpòt ki vas"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tè kwit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "kwit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ap kraze"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "nan yon vas"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kwiv"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "kwit"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "e grate"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "rinse"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:04:50.074449217Z",
+  "model": "glm-5.3"
+}

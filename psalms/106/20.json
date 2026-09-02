@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Se konsa yo chanje ⟨את⟩ klò yo pou fòm yon bèf ki manje zèb.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Se konsa yo chanje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klò yo"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "klò yo"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "pou fòm"
+    },
+    {
+      "surface": "שור",
+      "gloss": "yon bèf"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ki manje"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zèb"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:42.710743222Z",
+  "model": "glm-5.3"
+}

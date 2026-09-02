@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E Yehouda di a frè li yo: Ki byenfè genyen si nou touye ⟨את⟩ frè nou an, e nou kache ⟨את⟩ san li?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè li yo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "byenfè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè nou an"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "frè nou an"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "e kache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san li"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:31:40.558864809Z",
+  "model": "glm-5.3"
+}

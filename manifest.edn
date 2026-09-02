@@ -1,0 +1,125 @@
+#:rendering{:label "Kreyòl Ayisyen",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role
+              :open-questions
+              :rendering/people
+              :rendering/process
+              :rendering/checks
+              :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-02", :to "2026-09-02"},
+            :people
+            {:ruled-by "Scott",
+             :shovel "Claude (Fable 5)",
+             :assayer "Codex"},
+            :id "ht.v1",
+            :catalog {:ui "resources/i18n/ui/ht.edn"},
+            :license
+            "CC BY-SA 4.0 (The Selah Haitian Creole Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23197, "fable-5-hand" 16},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ht.md",
+             :rails-commit "2a742b17",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adònay",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloah",
+              "ג" "g",
+              "ד" "d",
+              "ה" "h",
+              "ו" "v",
+              "ז" "z",
+              "ח" "h",
+              "ט" "t",
+              "י" "y",
+              "יה" "Yah",
+              "יהוה" "Yawe",
+              "ל" "l",
+              "מ" "m",
+              "נ" "n",
+              "ס" "s",
+              "צ" "ts",
+              "ק" "k",
+              "ר" "r",
+              "שדי" "Chadday",
+              "ת" "t"},
+             :open-questions
+             ["ch-for-ש orthography (Cheol/Moche/Machiya) awaiting Scott's ruling"
+              "rails lighting flags (10) — see docs/methodology/translation-discipline/ht.md"
+              "Bondye parenthetical Name-explanation style — Tekoa-lawful, style ruling open"]},
+            :status :rendering,
+            :adjudication
+            {:chair 54,
+             :note
+             "the fifty-fourth chair — the first French-lexifier creole"},
+            :checks
+            {:census-rounds [467 45 12 0],
+             :census-seal
+             {:files 23213,
+              :empty 0,
+              :no-tokens 0,
+              :leaks 0,
+              :yawe 5800,
+              :elohim 1847,
+              :et-verses 7482},
+             :tekoa {:surveyed 24, :lawful 22, :class-a-fixed 2},
+             :aleph-tav
+             {:defective 56,
+              :stripped 54,
+              :sentence-edits 21,
+              :surgeries 4,
+              :final [0 0 0]}},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :ht,
+            :process
+            [:relay-burn
+             :census-gleaning-rounds
+             :hand-repair
+             :tekoa-review
+             :aleph-tav-audit
+             :readers-documents
+             :notes
+             :manifest]}

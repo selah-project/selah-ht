@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 13:5",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "ak tè a ji avèk tout Liban, bò solèy levan an, depi Baal-Gad anba mòn Chermon an, jouk nan antre a nan Chamat",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ak tè a"
+    },
+    {
+      "surface": "הגבלי",
+      "gloss": "ji"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Liban"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "bò solèy levan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "מבעל",
+      "gloss": "depi Baal-Gad"
+    },
+    {
+      "surface": "גד",
+      "gloss": "(Baal-Gad)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "antre a"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    }
+  ],
+  "timestamp": "2026-09-02T22:20:51.611144321Z",
+  "model": "glm-5.3"
+}

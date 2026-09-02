@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E papa yo pale ak yo: Ki kote wout sa a, ki li mache l ale? E pitit li yo wè ⟨את⟩ wout la ke nonm HaElohim te pran, moun ki te vin soti nan Yehouda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Ki kote"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "wout la"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wout la"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "wout la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pran"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "te vin"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "soti nan Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:45.599195368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Yo mete nan mitan yo pawòl sign li yo, ak mirak, nan peyi Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nan mitan yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "sign li yo"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ak mirak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:50.292382188Z",
+  "model": "glm-5.3"
+}

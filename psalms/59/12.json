@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Pa tiye yo, pou pèp m pa blye ⟨sa⟩; fè yo degize ak fòs ou, epi fè yo desann, Adònay, boklye nou an.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "tiye yo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "blye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp m"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "fè yo degize"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ak fòs ou"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "epi fè yo desann"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "boklye nou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:57.747207761Z",
+  "model": "glm-5.3"
+}

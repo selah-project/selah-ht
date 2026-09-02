@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "E yo di: Souple, Adònay mwen an, vrèman nou te desen nan kòmansman pou vini achte manje.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Souple"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay mwen an"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "vrèman desen"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "nou te desen"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "nan kòmansman"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "pou vini achte"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:01.161791199Z",
+  "model": "glm-5.3"
+}

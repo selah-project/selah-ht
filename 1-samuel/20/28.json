@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E Yehonatan reponn ⟨את⟩ Chaoul: David mande anpil, mande anpil nan men mwen, pou l ale jouk Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "mande"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "mande anpil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "nan men mwen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:36.903620237Z",
+  "model": "glm-5.3"
+}

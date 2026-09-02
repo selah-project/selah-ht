@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Moun ki plante zòrèy la, èske ⟨li⟩ pa tande? Moun ki fòme je a, èske ⟨li⟩ pa gade?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Moun ki plante"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "zòrèy la"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "èske … pa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moun ki"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "fòme"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je a"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "èske … pa"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "gade"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:24.226350549Z",
+  "model": "glm-5.3"
+}

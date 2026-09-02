@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E yo sezi ⟨את⟩ wa a, e yo mennen ⟨את⟩ li moute ale kotè wa Babylòn nan, nan Rivla; e yo pale ⟨את⟩ li nan jijman.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "sezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mennen moute"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kotè"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylòn"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ak"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:57.170375647Z",
+  "model": "glm-5.3"
+}

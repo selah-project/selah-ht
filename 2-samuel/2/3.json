@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Ak gason ki te ak li yo, David fè monte yo — chak gason ak kay li — e yo rete nan vil Chevron yo.",
+  "tokens": [
+    {
+      "surface": "וַאֲנָשָׁיו",
+      "gloss": "gason li yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fè monte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ak kay li"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "rete"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "nan vil"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    }
+  ],
+  "timestamp": "2026-09-02T17:40:46.671268764Z",
+  "model": "glm-5.3"
+}

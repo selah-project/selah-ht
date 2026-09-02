@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi tout nonm Yisrayèl yo, lè yo wè ⟨את⟩ nonm nan, yo kouri kache lwè devan l, epi yo pè anpil.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Epi tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "lè yo wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonm nan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm nan"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "yo kouri kache lwè"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "epi yo pè"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:59.222109979Z",
+  "model": "glm-5.3"
+}

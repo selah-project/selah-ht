@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 75,
+  "translation": "Tè a ap fonn ak tout moun ki abite l; se mwen menm ki aparan poto l yo. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "ap fonn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Tè a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "moun ki abite l"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "se mwen menm"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ki aparan"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "poto l yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:32.495823914Z",
+  "model": "glm-5.3"
+}

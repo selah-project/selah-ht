@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E ou menm, ou tounen, e ou koute vwa Yawe, e ou fè ⟨את⟩ tout kòmandman l yo, kote mwen kòmande ou jodi a.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "e ou menm"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "e koute"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout kòmandman l yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kòmandman l yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kòmande ou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:33.669995269Z",
+  "model": "glm-5.3"
+}

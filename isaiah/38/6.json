@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "epi nan men wa Achour, m ap delivre ou, e ⟨את⟩ vil sa a; e m ap pwoteje sou vil sa a.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "epi nan men"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "m ap delivre ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "vil sa a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "e m ap pwoteje"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:34:31.434876285Z",
+  "model": "glm-5.3"
+}

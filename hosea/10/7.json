@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Shomron ap pèdi, wa l, tankou lèkimm sou fas dlo yo.",
+  "tokens": [
+    {
+      "surface": "נִדְמֶה",
+      "gloss": "ap pèdi"
+    },
+    {
+      "surface": "שֹׁמְרוֹן",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "מַלְכָּהּ",
+      "gloss": "wa l"
+    },
+    {
+      "surface": "כְּקֶצֶף",
+      "gloss": "tankou lèkimm"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "fas"
+    },
+    {
+      "surface": "מָיִם",
+      "gloss": "dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:23:43.612582276Z",
+  "model": "glm-5.3"
+}

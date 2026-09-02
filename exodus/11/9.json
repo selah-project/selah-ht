@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Yawe di bay Moche: Paro pap koute ⟨ou⟩ yo, pou ⟨se⟩ pou⟨ tout⟩ siy ewòyoloji mwen yo miltipliye nan peyi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨ou⟩ yo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "miltipliye"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "siy ewòyoloji mwen yo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T22:34:14.199662692Z",
+  "model": "glm-5.3"
+}

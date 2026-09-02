@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Nefech nou tann pou Yawe; se li sekou nou ak bouklèt nou.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefech nou"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "tann"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "sekou nou"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "ak bouklèt nou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:50.673538914Z",
+  "model": "glm-5.3"
+}

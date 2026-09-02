@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 2:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi li di: Kisa ki mete ou kòm chèf ak jij sou nou? Èske ou ap touye m, jan ou touye ⟨את⟩ Mitsrayim la? Epi Moche pè, epi li di: Se sèten, zafè a vin konnen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kisa ki"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "mete ou"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kòm"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ak jij"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "הלהרגני",
+      "gloss": "Èske ou ap touye m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "ou touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim la"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsrayim la"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "Moche pè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "se sèten"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "vin konnen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zafè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:16.519924060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi wa a nan Yisrayèl soti e frape ⟨את⟩ chwal yo ak ⟨את⟩ char yo, epi frape nan Aràm yon frape ki gwo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chwal yo"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "chwal yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "char yo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "char yo"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "nan Aràm"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ki gwo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:24.900346897Z",
+  "model": "glm-5.3"
+}

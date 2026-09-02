@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi David pran ⟨את⟩ bouklè lò yo ki te sou sèvant Hadadezer yo, epi li pote yo al Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "epi pran"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouklè lò yo"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "bouklè"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvant"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "epi pote yo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T22:05:31.817060920Z",
+  "model": "glm-5.3"
+}

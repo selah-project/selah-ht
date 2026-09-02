@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E bagay sa a te move nan zye HaElohim, e li frape ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "te move"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan zye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e li frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T21:20:23.645087198Z",
+  "model": "glm-5.3"
+}

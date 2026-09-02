@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi Lea di: Nan èmeman an mwen ye, paske pitit fi yo pale m' byen ère; epi l rele ⟨את⟩ non l' Acher.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "epi ... di"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "Nan èmeman an mwen ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "pale m' byen ère"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "pitit fi yo"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "epi l rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l'"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Acher"
+    }
+  ],
+  "timestamp": "2026-09-02T15:26:48.397784468Z",
+  "model": "glm-5.3"
+}

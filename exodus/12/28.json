@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E pitit Yisrael yo ale, e yo fè ⟨sa⟩ — jan Yawe kòmande ⟨את⟩ Moche ak ⟨את⟩ Aharòn — konsa yo fè l.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "E pitit Yisrael yo ale"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "e yo fè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ak Aharòn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo fè l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.588746925Z",
+  "model": "glm-5.3"
+}

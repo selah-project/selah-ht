@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Chante pou li yon chante nouvo; jwe byen ak kòd yo, nan yon terouah.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouvo"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "jwe byen"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ak kòd yo"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "nan yon terouah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:17.229771129Z",
+  "model": "glm-5.3"
+}

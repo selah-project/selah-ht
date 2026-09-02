@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 24:26",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi menm moun ki te konbine kont li yo se ⟨yo⟩ Zavad, pitit Chimàt Amonit la, ak Yehozavad, pitit Chimrit Moabit la.",
+  "tokens": [
+    {
+      "surface": "וְאֵלֶּה",
+      "gloss": "epi menm sa yo"
+    },
+    {
+      "surface": "הַמִּתְקַשְּׁרִים",
+      "gloss": "moun ki te konbine a"
+    },
+    {
+      "surface": "עָלָיו",
+      "gloss": "kont li"
+    },
+    {
+      "surface": "זָבָד",
+      "gloss": "Zavad"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שִׁמְעַת",
+      "gloss": "Chimàt"
+    },
+    {
+      "surface": "הָעַמּוֹנִית",
+      "gloss": "Amonit la"
+    },
+    {
+      "surface": "וִיהוֹזָבָד",
+      "gloss": "ak Yehozavad"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שִׁמְרִית",
+      "gloss": "Chimrit"
+    },
+    {
+      "surface": "הַמּוֹאָבִית",
+      "gloss": "Moabit la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:07:35.103473572Z",
+  "model": "glm-5.3"
+}

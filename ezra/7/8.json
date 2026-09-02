@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E li rive Yerouchalayim nan senkyèm mwa a; se menm ane a, ane septyèm nan rèy wa a.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E li rive"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "nan … mwa a"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "senkyèm"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se menm"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ane"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "septyèm"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "nan rèy wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:05:00.714639664Z",
+  "model": "glm-5.3"
+}

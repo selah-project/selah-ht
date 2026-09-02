@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Yawe tande vwa Yisrael, epi li livre ⟨את⟩ Kenaàn yo, epi ⟨את⟩ yo ak ⟨את⟩ vil yo dekrete pou destriksyon; epi yo rele non kote a Harma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "epi tande"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "epi li livre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaàn yo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaàn yo"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "epi dekrete (pou destriksyon)"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (Kenaàn yo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "vil yo"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "epi yo rele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote a"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Harma"
+    }
+  ],
+  "timestamp": "2026-09-02T21:46:35.527339070Z",
+  "model": "glm-5.3"
+}

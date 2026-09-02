@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E frè yo ale gade ⟨את⟩ bèt mouton papa yo nan Chekèm.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè yo"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèt mouton"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bèt mouton"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "nan Chekèm"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:43.023990041Z",
+  "model": "glm-5.3"
+}

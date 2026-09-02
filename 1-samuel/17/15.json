@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "David t ap ale e t ap tounen soti ak Chaoul, pou te vaje ⟨את⟩ mouton papa l, nan Bet-Lèchem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "t ap ale"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "e t ap tounen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "soti ak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "pou te vaje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mouton"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lèchem"
+    }
+  ],
+  "timestamp": "2026-09-02T17:32:12.786647585Z",
+  "model": "glm-5.3"
+}

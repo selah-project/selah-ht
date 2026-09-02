@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Se ou menm ki kraze lanmè a ak fòs ou, ou fin bwoke tèt tanninim yo sou dlo yo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "se ou menm"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ak fòs ou"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "bwokie"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tanninim yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:17.744069282Z",
+  "model": "glm-5.3"
+}

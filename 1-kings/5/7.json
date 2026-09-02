@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E ofisye yo te founi manje pou wa a Chelomo ak pou tout moun ki te rankontre nan tab wa a Chelomo, chak moun nan mwa li a; yo pa t kite yon bagay manke.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "te founi manje"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ofisye yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a Chelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout moun ki te rankontre nan tab wa a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "moun ki te rankontre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tab"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "nan mwa li a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "t kite manke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon bagay"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:49.147140363Z",
+  "model": "glm-5.3"
+}

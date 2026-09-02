@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Sanifye tèt nou, e nou pral ye sen; paske se mwen Yawe, Elohim nou.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Sanifye tèt nou"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "e nou pral ye"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:39.745478653Z",
+  "model": "glm-5.3"
+}

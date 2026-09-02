@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou pran ⟨את⟩ lwil onksyon an, epi ou onnen ⟨את⟩ tabènak la ak ⟨את⟩ tout sa ki nan ladan l, epi ou konsakre ⟨את⟩ li ak ⟨את⟩ tout zouti li yo, epi ⟨li⟩ ap vin sen.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "epi ou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwil onksyon an"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "onksyon an"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "epi ou onnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabènak la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènak la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa ki nan ladan l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan ladan l"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "epi ou konsakre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (tabènak la)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zouti li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti li yo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "epi l ap vin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:09.410875093Z",
+  "model": "glm-5.3"
+}

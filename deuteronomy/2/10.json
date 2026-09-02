@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Emin yo te abite ⟨nan⟩ li anvan, yon pèp gwo, anpil, ak wo tankou anakim yo.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Emin yo"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "te abite"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yon pèp"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "tankou anakim yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:23.951352643Z",
+  "model": "glm-5.3"
+}

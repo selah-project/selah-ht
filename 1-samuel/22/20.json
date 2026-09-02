@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi youn pitit pou Ahimelekh, pitit Akitouv, chape — non li Evyatar — e li kouri dèyè David.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "epi chape"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Ahimelekh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Akitouv"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "epi non"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "epi kouri"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:35.706098237Z",
+  "model": "glm-5.3"
+}

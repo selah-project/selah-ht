@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E apre sa rive: David frape ⟨את⟩ Filistin yo e fè yo soumet, e li pran ⟨את⟩ Gat ak vil tèt li yo nan men Filistin yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rive"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistin yo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "fè yo soumet"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ak vil tèt li yo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:20:37.836814344Z",
+  "model": "glm-5.3"
+}

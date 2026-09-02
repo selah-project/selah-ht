@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "epi papa ti fi a ak manman l pran ⟨את⟩ traz ti fi a pote deyò bay ansyen vil la nan pòt la —",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "epi ... pran"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti fi a"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ak manman l"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "pote deyò bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "traz ti fi a"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "traz"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti fi a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansenk yo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "nan pòt la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:08.632458295Z",
+  "model": "glm-5.3"
+}

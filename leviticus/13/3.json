@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 13:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi prèt la gade ⟨את⟩ plag la nan po kò a; epi si cheve nan plag la vire blan, epi aparans plag la pi fon pase po kò l — se yon plag tsaraat; epi prèt la gade ⟨את⟩ li, epi deklare l enpwi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plag la"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plag la"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nan po"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kò a"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "epi cheve"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "nan plag la"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "vire"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "blan"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "epi aparans"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plag la"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "fon"
+    },
+    {
+      "surface": "מעור",
+      "gloss": "pase po"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kò l"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "yon plag"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "וראהו",
+      "gloss": "epi gade l"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "epi deklare l enpwi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:13.717787268Z",
+  "model": "glm-5.3"
+}

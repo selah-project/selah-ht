@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi pitit Aharòn, kòwonèt la, ap mete dife sou lotèl la, epi yo ap ranje bwa sou dife a.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "mete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòwonèt la"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ranje"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dife a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:45.144943380Z",
+  "model": "glm-5.3"
+}

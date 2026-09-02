@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Se jou Yawe fè a; annou rejwi e annou fè lajwa nan li.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "annou rejwi"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "e annou fè lajwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:45.436095807Z",
+  "model": "glm-5.3"
+}

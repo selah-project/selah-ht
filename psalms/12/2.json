@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Sove, Yawe, paske hasid la ⟨te⟩ fini; paske moun konfyans yo disparisè nan mitan pitit ⟨moun⟩ yo.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Sove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "fini"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasid la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "disparisè"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "moun konfyans yo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "nan mitan pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:29.659424039Z",
+  "model": "glm-5.3"
+}

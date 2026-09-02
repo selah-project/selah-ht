@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Li fè vapè yo monte soti nan bout tè a; li fè eklate-zè yo pou lapli a; li fè van an soti nan trezò yo.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "fè monte"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "vapè yo"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "soti nan bout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "eklate-zè yo"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "pou lapli a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van an"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "soti nan trezò yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:58.165775219Z",
+  "model": "glm-5.3"
+}

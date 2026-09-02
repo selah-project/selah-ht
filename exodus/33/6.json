@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Epi timoun Yisrayèl yo retire ⟨את⟩ byen bijou yo soti nan mòn Khorèv ⟨pami⟩.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Epi … retire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "timoun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen bijou yo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "byen bijou yo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "soti nan mòn"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Khorèv"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:40.498404418Z",
+  "model": "glm-5.3"
+}

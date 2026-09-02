@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Konsa yo di bay moun ki wè viżyon yo: 'Pa wè anyen'; bay moun ki gen vizyon yo: 'Pa montre nou anyen dwat; pale nou bagay dous ak plen konpliman; fè nou wè vizyon ki se riy tou sèlman.'",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Konsa (moun) ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "bay moun ki wè viżyon yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "wè anyen"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "ak bay moun ki gen vizyon yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "montre nou anyen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "dwa (bagay ki dwat)"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pale nou"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "bagay dous ak plen konpliman"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "fè wè vizyon"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "riy tou sèlman"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:00.615707050Z",
+  "model": "glm-5.3"
+}

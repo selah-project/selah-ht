@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi sèvitè li yo leve, yo fè yon konplo, epi yo frape ⟨את⟩ Yoach nan Bet-Milo, nan chemen ki desann ale Sila.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè li yo"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "yon konplo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "yo frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoach"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoach"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan Bet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "-Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "ki desann"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "ale Sila"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:20.241033282Z",
+  "model": "glm-5.3"
+}

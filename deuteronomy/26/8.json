@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi Yawe pote nou soti nan Mitsrayim ak yon men fò, ak yon bra rantire deyò, ak yon pè gran, ak mak, ak mirak.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "pote nou soti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ak yon men"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fò"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "ak yon bra"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "rantire deyò"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "ak yon pè"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "gran"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "ak mak"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "ak mirak"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:43.622739724Z",
+  "model": "glm-5.3"
+}

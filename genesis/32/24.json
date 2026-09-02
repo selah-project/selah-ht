@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Li pran yo, li fè yo pase ⟨את⟩ rivyè a, e li fè pase ⟨את⟩ tout sa li te genyen.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "Li pran yo"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "li fè yo pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rivyè a"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "rivyè a"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "e li fè pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa li te genyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li te genyen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:27:30.129825499Z",
+  "model": "glm-5.3"
+}

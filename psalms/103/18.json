@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "pou moun ki kenbe kontra li yo, pou moun ki sonje lòd li yo pou fè yo.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "pou moun ki kenbe"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kontra li yo"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "pou moun ki sonje"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "lòd li yo"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "pou fè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:46.956040578Z",
+  "model": "glm-5.3"
+}

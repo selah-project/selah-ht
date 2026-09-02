@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Li fè kò m ak po m vièy, li kraze zo m.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "fè vièy"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "kò m"
+    },
+    {
+      "surface": "ויעורי",
+      "gloss": "ak po m"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "zo m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:48:11.675845300Z",
+  "model": "glm-5.3"
+}

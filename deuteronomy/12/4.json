@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Nou pa fè konsa pou Yawe, Elohim nou.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:00.416378647Z",
+  "model": "glm-5.3"
+}

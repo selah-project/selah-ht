@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E li rasanble moun pou li, e li vin tèt yon gwoup sòlda lè David ap masakre ⟨את⟩ ⟨yo⟩; e ⟨yo⟩ ale Damasek, e ⟨yo⟩ rete ladan l, e ⟨yo⟩ régné nan Damasek.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "E li rasanble"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moun"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e li vin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "gwoup sòlda"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "lè ... ap masakre"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "⟨yo⟩ (moun Tsova yo)"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e ⟨yo⟩ ale"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e ⟨yo⟩ rete"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "e ⟨yo⟩ régné"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "nan Damasek"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:38.783450960Z",
+  "model": "glm-5.3"
+}

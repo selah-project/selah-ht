@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Pou sajès antre nan kè w, ak konesans fè plezi pou nanm ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "nan kè w"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ak konesans"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "pou nanm ou"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "fè plezi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:17.438483272Z",
+  "model": "glm-5.3"
+}

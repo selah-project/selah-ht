@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 134,
+  "translation": "Ke Yawe beni ou depi Tsiyòn — ⟨li menm⟩ ki fè syèl yo ak tè a.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Ke ... beni ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "depi Tsiyòn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ak tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:55.385916233Z",
+  "model": "glm-5.3"
+}

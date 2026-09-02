@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yawe voye ⟨את⟩ men l, e li manyen bouch mwen. E Yawe di ba m: Gade, mwen mete pawòl m yo nan bouch ou.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "e li manyen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch mwen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba m"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen mete"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl m yo"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "nan bouch ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:44:35.831985828Z",
+  "model": "glm-5.3"
+}

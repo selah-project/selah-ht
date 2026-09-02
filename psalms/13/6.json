@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Men mwen, nan hesed ⟨ou⟩ mwen met konfyans m; kè mwen ap apyèsite nan delivrans ⟨ou⟩ an. M ap chante pou Yawe, paske li fè byen pou mwen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "nan hesed ou"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mwen met konfyans m"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ap apyèsite"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "nan delivrans ou"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ap chante"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "li fè byen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:05.704580097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 111,
+  "translation": "Yo kanpe solid pou toutan, pou toutan; yo fèt ak verite ak drechi.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Yo kanpe solid"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "yo fèt"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ak verite"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ak drechi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:42.584041792Z",
+  "model": "glm-5.3"
+}

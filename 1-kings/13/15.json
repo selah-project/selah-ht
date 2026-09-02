@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E li di l: Vini ak mwen ⟨את⟩ nan kay la, e manje pen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di l"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "li"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ak mwen ⟨את⟩"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "nan kay la"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "e manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:42.218405467Z",
+  "model": "glm-5.3"
+}

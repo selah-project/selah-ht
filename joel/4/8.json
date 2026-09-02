@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E m ap vann ⟨את⟩ pitit gason ou yo ak ⟨את⟩ pitit fi ou yo bay pitit Yehouda, e yo ap vann yo bay Chavayim yo, bay yon nasyon ki lwen — paske Yawe pale.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "E m ap vann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason ou yo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pitit gason ou yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit fi ou yo"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "pitit fi ou yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "e yo ap vann yo"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "bay Chavayim yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "yon nasyon"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ki lwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-09-02T19:36:26.518182592Z",
+  "model": "glm-5.3"
+}

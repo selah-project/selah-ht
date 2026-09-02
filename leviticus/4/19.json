@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E li leve ⟨את⟩ tout grès l soti sou li, epi li fè l fimen sou lotèl la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "tout grès l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "grès l"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "leve"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "soti sou li"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "epi fè fimen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sou lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:07.256695171Z",
+  "model": "glm-5.3"
+}

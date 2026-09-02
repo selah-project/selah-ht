@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Tout wa nasyon yo, tout yo, kouché nan glwa, chak nan kay li",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tout yo"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "kouché"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "nan glwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nan kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:41.135425022Z",
+  "model": "glm-5.3"
+}

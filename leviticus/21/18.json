@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Paske tout nonm ki gen yon mom nan li, l pa ap pwoche: nonm avèg, oswa boite, oswa ki gen nen plati, oswa ki gen yon manm de twò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "מום",
+      "gloss": "yon mom (defo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ap pwoche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "עור",
+      "gloss": "avèg"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "boite"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ki gen nen plati"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ki gen yon manm de twò"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:41.141704964Z",
+  "model": "glm-5.3"
+}

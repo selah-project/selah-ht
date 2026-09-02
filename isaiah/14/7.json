@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Tout tè a repoze, ⟨li⟩ trankil; yo pete ⟨nan⟩ yon kri jwaye.",
+  "tokens": [
+    {
+      "surface": "נָ֥חָה",
+      "gloss": "repoze"
+    },
+    {
+      "surface": "שָׁקְטָ֖ה",
+      "gloss": "trankil"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "פָּצְח֖וּ",
+      "gloss": "yo pete"
+    },
+    {
+      "surface": "רִנָּֽה",
+      "gloss": "yon kri jwaye"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:34.479049901Z",
+  "model": "glm-5.3"
+}

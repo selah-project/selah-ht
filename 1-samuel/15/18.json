@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi Yawe voye ou nan ⟨yon⟩ wout, epi li di: Ale, epi ou mete an ban (herem) ⟨את⟩ moun fòt yo, ⟨את⟩ Amalek, epi ou goumen kont li jiska ou fini ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "voye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "mete an ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun fòt yo"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "moun fòt yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "goumen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kont li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "fini ak yo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:38.799910437Z",
+  "model": "glm-5.3"
+}

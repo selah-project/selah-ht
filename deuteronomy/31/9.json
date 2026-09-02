@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Moche ekri Lwa sa a, epi li bay l ⟨את⟩ prèt yo, pitit Levi yo, ki pote ⟨את⟩ Kòv Kontra a Yawe a, ak tout ansyen Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lwa sa a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Lwa sa a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "li bay l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ki pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kòv Kontra a Yawe a"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kòv"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Kontra a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansyen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:57:34.185599197Z",
+  "model": "glm-5.3"
+}

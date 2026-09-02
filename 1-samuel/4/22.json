@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E li di: Kavod (glwa) depate nan Yisrayèl, paske ⟨את⟩ tevè HaElohim an te pran.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "depate"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kavod (glwa)"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "nan Yisrayèl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "te pran"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tevè"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:06.426690186Z",
+  "model": "glm-5.3"
+}

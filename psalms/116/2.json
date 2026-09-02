@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Paske ⟨li⟩ encline zòrèy li bò mwen, epi pandan jou mwen yo m ap rele ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "encline"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "zòrèy li"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bò mwen"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "epi pandan jou mwen yo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ap rele"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:56.343052469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi l ap leve ⟨את⟩ tout grès bèf ofrann peche a soti sou li — ⟨את⟩ grès ki kouvri antray yo, ak ⟨את⟩ tout grès ki sou antray yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Epi ⟨את⟩",
+      "marks": "tout grès bèf ofrann peche a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "grès"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofrann peche a"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "soti sou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grès ki kouvri antray yo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grès la"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ki kouvri"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "antray yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout grès ki sou antray yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grès la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "antray yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:20.355938483Z",
+  "model": "glm-5.3"
+}

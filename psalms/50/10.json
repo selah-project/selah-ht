@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Paske tout bèt forè a se pou mwen, ak bèt sou mil mòn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לי",
+      "gloss": "se pou mwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "יער",
+      "gloss": "forè a"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "sou mòn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:26.777085087Z",
+  "model": "glm-5.3"
+}

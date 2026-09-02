@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Yawe, yon lanp pou pye mwen se pawòl ou, epi yon limyè pou chemen mwen.",
+  "tokens": [
+    {
+      "surface": "נֵר",
+      "gloss": "yon lanp"
+    },
+    {
+      "surface": "לְרַגְלִי",
+      "gloss": "pou pye mwen"
+    },
+    {
+      "surface": "דְבָרֶךָ",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "וְאוֹר",
+      "gloss": "epi yon limyè"
+    },
+    {
+      "surface": "לִנְתִיבָתִי",
+      "gloss": "pou chemen mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:29.536577803Z",
+  "model": "glm-5.3"
+}

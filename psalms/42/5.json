@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Sa yo m sonje, e m vide nanm m sou m menm, paske m te pase nan foul la, m te mache dousman avèk yo jiskas kay Elohim, nan vwa kri lajwa ak remèsisman, yon foul moun ki ap fè fèt la.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Sa yo"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "m sonje"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "e m vide"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "m te pase"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "nan foul la"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "m te mache dousman avèk yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nan vwa"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kri lajwa"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "ak remèsisman"
+    },
+    {
+      "surface": "המון",
+      "gloss": "foul moun"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "ki ap fè fèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:00.742086428Z",
+  "model": "glm-5.3"
+}

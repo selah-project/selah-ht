@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Nefech mwen swaf pou Elohim, pou El k ap viv la — kilè m ap vini epi m ap gade figi Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "swaf"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefech mwen"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "pou El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "k ap viv la"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kilè"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "m ap vini"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "epi m ap gade"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:51.404073358Z",
+  "model": "glm-5.3"
+}

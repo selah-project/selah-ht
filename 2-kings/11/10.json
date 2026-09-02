@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi prèt la bay chèf sanntyè yo ⟨את⟩ zepè yo ak ⟨את⟩ boukleri yo ki te pou wa David la, kenz nan kay Yawe a.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "sanntyè yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zepè yo"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "zepè yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "boukleri yo"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "boukleri yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kenz nan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:33.710207191Z",
+  "model": "glm-5.3"
+}

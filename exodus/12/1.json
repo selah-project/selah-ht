@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Yawe pale ak Moche ak Aharòn nan peyi Mitsrayim, pou ⟨yo⟩ di:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:52.057096228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi nan mwatye tribi Menache ⟨את⟩ Taanach ak ⟨את⟩ tè ki antoure l, ak ⟨את⟩ Gat-Rimon ak ⟨את⟩ tè ki antoure l — de vil.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "Epi nan mwatye"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanach"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè ki antoure l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tè ki antoure l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè ki antoure l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tè ki antoure l"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "vil"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:35.635278186Z",
+  "model": "glm-5.3"
+}

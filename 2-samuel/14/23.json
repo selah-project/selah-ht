@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Yoav leve, li ale Gchour, e li mennen ⟨את⟩ Avchalom vin Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "leve"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Gchour"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mennen vin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avchalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T17:46:32.930813373Z",
+  "model": "glm-5.3"
+}

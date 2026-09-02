@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E li te gen nanm èm, e li priye devan Yawe, e li plire jiskaske li plen nan je dlo.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "èm"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nanm"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "priye"
+    },
+    {
+      "surface": "על",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "e plire"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "plen nan je dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:23:45.999022905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E Yawe di ba l: Ale, tounen sou wout ou, nan dezè Damasek; e lè w rive, w ap chwèyen ⟨את⟩ Hazael kòm wa sou Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba l"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ale"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "sou wout ou"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "nan dezè"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "e lè w rive"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "w ap chwèyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kòm wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:33.261316629Z",
+  "model": "glm-5.3"
+}

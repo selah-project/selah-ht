@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Travayè len pèche yo ap konfonn, epi tisyè twal blan yo ap konfonn tou.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "ap konfonn"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "travayè"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "len"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "pèche yo"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "epi tisyè"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "twal blan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:39.684074535Z",
+  "model": "glm-5.3"
+}

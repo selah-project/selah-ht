@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E Yawe di: Se paske yo kite ⟨את⟩ Lwa m nan, menm Lwa m te mete devan yo, e yo pa tande nan vwa m, e yo pa mache nan l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "yo kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lwa m nan"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Lwa m nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "m te mete"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "devan yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "yo tande"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "nan vwa m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "yo mache"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:49:57.370670048Z",
+  "model": "glm-5.3"
+}

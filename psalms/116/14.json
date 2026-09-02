@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Pwomès mwen yo pou Yawe m ap peye yo, devan kounye a, devan tout pèp li a.",
+  "tokens": [
+    {
+      "surface": "נְדָרַי",
+      "gloss": "pwomès mwen yo"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אֲשַׁלֵּם",
+      "gloss": "m ap peye"
+    },
+    {
+      "surface": "נֶגְדָה",
+      "gloss": "devan"
+    },
+    {
+      "surface": "נָּא",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "devan tout"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "pèp li a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:24.578018504Z",
+  "model": "glm-5.3"
+}

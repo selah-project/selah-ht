@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi moun ki pa t mete kè l anvè pawòl Yawe a, li kite sèvitè l yo ak bèt yo nan jaden an.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "epi moun ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anvè"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "li kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvitè l yo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèt yo"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "bèt yo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:24.877654347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yawe, Elohim nou, plipe ⟨את⟩ nou, e gade, jodi a nou tankou etwal syèl yo pou kantite.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "plipe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "e gade nou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "tankou etwal"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "pou kantite"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:16.237431937Z",
+  "model": "glm-5.3"
+}

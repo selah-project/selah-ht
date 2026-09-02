@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E se pou tout moun ki pran refij nan ou rejwi; pou tout tan yo ap fè kore, ⟨paske⟩ ⟨ou⟩ ap mete kouvèti sou yo; e moun ki renmen Non ou ap jwenn lajwa nan ou.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "e se pou ... rejwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "moun ki pran refij"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "yo ap fè kore"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "e ⟨ou⟩ ap mete kouvèti"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "e ... ap jwenn lajwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "moun ki renmen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:12.218950747Z",
+  "model": "glm-5.3"
+}

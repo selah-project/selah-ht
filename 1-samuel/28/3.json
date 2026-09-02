@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi Chmouèl te mouri, e tout Yisrayèl te fè l dèyè, e yo te antere l nan Rama, nan vil li a. Epi Chaoul te retire moun ki gen lespri ⟨את⟩ avèt yo, e moun ki gen konesans sekrè yo, soti nan peyi a.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Epi Chmouèl"
+    },
+    {
+      "surface": "מת",
+      "gloss": "te mouri"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "yo te fè l dèyè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "yo te antere l"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "nan Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "nan vil li"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Epi Chaoul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "te retire"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "moun ki gen lespri avèt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "moun ki gen konesans sekrè yo"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "moun ki gen konesans sekrè yo"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "soti nan peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:02.924358973Z",
+  "model": "glm-5.3"
+}

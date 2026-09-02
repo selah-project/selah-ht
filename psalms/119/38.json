@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Fè kanpe pou sèvant ou pawòl ou, ki mennen nan te ou.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "fè kanpe"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "pou sèvant ou"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "nan te ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:06.663551811Z",
+  "model": "glm-5.3"
+}

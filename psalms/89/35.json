@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "M pap vyole kontra mwen an, e sa ki soti nan lèv mwen yo m pap chanje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "vyole"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontra mwen an"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "e sa ki soti"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "nan lèv mwen yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "chanje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:18.255922545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Sou kabann mwen, nan lannwi yo, mwen chèche ⟨את⟩ moun nanm mwen renmen an; mwen chèche l, men mwen pa jwenn l.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "kabann mwen"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "nan lannwi yo"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "mwen chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun nanm mwen renmen an"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "mwen chèche l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men mwen pa"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "jwenn l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:56.032666023Z",
+  "model": "glm-5.3"
+}

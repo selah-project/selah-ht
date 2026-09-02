@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi ⟨את⟩ tabènakl la ou ap fè ak dis ridò, ak lin twiste, ak blé, ak viyole, e ak vè koulè wouj; ak kerubim, travay mèt tapi, ou ap fè ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Epi ⟨את⟩",
+      "marks": "tabènakl la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènakl la"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ridò"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "twiste"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "e blé"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "e viyole"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "e vè koulè"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wouj"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mèt tapi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (dis ridò yo)"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:40.142306644Z",
+  "model": "glm-5.3"
+}

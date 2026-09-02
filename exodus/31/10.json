@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "ak ⟨את⟩ rad sèvis la, ak ⟨את⟩ rad sanktifye yo pou Aharòn, prèt la, ak ⟨את⟩ rad pitit li yo pou yo sèvi kòm prèt",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "rad sèvis la"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "rad"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "sèvis la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "rad sanktifye yo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "rad"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sanktifye"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pou Aharòn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "rad pitit li yo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "rad"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pou sèvi kòm prèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:48.901009770Z",
+  "model": "glm-5.3"
+}

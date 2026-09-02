@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "Ke yo louwe ⟨את⟩ Non Yawe, paske Non li sèlman ki wo, majeste li anlè tè a ak syèl yo.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ke yo louwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Non"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "ki wo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Non li"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "majeste li"
+    },
+    {
+      "surface": "על",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ak syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:01.752786093Z",
+  "model": "glm-5.3"
+}

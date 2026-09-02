@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Li fè ⟨את⟩ pòch kolòn yo: senkant koud longè li, ak trant koud lajè li; epi yon pòch devan yo, ak kolòn ak yon pout epè devan yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pòch kolòn yo"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "pòch"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "kolòn yo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "koud"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "longè li"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ak trant"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "koud"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lajè li"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "epi yon pòch"
+    },
+    {
+      "surface": "על",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "ak kolòn"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "ak yon pout epè"
+    },
+    {
+      "surface": "על",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:57:01.788259563Z",
+  "model": "glm-5.3"
+}

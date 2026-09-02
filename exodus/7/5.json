@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E Misrayim yo ap konnen ke se mwen menm Yawe, lè m' estire ⟨את⟩ men m sou Mitsrayim, e lè m' fè ⟨את⟩ pitit Yisrayèl yo soti nan mitan yo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "e ap konnen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "lè m' estire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men m"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "e lè m' fè soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrayèl yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "soti nan mitan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:41.757370496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E yo konfese ⟨את⟩ peche yo ke yo te fè, e li remèt ⟨את⟩ kompensasyon li nan prensipal li, e li ajoute senkyèm li sou li, e li bay moun ke li te ofanse a.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "E yo konfese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peche yo"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "peche yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "e li remèt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kompensasyon li"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "kompensasyon"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "nan prensipal li"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "e senkyèm li"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e li bay"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "bay moun ke"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "te ofanse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:23:47.576695357Z",
+  "model": "glm-5.3"
+}

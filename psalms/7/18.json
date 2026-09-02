@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "M ap rekonèt Yawe dapre jitiz li, e m ap chante louwanj Non Yawe, li ki pi Wo a.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "m ap rekonèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "dapre jitiz li"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "e m ap chante louwanj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "li ki pi Wo a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:49:55.067141903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E li bati ⟨את⟩ lakou andedan an: twa ranje pyebwa koute, e yon ranje bwa sedrè ki koupe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "e li bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakou andedan an"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "andedan an"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "ranje"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "pyebwa koute"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "e yon ranje"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "bwa ki koupe"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedrè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:09.799313998Z",
+  "model": "glm-5.3"
+}

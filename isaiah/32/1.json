@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Gade, yon wa ap gouvènen nan jitis, ak chèf yo ap gouvènen selon jijman.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "nan jitis"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ap gouvènen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yon wa"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ak chèf yo"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "selon jijman"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ap gouvènen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:29.745318188Z",
+  "model": "glm-5.3"
+}

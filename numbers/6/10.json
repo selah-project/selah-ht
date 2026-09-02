@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E nan wityèm jou a li ap pote de toutrèl oswa de piti pijon bay prèt la, nan pòt tant reyinyon an.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "E nan jou"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "wityèm"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "li ap pote"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "toutrèl"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "בני",
+      "gloss": "piti"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "pijon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    }
+  ],
+  "timestamp": "2026-09-02T16:23:17.807396386Z",
+  "model": "glm-5.3"
+}

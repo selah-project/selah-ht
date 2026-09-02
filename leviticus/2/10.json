@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Sa ki rete soti nan ofrann lan ⟨se⟩ pou Aharòn epi pou pitit li yo — trè sen, nan ofra dife Yawe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Sa ki rete"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofrann lan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pou Aharòn"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "epi pou pitit li yo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "trè sen"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "nan ofra dife"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:48.233491594Z",
+  "model": "glm-5.3"
+}

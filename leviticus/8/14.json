@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi li amene ⟨את⟩ bof la, ofann peche a, epi Aharòn ak pitit li yo poze ⟨את⟩ men yo sou tèt bof ofann peche a.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "amene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bof la"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bof"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofann peche a"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "poze"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ak pitit li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men yo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bof"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofann peche a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:42.283526823Z",
+  "model": "glm-5.3"
+}

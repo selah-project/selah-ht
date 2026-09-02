@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Konsa Chimí te di pandan l te ap malde l: Soti, soti, nonm san ou, nonm Beliyal (nonm san valè)!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "te di"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Chimí"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "pandan l te ap malde l"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Soti"
+    },
+    {
+      "surface": "צא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "san ou"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e nonm"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "Beliyal"
+    }
+  ],
+  "timestamp": "2026-09-02T17:47:39.737322457Z",
+  "model": "glm-5.3"
+}

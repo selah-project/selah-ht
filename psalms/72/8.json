@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "E li ap domine soti nan yon lanmè jouk nan lòt lanmè a, ak soti nan rivyè a jouk bout tè a.",
+  "tokens": [
+    {
+      "surface": "ונהררד",
+      "gloss": "E li ap domine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yon lanmè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lòt lanmè a"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "ak soti nan rivyè a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "bout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:23.798033019Z",
+  "model": "glm-5.3"
+}

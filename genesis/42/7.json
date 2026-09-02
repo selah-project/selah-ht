@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Yocèf wè ⟨את⟩ frè l yo, e li rekonèt yo, men li fè tèt li tankou etranje devan yo, e li pale ⟨את⟩ yo dirèkteman, e li di yo: Nou soti kote? Yo di: Nou soti nan tè Kenaàn an, pou vini achte manje.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e li wè"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocèf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè l yo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "e li rekonèt yo"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "e li fè tèt li tankou etranje"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "devan yo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "e li pale"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "dirèkteman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "soti kote"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "nou vin"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e yo di"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "pou achte"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:34.073445913Z",
+  "model": "glm-5.3"
+}

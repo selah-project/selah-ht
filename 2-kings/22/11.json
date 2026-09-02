@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Lè wa a tande ⟨את⟩ pawòl liv Torah la, li chire ⟨את⟩ rad li.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "liv"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah la"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "li chire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad li"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:19:30.627798044Z",
+  "model": "glm-5.3"
+}

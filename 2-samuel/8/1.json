@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Apre sa rive, David frape ⟨את⟩ Pelichtim yo epi li fè yo soumèt, epi David pran ⟨את⟩ meteg haama a nan men Pelichtim yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rive"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pleichtim yo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pleichtim yo"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "fè yo soumèt"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meteg haama a"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "meteg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "haama a"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pleichtim yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:43:34.742220981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Lè David ak gason li yo rive nan lavil la, gade, li fin boule nan dife, epi fanm yo, pitit gason yo, ak pitit fi yo fin mennen an prizonye.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ak gason li yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "li fin boule"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "epi fanm yo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "pitit gason yo"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "ak pitit fi yo"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "fin mennen an prizonye"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:26.000160107Z",
+  "model": "glm-5.3"
+}

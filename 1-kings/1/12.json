@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Kounye a, ale, tanpri, m ap ba ou yon konsèy, e sove ⟨את⟩ lavi ou ak ⟨את⟩ lavi pitit gason ou Chelomo a.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "m ap konsèy ou"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "konsèy"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "e sove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavi ou"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lavi ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lavi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pitit gason ou"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:05.317342485Z",
+  "model": "glm-5.3"
+}

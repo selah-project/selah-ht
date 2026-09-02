@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "an plis de sa moun ki te fè trafik yo te pote, komès machann avanti yo, ak tout wa moun ki te melanje yo, ak gouvènè peyi a.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "an plis de"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "sa moun"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ki te fè trafik yo"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "ak komès"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "machann avanti yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "moun ki te melanje"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "ak gouvènè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:16.439597678Z",
+  "model": "glm-5.3"
+}

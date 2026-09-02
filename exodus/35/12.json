@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "⟨את⟩ ark la ak ⟨את⟩ ba li yo, ⟨את⟩ kaporet la, ak ⟨את⟩ parochet la vwayaj la",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ark la"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ark la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ba li yo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ba li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporet la"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "parochet la"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parochet la"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "vwayaj la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:10.866347092Z",
+  "model": "glm-5.3"
+}

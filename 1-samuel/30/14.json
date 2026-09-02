@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Nou fè kòmado sou Nègèv Kreti yo, sou sa ki pou Yehouda, e sou Nègèv Kalev; e nou boule ⟨את⟩ Tsiklag ak dife.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "fè kòmado"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Nègèv"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "Kreti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "pou Yehouda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sou"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Nègèv"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "nou boule"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ak dife"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:31.560493711Z",
+  "model": "glm-5.3"
+}

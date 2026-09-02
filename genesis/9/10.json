@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Ak ⟨את⟩ tout kreyati vivan ki avèk nou — zwazo yo, bèt yo, ak tout bèt sovaj tè a ki avèk nou — tout sa ki soti nan batwo a, pou tout bèt sovaj tè a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout kreyati vivan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kreyati"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ avèk nou"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "nan zwazo yo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "nan bèt yo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bèt sovaj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ avèk nou"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "soti"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "batwo a"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bèt sovaj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:33.691789071Z",
+  "model": "glm-5.3"
+}

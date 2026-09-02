@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi ou fè pou li kat bag lò, epi ou mete ⟨את⟩ bag yo sou kat kwen ⟨yo⟩ ki pou kat pye li yo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "epi ou fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "bag"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bag yo"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "bag yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "kwen yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "pou kat"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "pye li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:47.802239174Z",
+  "model": "glm-5.3"
+}

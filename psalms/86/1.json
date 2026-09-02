@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Priyè David. Lonje zòrèy ou, Yawe, reponn mwen, paske mwen se yon moun pòv e ki nan mizè.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Priyè"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Lonje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "zòrèy ou"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "reponn mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e ki nan mizè"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen se"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:44.890442073Z",
+  "model": "glm-5.3"
+}

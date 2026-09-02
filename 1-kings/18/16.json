@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Ovadyahou ale jwenn Ahab, e li fè l konnen; e Ahab ale jwenn Eliyahou.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e... ale"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahou"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e li fè l konnen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e... ale"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:36.904878260Z",
+  "model": "glm-5.3"
+}

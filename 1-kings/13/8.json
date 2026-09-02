@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi nonm Elohim nan di ba wa a: Si ou bay mwen ⟨את⟩ mwatye kay ou, m pa vini ak ou, epi m pa manje pen, epi m pa bwè dlo nan kote sa a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim nan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwatye kay ou"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mwatye"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "bwè"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:46.848129823Z",
+  "model": "glm-5.3"
+}

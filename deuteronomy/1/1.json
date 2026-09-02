@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Sa yo se pawòl yo Moche pale a tout Yisrael, lòt bò Yarden an, nan dezè a, nan Araba, devan Souf, ant Paran ak ant Tofel, ak Lavan, ak Hatsèrot, ak Di Zahav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Sa yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "lòt bò"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "nan Araba"
+    },
+    {
+      "surface": "מול",
+      "gloss": "devan"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Souf"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ak Lavan"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "ak Hatsèrot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "ak Di"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahav"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:39.488549398Z",
+  "model": "glm-5.3"
+}

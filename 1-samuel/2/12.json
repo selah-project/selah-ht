@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi pitit Eli yo se pitit Belyal; yo pa konnen ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "epi pitit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belyal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:23:24.007660209Z",
+  "model": "glm-5.3"
+}

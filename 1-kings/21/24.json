@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Moun ki mouri pou Ahab nan lavil la, chen yo ap manje ⟨l⟩; e moun ki mouri nan jaden an, zwazo syèl yo ap manje ⟨l⟩.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "moun ki mouri"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "pou Ahab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil la"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "chen yo ap manje"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "chen yo"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "e moun ki mouri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden an"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zwazo syèl yo ap manje"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "zwazo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:50.240093647Z",
+  "model": "glm-5.3"
+}

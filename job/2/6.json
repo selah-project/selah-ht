@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Yawe di bay haSatan: Gade, li nan men ou; sèlman ⟨את⟩ lavi l ou dwe kenbe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi Yawe di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "haSatan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavi l"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lavi l"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:36.710479502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Yo wè sa, moun ki ba yo rejoyi; nou ki chèche Elohim, ke kè nou vivan!",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "yo wè"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "moun ki ba yo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "rejoyi"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "nou ki chèche"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ke vivan"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "kè nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:37.274533652Z",
+  "model": "glm-5.3"
+}

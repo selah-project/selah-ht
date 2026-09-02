@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Dekouvri je m, pou m gade bagay etonan yo soti nan lwa ou.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Dekouvri"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "pou m gade"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "bagay etonan yo"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "soti nan lwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:06.957123375Z",
+  "model": "glm-5.3"
+}

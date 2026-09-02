@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi l cheche kèk nan l sou lotèl a sèt fwa, epi l onksi ⟨את⟩ lotèl la ak ⟨את⟩ tout zouti l yo, ak ⟨את⟩ basen an ak ⟨את⟩ pye l, pou l konsakre yo.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "epi l cheche kèk"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nan l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl a"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "epi l onksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotèl la"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zouti l yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "basen an"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "basen an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pye l"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pye l"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "pou l konsakre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:24.319632402Z",
+  "model": "glm-5.3"
+}

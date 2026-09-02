@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Tout bèt ki gen blemye ladan l, nou pa dwe pote l, paske li p ap jwenn favè pou nou.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "מום",
+      "gloss": "blemye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "dwe pote l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "jwenn favè"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:16.413415858Z",
+  "model": "glm-5.3"
+}

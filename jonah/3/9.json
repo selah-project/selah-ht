@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Kiyès ki konnen ⟨si⟩ ⟨li⟩ vire tounen, epi HaElohim piné, epi ⟨li⟩ tounen soti nan cho kòlè li, epi nou pa pèdi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kiyès ki"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vire tounen"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "epi piné"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "epi tounen"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "cho"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kòlè li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "pèdi"
+    }
+  ],
+  "timestamp": "2026-09-02T19:39:45.479700250Z",
+  "model": "glm-5.3"
+}

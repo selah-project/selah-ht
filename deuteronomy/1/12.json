@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Kouman m ap pote, pou mwen sèl, chay nou an, ak pwa nou an, ak diskisyon nou yo?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Kouman"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "m ap pote"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "pou mwen sèl"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "chay nou an"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ak pwa nou an"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ak diskisyon nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:16.237864570Z",
+  "model": "glm-5.3"
+}

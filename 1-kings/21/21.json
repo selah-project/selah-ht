@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 21:21",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Men, m ap pote mal sou ou, e m ap balaye tout sa ki dèyè ou, e m ap koupe pou Ahab tout moun ki piple sou mi — moun ki kenbe ak moun ki kite — nan Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מבי",
+      "gloss": "m ap pote"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "e m ap balaye"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "dèyè ou"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "e m ap koupe"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "pou Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "moun ki piple"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sou mi"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "moun ki kenbe"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ak moun ki kite"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:50.239451682Z",
+  "model": "glm-5.3"
+}

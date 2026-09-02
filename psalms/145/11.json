@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Yo ap pale glwa wayòm ou a, yo ap fè moun konnen fòs ou.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "wayòm ou a"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo ap pale"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ak fòs ou"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "yo ap fè moun konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:15.310209106Z",
+  "model": "glm-5.3"
+}

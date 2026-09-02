@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E m di nou nan tan sa a, konsa: mwen pa kapab, pou mwen sèl, pote ⟨את⟩ nou.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E m di"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "pou mwen sèl"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:16.237135786Z",
+  "model": "glm-5.3"
+}

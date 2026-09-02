@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Èske tout jou a labourè a ap labou pou l semenn? Èske l ap louvri e ap awote tè a chak fwa?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ap labou"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "labourè a"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "pou l semenn"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ap louvri"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "e ap awote"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tè li a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:26.728307832Z",
+  "model": "glm-5.3"
+}

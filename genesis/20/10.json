@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi Avimelekh di Avraham: Sa w wè, paske w fè ⟨את⟩ pawòl sa a?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:52.043685062Z",
+  "model": "glm-5.3"
+}

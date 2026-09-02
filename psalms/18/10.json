@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Li kourbe syèl yo epi desann, ak nwa epè anba pye l yo.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "epi kourbe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "epi desann"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ak nwa epè"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "pye l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:39.240654677Z",
+  "model": "glm-5.3"
+}

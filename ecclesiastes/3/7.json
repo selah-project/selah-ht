@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yon tan pou chire, e yon tan pou koud; yon tan pou tisi, e yon tan pou pale.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yon tan"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "pou chire"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "pou koud"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yon tan"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "pou tisi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pou pale"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:46.025211024Z",
+  "model": "glm-5.3"
+}

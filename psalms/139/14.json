@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Mwen ap rekonèt ou, paske avèk wayiman ou fè m yon moun apartenans; zèv ou yo se bagay etonan, e nanm m konnen sa byen fon.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "mwen ap rekonèt ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "avèk wayiman"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "ou fè m yon moun apartenans"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "bagay etonan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "zèv ou yo"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ak nanm m"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "byen fon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:01.289980300Z",
+  "model": "glm-5.3"
+}

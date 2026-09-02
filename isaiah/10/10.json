@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Menm jan men mwen te rive wayòm dye fò yo ak imaj grave yo, plis pase ⟨sa ki nan⟩ Yerouchalayim ak Chomeron —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Menm jan"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "te rive"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men mwen"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "dye fò yo"
+    },
+    {
+      "surface": "וּפסיליהם",
+      "gloss": "ak imaj grave yo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "plis pase Yerouchalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "ak Chomeron"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:31.673160859Z",
+  "model": "glm-5.3"
+}

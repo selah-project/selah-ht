@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Nan jou detres mwen an m ap rele ou, paske ou reponn m.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nan jou"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "detres mwen"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "m ap rele ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ou reponn m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:20.737124652Z",
+  "model": "glm-5.3"
+}

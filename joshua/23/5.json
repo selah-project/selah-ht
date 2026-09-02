@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E se Yawe Elohim ou yo menm ki ap pouse yo ale devan ou, epi ki ap depossede yo devan ou, epi nou pran posede tè yo, jan Yawe Elohim ou yo pale avèk nou.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "ap pouse yo ale"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "epi depossede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (nasyon yo)"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "epi nou pran posede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè yo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tè yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou yo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "avèk nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:55.418311819Z",
+  "model": "glm-5.3"
+}

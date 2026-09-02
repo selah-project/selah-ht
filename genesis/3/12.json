@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E Adam di: Fanm nan, ki ou te mete ak mwen, se li ki ban m nan pyebwa a, e mwen manje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "te mete"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ak mwen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pyebwa a"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:38.815218712Z",
+  "model": "glm-5.3"
+}

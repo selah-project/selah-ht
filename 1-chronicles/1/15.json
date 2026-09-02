@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "ak ⟨את⟩ Khivi a, ak ⟨את⟩ Arki a, ak ⟨את⟩ Sini a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Khivi a"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Khivi a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Arki a"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arki a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Sini a"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sini a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:59.391965189Z",
+  "model": "glm-5.3"
+}

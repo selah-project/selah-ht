@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E l ap koupe ⟨את⟩ l an moso l yo, ak ⟨את⟩ tèt li ak ⟨את⟩ grès li; e prèt la ap ranje ⟨את⟩ yo sou bwa yo ki sou dife a ki sou lotèl la.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "epi ap koupe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (bèt la)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "an moso l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tèt li"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tèt li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "grès li"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "grès li"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "epi ap ranje"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (moso yo, tèt la, grès la)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "bwa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dife a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:31.016904109Z",
+  "model": "glm-5.3"
+}

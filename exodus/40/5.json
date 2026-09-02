@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou pran mete ⟨את⟩ lotèbòy lò a pou ensans devan bwat temwayaj la, epi ou mete ⟨את⟩ ridè pou nan pòtay la nan habitasyon an.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotèbòy lò a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lotèbòy"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò a"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "pou ensans"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bwat"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "temwayaj la"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ridè pòtay la"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ridè"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "pòtay la"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "nan habitasyon an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:52.693285518Z",
+  "model": "glm-5.3"
+}

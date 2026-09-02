@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Mwen te chèche ⟨את⟩ Yawe, e li reponn mwen, e li delivre mwen nan tout pè mwen yo.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Mwen te chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "e li reponn mwen"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "pè mwen yo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "li delivre mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:17.990033598Z",
+  "model": "glm-5.3"
+}

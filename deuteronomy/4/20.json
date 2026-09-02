@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Men ⟨את⟩ nou menm Yawe pran, e li fè ⟨את⟩ nou soti nan fou fè an, soti nan Mitsrayim, pou nou vin pou li yon pèp eritaj, jou sa a menm.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ak ⟨את⟩ nou",
+      "marks": "nou (objè vèb pran)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "e li fè soti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou (objè vèb fè soti)"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "fou"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "fè a"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti nan Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "pou vin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yon pèp"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "eritaj"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jou sa a menm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:55.701520118Z",
+  "model": "glm-5.3"
+}

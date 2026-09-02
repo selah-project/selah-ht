@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E l te fè nan maten an, lè ofrann maten an ap monte, gade, dlo t ap soti nan chemen Edòm, e tè a t plen ⟨את⟩ dlo yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E l te fè"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten an"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "lè ap monte"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofrann maten an"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "t ap soti"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "nan chemen"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edòm"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "e t plen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dlo yo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:21.925825063Z",
+  "model": "glm-5.3"
+}

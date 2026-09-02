@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Gade, Adònay Yawe ap vini ak fòs, ak bra l ap gouvènen pou l; gade, ⟨את⟩ payman l ap avèk l, ak travay l devan l.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ak fòs"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ak bra l"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "ap gouvènen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou l"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "payman l"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ak l",
+      "marks": "payman l"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "ak travay l"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:38.425473481Z",
+  "model": "glm-5.3"
+}

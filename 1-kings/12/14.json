@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi li pale ak yo dapre konsèy jèn gason yo, konsa: Papa m fè ⟨את⟩ jouk ou yo lou, epi mwen ap ajoute sou jouk ou yo; papa m chatime ⟨את⟩ ou yo ak foutèt, epi mwen ap chatime ⟨את⟩ ou yo ak eskopyon.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "dapre konsèy"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "jèn gason yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "fè lou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouk ou yo"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jouk ou yo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "epi mwen"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ap ajoute"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jouk ou yo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "chatime"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ou yo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ak foutèt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "epi mwen"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ap chatime"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ou yo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ak eskopyon"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:53.506548911Z",
+  "model": "glm-5.3"
+}

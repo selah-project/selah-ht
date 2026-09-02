@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 101,
+  "translation": "M ap komporte m avèk sajès nan yon wout ki pa gen fay. Kilè ⟨wè⟩ ou pral vini jouk nan mwen? M ap mache nan entegite kè m, nan mitan kay mwen.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "m ap komporte m avèk sajès"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ki pa gen fay"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kilè"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ou pral vini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "jouk nan mwen"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "m ap mache"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "nan entegite"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kay mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:30.464294321Z",
+  "model": "glm-5.3"
+}

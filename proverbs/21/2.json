@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Tout chemen yon moun dwat ⟨⟨nan⟩⟩ zye li; men Yawe peze kè yo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nan zye li"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "men ... peze"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "kè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:25.529380045Z",
+  "model": "glm-5.3"
+}

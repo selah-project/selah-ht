@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Si pitit ou yo te peche kont li, e li te voye yo bay men rebelyon yo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "te peche"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kont li"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "e li te voye yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bay men"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "rebelyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:02.013036652Z",
+  "model": "glm-5.3"
+}

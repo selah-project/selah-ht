@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi zòt pa dwe jure anfav nan Non mwen, epi ou pwofane ⟨את⟩ Non Elohim ou; se mwen Yawe.",
+  "tokens": [
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תִשָּׁבְע֥וּ",
+      "gloss": "jure"
+    },
+    {
+      "surface": "בִּשְׁמִ֖י",
+      "gloss": "nan Non mwen"
+    },
+    {
+      "surface": "לַשָּׁׁ֑קֶר",
+      "gloss": "anfav"
+    },
+    {
+      "surface": "וְחִלַּלְתָּ֛",
+      "gloss": "epi ou pwofane"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Non"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:11.888484350Z",
+  "model": "glm-5.3"
+}

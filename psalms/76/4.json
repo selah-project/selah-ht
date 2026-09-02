@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "La a ⟨li⟩ kase flèch pètan yo ak filèt la, bouklè a, epe a, ak lagè a. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "La a"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "⟨li⟩ kase"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "flèch pètan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yo ak filèt la"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "bouklè a"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ak epe a"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ak lagè a"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:11.310565443Z",
+  "model": "glm-5.3"
+}

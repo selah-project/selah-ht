@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Poutèt sa, ou pa pral gen ⟨moun ki pral jete⟩ kòd nan gocha, nan asanble Yawe a.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Poutèt sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "moun ki jete"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kòd"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "nan gocha"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nan asanble"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:39:41.186432251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Sèlman li se wòch mwen ak delivrans mwen, fò mwen; p ap tremble anpil.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "wòch mwen"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ak delivrans mwen"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "fò mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ap tremble"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:46.516357080Z",
+  "model": "glm-5.3"
+}

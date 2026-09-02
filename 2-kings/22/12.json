@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi wa a bay ⟨את⟩ Khilkiya prèt la, ⟨את⟩ Akikam pitit Chafan, ⟨את⟩ Akbor pitit Mikhaya, ⟨את⟩ Chafan skrivèn nan, ak ⟨את⟩ Asaya, eskiye wa a, lòd, li di:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "bay lòd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khilkiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Khilkiya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Akikam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Akikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Chafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Akbor"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Mikhaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chafan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Chafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "skrivèn nan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Asaya"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "eskiye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-09-02T18:19:30.627977202Z",
+  "model": "glm-5.3"
+}

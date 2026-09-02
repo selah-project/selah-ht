@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Pou chèf mizisyen an. Yon mizmor pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:30.562176691Z",
+  "model": "glm-5.3"
+}

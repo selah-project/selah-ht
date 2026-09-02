@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "ak tèt mòn ansyen yo, ak pi bèl bagay ti mòn ki pou tout tan yo;",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "ak tèt"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ansyen"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ak pi bèl bagay"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ti mòn yo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ki pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:57:53.034522475Z",
+  "model": "glm-5.3"
+}

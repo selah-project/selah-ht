@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "M ap satire l ak longè jou yo, e m ap fè l wè delivrans mwen.",
+  "tokens": [
+    {
+      "surface": "אֹרֶךְ",
+      "gloss": "longè"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "אַשְׂבִיעֵהוּ",
+      "gloss": "m ap satire l"
+    },
+    {
+      "surface": "וְאַרְאֵהוּ",
+      "gloss": "e m ap fè l wè"
+    },
+    {
+      "surface": "בִּישׁוּעָתִי",
+      "gloss": "delivrans mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:37.927015522Z",
+  "model": "glm-5.3"
+}

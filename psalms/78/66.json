@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Epi li frape ennemi l yo nan dèyè; li bay yo yon won tout tan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "li frape"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ennemi l yo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nan dèyè"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "yon won"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tout tan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "li bay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:09.131004598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "M pa t gen lapè, m pa t gen trankilite, m pa t gen repo, e trublman vin rive.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלותי",
+      "gloss": "m t gen lapè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שקטתי",
+      "gloss": "m t gen trankilite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "נחתי",
+      "gloss": "m t gen repo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e li vin rive"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "trublman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:52.317306555Z",
+  "model": "glm-5.3"
+}

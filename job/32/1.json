@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi twa gason sa yo sispann reponn ⟨את⟩ Iyov, paske li jis nan zye l.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "sispann"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gason yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nan zye l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:41:08.886915693Z",
+  "model": "glm-5.3"
+}

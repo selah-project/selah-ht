@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 14:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi jou a te rive: Yonatan, pitit gason Chaoul a, di ak jèn gason an ki te pote zam li: «Vini, ann travèse rive nan pos Pelichtim yo ki sou lòt bò a»; men papa l, li pa fè konnen ⟨sa⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "te rive"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jèn gason an"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zam li"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "vini"
+    },
+    {
+      "surface": "וְנַעְבְּרָה",
+      "gloss": "ann travèse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "pos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pleichtim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "lòt bò"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "fè konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T21:49:42.566427788Z",
+  "model": "glm-5.3"
+}

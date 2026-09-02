@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Moun ki mouri pou Bacha nan lavil la, chyen yo pral manje l; e moun ki mouri pou li nan chan an, zwazo syèl yo pral manje l.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "moun ki mouri"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "pou Bacha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil la"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "pral manje"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "chen yo"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "e moun ki mouri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan chan an"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "pral manje"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "zwazo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:14.710628184Z",
+  "model": "glm-5.3"
+}

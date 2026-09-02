@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Efraim antoure m ak manti, e kay Izrayèl ak fwòd; e Yehouda, jouk kounye a ap vwayaje san repo avèk El, e avèk moun konsakre yo ⟨li⟩ fè konfyans.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "antoure m"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "ak manti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "e ak fwòd"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Yehouda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk kounye a"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ap vwayaje san repo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avèk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e avèk"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "moun konsakre yo"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "fè konfyans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:54.875212919Z",
+  "model": "glm-5.3"
+}

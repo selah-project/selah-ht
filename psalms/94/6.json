@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Vèv ak etranje yo touye, e pitit san papa yo asasine.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Vèv"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ak etranje"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "yo touye"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "e pitit san papa"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "yo asasine"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:13.481139862Z",
+  "model": "glm-5.3"
+}

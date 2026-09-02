@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Men, El pa rejte moun ki san fay, epi li pa fè men moun k ap fè mal yo fèm.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "rejte"
+    },
+    {
+      "surface": "תם",
+      "gloss": "moun ki san fay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "fè... fèm"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "men"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "moun k ap fè mal yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:33:15.440346575Z",
+  "model": "glm-5.3"
+}

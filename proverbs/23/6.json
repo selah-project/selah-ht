@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pa manje ⟨את⟩ pen yon moun ki gen je movè, e pa dezire bon manje l yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "movè"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "dezire"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "bon manje l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:14.615339222Z",
+  "model": "glm-5.3"
+}

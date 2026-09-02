@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Pou chèf mizisyen an, sou Gtitit, pou Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gtitit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:50.536317598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "E li rive nan tan sa a, Yehouda desann kite ⟨את⟩ frè l yo, e li vire jouk kote yon nonm Adoulamit, e non l se Hira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rive"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kite ⟨את⟩",
+      "marks": "frè l yo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "vire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adoulamit"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "e non l"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hira"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:11.088698023Z",
+  "model": "glm-5.3"
+}

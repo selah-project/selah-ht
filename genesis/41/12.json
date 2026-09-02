@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Epi la, ⟨את⟩ ak nou, te yon jèn gason, yon Ebre, sèvant pou chèf kwizinye yo; nou konte ⟨את⟩ pou li, epi li entèprete pou nou ⟨את⟩ rèv nou yo — chak moun dapre rèv li, se sa li entèprete.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "epi la"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ak ⟨את⟩",
+      "marks": "yon jèn gason Ebre a"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ebre"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sèvant"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "pou chèf"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "kwizinye yo"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "nou konte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "li entèprete"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rèv nou yo"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "rèv nou yo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "dapre rèv li"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "entèprete"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:11.242144230Z",
+  "model": "glm-5.3"
+}

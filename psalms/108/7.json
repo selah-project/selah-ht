@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Pou moun ou renmen yo dwe delivre, sove ak men dwat ⟨ou⟩, epi reponn m.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "dwe delivre"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "moun ou renmen yo"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "sove"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "men dwat ou"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "epi reponn m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.832900498Z",
+  "model": "glm-5.3"
+}

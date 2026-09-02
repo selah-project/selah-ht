@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Pa kite moun kraze a tounen ak wont; se pou pòv la ak dezespere a fè lwanj Non ou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "דך",
+      "gloss": "moun kraze a"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "ak wont"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "ויבון ואביון",
+      "gloss": "ak dezespere a"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "fè lwanj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:58.846837959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Elohim beni ⟨את⟩ septyèm jou a, e l konsakre ⟨את⟩ l, paske se nan l Èk li te sispann lwen tout travay l, travay Elohim te kreye pou ⟨li⟩ fè.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "septyèm jou a"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septyèm"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "e l konsakre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (septyèm jou a)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan l"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "te sispann"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lwen tout"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "travay l"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kreye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:45.027690749Z",
+  "model": "glm-5.3"
+}

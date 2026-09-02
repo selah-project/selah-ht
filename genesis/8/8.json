@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li voye ⟨את⟩ pipiyon nan soti ⟨את⟩ kote l te ye, pou wè si dlo yo te vin pi lejè sou figi tè a.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E li voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pipiyon nan"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pipiyon nan"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "soti ⟨את⟩ kote l te ye"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "si dlo yo te vin pi lejè"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:00.477814826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Sou kandèlab la ki pi a, ⟨li⟩ ap ranje ⟨את⟩ lanp yo devan Yawe, toutan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandèlab la"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ki pi a"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ap ranje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanp yo"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lanp yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:48.922172065Z",
+  "model": "glm-5.3"
+}

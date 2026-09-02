@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E w ap fè yon kouvèti pou tant la, an pé bélier wouj, e yon kouvèti an pé takach (bèt ki gen plim) anlè.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e w ap fè"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kouvèti"
+    },
+    {
+      "surface": "לאההל",
+      "gloss": "pou tant la"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "bélier"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "wouj"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "e kouvèti"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "pé"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takach"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "anlè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:26.675048172Z",
+  "model": "glm-5.3"
+}

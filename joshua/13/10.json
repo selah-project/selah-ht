@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 13:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "ak tout lavil Sihon, wa Amorit yo, ki te regne nan Hechbon, jouk fwontyè pitit Ammon yo —",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "lavil"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorit yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regne"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "nan Hechbon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fwontyè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-02T17:05:13.775529678Z",
+  "model": "glm-5.3"
+}

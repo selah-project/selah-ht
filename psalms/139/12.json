@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "menm fènwa pa vin fènwa devan ou, e lannwit limen kòm jou a; fènwa menm kòm limyè ⟨pou ou⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fènwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "vin fènwa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e lannwit"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kòm jou a"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "limen"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "kòm fènwa"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "kòm limyè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:51.456238052Z",
+  "model": "glm-5.3"
+}

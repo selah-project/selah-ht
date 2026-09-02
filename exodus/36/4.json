@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E tout moun saj yo ki te fè ⟨את⟩ tout travay senkòtèy la vin, chak moun, chak moun, soti nan travay l ke yo te fè.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "moun saj yo"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "ki te fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout travay senkòtèy la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "travay"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "senkòtèy la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "soti nan travay l"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "te fè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:48.737056821Z",
+  "model": "glm-5.3"
+}

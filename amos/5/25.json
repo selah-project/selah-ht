@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "amos 5:25",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Èske kay Izrayèl te pote zèb yo ak ofrann vin jwenn mwen nan dezè a, pou karant ane?",
+  "tokens": [
+    {
+      "surface": "הַזְּבָחִים",
+      "gloss": "zèb yo"
+    },
+    {
+      "surface": "וּמִנְחָה",
+      "gloss": "ak ofrann"
+    },
+    {
+      "surface": "הִגַּשְׁתֶּם",
+      "gloss": "pote vin jwenn"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "jwenn mwen"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "אַרְבָּעִים",
+      "gloss": "karant"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T19:38:05.475510130Z",
+  "model": "glm-5.3"
+}

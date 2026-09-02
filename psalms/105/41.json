@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Wòch la louvri, dlo koule, yo mache nan zòn sèk yo kòm yon rivyè.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "צור",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "koule"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "yo mache"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "nan zòn sèk yo"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "kòm yon rivyè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:19.004173521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi li mande ⟨pou⟩ li nan Yawe, e li bay li manje; e li bay li ⟨את⟩ epe Galit Filisten an tou.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "mande"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ba Yawe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "epi manje"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "epe Galit Filisten an"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epe"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Galit"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filisten an"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:29.808391891Z",
+  "model": "glm-5.3"
+}

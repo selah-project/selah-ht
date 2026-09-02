@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Paro rele pou Moche ak pou Aharòn, epi li di: Ale, sakrifye pou Elohim nou an nan peyi a.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ak pou Aharòn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sakrifye"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "pou Elohim nou an"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:58.071788468Z",
+  "model": "glm-5.3"
+}

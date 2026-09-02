@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Èske yo ⟨ka⟩ rakonte hesed ou nan tonm? Fidelite ou nan Avadòn?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "èske yo rakonte"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "nan tonm"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "fidelite ou"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "nan Avadòn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:42.928556853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Pou chèf mizik la, sou «Chochanim» (yo), yon Chan pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizik la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Chochanim (yo)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:16.517874605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 112,
+  "translation": "Li gaye, li bay pov yo; jistis li kanpe pou toutan; kòn l ap leve nan glwa.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "pov yo"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "jistis li"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "kòn l"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "nan glwa"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:31.696167206Z",
+  "model": "glm-5.3"
+}

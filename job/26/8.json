@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "⟨Li⟩ mare dlo nan nwaj yo lè yo epè, e nwaj la pa chire anba ⟨dlo yo⟩.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "mare"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "nan nwaj epè li yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "chire"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "nwaj la"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "anba yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:39:14.622956857Z",
+  "model": "glm-5.3"
+}

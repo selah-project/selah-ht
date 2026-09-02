@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Temwen kèk pa gen pou l chape sanksyon, e moun ki souffle kèk ap pèdi.",
+  "tokens": [
+    {
+      "surface": "עֵד",
+      "gloss": "temwen"
+    },
+    {
+      "surface": "שְׁקָרִים",
+      "gloss": "kèk"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יִנָּקֶה",
+      "gloss": "chape sanksyon"
+    },
+    {
+      "surface": "וְיָפִיחַ",
+      "gloss": "e moun ki souffle"
+    },
+    {
+      "surface": "כְּזָבִים",
+      "gloss": "kèk"
+    },
+    {
+      "surface": "יֹאבֵד",
+      "gloss": "ap pèdi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:26:52.919710769Z",
+  "model": "glm-5.3"
+}

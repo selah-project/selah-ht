@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "David te bay Chelomo, pitit li, ⟨את⟩ desen pòtay la ak ⟨את⟩ kay li yo, trezò li yo, chanm sou tèt li yo, chanm enteryè li yo, epi kay kaporet la.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "te bay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "desen pòtay la"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "desen"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "pòtay la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kay li yo"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "kay li yo"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "trezò li yo"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "chanm sou tèt li yo"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "chanm"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "enteryè"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "epi kay"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:24:05.637540686Z",
+  "model": "glm-5.3"
+}

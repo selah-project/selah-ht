@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 142,
+  "translation": "Vwa m moute ba Yawe, m ap rele; vwa m moute ba Yawe, m ap mande gràs.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Vwa m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "m ap rele"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vwa m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "m ap mande gràs"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:10.818848879Z",
+  "model": "glm-5.3"
+}

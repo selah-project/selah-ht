@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "David rele youn nan jèn gason yo, epi li di: Vini, frape l. Epi li frape l, epi li mouri.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "nan jèn gason yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "frape"
+    },
+    {
+      "surface": "בו",
+      "gloss": "l"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "li frape l"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "li mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:42.454516494Z",
+  "model": "glm-5.3"
+}

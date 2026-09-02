@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Prudan an wè malè a epi kache; senp yo pase lote epi yo pini.",
+  "tokens": [
+    {
+      "surface": "עָרוּם",
+      "gloss": "prudan an"
+    },
+    {
+      "surface": "רָאָה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "malè a"
+    },
+    {
+      "surface": "וַיִּסְתָּר",
+      "gloss": "epi kache"
+    },
+    {
+      "surface": "וּפְתָאיִם",
+      "gloss": "senp yo"
+    },
+    {
+      "surface": "עָבְרוּ",
+      "gloss": "pase lote"
+    },
+    {
+      "surface": "וְנֶעֱנָשׁוּ",
+      "gloss": "epi yo pini"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:34.324993413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Sa nou tande e nou konnen, e zansèt nou yo rakonte pou nou.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nou tande"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "e nou konnen"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "e zansèt nou yo"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "rakonte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:01.009142478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "epi nan atizay koupe pyè pou mete l, epi nan atizay koupe bwa, pou fè ⟨tout⟩ kal travay.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "epi nan atizay koupe"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "pyè"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "pou mete l"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "epi nan atizay koupe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kal travay"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:18.146520873Z",
+  "model": "glm-5.3"
+}

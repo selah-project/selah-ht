@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E mwen pran ⟨את⟩ liv kontrat la, ⟨את⟩ kopi fèmen an, dapre kondisyon ak koutim yo, ak ⟨את⟩ kopi louvri a.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liv kontrat la"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "liv"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "kontrat la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopi fèmen an"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "fèmen an"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "kondisyon"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ak koutim yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kopi louvri a"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "kopi louvri a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:00:49.731086930Z",
+  "model": "glm-5.3"
+}

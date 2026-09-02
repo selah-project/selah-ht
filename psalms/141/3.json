@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 141,
+  "translation": "Mete yon gadyen, o Yawe, sou bouch mwen; gade pòt lebèv m yo.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Mete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "gadyen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sou bouch mwen"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lebèv m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:23.517663877Z",
+  "model": "glm-5.3"
+}

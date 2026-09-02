@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Yaakov sèvi pou Rakhèl sèt ane; yo te sanble nan je l tankou kèk jou, paske l renmen ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "pou Rakhèl"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "yo te"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nan je l"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "tankou jou"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "kèk"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "paske l renmen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (Rakhèl)"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:13.970269799Z",
+  "model": "glm-5.3"
+}

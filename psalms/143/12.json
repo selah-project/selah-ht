@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 143,
+  "translation": "E nan hesed ou, koupe enmi m yo, epi detwi tout k ap aprese nanm m; paske mwen se sèvant ou.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "E nan hesed ou"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "epi detwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "k ap aprese m"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:15.136961779Z",
+  "model": "glm-5.3"
+}

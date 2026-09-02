@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Yawe pral eritè ⟨את⟩ Yehouda kòm pat li sou tè sen a, e l ap chwazi Yerouchalayim ankò.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "E ... pral eritè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehouda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "kòm pat li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tè"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sen a"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "e l ap chwazi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:46:23.404834658Z",
+  "model": "glm-5.3"
+}

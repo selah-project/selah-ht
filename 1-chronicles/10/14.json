@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi li pa te chèche ⟨konsèy⟩ nan Yawe, se poutèt sa ⟨Yawe⟩ fè l mouri, e ⟨Yawe⟩ tounen ⟨את⟩ wayòm la ba David, pitit Yichay.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "fè l mouri"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayòm la"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "wayòm la"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ba David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yichay"
+    }
+  ],
+  "timestamp": "2026-09-02T22:05:38.312106910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Konsa mwen tounen, m planifye nan jou sa yo pou fè byen ⟨את⟩ Yerouchalayim ak ⟨את⟩ kay Yehouda. Pa pè.",
+  "tokens": [
+    {
+      "surface": "כֵּן",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "שַׁבְתִּי",
+      "gloss": "mwen tounen"
+    },
+    {
+      "surface": "זָמַמְתִּי",
+      "gloss": "m planifye"
+    },
+    {
+      "surface": "בַּיָּמִים",
+      "gloss": "nan jou yo"
+    },
+    {
+      "surface": "הָאֵלֶּה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "לְהֵיטִיב",
+      "gloss": "pou fè byen"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "יְרוּשָׁלַזִם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kay Yehouda"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תִּירָאוּ",
+      "gloss": "pè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:47:52.201756474Z",
+  "model": "glm-5.3"
+}

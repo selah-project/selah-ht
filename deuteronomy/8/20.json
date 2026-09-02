@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Jan nasyon yo ke Yawe ap fè pèdi devan ou — menm jan ou ap pèdi, paske ou pa koute vwa Yawe Elohim ou.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "Jan nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "ap fè pèdi"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "כן",
+      "gloss": "menm jan"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "ou ap pèdi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "koute"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:27.324792217Z",
+  "model": "glm-5.3"
+}

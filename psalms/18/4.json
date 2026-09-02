@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Mè ki dwe fè lwanj — mwen ap rele Yawe, e mwen ap sove nan men enmi m yo.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Mè ki dwe fè lwanj"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mwen ap rele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e nan men"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "mwen ap sove"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:17.656613677Z",
+  "model": "glm-5.3"
+}

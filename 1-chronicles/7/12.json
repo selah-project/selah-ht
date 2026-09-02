@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Choupim ak Khoufim se pitit Ir yo; Khoucim se pitit Ache.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Choupim"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "Khoufim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Khoucim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Ache"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:56.495280356Z",
+  "model": "glm-5.3"
+}

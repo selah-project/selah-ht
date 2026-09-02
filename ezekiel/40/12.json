@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Ak yon frontyè devan chanm yo: yon sèl koud, ak yon sèl koud frontyè nan bò sa a; chanm nan sis koud nan bò sa a, ak sis koud nan lòt bò.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "ak frontyè"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "chanm yo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "koud"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ak koud"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "frontyè"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "depi bò sa a"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "ak chanm nan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "koud"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "depi bò sa a"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ak sis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "koud"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "depi lòt bò"
+    }
+  ],
+  "timestamp": "2026-09-02T19:28:10.352926842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Lapè anpil pou moun ki renmen lwa ou a, e pa gen okenn chòk pou yo.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "pou moun ki renmen"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "lwa ou a"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "chòk"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:49.067645950Z",
+  "model": "glm-5.3"
+}

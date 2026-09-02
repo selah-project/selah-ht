@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Moun ki sakrifye pou ⟨lòt⟩ dye, ⟨li⟩ mete nan chan — eksepte pou Yawe sèl.",
+  "tokens": [
+    {
+      "surface": "זֹבֵחַ",
+      "gloss": "ki sakrifye"
+    },
+    {
+      "surface": "לָאֱלֹהִים",
+      "gloss": "pou dye"
+    },
+    {
+      "surface": "יָחֳרָם",
+      "gloss": "mete nan chan"
+    },
+    {
+      "surface": "בִּלְתִּי",
+      "gloss": "eksepte"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "לְבַדּוֹ",
+      "gloss": "sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:58.110730099Z",
+  "model": "glm-5.3"
+}

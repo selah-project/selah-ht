@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E Chaoul rekonèt ⟨את⟩ vwa David, e li di: Èske se vwa ou sa a, pitit mwen David? E David di: Se vwa mwen, Adònay wa a.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "rekonèt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa David"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "vwa ou"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vwa mwen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:40.502249471Z",
+  "model": "glm-5.3"
+}

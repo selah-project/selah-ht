@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "E lè Aharòn ak tout pitit Yisrayèl yo te wè ⟨את⟩ Moche — e menm, po figi l te rayonnen — yo te pè pwoche bò kote l.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "te rayonnen"
+    },
+    {
+      "surface": "עור",
+      "gloss": "po"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "e yo pè"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "pwoche"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bò kote l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:56.403355719Z",
+  "model": "glm-5.3"
+}

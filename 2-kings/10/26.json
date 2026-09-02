@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi yo pote deyò ⟨את⟩ poto sinkrè kay Baal la, epi yo boule yo.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Epi yo pote deyò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poto sinkrè kay Baal la"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "poto sinkrè"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal la"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "epi yo boule yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:51:23.536056926Z",
+  "model": "glm-5.3"
+}

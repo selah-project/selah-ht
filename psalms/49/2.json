@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Koute sa a, tout pèp yo; pran zòrèy, tout moun k ap abite ⟨nan⟩ lavi-kout-monm lan.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "pran zòrèy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun k ap abite"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "lavi-kout-monm lan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:59.513926941Z",
+  "model": "glm-5.3"
+}

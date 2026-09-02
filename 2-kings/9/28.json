@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E sèvitè l yo pote l ⟨את⟩ nan yon chari rive Yerouchalayim, e yo antere l ⟨את⟩ nan tonb l ansanm ak zansèt l yo, nan lavil David la.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "E … pote nan chari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "pote l (Ahazyah)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè l yo"
+    },
+    {
+      "surface": "ירושלממה",
+      "gloss": "rive Yerouchalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "e … antere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "antèman l"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "nan tonb l"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt l yo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:03.707598774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi wa Mitsrayim la pale ak sage-fam ebrey yo — non youn Chifra, e non dezyèm nan Poua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדות",
+      "gloss": "ak sage-fam yo"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ebrey yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "youn"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Chifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "dezyèm nan"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Poua"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:26.700109122Z",
+  "model": "glm-5.3"
+}

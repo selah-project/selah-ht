@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Nou te fè konsèy dous ansanm (sod), nan kay Elohim nou te mache ansanm ak foul la.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "te fè dous"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "konsèy (sod)"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "nou te mache"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "ak foul la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:10.440036991Z",
+  "model": "glm-5.3"
+}

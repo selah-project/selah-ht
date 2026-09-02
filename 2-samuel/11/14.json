@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi nan maten an David ekri yon lèt pou Yoav, e li voye l nan men Ourya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "yon lèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ourya"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:22.328117925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Epi ⟨את⟩ pèp mwen an yo ap anseye ⟨ki separe⟩ sa ki sen ak sa ki pa sen, epi ant sa ki pa prè ak sa ki prè yo ap fè yo konnen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "pèp mwen an"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen an"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "yo ap anseye"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sa ki sen"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "ak sa ki pa sen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "epi ant"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "sa ki pa prè"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "ak sa ki prè"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "yo ap fè yo konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:30:14.838627607Z",
+  "model": "glm-5.3"
+}

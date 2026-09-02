@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "L ap ale nan jenerasyon zansèt li, pou touttan yo p ap wè limyè.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ap ale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "zansèt li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pou"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "touttan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ap wè"
+    },
+    {
+      "surface": "אור",
+      "gloss": "limyè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:45.280567510Z",
+  "model": "glm-5.3"
+}

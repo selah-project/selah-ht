@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "⟨Li⟩ ki met limit ⟨ou⟩ yo nan lapè, ak grès froman li fè ⟨ou⟩ satye.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "ki met"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "limit ou yo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "grès"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "froman"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "li fè ou satye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:40.278097532Z",
+  "model": "glm-5.3"
+}

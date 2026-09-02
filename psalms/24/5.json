@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Moun sa a ap resevwa benediksyon nan men ⟨את⟩ Yawe, ak jistis nan men Elohim delivrans li.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ap resevwa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "benediksyon"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nan men ⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ak jistis"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "nan men Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "delivrans li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:23.505243232Z",
+  "model": "glm-5.3"
+}

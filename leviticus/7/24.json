@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Grès yon bèt ki mouri pou kont li ak grès yon bèt bèt sovaj dechire, li ka sèvi pou nenpòt travay; men pou manje l, nou pa dwe manje l.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "grès"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bèt ki mouri pou kont li"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ak grès"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "bèt bèt sovaj dechire"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ka sèvi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou nenpòt"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "men pou manje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "dwe manje l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:04:55.330323473Z",
+  "model": "glm-5.3"
+}

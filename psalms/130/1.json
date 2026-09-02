@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 130,
+  "translation": "Yon chante pou monteyo. Depi nan fon kaveràn mwen rele ou, Yawe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yon chante"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pou monteyo"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Depi nan fon kaveràn"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mwen rele ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:58.024589238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Men moun travay di yo ap gouvènen, men parese ap vin pou peye tribi.",
+  "tokens": [
+    {
+      "surface": "יַד",
+      "gloss": "Men"
+    },
+    {
+      "surface": "חֲרוּצִים",
+      "gloss": "moun travay di yo"
+    },
+    {
+      "surface": "תִּמְשׁוֹל",
+      "gloss": "ap gouvènen"
+    },
+    {
+      "surface": "וְרַמְיָה",
+      "gloss": "men parese"
+    },
+    {
+      "surface": "תִּהְיֶה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "לָמַס",
+      "gloss": "pou peye tribi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:10.761345650Z",
+  "model": "glm-5.3"
+}

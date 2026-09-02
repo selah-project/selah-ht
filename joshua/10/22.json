@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Yehochoua di: Louvri ⟨את⟩ bouch kav la, epi mennen ⟨את⟩ senk wa yo sa yo soti nan kav la vin jwenn mwen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi ... di"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch kav la"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "kav la"
+    },
+    {
+      "surface": "ווהוציאו",
+      "gloss": "epi mennen soti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vin jwenn mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senk wa yo sa yo"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "senk"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "kav la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:07.441520752Z",
+  "model": "glm-5.3"
+}

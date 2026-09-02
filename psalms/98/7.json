@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 98,
+  "translation": "Ke lanmè a fè retanti, ak tout sa ki ladan l, monn nan ak moun ki abite l.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "fè retanti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ak tout sa ki ladan l"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "monn nan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ak moun ki abite"
+    },
+    {
+      "surface": "בה",
+      "gloss": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:06.313091103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Menm jan ak grès ak dègrès nefech m ap satye, e ak lesvè ki chante jij bouch m ap fè.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "menm jan ak"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "grès"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ak dègrès"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ap satye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech m"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "e lesvè"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "ki chante jij"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "bouch m ap fè jij"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:06.942740939Z",
+  "model": "glm-5.3"
+}

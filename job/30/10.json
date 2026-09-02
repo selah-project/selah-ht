@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Yo deteste mwen, yo fè lwen de mwen, e sou figi m yo pa rete eskime saliv.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "yo deteste mwen"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "yo fè lwen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de mwen"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "e sou figi m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "rete"
+    },
+    {
+      "surface": "רק",
+      "gloss": "saliv"
+    }
+  ],
+  "timestamp": "2026-09-02T20:40:10.767415098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Mechan an bezwen rezo moun mechan yo, men rasin moun jis yo ap bay ⟨fwi⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "bezwen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Mechan an"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "rezo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "moun mechan yo"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "men rasin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ap bay ⟨fwi⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:21.967074758Z",
+  "model": "glm-5.3"
+}

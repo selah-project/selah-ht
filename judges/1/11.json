@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi li ale soti la kont moun ki te rete nan Devir — non Devir anvan te Kiryat-Sèfer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Epi li ale"
+    },
+    {
+      "surface": "משם",
+      "gloss": "soti la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kont"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "moun ki te rete"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "nan Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "epi non"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sèfer"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:06.462693580Z",
+  "model": "glm-5.3"
+}

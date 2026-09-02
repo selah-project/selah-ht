@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 33:53",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Epi n ap pran ⟨את⟩ tè a epi n ap rete ladan l, paske se ba nou m bay ⟨את⟩ tè a pou n pran posesyon ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "n ap pran posesyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "n ap rete"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba nou"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "m bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "pou pran posesyon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:40:37.560315883Z",
+  "model": "glm-5.3"
+}

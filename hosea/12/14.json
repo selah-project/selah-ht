@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E pa yon pwofèt Yawe monte ⟨את⟩ Yisrayèl soti nan Mitsrayim, e pa yon pwofèt li te gadye.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "e pa yon pwofèt"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti nan Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "e pa yon pwofèt"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "te gadye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:33:46.359415459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Li prepare pen l nan ete, li ranmase manje l nan sezon rekòt.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "li prepare"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "nan ete"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "pen l"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "li ranmase"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "nan sezon rekòt"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "manje l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:32.704001954Z",
+  "model": "glm-5.3"
+}

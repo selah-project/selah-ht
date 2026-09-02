@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi Yakchan fè ⟨את⟩ Cheva ak ⟨את⟩ Dedan; e pitit Dedan yo ⟨te ye⟩ Achourim, Letouchim, ak Leoumim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Epi Yakchan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e pitit"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Achourim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letouchim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ak Leoumim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:42.308957756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "epi pou moun ki nan Khorma, epi pou moun ki nan Kor-Achan, epi pou moun ki nan Atakh.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "epi pou moun ki"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "nan Khorma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "epi pou moun ki"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "nan Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Achan (Kor-Achan)"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "epi pou moun ki"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "nan Atakh"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:43.212428023Z",
+  "model": "glm-5.3"
+}

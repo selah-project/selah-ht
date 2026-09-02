@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E travay la te ase pou tout travay la, pou fè ⟨את⟩ li, e t ap rete de.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "e travay la"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "דים",
+      "gloss": "ase"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "travay la"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "tout travay la"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "e t ap rete de"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:22.118487590Z",
+  "model": "glm-5.3"
+}

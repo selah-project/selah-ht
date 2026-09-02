@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E lè solèy la rive e li vin pwòp, apre sa li manje nan bagè sakre yo, paske se manje l.",
+  "tokens": [
+    {
+      "surface": "וּבָא",
+      "gloss": "e rive"
+    },
+    {
+      "surface": "הַשֶּׁמֶשׁ",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "וְטָהֵר",
+      "gloss": "e vin pwòp"
+    },
+    {
+      "surface": "וְאַחַר",
+      "gloss": "apre sa"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "li manje"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הַקֳּדָשִׁים",
+      "gloss": "bagè sakre yo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לַחְמוֹ",
+      "gloss": "manje l"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "se li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:35.710179208Z",
+  "model": "glm-5.3"
+}

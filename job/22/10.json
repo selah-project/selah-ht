@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Se poutèt sa pyèj yo toutotou ou, e pè koup ap deranje ou souden.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "se"
+    },
+    {
+      "surface": "כן",
+      "gloss": "poutèt sa"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "toutotou ou"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "pyèj yo"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "e ap deranje ou"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pè koup"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "souden"
+    }
+  ],
+  "timestamp": "2026-09-02T20:37:42.230670546Z",
+  "model": "glm-5.3"
+}

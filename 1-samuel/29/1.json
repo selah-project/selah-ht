@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi Filistinyen an reyini ⟨את⟩ tout kan yo nan Afek, epi Yisrayèl kanpe bò kote yon fontèn ki nan Yizreèl.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistinyen an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout kan yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kan yo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "nan Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "epi Yisrayèl"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "bò kote yon fontèn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "nan Yizreèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:56.137929643Z",
+  "model": "glm-5.3"
+}

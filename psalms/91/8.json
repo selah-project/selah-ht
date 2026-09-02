@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Sèlman ak zye ⟨ou⟩ w ap gade, e w ap wè peman moun k'ap fè mal yo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ak zye ou"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "w ap gade"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "e peman"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun k'ap fè mal yo"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "w ap wè"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:15.409603763Z",
+  "model": "glm-5.3"
+}

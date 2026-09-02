@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Papa w te fè ⟨את⟩ jouk nou an vin dur; kounye a, ou menm, alejye sèvis di a papa w te mete sou nou a, ak jouk lou a li te mete sou nou, e n ap sèvi ou.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "fè vin dur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouk nou an"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "jouk nou an"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ou"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "alejye"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "sèvis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "di"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ak jouk"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "lou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "te mete"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    }
+  ],
+  "timestamp": "2026-09-02T18:02:05.217009190Z",
+  "model": "glm-5.3"
+}

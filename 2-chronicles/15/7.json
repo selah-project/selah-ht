@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi nou menm, kanpe fèm, epi pa kite men nou yo fleksi, paske genyen ⟨yon⟩ paye pou travay nou yo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Epi nou menm"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "kanpe fèm"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "epi pa kite"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "fleksi"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "men nou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יש",
+      "gloss": "genyen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "paye"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "pou travay nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:30:11.555523388Z",
+  "model": "glm-5.3"
+}

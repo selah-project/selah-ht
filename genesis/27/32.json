@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi Yitshak, papa l, di l: Èske ou ye? L reponn: Se mwen, pitit ou, premye pitit ou a, Esav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "יִצְחָק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "kìtès"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "בִּנְךָ",
+      "gloss": "pitit ou"
+    },
+    {
+      "surface": "בְּכֹרְךָ",
+      "gloss": "premye pitit ou"
+    },
+    {
+      "surface": "עֵשָׂו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-02T22:17:49.403816842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Se konsa l tounen ⟨את⟩ avè l, li manje pen nan kay li, epi li bwè dlo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "l tounen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ avè l",
+      "marks": "nonm Bondye a (sijè enplike)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "li manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nan kay li"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "epi li bwè"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:36.394014460Z",
+  "model": "glm-5.3"
+}

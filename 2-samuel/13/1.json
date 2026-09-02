@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 13:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Apre sa, Avchalòm, pitit David, te gen yon sè bèl, e non li te Tamar; e Amnòn, pitit David, te renmen li.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "te fèt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ולאבשלום",
+      "gloss": "Avchalòm te gen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "yon sè"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "e non li"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "ויאהבה",
+      "gloss": "e ... te renmen"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnòn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:46:07.840592973Z",
+  "model": "glm-5.3"
+}

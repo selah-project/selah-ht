@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Li bati mi toutotou mwen, pou m pa ka soti; li fè chèn mwen vin lou.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Li bati mi"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "toutotou mwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pou m pa"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ka soti"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "li fè vin lou"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "chèn mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:47:39.691835030Z",
+  "model": "glm-5.3"
+}

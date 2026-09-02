@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Moun ki kenbe bouch li kenbe lavi l; moun ki louvri ⟨twòp⟩ lèv li — ravin pou li.",
+  "tokens": [
+    {
+      "surface": "נֹצֵ֣ר",
+      "gloss": "ki kenbe"
+    },
+    {
+      "surface": "פִּ֭יו",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "שֹׁמֵ֣ר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "נַפְשׁ֑וֹ",
+      "gloss": "lavi l"
+    },
+    {
+      "surface": "פֹּשֵׂ֥ק",
+      "gloss": "ki louvri"
+    },
+    {
+      "surface": "שְׂ֝פָתָ֗יו",
+      "gloss": "lèv li"
+    },
+    {
+      "surface": "מְחִתָּ֥ה",
+      "gloss": "ravin"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:21.897379444Z",
+  "model": "glm-5.3"
+}

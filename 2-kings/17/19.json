@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Menm Yehouda pa gade ⟨את⟩ kòmandman Yawe Elohim pa yo, e yo mache nan lwa Yisrayèl yo te fè a.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim pa yo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e yo mache"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "nan lwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "te fè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:45.428127984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi se yo menm te chèf souveyan yo ki te pou wa Chelomo a — de san senkant — k ap gide pèp la.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Epi se yo menm"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "souveyan yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "de san"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "k ap gide"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:05.597809129Z",
+  "model": "glm-5.3"
+}

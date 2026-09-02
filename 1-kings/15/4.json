@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Men, pou Avraham—pou David, Yawe, Elohim li a, ba li yon limyè nan Yerouchalayim, pou l lese pitit gason l kanpe aprè l, e pou l kenbe Yerouchalayim debou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim li"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "yon limyè"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "pou l kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason l"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "apre l"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "e pou l kenbe debou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:39.379520895Z",
+  "model": "glm-5.3"
+}

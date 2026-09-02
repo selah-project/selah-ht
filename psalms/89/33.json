@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Epi m ap vizite revòlt yo ak baton an, ak fay yo ak koup.",
+  "tokens": [
+    {
+      "surface": "ופפקדתי",
+      "gloss": "epi m ap vizite"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ak baton an"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "revòlt yo"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "ak koup"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "fay yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:18.255513241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 1:28",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E l te pase, lè Izrayèl vin fò, yo mete ⟨את⟩ Kenaanit la nan tribi; men pouse soti — yo pa pouse l soti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "l te pase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "vin fò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanit la"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanit la"
+    },
+    {
+      "surface": "למס",
+      "gloss": "nan tribi"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "pouse soti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "pouse l soti"
+    }
+  ],
+  "timestamp": "2026-09-02T17:12:26.134205704Z",
+  "model": "glm-5.3"
+}

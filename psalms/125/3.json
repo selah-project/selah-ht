@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 125,
+  "translation": "Paske baton mechansèt la pa kay repoze sou lo moun ki annou jis yo, pou moun ki annou jis yo pa voye men yo nan move bagay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "kay repoze"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "baton"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mechansèt la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lo"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "moun ki annou jis yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "vaye"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "moun ki annou jis yo"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "nan move bagay"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "men yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:48.531353926Z",
+  "model": "glm-5.3"
+}

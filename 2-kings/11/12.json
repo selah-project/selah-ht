@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi l fè soti ⟨את⟩ pitit gason wa a, epi l mete sou li ⟨את⟩ kouwòn nan ak ⟨את⟩ temwayaj la, epi yo fè l wa, epi yo mete lwil sou li, epi yo frape men, epi yo di: Viv wa a!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason wa a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kouwòn nan"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "kouwòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "temwayaj la"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "temwayaj"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "fè wa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "mete lwil sou li"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "frape"
+    },
+    {
+      "surface": "כף",
+      "gloss": "men"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Viv"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:47.506952171Z",
+  "model": "glm-5.3"
+}

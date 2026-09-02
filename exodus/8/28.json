@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E Paro fè kè l ⟨את⟩ vin lou menm nan fwa sa a, e li pa lage ⟨את⟩ pèp la ale.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "E fè vin lou"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè l"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "nan fwa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lage ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:11.393104491Z",
+  "model": "glm-5.3"
+}

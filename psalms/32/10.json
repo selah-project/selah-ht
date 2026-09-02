@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Anpil doulè pou mechan an, men moun ki mete konfyans li nan Yawe, hesed ap antoure l.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Anpil"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "doulè"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "pou mechan an"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "men moun ki mete konfyans li"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ap antoure l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:28.997022586Z",
+  "model": "glm-5.3"
+}

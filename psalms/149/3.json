@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 149,
+  "translation": "Fè lwanj Non l nan dans, ak tanbouren ak lira chante lwanj pou l.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Fè lwanj"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Non l"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "nan dans"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ak tanbouren"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ak lira"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "chante lwanj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:00.026541844Z",
+  "model": "glm-5.3"
+}

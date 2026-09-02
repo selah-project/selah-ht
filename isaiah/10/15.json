@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Èske zach la ap fè granvan sou moun ki koupe ak li? Èske ryè a ap fè tèt gwo sou moun ki sekoue l? Se tankou baton an ap sakadife moun ki leve l, e ⟨את⟩ moun ki leve l yo, se tankou baton la ap leve yon bagay ki pa bwa!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "ap fè granvan"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "zach la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "moun ki koupe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Èske"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "ap fè tèt gwo"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "ryè a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "moun ki sekoue l"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "se tankou ... ap sakadife"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "baton an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "moun ki leve l yo"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "moun ki leve l yo"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "se tankou ... ap leve"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "baton la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bwa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:09.453932557Z",
+  "model": "glm-5.3"
+}

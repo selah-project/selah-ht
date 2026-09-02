@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Lapri devan l ap mache, epi l ap boule toutou enmi l yo.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "lapri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "epi l ap boule"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutou"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "enmi l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:42.976799901Z",
+  "model": "glm-5.3"
+}

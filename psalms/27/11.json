@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Anseye m chemen w, Yawe, epi gide m nan yon chemen dwat, a koz enmi m yo.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Anseye m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "chemen w"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "epi gide m"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "nan yon chemen"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "למען",
+      "gloss": "a koz"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "enmi m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:06.555238342Z",
+  "model": "glm-5.3"
+}

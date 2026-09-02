@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Pawòl moun saj yo tande nan kalm, plis pase je ⟨yon⟩ chèf nan mitan moun sòt yo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Pawòl"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "moun saj yo"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "nan kalm"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "tande"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "plis pase je"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "nan mitan moun sòt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:16.161299519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E m bay lòd ⟨את⟩ jij nou yo nan tan sa a, pou m di: Koute ant frè nou yo, e nou dwe jije jistis ant yon moun ak frè l, ak etranje ki avè l.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "E m bay lòd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jij nou yo"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "jij nou yo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou m di"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frè nou yo"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "e nou dwe jije"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "etranje ki avè l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:20.634843904Z",
+  "model": "glm-5.3"
+}

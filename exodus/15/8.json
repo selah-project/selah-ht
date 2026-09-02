@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Ak souf ki soti nan nenn ou, dlo yo anpile; kouran yo kanpe menm jan ak yon baraj; gouf yo fige nan kè lanmè a.",
+  "tokens": [
+    {
+      "surface": "וּבְרוּחַ",
+      "gloss": "ak souf"
+    },
+    {
+      "surface": "אַפֶּיךָ",
+      "gloss": "nenn ou"
+    },
+    {
+      "surface": "נֶעֶרְמוּ",
+      "gloss": "anpile"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "נִצְּבוּ",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "menm jan ak"
+    },
+    {
+      "surface": "נֵד",
+      "gloss": "yon baraj"
+    },
+    {
+      "surface": "נֹזְלִים",
+      "gloss": "kouran yo"
+    },
+    {
+      "surface": "קָפְאוּ",
+      "gloss": "fige"
+    },
+    {
+      "surface": "תְּהֹמֹת",
+      "gloss": "gouf yo"
+    },
+    {
+      "surface": "בְּלֶב",
+      "gloss": "nan kè"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "lanmè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:31.877156375Z",
+  "model": "glm-5.3"
+}

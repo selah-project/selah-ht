@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi David frape ⟨את⟩ Hadadezer pitit Rekhov, wa Tsova, lè l mache pou retounen men l nan larivyè a.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "lè l mache"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "pou retounen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "nan larivyè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:43:34.742674987Z",
+  "model": "glm-5.3"
+}

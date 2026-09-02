@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Konsa m ap beni ou nan lavi m; nan non ou m ap leve de menm.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "m ap beni ou"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "nan lavi m"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nan non ou"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "m ap leve"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "de menm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:06.942507859Z",
+  "model": "glm-5.3"
+}

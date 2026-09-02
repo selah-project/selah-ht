@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "e annou tounen ⟨את⟩ sandwal Elohim nou an ban nou, paske nou pa chèche l nan jou Chaoul yo.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "annou tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandwal Elohim nou an"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandwal"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ban nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "chèche l"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:05:22.122400573Z",
+  "model": "glm-5.3"
+}

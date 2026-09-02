@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zechariah 14:19",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Sa a pral se pin Mitsrayim, epi pin tout nasyon yo ki pa moute pou fè ⟨את⟩ fèt kabàn yo.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "pral se"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "pin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "epi pin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "moute"
+    },
+    {
+      "surface": "לחג",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fèt la"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "kabàn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:48:41.019135159Z",
+  "model": "glm-5.3"
+}

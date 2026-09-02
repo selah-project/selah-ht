@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Li kanpe, li ale, e Yehonatan rantre nan vil la.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rantre"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:26.573728314Z",
+  "model": "glm-5.3"
+}

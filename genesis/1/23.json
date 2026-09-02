@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lè swa rive, lè maten rive — senkyèm jou a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lè … rive"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "swa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lè … rive"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "senkyèm"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:01.488478729Z",
+  "model": "glm-5.3"
+}

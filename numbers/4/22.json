@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pran ⟨את⟩ tèt pitit yo Gearchon tou, yo menm, selon kay papa yo, selon fanmi yo.",
+  "tokens": [
+    {
+      "surface": "נשׂא",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt pitit yo Gearchon"
+    },
+    {
+      "surface": "ראשׁ",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "גּרְשׁוֹן",
+      "gloss": "Gearchon"
+    },
+    {
+      "surface": "גּם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "הֵם",
+      "gloss": "yo menm"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "seglon kay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "למשׁפּחתם",
+      "gloss": "seglon fanmi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:22.366151059Z",
+  "model": "glm-5.3"
+}

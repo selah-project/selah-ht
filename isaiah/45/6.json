@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Pou yo konnen, depi kote solèy levan jouk kote l kouche, ke pa gen anyen deyò mwen; se mwen Yawe, e pa gen ⟨lòt⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yo konnen"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "depi kote solèy levan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solèy"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "jouk kote l kouche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "pa gen anyen"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "deyò mwen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lòt"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:41.319032911Z",
+  "model": "glm-5.3"
+}

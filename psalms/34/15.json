@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Vire do ou sou mal, fè sa ki bon, chèche chalom, ak kouri dèyè l.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Vire do ou sou"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ak fè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sa ki bon"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "chalom"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ak kouri dèyè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:33.501503252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Epi Yawe beni ⟨את⟩ dènye pati Iyov plis pase kòmansman l; e li genyen katòz mil mouton, sis mil chamo, mil pè bèf, e mil bourik fimèl.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dènye pati Iyov"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dènye pati"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "plis pase kòmansman l"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e li genyen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "katòz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "ak sis"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "chamo"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ak mil"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "pè"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ak mil"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "bourik fimèl"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:53.045435665Z",
+  "model": "glm-5.3"
+}

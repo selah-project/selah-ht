@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Yawe sonje nou; li beni, li beni ⟨את⟩ kay Yisrael, li beni ⟨את⟩ kay Aharòn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "sonje nou"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "li beni"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "li beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "li beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Aharòn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:32.238415438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi Yirmeyahou te ap antre ak soti nan mitan pèp la, paske yo pa t mete l ⟨את⟩ nan prizon ⟨la⟩.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Epi Yirmeyahou"
+    },
+    {
+      "surface": "בא",
+      "gloss": "te ap antre"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ak soti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "paske ... pa"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "yo t mete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "nan prizon an"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan prizon"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "⟨la⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T21:56:35.799626049Z",
+  "model": "glm-5.3"
+}

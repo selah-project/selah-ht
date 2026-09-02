@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Si mwen te peye moun k te an lanpè ak mwen ak mal, e si mwen te depeye advèsè m pou pyen rezon,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "mwen te peye"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "moun k te an lanpè ak mwen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "e si mwen te depeye"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "advèsè m"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "pou pyen rezon"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:55.073550274Z",
+  "model": "glm-5.3"
+}

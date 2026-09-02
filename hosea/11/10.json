@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Yo ap mache dèyè Yawe; l ap rwaye kòm yon lyon — paske se li k ap rwaye, e pitit yo ap tremble soti nan lwès.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kòm yon lyon"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ap rwaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "k ap rwaye"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "e ap tremble"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "soti nan lwès"
+    }
+  ],
+  "timestamp": "2026-09-02T19:33:49.800431386Z",
+  "model": "glm-5.3"
+}

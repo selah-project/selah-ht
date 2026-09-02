@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "E menm, li savan: l ap pote mal, e ⟨את⟩ pawòl li yo p ap janm retire; l ap kanpe kont kay moun k ap fè mal yo, e kont èd moun k ap travay nyèt.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "savan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ap pote"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl li yo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "pawòl li yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "retire"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "moun k ap fè mal"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e kont"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "èd"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun k ap travay"
+    },
+    {
+      "surface": "און",
+      "gloss": "nyèt"
+    }
+  ],
+  "timestamp": "2026-09-02T18:33:09.952669739Z",
+  "model": "glm-5.3"
+}

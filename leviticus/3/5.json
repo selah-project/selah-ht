@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi pitit Aharòn yo ap fè l fimen ⟨את⟩ sou lotèl la, sou l ofra ki boule a, ki sou bwa yo, ki sou dife a — ofra dife, yon odè ki repoze, pou Yawe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ap fè fimen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (ofra a — pitit Aharòn fè l fimen)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sou lotèl la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l ofra ki boule a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "bwa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dife a"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofra dife"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "odè"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ki repoze"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:17.500247118Z",
+  "model": "glm-5.3"
+}

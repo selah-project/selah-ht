@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi yo dwe kenbe ⟨את⟩ gad mwen an, pou yo pa pote fòt sou li ni pou yo mouri nan li, paske yo pwofane l; se mwen Yawe ki konsekre yo.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "epi yo kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gad mwen an"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "gad mwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pou... pa"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "fòt"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "epi yo mouri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "yo pwofane l"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ki konsekre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:49.084620885Z",
+  "model": "glm-5.3"
+}

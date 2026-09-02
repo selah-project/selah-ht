@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Nan jou sa a Yisrael ap ye twazyèm pou Mitsrayim e pou Achour — yon benedisyon nan mitan tè a.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "twazyèm"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "pou Mitsrayim"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "e pou Achour"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "yon benedisyon"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:38.065940636Z",
+  "model": "glm-5.3"
+}

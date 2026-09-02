@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 3:27",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E pou Kehat: fanmi Amrami yo, fanmi Yitshari yo, fanmi Khevroni yo, fanmi Uzieli yo — se yo menm fanmi Kehatit yo.",
+  "tokens": [
+    {
+      "surface": "ולקהת",
+      "gloss": "E pou Kehat"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "העמרמי",
+      "gloss": "Amrami yo"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ak fanmi"
+    },
+    {
+      "surface": "היצהרי",
+      "gloss": "Yitshari yo"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ak fanmi"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "Khevroni yo"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ak fanmi"
+    },
+    {
+      "surface": "העזיאלי",
+      "gloss": "Uzieli yo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "se yo menm"
+    },
+    {
+      "surface": "הם",
+      "gloss": "se yo menm"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehatit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:54.500028514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Mo Yawe yo se mo pir, tankou ajan ki ra nan yon founo sou tè a, ki rafinen sèt fwa.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "mo"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "pir"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "ki ra"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "nan yon founo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "ki rafinen"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sèt fwa"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:57.096215993Z",
+  "model": "glm-5.3"
+}

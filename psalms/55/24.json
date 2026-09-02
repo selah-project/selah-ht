@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Men ou, Elohim, ou ap desann yo nan fon touvra rouin nan; moun san ak moun twòp pa ap rive nan mwatye jou yo — e men mwen, m ap mete konfyans m ⟨nan⟩ ou.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "ou ap desann yo"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "nan fon touvra"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "rouin nan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ak moun twòp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "ap rive nan mwatye"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e men mwen"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "m ap mete konfyans m"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨nan⟩ ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:15.796163253Z",
+  "model": "glm-5.3"
+}

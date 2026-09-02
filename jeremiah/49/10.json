@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Paske se mwen ki debalè ⟨את⟩ Esav, se mwen ki dekouvri ⟨את⟩ kache pa l yo, e li pa kapab kache l ankò: yo pilaje desandan l yo, ak frè l yo, ak vwazin l yo — e pa gen l ankò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "debalè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "dekouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kache pa l yo"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "kache pa l yo"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "kache (tèt li)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yo pilaje"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "desandan l yo"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ak frè l yo"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "ak vwazin l yo"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "e pa gen l ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T19:08:00.012262682Z",
+  "model": "glm-5.3"
+}

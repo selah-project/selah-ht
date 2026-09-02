@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 129,
+  "translation": "Anpil fwa yo tirese m depi jènès m; men yo pa t kapab ⟨genyen⟩ sou m.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "anpil fwa"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "yo tirese m"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "depi jènès m"
+    },
+    {
+      "surface": "גם",
+      "gloss": "men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sou m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:01.583533862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E m ap voye ⟨את⟩ gèpye a devan ou, e l ap chasse ⟨את⟩ Hivi yo, ⟨את⟩ Kenaàn yo ak ⟨את⟩ Het yo devan ou.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "e m ap voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gèpye a"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "gèpye a"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "e l ap chasse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hivi yo"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivi yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaàn yo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaàn yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Het yo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Het yo"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "devan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:38.780964708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lè li fin sevre ⟨את⟩ Lo-Rouchama, li ansent e li fè yon gason.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "epi li fin sevre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Rouchama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rouchama"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "epi li ansent"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "epi li fè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yon gason"
+    }
+  ],
+  "timestamp": "2026-09-02T19:33:01.715132075Z",
+  "model": "glm-5.3"
+}

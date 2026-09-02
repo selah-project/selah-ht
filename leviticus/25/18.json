@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Fè ⟨את⟩ lwa mwen yo, epi ⟨את⟩ jijman mwen yo nou dwe kenbe, epi fè yo; epi nou ap rete sou tè a an sekirite.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwa mwen yo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "lwa mwen yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "jijman mwen yo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman mwen yo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "epi nou ap rete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "an sekirite"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:25.573018417Z",
+  "model": "glm-5.3"
+}

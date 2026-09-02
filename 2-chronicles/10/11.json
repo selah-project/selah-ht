@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E kounye a, papa m chaje nou ak yon jouk lou, e men m, m ap ajoute sou jouk nou an: papa m disipline ⟨את⟩ nou avè fwèt, e men m, avè eskòpyon.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "chaje"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "על",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lou"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e men m"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ap ajoute"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jouk nou an"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "disipline"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou (avè fwèt)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "avè fwèt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e men m"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "avè eskòpyon"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:55.270017336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Yo di nan kè yo: «Ann dechire yo ansanm!» Yo boule tout kote reyinyon El nan peyi a.",
+  "tokens": [
+    {
+      "surface": "אָמְר֣וּ",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "בְ֭לִבָּם",
+      "gloss": "nan kè yo"
+    },
+    {
+      "surface": "נִינָ֣ם",
+      "gloss": "ann dechire yo"
+    },
+    {
+      "surface": "יָ֑חַד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "שָׂרְפ֖וּ",
+      "gloss": "yo boule"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מוֹעֲדֵי",
+      "gloss": "kote reyinyon"
+    },
+    {
+      "surface": "אֵ֣ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "nan peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:22.469850520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Adònay Yawe ban m lang moun ki gen ansèyman, pou m konnen kijan pou m ⟨soutien⟩ moun ki fatige avèk ⟨את⟩ yon pawòl. Li reveye — ap maten, ap maten — li reveye zòrèy m pou m tande tankou moun ki gen ansèyman.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lang"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "moun ki gen ansèyman"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pou m konnen"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "kijan pou m ⟨soutien⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki fatige"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "fatige"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "li reveye"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ap maten"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ap maten"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "li reveye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "zòrèy"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pou m tande"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "tankou moun ki gen ansèyman"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:05.244639187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Yawe desann sou mòn Sinay, jouk tèt mòn an; Yawe rele Moche, jouk tèt mòn an; e Moche monte.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn an"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "pou Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn an"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:17.545874872Z",
+  "model": "glm-5.3"
+}

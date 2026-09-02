@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "epi tout moun ame nan mitan nou pral pase ⟨את⟩ Yarden an devan Yawe, jouk li fin depossede ⟨את⟩ ennemi l yo devan l.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "epi pral pase"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "moun ame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden an"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "li fin depossede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ennemi l yo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ennemi l yo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "devan l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:38.298548763Z",
+  "model": "glm-5.3"
+}

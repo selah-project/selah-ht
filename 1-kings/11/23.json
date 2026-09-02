@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E Elohim leve pou ⟨li⟩ yon adversè, ⟨את⟩ Rezon, pitit Elyada, ki te kouri kite nan men ⟨את⟩ Hadadezer, wa Tsova, mèt li.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E Elohim leve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou ⟨li⟩"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "adversè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kouri kite"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nan men ⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mèt li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:38.783296668Z",
+  "model": "glm-5.3"
+}

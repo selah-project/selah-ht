@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E l te pase, lè Paro voye ⟨את⟩ pèp la ale, Elohim pa mennen yo nan chemen peyi Filistyen yo, byenke l pre, paske Elohim di: Se pou pèp la pa fin gen regret lè yo wè lagè, epi yo tounen ann alo nan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "te pase"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "lè (Paro) voye ale"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "byenke"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "pre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "se pou... pa"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "gen regret"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "lè yo wè"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "tounen ann alo"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "nan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:31.825638666Z",
+  "model": "glm-5.3"
+}

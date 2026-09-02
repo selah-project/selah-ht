@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 61,
+  "translation": "Etranje yo ap kanpe epi ap fè pätire mouton nou yo; pitit etranje yo ap fè kiltivatè nou yo ak plantè rezen nou yo.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "etranje yo"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ap fè pätire"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "mouton nou yo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "kiltivatè nou yo"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "plantè rezen nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:44:12.449462329Z",
+  "model": "glm-5.3"
+}

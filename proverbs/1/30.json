@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yo pa vle konsèy mwen an, yo meprize tout koreksyon mwen an.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "yo vle"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "konsèy mwen"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "yo meprize"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "koreksyon mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:02.801852776Z",
+  "model": "glm-5.3"
+}

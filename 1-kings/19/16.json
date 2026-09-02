@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Ak ⟨את⟩ Yehou, pitit Nimchi, ou pou chwèyen kòm wa sou Yisrayèl; ak ⟨את⟩ Elicha, pitit Chafat, ki soti nan Avel-Mekholah, ou pou chwèyen kòm pwofèt nan plas ou.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ak ⟨את⟩",
+      "marks": "Yehou"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimchi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ou pou chwèyen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kòm wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Ak ⟨את⟩",
+      "marks": "Elicha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Chafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "ki soti nan Avel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mekholah"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ou pou chwèyen"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "kòm pwofèt"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "nan plas ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:33.261484401Z",
+  "model": "glm-5.3"
+}

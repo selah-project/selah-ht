@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim fè byen pou fanm ki fè aksouchaj yo, epe pèp la miltipliye, epi yo vin anpil fò anpil.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "fè byen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "pou fanm ki fè aksouchaj yo"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "epi miltipliye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "epi yo vin fò"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:57.108270899Z",
+  "model": "glm-5.3"
+}

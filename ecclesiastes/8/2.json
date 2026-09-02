@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Mwen ⟨di⟩: kenbe bouch wa a, e sa, sou kont sèman Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sou kont"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "rezon"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "sèman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:57.366690699Z",
+  "model": "glm-5.3"
+}

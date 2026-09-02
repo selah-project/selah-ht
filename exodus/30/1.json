@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epou ou fè yon lotèl pou fimen answans; nan bwa chatim ou fè ⟨את⟩ l.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Epou ou fè"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "yon lotèl"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "pou femen"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "answans"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nan bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chatim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (lotèl la)"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:04.939117497Z",
+  "model": "glm-5.3"
+}

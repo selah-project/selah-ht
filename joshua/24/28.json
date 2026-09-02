@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi Yehochoua voye ⟨את⟩ pèp la ale, chak moun ale nan eritaj li.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "epi voye ale"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "nan eritaj li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:04.839256029Z",
+  "model": "glm-5.3"
+}

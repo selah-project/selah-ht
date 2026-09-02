@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Pou chèf mizisyen an, sou ⟨Machalat⟩ — yon pwezi enstriktif — David fè l.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "⟨Machalat⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pwezi enstriktif"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David fè l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:20.188736575Z",
+  "model": "glm-5.3"
+}

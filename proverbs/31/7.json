@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Li bwè, epi li bliye povrete l, epi pè a li pa sonje ankò.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "Li bwè"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "epi li bliye"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "povrete l"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "epi pè a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "li sonje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:35.379151090Z",
+  "model": "glm-5.3"
+}

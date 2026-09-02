@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Moche desann soti nan mòn nan bò pèp la, e li konsakre ⟨את⟩ pèp la, e yo lave rad yo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn nan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "lave"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "rad yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:15.653026652Z",
+  "model": "glm-5.3"
+}

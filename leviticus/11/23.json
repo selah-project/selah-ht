@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Men tout lòt bèt k ap ronpe k ap vole ki gen kat pye — yon bagay k ap fè nou kò nan se pou nou pa touche l.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "men tout"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "bèt k ap ronpe"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "k ap vole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki gen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gen"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "pye"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "bagay k ap fè nou kò"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:28.930195524Z",
+  "model": "glm-5.3"
+}

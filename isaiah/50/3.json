@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Mwen abiye syèl yo ak nwa, e m mete sak kòm kouvèti yo.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Mwen abiye"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "e sak"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "m mete"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "kouvèti yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:05.244471974Z",
+  "model": "glm-5.3"
+}

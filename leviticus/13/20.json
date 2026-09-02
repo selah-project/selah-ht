@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 13:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi prèt la gade, e menm, aparans li pi ba pase pé a, e cheve l chanje an blan; epi prèt la deklare l enpòte: yon maladi tsaraat li ye — li pouse deyò nan anflamasyon an.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "aparans li"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "pi ba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pase"
+    },
+    {
+      "surface": "העור",
+      "gloss": "pé a"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "epi cheve l"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "chanje"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "an blan"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "epi deklare l enpòte"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "maladi"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "nan anflamasyon an"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "li pouse deyò"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:52.441641408Z",
+  "model": "glm-5.3"
+}

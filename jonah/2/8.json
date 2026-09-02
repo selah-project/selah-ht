@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Lè nanm mwen ap pèdi fòs sou mwen, mwen sonje ⟨את⟩ Yawe; epi lapriyè mwen vin nan direksyon ou, nan tanp sen ou.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ap pèdi fòs"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "mwen sonje"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "epi ... vin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nan direksyon ou"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lapriyè mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tanp"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sen ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:09.207384423Z",
+  "model": "glm-5.3"
+}

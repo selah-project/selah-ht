@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Montay wo yo se pou kabrit sovaj yo; wòch yo se abri pou daman yo.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Montay"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "wo yo"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "pou kabrit sovaj yo"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "wòch yo"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "abri"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "pou daman yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:30.437345619Z",
+  "model": "glm-5.3"
+}

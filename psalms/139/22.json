@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Ak yon rayi ki fin ranpli mwen rayi yo; yo vin enmi pou mwen.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "ki fin ranpli"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "rayi"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "mwen rayi yo"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "enmi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yo vin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:52.467589242Z",
+  "model": "glm-5.3"
+}

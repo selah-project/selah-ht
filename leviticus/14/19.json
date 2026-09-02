@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi kòt la ap fè ⟨את⟩ ofrann pou peche a, epi fè ekspiyasyon pou moun k ap fè purifikasyon an de salte li, epi aprè l ap touye ⟨את⟩ ofrann boule a.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Epi fè"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann pou peche a"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofrann pou peche a"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "epi fè ekspiyasyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "moun k ap fè purifikasyon"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "de salte li"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "epi aprè"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ap touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann boule a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrann boule a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:30.978645890Z",
+  "model": "glm-5.3"
+}

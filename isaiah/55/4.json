@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Gade, mwen bay li kòm temwen pou nasyon yo, chèf ak kòmandan pou pèp yo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "gade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "temwen"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "pou nasyon yo"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "mwen bay li"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "ak kòmandan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "pou pèp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:29.867074034Z",
+  "model": "glm-5.3"
+}

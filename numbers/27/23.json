@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "E li pozeyon ⟨את⟩ de men l sou li, e li bay l lòd, jan Yawe te pale nan men Moche.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "e pozeyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de men l"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "de men l"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "e bay l lòd"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-09-02T16:35:40.678318965Z",
+  "model": "glm-5.3"
+}

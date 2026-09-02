@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Ak kòz kòlè w ak fache w, paske w fin leve m epi w jete m.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Ak kòz"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kòlè w"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "ak fache w"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "w fin leve m epi"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "w jete m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:38.724458730Z",
+  "model": "glm-5.3"
+}

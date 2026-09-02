@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 23:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Etranje ak rezidan mwen ye nan mitan nou; ban m yon posede kavo nan mitan nou, pou m ka antere mò mwen an ki devan m.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Etranje"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "ak rezidan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen ye"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "yon posede",
+      "marks": "posede kavo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kavo"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "pou m ka antere"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mò mwen an"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ki devan m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.582927837Z",
+  "model": "glm-5.3"
+}

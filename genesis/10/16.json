@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "ak ⟨את⟩ Yevousi yo, ak ⟨את⟩ Emori yo, ak ⟨את⟩ Girgachi yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yevousi yo"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevousi yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Emori yo"
+    },
+    {
+      "surface": "האמורי",
+      "gloss": "Emori yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Girgachi yo"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgachi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:24.134343265Z",
+  "model": "glm-5.3"
+}

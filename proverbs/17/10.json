@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Yon repwòch ap rantre pi fon nan moun ki gen konpreansyon pase san koup ap rantre ⟨nan⟩ yon sòt.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ap rantre"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "yon repwòch"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "nan moun ki gen konpreansyon"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "koup"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:44.883503891Z",
+  "model": "glm-5.3"
+}

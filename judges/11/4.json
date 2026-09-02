@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E rive, apre jou, e pitit Amon yo fè lagè ak Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E rive"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "apre jou"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "e ... fè lagè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:19:27.218143635Z",
+  "model": "glm-5.3"
+}

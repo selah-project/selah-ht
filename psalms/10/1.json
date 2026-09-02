@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Poukisa Yawe kanpe lwen? Poukisa ou kache nan tan detres yo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "lwen"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "kache"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "detres"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:04.498864348Z",
+  "model": "glm-5.3"
+}

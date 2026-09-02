@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 123,
+  "translation": "Chante montechwa yo. Sou ou m leve ⟨את⟩ je m, ou ki chita nan syèl yo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "chante"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "montechwa yo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je m"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ou ki chita"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nan syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:11.717335254Z",
+  "model": "glm-5.3"
+}

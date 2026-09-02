@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ecclesiastes 7:26",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E mwen jwenn pli amè pase lanmò ⟨את⟩ fanm lan ki se fè ak rezè, kè l se rez, menm lye se chenn; moun ki byen devan HaElohim ap chape devan l, men pechè a pran nan li.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "E mwen jwenn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pli amè"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "pase lanmò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm lan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm lan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "fè"
+    },
+    {
+      "surface": "וחרמים",
+      "gloss": "ak rezè"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "chenn"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "menm l"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moun ki byen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ap chape"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "men pechè a"
+    },
+    {
+      "surface": "ילכד",
+      "gloss": "pran"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:49.640057737Z",
+  "model": "glm-5.3"
+}

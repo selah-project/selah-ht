@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E kounye a, o Yawe, tanpri pran ⟨את⟩ nefech mwen ale sou mwen, paske lanmò mwen pi bon pase lavi mwen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Yawe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefech mwen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ale sou mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pi bon"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "lanmò mwen"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "pase lavi mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:25.266252454Z",
+  "model": "glm-5.3"
+}

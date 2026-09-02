@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Chemouèl pale ak pèp la ⟨את⟩ jistis wayòm la, epi l ekri l nan liv la, epi l depoze l devan Yawe; epi Chemouèl voye ⟨את⟩ tout pèp la ale, chak moun lakay li.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jistis wayòm la"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "wayòm la"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "epi l ekri"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nan liv la"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "epi l depoze"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "epi voye"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pèp la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "lakay li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:27:45.949801274Z",
+  "model": "glm-5.3"
+}

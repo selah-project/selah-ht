@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi Ich-bochet voye chèche, e yo pran l nan men nonm nan — nan men Paltiyèl, pitit gason Layich.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Epi ... voye chèche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ich-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "bochet"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "e yo pran l"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm nan"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltiyèl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Layich"
+    }
+  ],
+  "timestamp": "2026-09-02T17:40:20.004757814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Moun ki renmen rebelyon renmen dispit; moun ki monte pòtay li wo chèche rwin.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rebelyon"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "dispit"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "monte wo"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "pòtay li"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "rwin"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:46.317477639Z",
+  "model": "glm-5.3"
+}

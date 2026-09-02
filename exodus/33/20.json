@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E l di: Ou pa ka wè ⟨את⟩ figi m; paske moun pa ka wè m e rete vivan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi m"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "wè m"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "e rete vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:46.273654754Z",
+  "model": "glm-5.3"
+}

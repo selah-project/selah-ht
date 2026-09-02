@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Lè sa a, nonm lan vin gran, e li kontinye ale lwen, ap gran pi gran, jiskaske li vin gran anpil.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "vin gran"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm lan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "li kontinye ale"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ale lwen"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ap gran pi gran"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskaske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "li vin gran"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:26.212728064Z",
+  "model": "glm-5.3"
+}

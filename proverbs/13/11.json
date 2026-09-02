@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Richès ki soti nan vid ap diminye, men moun ki ramase pa men l ap ogmante.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Richès"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ki soti nan vid"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "ap diminye"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "men moun ki ramase"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ap ogmante"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:54.735606840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 82,
+  "translation": "Jije pòv la ak òfelen an; fè jistis pou moun ki soufri a ak mizere a.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Jije"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ak òfelen an"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moun ki soufri a"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ak mizere a"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "fè jistis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:39.825624652Z",
+  "model": "glm-5.3"
+}

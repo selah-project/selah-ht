@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 20:35",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi nan maten an, Yehonatan soti ale nan chan an pou randevou ak David, ak yon ti gason avè l.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi ⟨te ye⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "epi soti"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chan an"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "pou randevou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וינער",
+      "gloss": "ak yon ti gason"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avè l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:57.863255684Z",
+  "model": "glm-5.3"
+}

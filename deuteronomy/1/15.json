@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E m pran ⟨את⟩ tèt tribi nou yo, moun savan ak moun ki konnen, e m bay ⟨את⟩ yo kòm tèt sou nou — chèf mil, chèf san, chèf senkant, chèf dis, ak ofisye, pou tribi nou yo.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "E m pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt tribi nou yo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "tribi nou yo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moun"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "savan"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "moun ki konnen"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "e m bay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "kòm tèt"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "ak ofisye"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "pou tribi nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:20.634664816Z",
+  "model": "glm-5.3"
+}

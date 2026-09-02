@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi ⟨li te ye⟩, apre lanmò Chaoul, David tounen soti nan frape ⟨את⟩ Amalek la, e David rete nan Tsiklag jou de.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi ⟨li te ye⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lanmò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "soti nan frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek la"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek la"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e rete"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "nan Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-09-02T17:41:35.527847006Z",
+  "model": "glm-5.3"
+}

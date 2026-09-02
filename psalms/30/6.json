@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Paske ⟨se⟩ yon ti moman kòlè ⟨li⟩ la, men lavi nan favè ⟨li⟩; swa a plede rete, men maten an genyen yon krikri (kantik) lajwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "yon ti moman"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "nan kòlè ⟨li⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "nan favè ⟨li⟩"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "nan aswè"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ap pase lannuit"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "plore"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "epi nan maten"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "yon kantik lajwa"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:36.109463648Z",
+  "model": "glm-5.3"
+}

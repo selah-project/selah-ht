@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Nou pral kouri dèyè ⟨את⟩ enmi nou yo, e yo pral tonbe devan nou anba kle a.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "nou pral kouri dèyè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enmi nou yo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "enmi nou yo"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "e yo pral tonbe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "anba kle"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:14.140480147Z",
+  "model": "glm-5.3"
+}

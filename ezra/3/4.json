@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yo fè ⟨את⟩ fèt Soukot yo jan ⟨sa⟩ ekri, ak lòlèt jou pa jou dapre nonb, selon règleman, sakrifis chak jou nan jou pa l.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fèt Soukot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Soukot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "jan sa ekri"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ak lòlèt"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa jou"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dapre nonb"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "selon règleman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sacrifi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "nan jou pa l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:04:20.975290852Z",
+  "model": "glm-5.3"
+}

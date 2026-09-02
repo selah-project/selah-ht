@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Paro menm rele savan yo ak sòsye yo; e yo menm, magisyen Mitsrayim yo, fè menm jan ak maji yo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "savan yo"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "ak sòsye yo"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo menm"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "magisyen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "ak maji yo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "menm jan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:12.310939725Z",
+  "model": "glm-5.3"
+}

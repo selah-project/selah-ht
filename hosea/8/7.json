@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Paske yo simen van, y ap rekòlte touriman: pa gen tij pou li — pouse san fè farin; petèt li fè farin, etranje ap vale l.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "van"
+    },
+    {
+      "surface": "יִזְרָעוּ",
+      "gloss": "yo simen"
+    },
+    {
+      "surface": "וְסוּפָתָה",
+      "gloss": "touriman"
+    },
+    {
+      "surface": "יִקְצֹרוּ",
+      "gloss": "y ap rekòlte"
+    },
+    {
+      "surface": "קָמָה",
+      "gloss": "tij"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "צֶמַח",
+      "gloss": "pouse"
+    },
+    {
+      "surface": "בְּלִי",
+      "gloss": "san"
+    },
+    {
+      "surface": "יַעֲשֶׂה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "קֶמַח",
+      "gloss": "farin"
+    },
+    {
+      "surface": "אוּלַי",
+      "gloss": "petèt"
+    },
+    {
+      "surface": "יַעֲשֶׂה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "זָרִים",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "יִבְלָעֻהוּ",
+      "gloss": "ap vale l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:55.116049366Z",
+  "model": "glm-5.3"
+}

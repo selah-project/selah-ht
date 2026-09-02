@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Koupe ⟨את⟩ li an mòso, epi vide lwil sou li — se yon ofrann li ye.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "koupe an mòso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (mòso yo)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "mòso"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "epi vide"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ofrann"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:51.486180338Z",
+  "model": "glm-5.3"
+}

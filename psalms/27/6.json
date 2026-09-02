@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "E kounye a tèt m monte anlè enmi m, moun k ap antoure m; e m fè sakrifis nan tant li — sakrifis ak krikri; m chante, e m fè mizik pou Yawe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E kounye a"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "monte"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt m"
+    },
+    {
+      "surface": "על",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enmi m"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "k ap antoure m"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "e m fè sakrifis"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "nan tant li"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "krikri"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m chante"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "e m fè mizik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:40.639291118Z",
+  "model": "glm-5.3"
+}

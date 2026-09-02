@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Pou ⟨ou⟩ mache nan chemen moun ki byen fè yo, e pou ⟨ou⟩ kenbe chemen moun jis yo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ou mache"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan chemen"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "moun ki byen fè"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "e chemen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ou kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:48.848820001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 150,
+  "translation": "Fè lwanj l ak tanbou an ak dans; fè lwanj l ak kòd yo ak flit la.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "fè lwanj l"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ak tanbou an"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "ak dans"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "fè lwanj l"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "ak kòd yo"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ak flit la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:15.481113659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi David di bay jenn gason ki te rapòte ⟨pou⟩ li a: Kouman ou konnen ke Chaoul mouri, ak Yehonatan pitit gason l?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi … di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jenn gason"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "ki te rapòte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Kouman"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ou konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ak Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:44.613396440Z",
+  "model": "glm-5.3"
+}

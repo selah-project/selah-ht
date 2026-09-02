@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Paske se pa yon enmi ki fè m wont — mwen ta poze ⟨li⟩; se pa yon moun ki rayi m ki fè tèt li gwo sou m — mwen ta kache depi ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "yon enmi"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "ki fè m wont"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ak mwen ta poze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "moun ki rayi m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ki fè tèt li gwo"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ak mwen ta kache"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "depi li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:10.439623496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Moun dwat yo gade e yo kontante, e tout mechanste fèmen bouch li.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "moun dwat yo"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "e kontante"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mechanste"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:14.552230950Z",
+  "model": "glm-5.3"
+}

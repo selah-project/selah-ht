@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "De pou w manje e w fin ravi, e w bati bel kay, e w rete ladan yo —",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "de pou"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "w manje"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "e w fin ravi"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "e ... kay"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bel"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "w bati"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "e w rete"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:27.075946357Z",
+  "model": "glm-5.3"
+}

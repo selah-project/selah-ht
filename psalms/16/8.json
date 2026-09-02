@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "M mete Yawe devan m toujou; paske li nan bò dwat m — m ap pa janm chen panche.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "M mete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "devan m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "nan bò dwat m"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa janm"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "chen panche"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:26.848915220Z",
+  "model": "glm-5.3"
+}

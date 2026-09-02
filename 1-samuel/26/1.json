@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 26:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi moun Zif yo vin jwenn Chaoul nan Givata, pou yo di: Eske David pa kache sou tègi Hakhila, sou fas Yechimon an?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "הזפים",
+      "gloss": "moun Zif yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "Givata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eske ... pa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "kache"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "sou tègi"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Hakhila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "Yechimon"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:52.930592561Z",
+  "model": "glm-5.3"
+}

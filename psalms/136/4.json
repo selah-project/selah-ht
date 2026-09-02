@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Bay moun ki sèl ⟨li⟩ fè gwo movey tan pou kont li ⟨a⟩, paske pou tout tan hesed ⟨li⟩ genyen.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Bay moun ki fè"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "movey tan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "pou kont li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:30.057928945Z",
+  "model": "glm-5.3"
+}

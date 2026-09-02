@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Si mwen pa t kwè pou m te wè byen Yawe nan peyi vivan yo…",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "Si … pa"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "mwen te kwè"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:44.295696507Z",
+  "model": "glm-5.3"
+}

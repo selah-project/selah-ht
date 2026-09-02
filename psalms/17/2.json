@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Nan devan ou jiman m an soti; zye w ap gade ⟨sa ki⟩ dwat.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Nan devan ou"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jiman m an"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "zye w"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "⟨sa ki⟩ dwat"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:05.358173482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Kotz fè ⟨את⟩ Anouv, ak ⟨את⟩ Hatsouveva, ak fanmi Acharchel pitit Haroum yo.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "E Kotz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anouv"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anouv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Hatsouveva"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Hatsouveva"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ak fanmi"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Acharchel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Haroum"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:01.468653009Z",
+  "model": "glm-5.3"
+}

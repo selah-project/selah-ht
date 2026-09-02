@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi li fè pisay ⟨את⟩ kay la ak san zwazo a, ak dlo vivan an, ak zwazo vivan an, ak bwa sedr la, ak izòp la, ak fil wouj la.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "li fè pisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay la"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "zwazo a"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vivan an"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "ak zwazo"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "vivan an"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "ak bwa"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "sedr la"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "ak izòp"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "ak fil wouj"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:28.098862813Z",
+  "model": "glm-5.3"
+}

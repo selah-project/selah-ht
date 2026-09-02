@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Fòt yo — kiyès kapab konprann ⟨yo⟩? Purifye m nan sa k kache.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "fòt yo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "nan sa k kache"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "purifye m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:19.571332614Z",
+  "model": "glm-5.3"
+}

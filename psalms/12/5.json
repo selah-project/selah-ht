@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Yo ki di yo: Nan lang nou an nou ap gen fòs; lèv nou yo ⟨את⟩ ak nou; ki moun ki se met sou nou?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "nan lang nou"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "nou ap gen fòs"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "lèv nou"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ak nou",
+      "marks": "lèv nou yo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "met"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:57.095447813Z",
+  "model": "glm-5.3"
+}

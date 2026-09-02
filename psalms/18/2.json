@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E l di: Mwen gen tandwè pou ou, Yawe, fòs mwen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E l di"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Mwen gen tandwè pou ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "fòs mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:17.656142348Z",
+  "model": "glm-5.3"
+}

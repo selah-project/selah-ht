@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E li di: pa gen vwa krial fòs, e pa gen vwa krial fèb: se vwa krial m ap tande a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "krial"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "krial"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "fèb"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "chante"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:02.875094631Z",
+  "model": "glm-5.3"
+}

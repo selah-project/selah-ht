@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi jèn gason an ale — jèn gason an, pwofèt la — ale Ramot-Gilad.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jèn gason an"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jèn gason an"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:34.204592996Z",
+  "model": "glm-5.3"
+}

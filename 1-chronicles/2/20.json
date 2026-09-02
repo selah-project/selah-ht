@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Chour pote nan mond ⟨את⟩ Ouri, e Ouri pote nan mond ⟨את⟩ Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Epi Chour"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "pote nan mond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ouri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ouri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "e Ouri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "pote nan mond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:35.752245225Z",
+  "model": "glm-5.3"
+}

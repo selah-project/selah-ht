@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi ⟨li⟩ rive nan twazyèm ane a, Yehochafat, wa Yehouda, desann kot wa Yisrayèl la.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi rive"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nan ane"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "twazyèm nan"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T22:45:30.418206978Z",
+  "model": "fable-5-hand"
+}

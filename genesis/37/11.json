@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E frè l yo vin jalou de li, men papa l te kenbe ⟨את⟩ pawòl la ⟨nan tèt li⟩.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "e vin jalou de"
+    },
+    {
+      "surface": "בו",
+      "gloss": "li"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "men papa l"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "te kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl la"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:04.205700307Z",
+  "model": "glm-5.3"
+}

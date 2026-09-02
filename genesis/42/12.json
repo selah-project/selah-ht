@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "E l di ba yo: Non, se pou wè toutouni peyi a nou vini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "toutouni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "nou vini"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou wè"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:15.590368476Z",
+  "model": "glm-5.3"
+}

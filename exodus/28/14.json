@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Ak de chèn lò pi, nan fason kòd woule ou pral fè ⟨את⟩ yo, travay tès anvole; epi ou pral mete ⟨את⟩ chèn tès anvole yo sou kadraj yo.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Ak de"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "chèn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "nan fason kòd woule"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou pral fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "chèn yo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "tès anvole"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "epi ou pral mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chèn tès anvole yo"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "chèn"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "tès anvole yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "kadraj yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:17.354374282Z",
+  "model": "glm-5.3"
+}

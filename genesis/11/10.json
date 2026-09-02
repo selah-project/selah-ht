@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Men jenerasyon Chem yo: Chem te gen san lan, lè li fè Arpakhchad, dezan apre debòd la.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Men … yo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "te gen … lan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhchad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhchad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dezan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "apre"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "debòd la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:35.498395468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Yon nonm bèt pa konnen, e yon sòt pa konprann ⟨את⟩ sa a:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "e yon sòt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa a"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:57.994438843Z",
+  "model": "glm-5.3"
+}

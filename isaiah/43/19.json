@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 43:19",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Men mwen, m ap fè yon bagay nouvo; kounye a li ap fè pouse — èske nou pa pral konnen l? Menm m ap mete wout nan dezè a, rivyè nan peyi sek sèk.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "m ap fè"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "yon bagay nouvo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "li ap fè pouse"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "èske... pa"
+    },
+    {
+      "surface": "תדעוה",
+      "gloss": "nou pral konnen l"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "m ap mete"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "wout"
+    },
+    {
+      "surface": "בישמון",
+      "gloss": "nan peyi sek sèk"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivyè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:26.130463804Z",
+  "model": "glm-5.3"
+}

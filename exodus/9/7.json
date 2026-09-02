@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi Paro voye chèche, e gade, pa mouri ni yon sèl nan bèt Yo nan peyi Izrayèl — pa gen ni yon sèl nan bèt Yisrael ki mouri — e kè Paro vin lou, e li pa voye ⟨את⟩ pèp la ale.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Epi voye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "nan bèt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "e vin lou"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:25.544487128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Van an anglete ⟨את⟩ li nan zèl li yo, epi yo ap wont poutèt zabèt yo.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "anglete"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van an"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "nan zèl li yo"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "epi yo ap wont"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "poutèt zabèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:31:37.937004343Z",
+  "model": "glm-5.3"
+}

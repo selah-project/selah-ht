@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Mwen rayi moun k ap swiv vanite k ap manti; e mwen menm, se anba Yawe mwen mete konfyans mwen.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "mwen rayi"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "moun k ap swiv"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "vanite"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "k ap manti"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e mwen menm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mwen mete konfyans mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:57.773096835Z",
+  "model": "glm-5.3"
+}

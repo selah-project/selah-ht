@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E Aviyam kouch ak zansèt li, e yo antere l nan vil David; Asa pitit gason l wayini nan plas li.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kouch"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt li"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "e yo antere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wayini"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:23.898270563Z",
+  "model": "glm-5.3"
+}

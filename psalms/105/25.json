@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li vire kè yo pou yo rayi pèp li, pou ⟨yo⟩ fè konplo kont sèvitè li yo.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "vire"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kè yo"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "pou yo rayi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "pou fè konplo"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "kont sèvitè li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:50.292019961Z",
+  "model": "glm-5.3"
+}

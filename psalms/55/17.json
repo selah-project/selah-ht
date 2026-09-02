@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Men m, nan Elohim m ap rele, e Yawe ap delivre m.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ap rele"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yawe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "ap delivre m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:10.932380621Z",
+  "model": "glm-5.3"
+}

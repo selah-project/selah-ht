@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Gran nòb nasyon yo ranmasse ansanm ⟨ak⟩ pèp Elohim Avraham yo, paske bouklie tè yo se pou Elohim — anpil ⟨li⟩ monte anwo.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "gran nòb"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ranmasse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "bouklie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè yo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "monte anwo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:10.585963722Z",
+  "model": "glm-5.3"
+}

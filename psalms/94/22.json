@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "E Yawe te vin pou mwen yon fòtè, ak Elohim mwen an yon wòch, kache mwen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e te vin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "yon fòtè"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ak Elohim mwen"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "yon wòch"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "kache mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:10.650164960Z",
+  "model": "glm-5.3"
+}

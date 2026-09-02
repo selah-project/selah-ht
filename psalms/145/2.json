@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Chak jou mwen ap beni ou, e mwen ap fè losanj non ou pou touttan, pou touttan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "chak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "mwen ap beni ou"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "e mwen ap fè losanj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e pou touttan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:31.303640865Z",
+  "model": "glm-5.3"
+}

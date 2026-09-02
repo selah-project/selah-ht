@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E David met ⟨את⟩ mo sa yo nan kè l, e l pè anpil devan Akich, wa Gat la.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "E David met"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo sa yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "nan kè l"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e l pè"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akich"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:05.542632684Z",
+  "model": "glm-5.3"
+}

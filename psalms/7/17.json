@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Pakèt mechan li an pral tounen sou tèt li a, ak fòs vyolans li a pral desann sou tèt an tèt li.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "pakèt mechan li"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sou tèt li"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "tèt an tèt li"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "vyolans li"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "desann"
+    }
+  ],
+  "timestamp": "2026-09-02T19:49:55.066468436Z",
+  "model": "glm-5.3"
+}

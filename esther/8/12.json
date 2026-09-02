@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Nan youn sèl jou, nan tout pwovens wa a Akhachveroch — nan trèzyèm jou nan douzyèm mwa a, se mwa Adar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn sèl"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "pwovens"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhachveroch"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "trèzyèm jou"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nan mwa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "douzyèm"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dèz)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    }
+  ],
+  "timestamp": "2026-09-02T20:56:59.743225868Z",
+  "model": "glm-5.3"
+}

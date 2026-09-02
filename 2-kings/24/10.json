@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Nan tan sa a, sèvitè Nevoukadnètsar, wa Bavèl la, monte sou Yerouchalayim, e lavil la rantre anba fòkdèy.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Nan tan"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevoukadnètsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavèl"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "e ... rantre"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "anba fòkdèy"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:07.041355196Z",
+  "model": "glm-5.3"
+}

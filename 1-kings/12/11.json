@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E kounye a, pandan papa m te chaje yon jouk lou sou nou, men m ap ajoute sou jouk nou an : papa m te chatwi nou avè ⟨את⟩ fwèt, men m ap chatwi ⟨את⟩ nou avè pynson.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E kounye a, pandan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "te chaje"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "על",
+      "gloss": "yon jouk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lou"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men m"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ap ajoute"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jouk nou an"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "te chatwi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "avè fwèt"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "avè fwèt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men m"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ap chatwi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "avè pynson"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "avè pynson"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:52.818816589Z",
+  "model": "glm-5.3"
+}

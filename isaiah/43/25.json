@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Se mwen, se mwen menm ki ap efase revòlt ou yo pou rezon mwen, e peche ou yo mwen pa prale sonje.",
+  "tokens": [
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "Se mwen"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "se mwen menm"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מֹחֶה",
+      "gloss": "ap efase"
+    },
+    {
+      "surface": "פְּשָׁעֶיךָ",
+      "gloss": "revòlt ou yo"
+    },
+    {
+      "surface": "לְמַעֲנִי",
+      "gloss": "pou rezon mwen"
+    },
+    {
+      "surface": "וְחַטֹּאתֶיךָ",
+      "gloss": "e peche ou yo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אֶזְכֹּר",
+      "gloss": "prale sonje"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:09.159234260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi ou pran ⟨את⟩ pitit gason ou yo ak ⟨את⟩ pitit fi ou yo, ke ou te fè pou mwen, epi ou sakrifye yo pou yo pou yo manje. Èske pwostityisyon ou an ti?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "epi ou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason ou yo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit gason ou yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit fi ou yo"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "pitit fi ou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "ou te fè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "epi ou sakrifye yo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "pou yo manje"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "Èske ... ti"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "pwostityisyon ou an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:15:45.604491078Z",
+  "model": "glm-5.3"
+}

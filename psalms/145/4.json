@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Yon jenerasyon ap fè losanj zèv ou bay yon lòt jenerasyon, e yo pibliye fòs ou yo.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "yon jenerasyon"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "bay yon lòt jenerasyon"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "ap fè losanj"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "zèv ou"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "e fòs ou yo"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "yo ap pibliye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:31.303976269Z",
+  "model": "glm-5.3"
+}

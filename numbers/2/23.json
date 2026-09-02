@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "ak lame l ak moun ki konte nan mitan yo, se trant-senk mil ak kat san.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ak lame l"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ak moun ki konte nan mitan yo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ak trant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ak kat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:21.442523779Z",
+  "model": "glm-5.3"
+}

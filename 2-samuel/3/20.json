@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Avnèr vini kay David, nan Khevron, ak ⟨את⟩ li ven gason, e David fè yon fèt pou Avnèr ak pou gason ki ⟨את⟩ li ye avèk yo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnèr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "nan Khevron"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ak ⟨את⟩ li"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e ... fè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "pou Avnèr"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "ak pou gason"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li ye avèk yo"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "yon fèt"
+    }
+  ],
+  "timestamp": "2026-09-02T17:40:49.979904972Z",
+  "model": "glm-5.3"
+}

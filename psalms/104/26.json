@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "La a bato ap voyaje; Livyatan sa a, ou fòme l pou l jwe ladann l.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "bato"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ap voyaje"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "ou fòme"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "pou jwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ladann l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:36.649033065Z",
+  "model": "glm-5.3"
+}

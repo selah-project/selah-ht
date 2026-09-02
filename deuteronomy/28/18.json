@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Fwi vant ou malèdi, epi fwi tè ou, pitit bèf ou yo, epi pitit mouton ou yo.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "malèdi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "vant ou"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "epi fwi"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tè ou"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "bèf ou yo"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "epi pitit"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "mouton ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:39.853823526Z",
+  "model": "glm-5.3"
+}

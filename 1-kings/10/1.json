@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi rèn Cheva a tande ⟨את⟩ larime Chelomo, pou non Yawe a; epi l vin pou tese l ak devinèt.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "epi rèn"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "larime Chelomo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "larime"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "pou non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "epi l vin"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "pou tese l"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "ak devinèt"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:46.706132677Z",
+  "model": "glm-5.3"
+}

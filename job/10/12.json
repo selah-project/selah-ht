@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Lavi ak hesed ou fè avèk m, epi vizitasyon ⟨ou an⟩ te kenbe lespri m.",
+  "tokens": [
+    {
+      "surface": "חַיִּ֣ים",
+      "gloss": "Lavi"
+    },
+    {
+      "surface": "וָ֭חֶסֶד",
+      "gloss": "ak hesed"
+    },
+    {
+      "surface": "עָשִׂ֣יתָ",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "עִמָּדִ֑י",
+      "gloss": "avèk m"
+    },
+    {
+      "surface": "וּ֝פְקֻדָּתְךָ֗",
+      "gloss": "epi vizitasyon ou"
+    },
+    {
+      "surface": "שָֽׁמְרָ֥ה",
+      "gloss": "te kenbe"
+    },
+    {
+      "surface": "רוּחִֽי",
+      "gloss": "lespri m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:47.911791435Z",
+  "model": "glm-5.3"
+}

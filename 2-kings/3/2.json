@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Li fè ⟨sa ki⟩ mal nan je Yawe; sèlman, pa tankou papa l, ni tankou manman l; epi li retire ⟨את⟩ poto Baal la ke papa l te fè.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "epi li fè"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal la"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "tankou papa l"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "epi tankou manman l"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "epi li retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poto Baal la"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "poto"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:34.655946373Z",
+  "model": "glm-5.3"
+}

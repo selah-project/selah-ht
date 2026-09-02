@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Moche pran ⟨את⟩ lwilennwen onksyon an, epi l onksi ⟨את⟩ tant la ak ⟨את⟩ tout sa ki te nan l, epi l konsakre ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "epi l pran"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwilennwen onksyon an"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwilennwen"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "onksyon an"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "epi l onksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa ki te nan l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan l"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "epi l konsakre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:24.319392477Z",
+  "model": "glm-5.3"
+}

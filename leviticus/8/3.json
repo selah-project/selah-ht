@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi reyini ⟨את⟩ tout kongregasyon an devan pòt tant randevou a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Epi ⟨את⟩",
+      "marks": "tout kongregasyon an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kongregasyon an"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "randevou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:39.784942818Z",
+  "model": "glm-5.3"
+}

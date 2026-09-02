@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Pran gad sou moun ki gen kè tout antye epi gade moun ki mache dwat, paske lafen moun ki gen lapè ⟨se⟩ lapè.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Pran gad"
+    },
+    {
+      "surface": "תם",
+      "gloss": "moun ki gen kè tout antye"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "moun ki mache dwat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "lafen"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "moun ki gen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:54.355053726Z",
+  "model": "glm-5.3"
+}

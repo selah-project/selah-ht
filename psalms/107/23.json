@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Moun k'ap desann lanmè a nan bato, k'ap fè komès nan dlo k'ap gwo anpil.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "k'ap desann"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "nan bato"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "k'ap fè"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "komès"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "k'ap gwo anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:22.863417569Z",
+  "model": "glm-5.3"
+}

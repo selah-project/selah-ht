@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Vini, pitit yo, koute mwen: pè Yawe se sa m ap anseŋe nou.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "koute"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "m ap anseŋe nou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:33.516763603Z",
+  "model": "glm-5.3"
+}

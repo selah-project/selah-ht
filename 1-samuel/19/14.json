@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi Chaoul voye mesaje pou yo pran ⟨את⟩ David, epi ⟨li⟩ di: Li malad.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Epi voye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mesaje"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "pou yo pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "Li malad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:41.569559978Z",
+  "model": "glm-5.3"
+}

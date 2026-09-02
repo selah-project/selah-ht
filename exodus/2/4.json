@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E sè l kanpe lwen, pou l konnen kisa yo ap fè ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sè l"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "lwen"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "pou l konnen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yo ap fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:45.880709351Z",
+  "model": "glm-5.3"
+}

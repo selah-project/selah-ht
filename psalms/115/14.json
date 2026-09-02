@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Yawe ajoute sou nou, sou nou, ak sou pitit nou.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pitit nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:31.002630251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "Mwen ap anonse jistis ou, ak ⟨את⟩ travay ou yo — epi yo pa pral sèvi ou anyen.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ap anonse"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "jistis ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "travay ou yo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "travay ou yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "pral sèvi ou anyen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:02.673644393Z",
+  "model": "glm-5.3"
+}

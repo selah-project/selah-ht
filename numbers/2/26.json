@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "ak lame l, ak moun ki konte yo: de ak swasan mil, ak sèt san.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ak lame l"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ak moun ki konte yo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ak swasan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ak sèt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:04.254525540Z",
+  "model": "glm-5.3"
+}

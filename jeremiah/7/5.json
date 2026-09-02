@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Paske si nou amann vrèman ⟨את⟩ fason nou yo ak ⟨את⟩ zak nou yo, si nou fè jistis ant yon moun ak pwchen l —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "vrèman"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "amann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fason nou yo"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "fason nou yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zak nou yo"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "zak nou yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vrèman fè"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "pwchen l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:47:44.528235657Z",
+  "model": "glm-5.3"
+}

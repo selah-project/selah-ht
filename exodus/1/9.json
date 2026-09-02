@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E li di ak pèp li a: Gade, pèp pitit Yisrayèl la ⟨se⟩ yon pèp ki anpil e ki pi pwisan pase nou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yon pèp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "e ki pi pwisan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pase nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:25.327622850Z",
+  "model": "glm-5.3"
+}

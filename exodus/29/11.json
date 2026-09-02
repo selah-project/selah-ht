@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi w ap touye ⟨את⟩ bef la devan Yawe, nan pòtay tant reyinyon an.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bef la"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bef la"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:52.793334527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E menm sa yo se non pitit gason Yisrael yo, ki te antre nan Mitsrayim: ⟨את⟩ Yaakov, chak nonm ak kay li, te antre.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E menm sa yo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ki te antre"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak nonm"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ak kay li"
+    },
+    {
+      "surface": "באו",
+      "gloss": "te antre"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:10.809203088Z",
+  "model": "glm-5.3"
+}

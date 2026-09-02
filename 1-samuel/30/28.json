@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 30:28",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "epi pou moun ki te nan Aroèr, e pou moun ki te nan Sifmot, e pou moun ki te nan Echtemoa.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "epi pou moun ki"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "nan Aroèr"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "e pou moun ki"
+    },
+    {
+      "surface": "בשפמות",
+      "gloss": "nan Sifmot"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "e pou moun ki"
+    },
+    {
+      "surface": "באשתמע",
+      "gloss": "nan Echtemoa"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:24.056835531Z",
+  "model": "glm-5.3"
+}

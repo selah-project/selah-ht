@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E Yawe di: Wi, mwen wè ⟨את⟩ mizè pèp mwen ki nan Mitsrayim; e ⟨את⟩ kri yo mwen tande, devan moun k ap fwote yo; paske mwen konnen ⟨את⟩ doulè yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Yawe di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Wi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mwen wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizè"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mizè"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kri yo"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kri yo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mwen tande"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "moun k ap fwote yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mwen konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doulè yo"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "doulè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:58.743210502Z",
+  "model": "glm-5.3"
+}

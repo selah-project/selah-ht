@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi tout etranje pa dwe manje bagay konsakre; yon moun k ap rete kay kòwonan an ak yon moun salaye pa dwe manje bagay konsakre.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "epi tout"
+    },
+    {
+      "surface": "זר",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dwe manje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bagay konsakre"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "moun k ap rete"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kòwonan"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "epi moun salaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dwe manje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bagay konsakre"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:49.084912426Z",
+  "model": "glm-5.3"
+}

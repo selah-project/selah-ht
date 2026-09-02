@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E yon gwo kri ap fèt nan tout peyi Mitsrayim, ki tankou l pa janm te fèt, e ki tankou l pap janm fèt ankò.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ap gen"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "kri"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "tankou l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa janm"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "te fèt"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "ak tankou l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "pap fèt ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:53.747116790Z",
+  "model": "glm-5.3"
+}

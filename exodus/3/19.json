@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi mwen menm, mwen konnen ke wa Mitsrayim pa pral pèmèt ⟨את⟩ nou ale — se pa ak yon men fò ⟨li pral fè l⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "epi mwen menm"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mwen konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "pral pèmèt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "pou ale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi se pa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ak yon men"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fò"
+    }
+  ],
+  "timestamp": "2026-09-02T15:42:12.232434846Z",
+  "model": "glm-5.3"
+}

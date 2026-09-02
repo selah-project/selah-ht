@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E yo te fè byen pou Avram pou rezon li, e li te genyen mouton, ak bèf, ak bourik mal, ak sèvitè gason, ak sèvitè fi, ak bourik fi, ak chamo.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "e pou Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "te fè byen"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "pou rezon li"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e li te genyen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ak bèf"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ak bourik mal"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "ak sèvitè gason"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ak sèvitè fi"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "ak bourik fi"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ak chamo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:53.860975972Z",
+  "model": "glm-5.3"
+}

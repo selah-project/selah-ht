@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Li voye pawòl li, epi yo fonn; Li fè van l soufle, dlo koule.",
+  "tokens": [
+    {
+      "surface": "יִשְׁלַח",
+      "gloss": "Li voye"
+    },
+    {
+      "surface": "דְּבָרוֹ",
+      "gloss": "pawòl li"
+    },
+    {
+      "surface": "וְיַמְסֵם",
+      "gloss": "epi yo fonn"
+    },
+    {
+      "surface": "יָשֵׁב",
+      "gloss": "Li fè … soufle"
+    },
+    {
+      "surface": "רוּחוֹ",
+      "gloss": "van l"
+    },
+    {
+      "surface": "יִזְּלוּ",
+      "gloss": "koule"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:17.358615684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Pou mèt mizik la, pou Yeditoun, yon mizmo, pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou mèt mizik la"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "pou Yeditoun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:21.359830600Z",
+  "model": "glm-5.3"
+}

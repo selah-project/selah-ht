@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Pase tout moun k ap anseigne m yo, mwen gen plis konpreansyon, paske temwayaj ou yo se yon meditasyon pou mwen.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "pase tout"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "moun k ap anseigne m yo"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "mwen gen plis konpreansyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "temwayaj ou yo"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "meditasyon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:56.858624609Z",
+  "model": "glm-5.3"
+}

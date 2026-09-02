@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Delivre ⟨את⟩ yo ki pran pou yo mouri, ak yo ki ap glise ale touye — èske ou pral kenbe tèt ou?",
+  "tokens": [
+    {
+      "surface": "הַצֵּל",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "לְקֻחִים",
+      "gloss": "yo ki pran"
+    },
+    {
+      "surface": "לַמָּוֶת",
+      "gloss": "pou yo mouri"
+    },
+    {
+      "surface": "וּמָטִים",
+      "gloss": "ak yo ki ap glise"
+    },
+    {
+      "surface": "לַהֶרֶג",
+      "gloss": "ale touye"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "èske"
+    },
+    {
+      "surface": "תַּחְשׂוֹךְ",
+      "gloss": "ou pral kenbe tèt ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:22.999131926Z",
+  "model": "glm-5.3"
+}

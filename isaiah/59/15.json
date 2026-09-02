@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Verite a vin ra, e moun ki vire koute mal la vin pwè; Yawe wè sa, e sa fè l mal nan zye l, paske pa gen jijman.",
+  "tokens": [
+    {
+      "surface": "וַתְּהִי",
+      "gloss": "vin"
+    },
+    {
+      "surface": "הָאֱמֶת",
+      "gloss": "verite a"
+    },
+    {
+      "surface": "נֶעְדֶּרֶת",
+      "gloss": "ra"
+    },
+    {
+      "surface": "וְסָר",
+      "gloss": "ak moun ki vire koute"
+    },
+    {
+      "surface": "מֵרָע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "מִשְׁתּוֹלֵל",
+      "gloss": "vin pwè"
+    },
+    {
+      "surface": "וַיַּרְא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וַיֵּרַע",
+      "gloss": "fè l mal"
+    },
+    {
+      "surface": "בְּעֵינָיו",
+      "gloss": "nan zye l"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "jijman"
+    }
+  ],
+  "timestamp": "2026-09-02T18:43:28.995981058Z",
+  "model": "glm-5.3"
+}

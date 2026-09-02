@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Yon sèl nonm nan mitan ou ap kouri dèyè mil, paske se Yawe Elohim ou a menm ki ap fè lagè pou ou, jan li pale ou a.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "nan mitan ou"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "kouri dèyè"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "ki ap fè lagè"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:06.131507353Z",
+  "model": "glm-5.3"
+}

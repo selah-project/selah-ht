@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Paske l antre nan hevel, e l ap ale nan fènwa a, e nan fènwa a non l ap kouvri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "nan hevel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "l antre"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "e nan fènwa a"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "l ap ale"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "e nan fènwa a"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ap kouvri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:43.946877277Z",
+  "model": "glm-5.3"
+}

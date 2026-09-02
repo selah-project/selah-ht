@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Sa ki te ye, deja li te ye; e sa ki ap vini, deja li te ye tou; e HaElohim ap chache ⟨את⟩ sa ki te pèsekite.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ki te ye"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "deja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ki ap vini"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "deja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "e HaElohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ap chache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki te pèsekite"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "sa ki te pèsekite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:17.132776687Z",
+  "model": "glm-5.3"
+}

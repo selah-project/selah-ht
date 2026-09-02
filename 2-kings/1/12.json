@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 1:12",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Eliyahou reponn epi li pale ak yo: Si mwen se yon ⟨nonm⟩ HaElohim, dife ap desann soti nan syèl yo epi li ap manje ⟨את⟩ ou ak ⟨את⟩ senkant ou yo; epi dife Elohim desann soti nan syèl yo, epi li manje ⟨את⟩ li ak ⟨את⟩ senkant li yo.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyahou"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "senkant ou yo"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "senkant ou yo"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "senkant li yo"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "senkant li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:08:12.513244666Z",
+  "model": "glm-5.3"
+}

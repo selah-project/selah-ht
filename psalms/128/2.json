@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 128,
+  "translation": "Ou ap manje travay men ou yo; sa ap bay ou kè kontan, e byen ⟨ap vini⟩ pou ou.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "travay"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ou ap manje"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "kè kontan pou ou"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "e byen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:08.605577470Z",
+  "model": "glm-5.3"
+}

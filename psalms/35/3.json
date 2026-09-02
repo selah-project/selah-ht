@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Tire lans lan tou deyò, ak bare wout la devan moun ki pouse sou m; di pou nanm mwen: ⟨Mwen⟩ se delivrans ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "epi tire deyò"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lans"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ak fèmen"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "devan"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "moun ki pouse sou m"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pou nanm mwen"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "delivrans ou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:12.227847559Z",
+  "model": "glm-5.3"
+}

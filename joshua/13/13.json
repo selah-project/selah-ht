@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Men pitit Yisrael pa t chase ⟨את⟩ Gechouri yo ak ⟨את⟩ Maakati yo; epi Gechour ak Maakat rete nan mitan Yisrael jiska jodi a.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ak pa"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "chase"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gechouri yo"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Gechouri yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Maakati yo"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Maakati yo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "epi rete"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Gechour"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "ak Maakat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:05:23.313524929Z",
+  "model": "glm-5.3"
+}

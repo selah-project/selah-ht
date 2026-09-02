@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E yo jwenn yon moun Mitsrayim nan chan an, e yo mennen ⟨את⟩ li bay David; yo bay li pen e li manje, e yo fè l bwè dlo.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "e yo jwenn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan chan"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "e yo pran"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "yo bay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "e li manje"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "e yo fè l bwè"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:47.224491772Z",
+  "model": "glm-5.3"
+}

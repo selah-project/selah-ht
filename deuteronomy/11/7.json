@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Paske se je nou menm ki wè ⟨את⟩ tout gwo travay Yawe a, nan ⟨sa⟩ li fè a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "je nou"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ki wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout gwo travay Yawe a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:57.374576935Z",
+  "model": "glm-5.3"
+}

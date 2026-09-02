@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Kè kontan pou gason ou yo, kè kontan pou sèvitè ou yo sa yo — yo menm ki kanpe devan ou toujou, yo menm k koute ⟨את⟩ sajès ou!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kè kontan pou"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "gason ou yo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "kè kontan pou"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvitè ou yo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ki kanpe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ki koute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sajès ou"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "sajès ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:23.840683159Z",
+  "model": "glm-5.3"
+}

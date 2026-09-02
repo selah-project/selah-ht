@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Bon pou koute blàm yon savan pase yon moun koute chante sòt yo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pou koute"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "blàm"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yon savan"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "pase yon moun"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "chante"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sòt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:33.199332641Z",
+  "model": "glm-5.3"
+}

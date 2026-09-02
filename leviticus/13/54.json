@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Lè sa a kòhen an ap bay lòd pou yo lave ⟨את⟩ sa k gen maladi a ladan l, e pou yo fèmen l yon dezyèm peryòd sèt jou.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ap bay lòd"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "e pou yo lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa k gen maladi a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa k"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "maladi a"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "e pou yo fèmen l"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "yon dezyèm fwa"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:16.208568191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pitit mwen, pa mache nan wout ⟨את⟩ ansanm ak yo; kenbe pye ou lwen nan chemen yo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ansanm ak yo",
+      "marks": "ak yo"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "kenbe … lwen"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "pye ou"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "nan chemen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:02.010381789Z",
+  "model": "glm-5.3"
+}

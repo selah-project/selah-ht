@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Gade enmi m yo, paske yo anpil, epi ak yon rayi vyolan yo rayi m.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "yo anpil"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "ak rayi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolan"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "yo rayi m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:59.947295803Z",
+  "model": "glm-5.3"
+}

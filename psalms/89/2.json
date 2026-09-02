@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Pou tout tan m ap chante hesed Yawe a; pou yon jenerasyon apre yon jenerasyon m ap fè konnen fidelite ou a nan bouch mwen.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ap chante"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou yon jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "apre yon jenerasyon"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "m ap fè konnen"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "fidelite ou a"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nan bouch mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:28.517415955Z",
+  "model": "glm-5.3"
+}

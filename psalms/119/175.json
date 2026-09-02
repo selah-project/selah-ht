@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Ann nanm m viv, e l ap fè lwanj ou, e jijman ou yo ede m.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "e fè lwanj ou"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "e jijman ou yo"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "ede m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:38.307229749Z",
+  "model": "glm-5.3"
+}

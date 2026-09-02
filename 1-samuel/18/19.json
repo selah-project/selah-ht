@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E lè te rive tan pou yo bay ⟨את⟩ Merav, pitit fi Chaoul, bay David, se Adriel Mecholati a yo bay li pou madanm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E ... te rive"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "lè tan"
+    },
+    {
+      "surface": "תת",
+      "gloss": "pou yo bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bay David"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "li"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "yo bay"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "pou Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Mecholati a"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pou madanm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:14.974080063Z",
+  "model": "glm-5.3"
+}

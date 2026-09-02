@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "Ou, se ou menm ki fè moun pè, e kiyès ki kanpe devan ou depi kòlè ou pete?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ki fè moun pè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e kiyès"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ki kanpe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "depi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kòlè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:36.119843958Z",
+  "model": "glm-5.3"
+}

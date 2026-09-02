@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 121,
+  "translation": "Yawe ⟨se⟩ gad ou a, Yawe ⟨se⟩ lonbraj ou, sou men dwat ou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "gad ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "lonbraj ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dwat ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:52.271531274Z",
+  "model": "glm-5.3"
+}

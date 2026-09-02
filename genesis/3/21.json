@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi Yawe Elohim fè pou Adam ak pou madanm li kòt yo nan po, e li abye yo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "pou Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "ak pou madanm li"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "kòt yo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nan po"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "e li abye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:29.598904057Z",
+  "model": "glm-5.3"
+}

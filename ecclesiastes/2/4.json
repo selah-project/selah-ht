@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Mwen fè zèv mwen vin gran; mwen bati kay pou mwen; mwen plante jaden rezen pou mwen.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "fè vin gran"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "zèv mwen"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mwen bati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "mwen plante"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "jaden rezen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:38.379560009Z",
+  "model": "glm-5.3"
+}

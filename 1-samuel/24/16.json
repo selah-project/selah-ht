@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E ke Yawe ⟨la⟩ pou jije, e ⟨li⟩ jije antre m ak ou, e ⟨li⟩ wè, e ⟨li⟩ defann ⟨את⟩ koz m, e ⟨li⟩ fè m jistis nan men ou.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "pou jije"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "e jije"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antre m"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ak antre ou"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e wè"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "e defann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koz m"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "koz m"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "e fè m jistis"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "nan men ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:20.618475580Z",
+  "model": "glm-5.3"
+}

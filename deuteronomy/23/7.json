@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pa chache lapè yo ni byen yo, tout jou lavi ou, pou toutan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "chache"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "lapè yo"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ak byen yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "jou lavi ou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:28.604201631Z",
+  "model": "glm-5.3"
+}

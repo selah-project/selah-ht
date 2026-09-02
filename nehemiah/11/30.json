@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 11:30",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Zanokh, Adoulam ak pavilyon yo, Lakich ak jaden yo, Azeka ak pitit vil yo; yo fè kan soti nan Bèr-Cheva jouk nan ravin Gei-Hinom",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "Zanokh"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adoulam"
+    },
+    {
+      "surface": "וחצריהם",
+      "gloss": "ak pavilyon yo"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakich"
+    },
+    {
+      "surface": "ושדתיה",
+      "gloss": "ak jaden yo"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ak pitit vil yo"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "yo fè kan"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "soti nan Bèr"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ravin"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Gei-Hinom"
+    }
+  ],
+  "timestamp": "2026-09-02T21:11:31.718006609Z",
+  "model": "glm-5.3"
+}

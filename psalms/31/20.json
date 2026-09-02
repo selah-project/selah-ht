@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Kouman byen ⟨ou⟩ an gran — ou kache l pou moun k pè ⟨ou⟩, ou fè l pou moun k ap chèche refij nan ⟨ou⟩, devan pitit moun yo!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kouman"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gran"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "byen ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "ou kache"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "pou moun k pè ou"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "pou moun k ap chèche refij"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:43.578834365Z",
+  "model": "glm-5.3"
+}

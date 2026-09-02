@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Mechan yo ap tounen ale nan Cheol, tout nasyon ki bliye Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ap tounen ale"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "nan Cheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ki bliye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:20.307565033Z",
+  "model": "glm-5.3"
+}

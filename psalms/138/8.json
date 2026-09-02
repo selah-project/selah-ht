@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 138,
+  "translation": "Yawe ap fini ⟨travay la⟩ pou m; Yawe, hesed ou pou tout tan; travay men w yo, pa lage yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "fini"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "travay"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "men w yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "lage"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:15.980170037Z",
+  "model": "glm-5.3"
+}

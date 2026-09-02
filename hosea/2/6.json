@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi ⟨את⟩ pitit li yo, m ap gen pitye pou yo non, paske se pitit fònikasyon yo ye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Epi ⟨את⟩",
+      "marks": "pitit li yo"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "gen pitye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "fònikasyon"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo ye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:23.812987183Z",
+  "model": "glm-5.3"
+}

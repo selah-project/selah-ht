@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 129,
+  "translation": "Epi moun ki pase yo pa di: 'Benediksyon Yawe sou ou yo; nou beni ou yo nan non Yawe.'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "moun ki pase yo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "benediksyon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sou ou yo"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "nou beni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ou yo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:17.765451438Z",
+  "model": "glm-5.3"
+}

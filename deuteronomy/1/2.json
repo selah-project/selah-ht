@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Onèz jou soti nan Horev, pa wout mòn Seir, jouk Kadesh-Barnéa.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "òn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "soti nan Horev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pa wout"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnéa"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:39.488804619Z",
+  "model": "glm-5.3"
+}

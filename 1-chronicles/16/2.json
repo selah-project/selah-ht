@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Lè David fin ofri ofann boule a ak ofann lapè yo, li beni ⟨את⟩ pèp la nan Non Yawe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "fin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ofri"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofann boule a"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ak ofann lapè yo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:25.899180604Z",
+  "model": "glm-5.3"
+}

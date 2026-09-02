@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Gen yon movèz bagay ke mwen wè anba solèy la, epi li lou sou moun nan.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Gen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yon movèz bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mwen wè"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "epi li lou"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:43.946298176Z",
+  "model": "glm-5.3"
+}

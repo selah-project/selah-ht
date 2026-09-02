@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi Atalya tande ⟨את⟩ vwa pèp la k ap kouri ak k ap fè lwanj ⟨את⟩ wa a, epi l antre nan mitan pèp la nan kay Yawe.",
+  "tokens": [
+    {
+      "surface": "וותשמע",
+      "gloss": "epi l tande"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa pèp la"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "k ap kouri"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "ak k ap fè lwanj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "epi l antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T21:32:17.796304618Z",
+  "model": "glm-5.3"
+}

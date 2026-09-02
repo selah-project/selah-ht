@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "alò Yawe ap depossede ⟨את⟩ tout nasyon sa yo devan ou yo, e ou yo ap eritye nasyon ki pi gran ak pi fò pase ou yo.",
+  "tokens": [
+    {
+      "surface": "וְהוֹרִישׁ",
+      "gloss": "alò ap depossede"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tout nasyon sa yo"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הַגּוֹיִם",
+      "gloss": "nasyon"
+    },
+    {
+      "surface": "הָאֵלֶּה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "מִלִּפְנֵיכֶם",
+      "gloss": "devan ou yo"
+    },
+    {
+      "surface": "וִירִשְׁתֶּם",
+      "gloss": "e ou yo ap eritye"
+    },
+    {
+      "surface": "גּוֹיִם",
+      "gloss": "nasyon"
+    },
+    {
+      "surface": "גְּדֹלִים",
+      "gloss": "ki pi gran"
+    },
+    {
+      "surface": "וַעֲצֻמִים",
+      "gloss": "ak pi fò"
+    },
+    {
+      "surface": "מִכֶּם",
+      "gloss": "pase ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:44.908028648Z",
+  "model": "glm-5.3"
+}

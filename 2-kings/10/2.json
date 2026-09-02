@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E kounye a, lè lèt sa a rive devan nou, si ⟨את⟩ pitit mèt nou an ak nou, si ⟨את⟩ charyo yo ak cheval yo ak nou, e yon vil fò, ak zam —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E kounye a"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "lè ... rive"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "lèt la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "si ⟨את⟩ ... ak nou",
+      "marks": "pitit mèt nou an"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "mèt nou an"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "si ⟨את⟩ ... ak nou",
+      "marks": "charyo yo ak cheval yo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "charyo yo"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "ak cheval yo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "e yon vil"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fò"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "ak zam"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:38.466911666Z",
+  "model": "glm-5.3"
+}

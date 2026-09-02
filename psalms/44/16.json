@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Tout jou a wont mwen devan m, ak wont figi mwen kouvri m.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "wont mwen"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "devan m"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ak wont"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi mwen"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "kouvri m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:03.655946235Z",
+  "model": "glm-5.3"
+}

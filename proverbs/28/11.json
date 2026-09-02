@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Moun rich la panse li savan nan je l menm, men pòv ki gen konpreansyon ap ekzamine l anndan.",
+  "tokens": [
+    {
+      "surface": "חָכָם",
+      "gloss": "savan"
+    },
+    {
+      "surface": "בְּעֵינָיו",
+      "gloss": "nan je l"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עָשִׁיר",
+      "gloss": "rich"
+    },
+    {
+      "surface": "וְדַל",
+      "gloss": "men pòv"
+    },
+    {
+      "surface": "מֵבִין",
+      "gloss": "ki konprann"
+    },
+    {
+      "surface": "יַחְקְרֶנּוּ",
+      "gloss": "ap ekzamine l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:34.823282328Z",
+  "model": "glm-5.3"
+}

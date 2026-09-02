@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 60:22",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Ti piti a ap vin mil, ak pi piti a ap vin yon nasyon pisan; se mwen Yawe; nan tan li m ap degere l.",
+  "tokens": [
+    {
+      "surface": "הקטן",
+      "gloss": "Ti piti a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "והצעיר",
+      "gloss": "ak pi piti a"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ap vin yon nasyon"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "nan tan li"
+    },
+    {
+      "surface": "אחישנה",
+      "gloss": "m ap degere l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:25.064754725Z",
+  "model": "glm-5.3"
+}

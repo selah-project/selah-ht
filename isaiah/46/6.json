@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 46:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Moun ki ap vide lò soti nan sak, e yo peze ajan nan balans, yo anboche yon fon, e li fè l vin yon dye; yo tonbe fas atè, menm yo ajenou devan l.",
+  "tokens": [
+    {
+      "surface": "הזלים",
+      "gloss": "moun ki ap vide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "מכיס",
+      "gloss": "soti nan sak"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "nan balans"
+    },
+    {
+      "surface": "ישקלו",
+      "gloss": "yo peze"
+    },
+    {
+      "surface": "ישכרו",
+      "gloss": "yo anboche"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "yon fon"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "e li fè l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yon dye"
+    },
+    {
+      "surface": "יסגדו",
+      "gloss": "yo tonbe fas atè"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "yo ajenou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:16.068431173Z",
+  "model": "glm-5.3"
+}

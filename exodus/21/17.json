@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E moun ki maladji papa l ak manman l — mouri, dwe mouri.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "E moun ki maladji"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ak manman l"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dwe mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:53.120018930Z",
+  "model": "glm-5.3"
+}

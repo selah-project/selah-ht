@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi Paro pa ap koute ⟨nou⟩, e mwen ap mete ⟨את⟩ men m sou Mitsrayim, e mwen ap fè soti ⟨את⟩ lame m, ⟨את⟩ pèp m, pitit Yisrayèl yo, soti nan peyi Mitsrayim, avèk gwo jijman yo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi ... pa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ap koute"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "⟨nou⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e mwen ap mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men m"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sou Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "e mwen ap fè soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lame m"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "lame m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp m"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "avèk jijman"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "gwo ... yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:42:26.119521911Z",
+  "model": "glm-5.3"
+}

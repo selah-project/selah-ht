@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E Ahab anonse bay Izebel ⟨את⟩ tout sa Eliyahu te fè, ak ⟨את⟩ tout sa li te touye — ⟨את⟩ tout profèt yo ak epe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "bay Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa Eliyahu te fè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa li te touye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "te touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout profèt yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profèt yo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ak epe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:06:16.392454669Z",
+  "model": "glm-5.3"
+}

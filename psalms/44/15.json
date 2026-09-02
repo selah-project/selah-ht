@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Ou fè nou yon pwovèb nan mitan nasyon yo, yon sakad tèt nan mitan pèp yo.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Ou fè nou"
+    },
+    {
+      "surface": "משל",
+      "gloss": "yon pwovèb"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "yon sakad"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "pèp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:03.655749197Z",
+  "model": "glm-5.3"
+}

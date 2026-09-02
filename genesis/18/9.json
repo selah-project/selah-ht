@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Yo di ba li: Kote Sara, madanm ou? E li di: Gade, nan tant la.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kote"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "madanm ou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nan tant la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:02.880964766Z",
+  "model": "glm-5.3"
+}

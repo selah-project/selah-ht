@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi mwen menm ak tout pèp la ki ak ⟨את⟩ mwen ap pwoche vi bò kote vil la; l ap pase lè yo soti pou yo vini jwenn nou, jan te fèt nan premye fwa a, n ap kouri chape devan yo.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֗י",
+      "gloss": "epi mwen menm"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הָעָם֙",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אִתִּ֔י",
+      "gloss": "ak ⟨את⟩ mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "נִקְרַ֖ב",
+      "gloss": "ap pwoche vi bò"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הָעִ֑יר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "וְהָיָ֗ה",
+      "gloss": "l ap pase"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יֵצְא֤וּ",
+      "gloss": "yo soti"
+    },
+    {
+      "surface": "לִקְרָאתֵ֨נוּ֙",
+      "gloss": "pou yo vini jwenn nou"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֣ר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "בָּרִאשֹׁנָ֔ה",
+      "gloss": "te fèt nan premye fwa a"
+    },
+    {
+      "surface": "וְנַסְ֖נוּ",
+      "gloss": "n ap kouri chape"
+    },
+    {
+      "surface": "לִפְנֵיהֶֽם",
+      "gloss": "devan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:20:45.585400861Z",
+  "model": "glm-5.3"
+}

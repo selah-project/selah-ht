@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E Ahaz pran ⟨את⟩ lajan an ak ⟨את⟩ lò la ki jwenn nan kay Yawe ak nan trezo kay wa a, e li voye pou wa Achour yon kado.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "E Ahaz pran"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lajan an"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lajan an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lò la"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò la"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ki jwenn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "e nan trezo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e li voye"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "yon kado"
+    }
+  ],
+  "timestamp": "2026-09-02T18:18:18.642800339Z",
+  "model": "glm-5.3"
+}

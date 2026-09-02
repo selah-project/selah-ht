@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Epi ou, pitit moun, m mete ou kòm gad pou kay Yisrayèl; w ap tande yon pawòl nan bouch m, epi w ap avèti ⟨את⟩ yo pou m.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "epi ou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "gad"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "m mete ou"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pou kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "epi w ap tande"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "nan bouch"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "epi w ap avèti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (kay Yisrayèl la)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pou m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:24:33.075051275Z",
+  "model": "glm-5.3"
+}

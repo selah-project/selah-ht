@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E nan branch Yisaskar la: ⟨את⟩ Kedech ak ⟨את⟩ patiraj li yo, ⟨את⟩ Davrat ak ⟨את⟩ patiraj li yo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "E nan branch"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskar la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedech"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "patiraj li yo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "patiraj li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davrat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Davrat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "patiraj li yo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "patiraj li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:34.062551012Z",
+  "model": "glm-5.3"
+}

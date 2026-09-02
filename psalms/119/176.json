@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen bay egare tankou yon mouton ki pèdi; al chèche esklav ou a, paske mwen pa bliye kòmandman ou yo.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "mwen bay egare"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "tankou yon mouton"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ki pèdi"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "al chèche"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "esklav ou a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kòmandman ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "mwen bliye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:38.307359454Z",
+  "model": "glm-5.3"
+}

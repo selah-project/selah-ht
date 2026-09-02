@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Mwen di: El mwen, pa mennen m al nan mitan jou m yo; nan generasyon ak generasyon ⟨yo⟩ se lane ou yo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mwen di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "mennen m al"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou m yo"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nan generasyon"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "generasyon yo"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "lane ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:32.980758465Z",
+  "model": "glm-5.3"
+}

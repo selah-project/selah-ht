@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Ou fè ⟨את⟩ lamp li yo — sèt — e ou fè ⟨את⟩ lamp li yo monte, pou limyè a klere sou kote fas li ye.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamp li yo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lamp li yo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "fè monte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamp li yo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lamp li yo"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "klere"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "fas li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:47.609297270Z",
+  "model": "glm-5.3"
+}

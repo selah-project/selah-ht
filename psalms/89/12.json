@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Se pou ou syèl yo ye, menm se pou ou tè a ye; monn nan ak tout sa ki ladann — se ou ki te fonde yo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "se pou ou"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "se pou ou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "monn nan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ak tout sa ki ladann"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "ki te fonde yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:28.581476931Z",
+  "model": "glm-5.3"
+}

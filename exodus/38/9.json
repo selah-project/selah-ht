@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "E li fè ⟨את⟩ lakou a; sou kote sid an, nan sid, rido lakou a an twal sès kale, san koube.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakou a"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sou kote"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sid"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "nan sid"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "rido"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sès"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "koube"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:50.856689296Z",
+  "model": "glm-5.3"
+}

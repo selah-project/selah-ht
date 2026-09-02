@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Kisa mòtèl ⟨ye⟩, pou ou sonje l? e pitit moun, pou ou pran swen l?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mòtèl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "ou sonje l"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "ou pran swen l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:01.139467388Z",
+  "model": "glm-5.3"
+}

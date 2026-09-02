@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Règ Yawe yo dwat, yo fè kè a kontan; kòmandman Yawe a pi, li klere zye yo.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Règ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "fè kontan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "klere"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "zye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:28.694449745Z",
+  "model": "glm-5.3"
+}

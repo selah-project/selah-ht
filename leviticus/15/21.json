@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 15:21",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi tout moun ki manyen kouch li a va lave rad li, epi benyen nan dlo, epi vin enpè jouk aswè a.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Epi tout"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ki manyen"
+    },
+    {
+      "surface": "במשכבה",
+      "gloss": "kouch li a"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "lave"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "epi benyen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "epi vin enpè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aswè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:30.169590034Z",
+  "model": "glm-5.3"
+}

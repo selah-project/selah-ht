@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Ete, Moche lonje ⟨את⟩ men l sou syèl yo, e gen nwa, nwa epè, sou tout tè Mitsrayim twa jou.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Ete lonje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "epi gen"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "nwa epè"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sou tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:31.958486319Z",
+  "model": "glm-5.3"
+}

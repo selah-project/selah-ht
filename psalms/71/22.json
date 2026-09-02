@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Menm mwen menm, m ap di mèsi ou ak la, nan verite ou, Elohim mwen; m ap jwe pou ou ak lira a, ou menm ki sen an, Yisrael ki sen an.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "אוֹדְךָ",
+      "gloss": "m ap di mèsi ou"
+    },
+    {
+      "surface": "בִּכְלִי",
+      "gloss": "ak"
+    },
+    {
+      "surface": "נֶבֶל",
+      "gloss": "la a"
+    },
+    {
+      "surface": "אֲמִתֶּךָ",
+      "gloss": "verite ou"
+    },
+    {
+      "surface": "אֱלֹהָי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "אֲזַמְּרָה",
+      "gloss": "m ap jwe"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "בְּכִנּוֹר",
+      "gloss": "ak lira a"
+    },
+    {
+      "surface": "קָדוֹשׁ",
+      "gloss": "ki sen an"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:04.955624310Z",
+  "model": "glm-5.3"
+}

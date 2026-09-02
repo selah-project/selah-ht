@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Men l abandone ⟨את⟩ konsèy vye granmoun yo te bay li a, e l al konsilte ⟨את⟩ jenn gason yo, menm moun ki te grandi avè ⟨את⟩ li, menm moun ki t ap kanpe devan l.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "abandone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konsèy vye granmoun yo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "konsèy"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vye granmoun yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "te bay li"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "konsilte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenn gason yo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "jenn gason yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avè ⟨את⟩ li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "moun ki kanpe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:05.935490351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Yo swen ⟨את⟩ blesè titit fi pèp mwen an san pyès, pou di: Chalom, Chalom — men pa gen Chalom.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "yo swen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blesè titit fi pèp mwen an"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "blesè"
+    },
+    {
+      "surface": "בת",
+      "gloss": "titit fi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "san"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "pyès"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Chalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Chalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men pa gen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Chalom"
+    }
+  ],
+  "timestamp": "2026-09-02T22:23:02.855362985Z",
+  "model": "glm-5.3"
+}

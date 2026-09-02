@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Kijan ⟨yo⟩ gwo, travay ou yo, Yawe! Panse ou yo fon anpil.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kijan"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "travay ou yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "fon"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "panse ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:57.994282595Z",
+  "model": "glm-5.3"
+}

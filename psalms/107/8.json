@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Ke yo fè lwanj pou Yawe pou hesed li (gras kitèl li), ak mirak li pou pitit moun yo!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ke yo fè lwanj"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "pou hesed li"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ak mirak li"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:05.302860441Z",
+  "model": "glm-5.3"
+}

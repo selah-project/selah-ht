@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Paske ou pral mete yo kou vire do, lè ou pral pare kòd ⟨zo⟩ ou an dirèksyon figi yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ou pral mete yo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "kou vire do"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "kòd ⟨zo⟩ ou"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "ou pral pare"
+    },
+    {
+      "surface": "על",
+      "gloss": "an dirèksyon"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "figi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:21.271783097Z",
+  "model": "glm-5.3"
+}

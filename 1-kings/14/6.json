@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E l pase, lè Ahiyahou tande ⟨את⟩ son pye l ap antre nan pòtay la, li di: Antre, madanm Yarovam! Poukisa sa a, ou ap fè tèt ou enyalen? E menm mwen, yo voye m ba ou yon bagay ki di.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e l pase"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lè ... tande"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahiyahou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son pye l"
+    },
+    {
+      "surface": "קול",
+      "gloss": "son"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "pye l"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ap antre"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "nan pòtay la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "באי",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "madanm"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "ap fè tèt ou enyalen"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e menm mwen"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "yo voye m"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "yon bagay ki di"
+    }
+  ],
+  "timestamp": "2026-09-02T18:02:20.116935411Z",
+  "model": "glm-5.3"
+}

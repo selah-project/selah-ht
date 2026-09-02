@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "Kay sen nou an ak bèl glwa nou an, kote papa nou yo te fè lwanj ⟨pou⟩ ou, vin yon bagay dife boule; e tout sa k te kè nouren nou vin yon dezolasyon.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "sen nou an"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "ak bèl glwa nou an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "te fè lwanj ou"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "papa nou yo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "yon bagay dife boule"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "sa k te kè nouren nou"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "yon dezolasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T18:44:41.015230525Z",
+  "model": "glm-5.3"
+}

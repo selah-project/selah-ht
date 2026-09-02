@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Fini, tanpri, ak mal mechan yo; e fè moun jis yo kanpe; paske Elohim jis la ap egzamine kè yo ak ren yo.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "Fini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "e fè kanpe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "egzamine"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "kè"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "ren"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:09.676988554Z",
+  "model": "glm-5.3"
+}

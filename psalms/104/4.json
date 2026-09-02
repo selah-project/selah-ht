@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Ki fè mesaje l yo vann, sèvant l yo dife ki flanbe.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ki fè"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "mesaje l yo"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "vann"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "sèvant l yo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ki flanbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:31.601042786Z",
+  "model": "glm-5.3"
+}

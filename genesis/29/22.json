@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E Lavan reyini ⟨את⟩ tout nonm kote a, e li fè yon gwo fèt.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout nonm kote a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote a"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gwo fèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:05.020473808Z",
+  "model": "glm-5.3"
+}

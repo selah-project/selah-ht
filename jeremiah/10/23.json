@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Mwen konnen, Yawe, ke chemen moun an pa poukont li; se pa pou moun ki mache dirije ⟨את⟩ pa l yo.",
+  "tokens": [
+    {
+      "surface": "יָדַ֣עְתִּי",
+      "gloss": "Mwen konnen"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לָאָדָ֖ם",
+      "gloss": "pou moun an"
+    },
+    {
+      "surface": "דַּרְכּ֑וֹ",
+      "gloss": "chemen li"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לְאִ֣ישׁ",
+      "gloss": "pou moun"
+    },
+    {
+      "surface": "הֹלֵ֔ךְ",
+      "gloss": "ki mache"
+    },
+    {
+      "surface": "וְהָכִ֖ין",
+      "gloss": "dirije"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "pa l yo"
+    },
+    {
+      "surface": "צַעֲדֽוֹ",
+      "gloss": "pa l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:22:59.731244151Z",
+  "model": "glm-5.3"
+}

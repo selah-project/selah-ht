@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E nenpòt nonm — nan kay Izrayèl oswa nan mitan etranje yo ki ap vivetchèz pami ou — ki ap manje nenpòt san: m ap vire figi m kont nefech la ki ap manje ⟨את⟩ san an, e m ap koupe ⟨את⟩ l nan mitan pèp li a.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e nenpòt nonm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "oswa nan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "etranje a"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ki ap vivetchèz"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "nan mitan yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt"
+    },
+    {
+      "surface": "דם",
+      "gloss": "san"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e m ap met"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi m"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kont nefech"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "ki ap manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san an"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "san an"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "e m ap koupe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ l"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "pèp li a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:44.936105902Z",
+  "model": "glm-5.3"
+}

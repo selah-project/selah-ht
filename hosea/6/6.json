@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Paskè se hesed mwen renmen, se pa zak ritèl; e konesans Elohim plis pase ofrand ki boule.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paskè"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mwen renmen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "se pa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zak ritèl"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "e konesans"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "plis pase ofrand ki boule"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:17.286856234Z",
+  "model": "glm-5.3"
+}

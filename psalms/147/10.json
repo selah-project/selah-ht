@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Pa nan fòs chwal la li pran plezi, pa nan janm moun nan li satisfè.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "nan fòs"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "chwal la"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "pran plezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "nan janm"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "satisfè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:18.854718966Z",
+  "model": "glm-5.3"
+}

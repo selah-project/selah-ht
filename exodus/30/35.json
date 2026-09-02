@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E ou fè ⟨את⟩ li yon ensans, yon melanj, travay yon parfenmè, ki sale, ki pi, sen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "E ou fè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yon ensans"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "yon ensans"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "yon melanj"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "yon parfenmè"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "ki sale"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ki pi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:31.150650494Z",
+  "model": "glm-5.3"
+}

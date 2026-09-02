@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Leve ⟨ou⟩, Elohim, defann koz ou; sonje wont ou ki soti ⟨nan men⟩ moun fou an, tout jou ⟨a⟩.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "defann"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "koz ou"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "wont ou"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ki soti"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "moun fou an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:58.847308100Z",
+  "model": "glm-5.3"
+}

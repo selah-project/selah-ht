@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Soti nan tanp ou a, sou Yerouchalayim, wa yo ap mennen kado bay ou.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "soti nan tanp ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bay ou"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "yo ap mennen"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "שי",
+      "gloss": "kado"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:02.108993862Z",
+  "model": "glm-5.3"
+}

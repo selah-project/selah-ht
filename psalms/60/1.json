@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Pou chèf mizisyen an, sou Chouchan-Edout, yon miktam pou David, pou ansèyman.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Chouchan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edout"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "yon miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "pou ansèyman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:22.239324559Z",
+  "model": "glm-5.3"
+}

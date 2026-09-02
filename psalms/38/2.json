@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Yawe, pa reprimann m nan kòlè w, ni pa disiplinn m nan furi w.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "nan kòlè w"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "reprimann m"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ni nan furi w"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "disiplinn m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:10.794947426Z",
+  "model": "glm-5.3"
+}

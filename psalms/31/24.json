@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Renmen ⟨את⟩ Yawe, tout moun ki fè hesed li yo! ⟨Gen⟩ moun ki fidèl yo, Yawe kenbe yo, epi li remèt plen sou moun ki fè ògèy.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "moun ki fè hesed li yo"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "moun ki fidèl yo"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "epi li remèt"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "plen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ògèy"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:43.184422367Z",
+  "model": "glm-5.3"
+}

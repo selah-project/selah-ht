@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Vwa Yawe ⟨la⟩ sou dlo yo; El Glwa a fè tonnè; Yawe sou anpil dlo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "Glwa a"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "fè tonnè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:36.169017668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Atalya tande ⟨את⟩ vwa kouri yo ak pèp la, epi li antre nan pèp la, nan kay Yawe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa a"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "kouri yo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:47.491443258Z",
+  "model": "glm-5.3"
+}

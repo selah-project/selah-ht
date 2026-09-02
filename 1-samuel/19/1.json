@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi Chaoul pale ak Yehonatan pitit gason l, ak tout sèvitè l, pou yo touye ⟨את⟩ David; e Yehonatan, pitit gason Chaoul, te plezi anpil nan David.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè l"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "pou yo touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "e Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "te plezi"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "nan David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T21:49:35.725041926Z",
+  "model": "glm-5.3"
+}

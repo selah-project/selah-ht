@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Men dwa Yawe wo anpil, men dwa Yawe ap fè prouès.",
+  "tokens": [
+    {
+      "surface": "יְמִ֣ין",
+      "gloss": "men dwa"
+    },
+    {
+      "surface": "יְהוָ֭ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רוֹמֵמָ֑ה",
+      "gloss": "wo anpil"
+    },
+    {
+      "surface": "יְמִ֥ין",
+      "gloss": "men dwa"
+    },
+    {
+      "surface": "יְהוָָ֝ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עֹ֣שָׂה",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "חָֽיִל",
+      "gloss": "prouès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:50.979119865Z",
+  "model": "glm-5.3"
+}

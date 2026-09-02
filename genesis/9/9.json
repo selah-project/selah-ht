@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E menm mwen, gade, mwen ap kanpe ⟨את⟩ alyans mwen ⟨את⟩ ak nou, e ak ⟨את⟩ pitit nou yo apre nou.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "E menm mwen"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "gade, men mwen"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alyans mwen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alyans mwen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ak nou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ak ⟨את⟩",
+      "marks": "pitit nou yo"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "pitit nou yo"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "apre nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:33.691202357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Se mwen, se mwen menm, mwen ⟨se⟩ li ki konsôle nou. Kiyès ou ye, epi ou pè yon moun ki ap mouri, epi yon pitit moun k ap fèt ⟨menm⟩ zèb?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Se mwen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "se mwen menm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "ki konsôle nou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "את",
+      "gloss": "ou",
+      "marks": "ou (pwonon H859, se pa mak ⟨את⟩)"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "epi ou pè"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ki ap mouri"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "epi pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "zèb"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "k ap fèt"
+    }
+  ],
+  "timestamp": "2026-09-02T21:54:17.646995450Z",
+  "model": "glm-5.3"
+}

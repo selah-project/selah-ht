@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Menm lè m ap mache nan vale lonbraj lanmò a, m ap pè anyen.move pa m, paske ou avèk m; baton ou a ak bati ou a, se yo konfòte m.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Menm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m ap mache"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "nan vale"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "lonbraj lanmò a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "m ap pè"
+    },
+    {
+      "surface": "רע",
+      "gloss": "anyen.move"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avèk m"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "baton ou a"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "ak bati ou a"
+    },
+    {
+      "surface": "המה",
+      "gloss": "se yo"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "konfòte m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:24:35.615673804Z",
+  "model": "glm-5.3"
+}

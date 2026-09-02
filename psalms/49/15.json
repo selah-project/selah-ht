@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Menm mouton yo mete tèt yo pou Cheol: Lanmò ap gide yo kòm bèt, e moun dwa yo ap gouvnen yo nan maten an; fòm yo ap fin konfome, Cheol ap sèvi kòm kay pou li.",
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "menm mouton"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "pou Cheol"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "yo mete tèt yo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Lanmò"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ap gide yo kòm bèt"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "e ap gouvnen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "moun dwa yo"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "nan maten an"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "e fòm yo"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "ap fin konfome"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:01.683285809Z",
+  "model": "glm-5.3"
+}

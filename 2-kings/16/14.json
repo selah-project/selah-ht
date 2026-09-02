@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 16:14",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi ⟨את⟩ lotèl kwiv la, menm ki devan Yawe, li pote l sotinan ⟨את⟩ fas kay la, soti ant lotèl la ak ant kay Yawe, epi li mete ⟨את⟩ li sou kote lotèl la, bò nò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lotèl kwiv la"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kwiv la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "pote l bò kote l"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "soti nan ⟨את⟩",
+      "marks": "fas kay la"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "soti ant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "ak soti ant"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "lotèl kwiv la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kote"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "bò nò"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:43.837165927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E pitit Yisrayèl yo te fè etap yo soti nan dezè Sayin; e nwèl la te kanpe nan dezè Paran.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "te fè etap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "etap yo"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "soti nan dezè"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sayin"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "te kanpe"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nwèl la"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-09-02T16:25:17.885841131Z",
+  "model": "glm-5.3"
+}

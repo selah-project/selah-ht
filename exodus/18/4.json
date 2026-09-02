@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E non lòt la se Eliezer, paske li te di: Elohim papa m te nan èd m, e l sove m nan pezonèt Paro.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "E non"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "lòt la"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "te nan èd m"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "e l sove m"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "nan pezonèt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:21.287179417Z",
+  "model": "glm-5.3"
+}

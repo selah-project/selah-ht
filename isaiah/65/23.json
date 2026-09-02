@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Yo pap fatigue pou anyen, yo pap fè pitit pou pè; paske se desandan moun beni Yawe yo ye, e pitit pitit yo ansanm ⟨את⟩ avèk yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "ap fatigue"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "pou anyen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ap fè pitit"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "pou pè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "desandan"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "moun beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo ye"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "e pitit pitit yo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "avèk yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:44:54.772366279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 111,
+  "translation": "Fòs zèv li, li fè l konnen bay pèp li — pou bay yo eritaj nasyon yo.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "Fòs"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zèv li"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "li fè l konnen"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "bay pèp li"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pou bay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "eritaj"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:42.583785104Z",
+  "model": "glm-5.3"
+}

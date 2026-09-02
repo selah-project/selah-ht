@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi yo tande ⟨את⟩ vwa Yawe Elohim ap mache nan jaden an nan van jou a, epi moun nan ak fanm l kache devan Yawe Elohim nan mitan pyebwa jaden an.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nan jaden"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "nan van"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "kache"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ak fanm l"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pyebwa"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "jaden an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:14.348818077Z",
+  "model": "glm-5.3"
+}

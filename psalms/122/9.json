@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 122,
+  "translation": "Pou kay Yawe Elohim nou an, m ap chèche byen pou ou.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pou (sak)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "m ap chèche"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:43.287044354Z",
+  "model": "glm-5.3"
+}

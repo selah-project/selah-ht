@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Jistis moun ki gen entègrite ap dwat chemen l; e nan mechansèt li, mechàn an ap tonbe.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "Jistis"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "moun ki gen entègrite"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "ap dwat"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "chemen l"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "e nan mechansèt li"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ap tonbe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechàn an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:51.735152883Z",
+  "model": "glm-5.3"
+}

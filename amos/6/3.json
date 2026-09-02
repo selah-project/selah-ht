@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "⟨Yo menm⟩ ki pouse jou mal la lwen, e ki fè chèz vyolans la vin pre.",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "ki pouse... lwen"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal la"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "e ki fè... vin pre"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "chèz"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:38:31.058859431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen soufri anpil anpil, Yawe; fè m viv dapre pawòl ou.",
+  "tokens": [
+    {
+      "surface": "נַעֲנֵיתִי",
+      "gloss": "Mwen soufri"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "anjouka"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "anpil anpil"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חַיֵּנִי",
+      "gloss": "fè m viv"
+    },
+    {
+      "surface": "כִדְבָרֶךָ",
+      "gloss": "dapre pawòl ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:29.536923125Z",
+  "model": "glm-5.3"
+}

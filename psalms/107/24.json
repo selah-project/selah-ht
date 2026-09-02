@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Se yo menm ki wè zèv Yawe, ak bag etonan li yo nan fon dlo a.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "se yo menm"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ki wè"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "zèv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ak bag etonan li yo"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "nan fon dlo a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:22.863521432Z",
+  "model": "glm-5.3"
+}

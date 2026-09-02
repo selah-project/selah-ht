@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E Azarya kouch ak papa l ⟨yo⟩, e yo antere ⟨את⟩ li ak papa l ⟨yo⟩ nan lavil David; e Yotam pitit li a wa nan plas li.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "e ... kouch"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "e yo antere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e ... wa"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:42.632138988Z",
+  "model": "glm-5.3"
+}

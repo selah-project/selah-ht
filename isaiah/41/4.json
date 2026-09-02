@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Ki moun ki fè sa ak fè l, ki rele jenerasyon yo depi kòmansman? Se mwen, Yawe, premye a, ak ⟨את⟩ dènye yo se mwen menm.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "fè"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ak fè l"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ki rele"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "jenerasyon yo"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "depi kòmansman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "premye a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dènye yo"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "dènye yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "menm"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:31.061861638Z",
+  "model": "glm-5.3"
+}

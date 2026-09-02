@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Paske ⟨li⟩ ap bay zanj ⟨li⟩ yo lòd konsènan ou, pou yo proteje ou nan tout wout ou yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "zanj li yo"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ap bay lòd"
+    },
+    {
+      "surface": "לך",
+      "gloss": "konsènan ou"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "pou proteje ou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "wout ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:15.586538598Z",
+  "model": "glm-5.3"
+}

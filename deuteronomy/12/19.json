@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Pran gad pou ou pa abannone ⟨את⟩ Levit la, tout jou ou yo, sou tè ou.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Pran gad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou ou pa"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "abannone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levit la"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levit la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "jou ou yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:48:47.010758178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Chemen ou yo, Yawe, fè m konnen; sentye ou yo, ansènye m.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Chemen ou yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fè m konnen"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "sentye ou yo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ansènye m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:15.544639196Z",
+  "model": "glm-5.3"
+}

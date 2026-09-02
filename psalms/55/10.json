@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Anile, Adònay, separe lang yo an de, paske mwen wè vyolans ak diskisyon nan lavil la.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Anile"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "separe an de"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lang yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mwen wè"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ak diskisyon"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:59.018518661Z",
+  "model": "glm-5.3"
+}

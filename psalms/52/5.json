@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Ou renmen move pase byen, manti pase ⟨pale⟩ jistis. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "pase byen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "manti"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:30.497065618Z",
+  "model": "glm-5.3"
+}

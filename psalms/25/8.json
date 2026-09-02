@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Bon ak dwat ⟨se⟩ Yawe; poutèt sa li ap montre pechè yo chemen an.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ak dwat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "כן",
+      "gloss": "poutèt sa"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ap montre"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "pechè yo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "chemen an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:13.290498147Z",
+  "model": "glm-5.3"
+}

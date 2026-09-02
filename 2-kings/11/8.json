@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E n ap antoure wa a toutotou, chak moun ak zam nan men l; e moun k antre nan reng yo, yo touye ⟨l⟩; e n ap rete ak ⟨את⟩ wa a lè l soti e lè l antre.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "n ap antoure"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "ak zam"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "e moun k antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "reng yo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "yo touye"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e n ap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "lè l soti"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "e lè l antre"
+    }
+  ],
+  "timestamp": "2026-09-02T18:13:12.588667163Z",
+  "model": "glm-5.3"
+}

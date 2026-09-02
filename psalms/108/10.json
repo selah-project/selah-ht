@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Moav se basin pou lave m; sou Edom m ap jete sandal mwen; sou Pelechet m ap fè bri viktwà.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "basin"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "pou lave m"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "m ap jete"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandal mwen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelechet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "m ap fè bri viktwà"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:42.768551916Z",
+  "model": "glm-5.3"
+}

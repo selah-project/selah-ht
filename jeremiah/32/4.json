@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 32:4",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi Tsidkiyahou, wa Yuda a, pap chape nan men Kachdim yo, paske l ap bay sètman bay nan men wa Babèl la, e bouch li ap pale ak bouch li, e je l ap wè ⟨את⟩ je l.",
+  "tokens": [
+    {
+      "surface": "וצדקיהו",
+      "gloss": "Epi Tsidkiyahou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ap chape"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kachdim yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "sètman"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babèl"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ap pale"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "e je l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je l"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "je l"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ap wè"
+    }
+  ],
+  "timestamp": "2026-09-02T21:55:14.212703114Z",
+  "model": "glm-5.3"
+}

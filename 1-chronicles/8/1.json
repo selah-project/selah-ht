@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E Binyamin fè ⟨את⟩ Bela, premye pitit gason li, Achbel ⟨li⟩ dezyèm, e Acharakh twazyèm.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "E Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "premye pitit gason li"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Achbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "e Acharakh"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "twazyèm"
+    }
+  ],
+  "timestamp": "2026-09-02T21:16:17.906117489Z",
+  "model": "glm-5.3"
+}

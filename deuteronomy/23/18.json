@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pa gen kedecha (fanm ki vann kò li nan sèvis bondye) pami fi Yisrael yo, e pa gen kadech (gason ki vann kò li) pami gason Yisrael yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "kedecha"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "pami fi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadech"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "pami gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:59.077614871Z",
+  "model": "glm-5.3"
+}

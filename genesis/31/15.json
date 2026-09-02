@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Èske li pa konte nou kòm etranje? Paske li vann nou, epi li manje ⟨את⟩ lajan nou anpil toutbon.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "èske li pa"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "kòm etranje"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "li konte nou"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "li vann nou"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "epi li manje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "toutbon"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "anpil manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lajan nou an"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "lajan nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:13.257005349Z",
+  "model": "glm-5.3"
+}

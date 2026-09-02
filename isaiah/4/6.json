@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi yon kabàn ap la pou bay lonbraj pandan jounen an, lwen chalè a, epi pou abri ak pou kachèt kont tanpèt ak kont lapli.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "epi yon kabàn"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap la"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "pou bay lonbraj"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "pandan jounen an"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "lwen chalè a"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "epi pou abri"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "ak pou kachèt"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "kont tanpèt"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "ak kont lapli"
+    }
+  ],
+  "timestamp": "2026-09-02T18:23:06.733736063Z",
+  "model": "glm-5.3"
+}

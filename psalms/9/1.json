@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Pou chèf mizisyen an, sou ⟨lamizik⟩ Almout Laben, yon mizmo, pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almout"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:54.416480782Z",
+  "model": "glm-5.3"
+}

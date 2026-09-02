@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "E gade si gen yon chemen ki fè doulè nan mwen, e gide mwen nan chemen ki pa gen fen.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "E gade"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ki fè doulè"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nan mwen"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "e gide mwen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan chemen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ki pa gen fen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:52.467872891Z",
+  "model": "glm-5.3"
+}

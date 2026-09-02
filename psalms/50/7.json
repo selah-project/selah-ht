@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Koute, pèp mwen, epi m ap pale; Yisrayèl, epi m ap temwen kont ou: Elohim, Elohim ou, se mwen menm.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "וַאֲדַבֵּרָה",
+      "gloss": "epi m ap pale"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "epi m ap temwen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kont ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "se mwen menm"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:47.119412158Z",
+  "model": "glm-5.3"
+}

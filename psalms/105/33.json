@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li frape rezen yo ak fig yo, epi li kase pyebwa nan teritwa yo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "rezen yo"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "ak fig yo"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "kase"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pyebwa"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "teritwa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:03.983285469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E mwen menm, mwen te vire pou m fè ⟨את⟩ kè m pèdi kouraj sou tout travay la ke mwen te fatigue m fè anba solèy la.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "E mwen te vire"
+    },
+    {
+      "surface": "אני",
+      "gloss": "menm"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "pou m fè ... pèdi kouraj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè m"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "travay la"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "ke mwen te fatigue m fè"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:46.988412899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 9:21",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E gen tan nyaj la te la depi swa rive maten, e nyaj la te monte nan maten la, e yo te fè vwayaj; oswa yon jou an antye oswa yon lannwit, lè nyaj la te monte, yo te fè vwayaj.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "E gen tan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "te la"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nyaj la"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "depi swa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "rive"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "e te monte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nyaj la"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten la"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "e yo te fè vwayaj"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "yon jou an antye"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "oswa yon lannwit"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "te monte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nyaj la"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "yo te fè vwayaj"
+    }
+  ],
+  "timestamp": "2026-09-02T16:25:09.027332377Z",
+  "model": "glm-5.3"
+}

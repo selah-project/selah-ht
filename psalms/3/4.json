@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Men ou, Yawe, se yon boukliye toutotou m; glwa m; epi ou ki ap leve tèt m.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "yon boukliye"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "toutotou m"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "glwa m"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "epi ki ap leve"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:26.621670273Z",
+  "model": "glm-5.3"
+}

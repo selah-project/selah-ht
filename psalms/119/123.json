@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Je m fin pèdi pou delivrans ou a, ak pou pawòl jistis ou a.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Je m"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fin pèdi"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "pou delivrans ou a"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ak pou pawòl"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "jistis ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:18.779272663Z",
+  "model": "glm-5.3"
+}

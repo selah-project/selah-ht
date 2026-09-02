@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 79,
+  "translation": "Epi, Adònay, bay vwazen nou yo sèt fwa nan pòch yo chay revanti yo a — menm revanti yo kote yo revanti ou a.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Epi … bay"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "vwazen nou yo"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sèt fwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "pòch yo"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "chay revanti yo a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "revanti ou a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:11.839875892Z",
+  "model": "glm-5.3"
+}

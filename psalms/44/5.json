@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Se ou menm wa mwen an, Elohim — òdone delivrans pou Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "menm"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa mwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "òdone"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "pou Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:42.613279154Z",
+  "model": "glm-5.3"
+}

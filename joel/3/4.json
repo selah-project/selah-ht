@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Solèy la ap vin nwa, ak lalin nan ap vin san, anvan jou Yawe a, jou gran an ak tèribil la, rive.",
+  "tokens": [
+    {
+      "surface": "הַשֶּׁ֨מֶשׁ",
+      "gloss": "Solèy la"
+    },
+    {
+      "surface": "יֵהָפֵ֣ךְ",
+      "gloss": "ap vin nwa"
+    },
+    {
+      "surface": "לְחֹ֔שֶׁךְ",
+      "gloss": "fènwa"
+    },
+    {
+      "surface": "וְהַיָּרֵ֖חַ",
+      "gloss": "ak lalin nan"
+    },
+    {
+      "surface": "לְדָ֑ם",
+      "gloss": "ap vin san"
+    },
+    {
+      "surface": "לִפְנֵ֗י",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "בּ֚וֹא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "י֣וֹם",
+      "gloss": "jou"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הַגָּד֖וֹל",
+      "gloss": "gran an"
+    },
+    {
+      "surface": "וְהַנּוֹרָֽא",
+      "gloss": "ak tèribil la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:12:11.683940465Z",
+  "model": "glm-5.3"
+}

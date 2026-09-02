@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 8:12",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Li di ba mwen: Eske w wè, pitit gason moun, sa ansyen kay Yisrayèl la fè nan fènwa a, chak gason nan chanm imaj li yo? Paske yo di: Yawe pa wè ⟨את⟩ nou; Yawe abandone ⟨את⟩ tè a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Li di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba mwen"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "eske w wè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ... ki"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansyen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "nan fènwa a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak gason"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "nan chanm ... yo"
+    },
+    {
+      "surface": "משכיתו",
+      "gloss": "imaj li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "abandone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:13:11.779379792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E yo mete ⟨את⟩ l kote jiska maten an, jan Moche kòmande; e li pa t vin sant, e vè pa t gen nan li.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "e yo mete kote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (mannan nan)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "maten an"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "vin sant"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "e vè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:16.234204994Z",
+  "model": "glm-5.3"
+}

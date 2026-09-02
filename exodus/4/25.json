@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Tsippora pran yon wòch file, li koupe ⟨את⟩ prepis pitit gason li a, epi li fè l manyen pye l, epi li di: vrèman, ou se yon bèlmari san ⟨pou⟩ mwen.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsippora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wòch file"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prepis pitit gason li a"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "prepis"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pitit gason li"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "fè l manyen"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "pye l"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vrèman"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "bèlmari"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:13.495542513Z",
+  "model": "glm-5.3"
+}

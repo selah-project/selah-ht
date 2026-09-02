@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E sa ki sove nan kay Yehouda, ki rete a, ap fè ankò rasin anba, e ap fè fwi anlè.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "ap fè ankò"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "sa ki sove"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "ki rete"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "rasin"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "anba"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e ap fè"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "anlè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:19:43.682694351Z",
+  "model": "glm-5.3"
+}

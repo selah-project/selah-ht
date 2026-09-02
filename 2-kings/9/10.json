@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E ⟨את⟩ Izebel chen yo ap manje nan pòsyon Yizreel la, e pa gen ⟨moun⟩ ki ap antere ⟨li⟩. E li ouvri pòt la, e li chape.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "manje"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "chen yo"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "nan pòsyon"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "antere"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ouvri"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pòt la"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "chape"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:57.070944394Z",
+  "model": "glm-5.3"
+}

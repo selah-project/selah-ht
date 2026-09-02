@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Chèkem pale ak Hamò papa l, li di: Pran pou mwen ⟨את⟩ jèn fi sa a pou madanm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chèkem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamò"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "קח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jèn fi sa a"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "jèn fi a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pou madanm"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:01.035060002Z",
+  "model": "glm-5.3"
+}

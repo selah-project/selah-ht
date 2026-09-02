@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E l te pase, lè Izèbel te koupe ⟨את⟩ pwofèt Yawe yo, Ovadyahou pran san pwofèt e li kache yo, senkant pa senkant nan yon kav, e li ba yo manje ak dlo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E l te pase"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "lè… te koupe"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izèbel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pwofèt Yawe yo"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "pwofèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahou"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "pwofèt"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "e li kache yo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "nan yon kav"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "e li ba yo manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ak dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:58.902192181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "L fè ⟨את⟩ dis kandèlab lò, dapre règ yo, e l mete nan tanp lan senk nan bò dwat ak senk nan bò goch.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "l fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis kandèlab lò"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "dis kandèlab"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "dapre règ yo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e l mete"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "nan tanp lan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "senk"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "nan bò dwat"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ak senk"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "nan bò goch"
+    }
+  ],
+  "timestamp": "2026-09-02T21:25:13.141634083Z",
+  "model": "glm-5.3"
+}

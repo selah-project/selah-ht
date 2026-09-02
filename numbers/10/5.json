@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E lè nou sonen yon tèt son, kan yo ki kanpe bò solèy levan ap leve ale.",
+  "tokens": [
+    {
+      "surface": "וּתְקַעְתֶּם",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "תְּרוּעָה",
+      "gloss": "yon tèt son"
+    },
+    {
+      "surface": "וְנָסְעוּ",
+      "gloss": "ap leve ale"
+    },
+    {
+      "surface": "הַמַּחֲנוֹת",
+      "gloss": "kan yo"
+    },
+    {
+      "surface": "הַחֹנִים",
+      "gloss": "ki kanpe"
+    },
+    {
+      "surface": "קֵדְמָה",
+      "gloss": "bò solèy levan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:25:17.679764771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "ak ⟨את⟩ fondasyon lakou a toutotou, ak ⟨את⟩ fondasyon pòtay lakou a, ak ⟨את⟩ tout pike tant la, ak ⟨את⟩ tout pike lakou a toutotou.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "fondasyon lakou a toutotou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "fondasyon"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "fondasyon pòtay lakou a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "fondasyon"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout pike tant la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pike"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout pike lakou a toutotou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pike"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:57.641073655Z",
+  "model": "glm-5.3"
+}

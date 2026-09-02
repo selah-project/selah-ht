@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi Modekay tounen nan pòt wa a, men Aman chache al kay li, ap fè doulè, ak tèt kouvri.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֥שָׁב",
+      "gloss": "Epi ... tounen"
+    },
+    {
+      "surface": "מָרְדֳּכַ֖י",
+      "gloss": "Modekay"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שַׁ֣עַר",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "הַמֶּ֑לֶךְ",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "וְהָמָן֙",
+      "gloss": "men Aman"
+    },
+    {
+      "surface": "נִדְחַ֣ף",
+      "gloss": "chache al"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בֵּית֔וֹ",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "אָבֵ֖ל",
+      "gloss": "ap fè doulè"
+    },
+    {
+      "surface": "וַחֲפ֥וּי",
+      "gloss": "ak ... kouvri"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "tèt"
+    }
+  ],
+  "timestamp": "2026-09-02T20:56:11.974935860Z",
+  "model": "glm-5.3"
+}

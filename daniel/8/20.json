@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Belò ki gen de kòn ou te wè a — se wa Madyan ak wa Paras yo.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "Belò ki gen de kòn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ou te wè"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ki gen"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "de kòn"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa yo (se) —"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madyan"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ak Paras"
+    }
+  ],
+  "timestamp": "2026-09-02T20:59:45.099724627Z",
+  "model": "glm-5.3"
+}

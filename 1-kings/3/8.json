@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E esklav ou nan mitan pèp ou ke ou chwazi, yon pèp ki gwo anpil, ki pa ka konte ni kalkile akò gwo kantite l.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "E esklav ou"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "ou chwazi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yon pèp"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ki gwo anpil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ka konte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kalkile"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "akò gwo kantite l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:39.975288697Z",
+  "model": "glm-5.3"
+}

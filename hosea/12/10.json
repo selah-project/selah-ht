@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Men mwen se Yawe, Elohim ou a, depi pèyi Mitsrayim lan; m ap fè ou tounen rete ⟨nan⟩ tant yo ankò, kòm jou fèt apwenti yo.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "men mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "depi pèyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "m ap fè ou tounen rete"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "nan tant yo"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kòm jou"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fèt apwenti"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:06.272285061Z",
+  "model": "glm-5.3"
+}

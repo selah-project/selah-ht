@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi pou w konte nan zòrèy pitit ou a ak pitit pitit ou a ⟨את⟩ sa m fè sou Mitsrayim, ak ⟨את⟩ siy mwen yo ke m mete sou yo, pou nou konnen ke se mwen ki Yawe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Epi pou"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "konte"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "nan zòrèy"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pitit ou a"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ak pitit"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pitit ou a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa m fè sou Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "m fè sou"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "siy mwen yo"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "siy mwen yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "m mete"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "pou nou konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:35.052241657Z",
+  "model": "glm-5.3"
+}

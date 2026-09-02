@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Meltsar la te retire ⟨את⟩ manje yo ak diven bwè yo a, epi li te bay yo legim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "te vin"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "Meltsar"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "te retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manje yo"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "manje yo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ak diven"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "bwè yo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "epi te bay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "legim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:34.270030788Z",
+  "model": "glm-5.3"
+}

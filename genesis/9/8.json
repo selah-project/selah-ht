@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E Elohim pale ak Noach, e ak pitit gason l ansanm ak ⟨את⟩ li, pou ⟨li⟩ di ⟨sa⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... pale"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ansanm ak ⟨את⟩ li"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou ⟨li⟩ di ⟨sa⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:20.397566952Z",
+  "model": "glm-5.3"
+}

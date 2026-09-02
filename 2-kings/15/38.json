@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 15:38",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Yotam dòmi ak papa l yo, e yo antere l ak papa l yo nan lavil David papa l a, epi Ahaz pitit li a règne nan plas li.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "epi … dòmi"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ep yo antere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "epi … règne"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:16:44.327396132Z",
+  "model": "glm-5.3"
+}

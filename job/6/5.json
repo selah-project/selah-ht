@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Èske yon bourik sovaj kriye sou zèb? Èske yon bèf mègle sou manje l?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "kriye"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "bourik sovaj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "zèb"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Èske"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "mègle"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "manje l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:33:18.883444731Z",
+  "model": "glm-5.3"
+}

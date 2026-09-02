@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Yon sòt di nan kè l: pa gen Elohim. Yo pouri, yo fè abominab enjistis; pa gen moun ki fè byen.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nan kè l"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "pouri"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "fè abominab"
+    },
+    {
+      "surface": "עול",
+      "gloss": "enjistis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:20.189123109Z",
+  "model": "glm-5.3"
+}

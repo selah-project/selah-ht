@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E li di l: Si Vizaj ou pa ap mache ⟨ak nou⟩, pa mennen nou soti nan kote sa a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Vizaj ou"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "mennen nou soti"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nan kote sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:11.577318845Z",
+  "model": "glm-5.3"
+}

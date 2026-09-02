@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Èske pou mò yo ou fè mirak? Èske refayim yo pral leve loue ou? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "pou mò yo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mirak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "èske"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refayim yo"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "pral leve"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "loue ou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:42.928439929Z",
+  "model": "glm-5.3"
+}

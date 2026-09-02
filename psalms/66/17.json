@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Nan direksyon l ak bouch mwen mwen rele, ak ⟨yo⟩ monte l anwo anba losanj mwen.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Nan direksyon l"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ak bouch mwen"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mwen rele"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "ak monte l anwo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "losanj mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:17.812143134Z",
+  "model": "glm-5.3"
+}

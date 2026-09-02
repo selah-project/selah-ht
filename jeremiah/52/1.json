@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 52:1",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Pitit gason ven ak yon lane Tsidkiyahou lè l kòmanse wayite, e li wayite onz lane nan Yerouchalayim; non manman l se Hamoutal, pitit fi Yirmiyahou, soti nan Livna.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ak yon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahou"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "lè l wayite"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ak yon"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wayite"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ak non"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "חמיטל",
+      "gloss": "Hamoutal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahou"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "soti nan Livna"
+    }
+  ],
+  "timestamp": "2026-09-02T19:11:04.240483549Z",
+  "model": "glm-5.3"
+}

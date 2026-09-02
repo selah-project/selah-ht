@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Akòz peche Yarobam yo ke l te peche, e ke l te fè ⟨את⟩ Yisrayèl peche, ak provokasyon l, ke l te fè ⟨את⟩ Yawe, Elohim Yisrayèl, kòlè.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "akòz"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "peche yo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "peche"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ke"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "fè peche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "ak provokasyon l"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "fè kòlè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:16.045059547Z",
+  "model": "glm-5.3"
+}

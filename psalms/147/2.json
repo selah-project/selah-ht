@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Yawe ap bati Yerouchalayim, ⟨li⟩ ap rake ansanm moun Yisrael yo ki te pouse deyò yo.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "ap bati"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ki te pouse deyò yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "ap rake ansanm moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:30.329811144Z",
+  "model": "glm-5.3"
+}

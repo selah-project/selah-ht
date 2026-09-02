@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Yisrael pran ⟨את⟩ tout vil sa yo, epi Yisrael te rete nan tout vil Emoryen yo, nan Khechbòn ak nan tout pitit vil li yo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout vil sa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "vil sa yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "te rete"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoryen yo"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "nan Khechbòn"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak nan tout"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "pitit vil li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:31:24.586571431Z",
+  "model": "glm-5.3"
+}

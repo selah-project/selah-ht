@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi Mikal pran ⟨את⟩ terafim yo, epi mete yo sou kabann la, epi ⟨את⟩ kevir cheve kabrit la, mete l nan bò tèt li, epi kouvwi l ak yon rad.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Epi pran"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim yo"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim yo"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "epi mete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "kabann la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "kevir cheve kabrit la"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "kevir"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "cheve kabrit"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "mete"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "nan bò tèt li"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "epi kouvwi"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ak yon rad"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:41.569321939Z",
+  "model": "glm-5.3"
+}

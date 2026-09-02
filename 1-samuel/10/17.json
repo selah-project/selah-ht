@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Chemouèl rasanble ⟨את⟩ pèp la anvan Yawe nan Mitspa a.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "rasanble"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:30.003288872Z",
+  "model": "glm-5.3"
+}

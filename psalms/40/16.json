@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Se pou yo ravaje sou tray de wont yo, yo menm k ap di m: Aha, aha.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ravaje"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tray de"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "wont yo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "k ap di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:25.209710506Z",
+  "model": "glm-5.3"
+}

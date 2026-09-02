@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E dlo pral fenk soti lan lanmè a, e larivyè a pral vin dezol e pral sèche.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "e pral fenk"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "soti lan lanmè a"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "e larivyè"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "pral vin dezol"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "e pral sèche"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:00.267075615Z",
+  "model": "glm-5.3"
+}

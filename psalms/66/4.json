@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Tout tè a ap prosterne devan ⟨ou⟩, ap chante pou ⟨ou⟩, ap chante non ⟨ou⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ap prosterne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "e ap chante"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ap chante"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:29.649899722Z",
+  "model": "glm-5.3"
+}

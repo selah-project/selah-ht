@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Pa jete m ale nan tan vièyès la; lè fòs m ap fini, pa abandone m.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "jete m ale"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "vièyès"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "lè … ap fini"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fòs m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abandone m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:51.793066325Z",
+  "model": "glm-5.3"
+}

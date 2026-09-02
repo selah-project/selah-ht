@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Moun ki fè lapwanj pa kanpe devan zye ou, ou rayi tout moun ki pratike inikite.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "moun ki fè lapwanj"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "zye ou"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ou rayi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun ki pratike"
+    },
+    {
+      "surface": "און",
+      "gloss": "inikite"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:14.434836244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Epi l fèt, nan jou dezyèm nan apre yo fè ⟨את⟩ Gedalyahou mouri, epi yon nonm pa t konnen anyen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi l fèt"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm nan"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "fè mouri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahou"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahou"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "epi yon nonm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:04:41.454232857Z",
+  "model": "glm-5.3"
+}

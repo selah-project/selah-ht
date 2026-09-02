@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi Novakh te ale, epi li pran ⟨את⟩ Kenat ak ⟨את⟩ pitit vil li yo, epi li rele l Kenat-Non — Novakh — non pa li menm.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Epi Novakh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "te ale"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "epi li pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit vil li yo"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "pitit vil li yo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "epi li rele"
+    },
+    {
+      "surface": "לה",
+      "gloss": "l"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novakh"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "non pa li menm"
+    }
+  ],
+  "timestamp": "2026-09-02T16:36:50.409278924Z",
+  "model": "glm-5.3"
+}

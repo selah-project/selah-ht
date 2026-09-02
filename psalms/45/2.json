@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Kè m ap bouyi ak yon pawòl bon; m ap di zèv mwen pou wa a; lang mwen ⟨se⟩ plim yon ekriven rapid.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "bouyi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "zèv mwen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou wa a"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lang mwen"
+    },
+    {
+      "surface": "עט",
+      "gloss": "plim"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "ekriven"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "rapid"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:06.701451788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 100,
+  "translation": "Paske Yawe bon, hesed ⟨li⟩ lan pou tout tan, epi jiska do ak do, fidelity ⟨li⟩ lan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed ⟨li⟩ lan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "epi jiska"
+    },
+    {
+      "surface": "דר",
+      "gloss": "do"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak do"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "fidelity ⟨li⟩ lan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:22.206276925Z",
+  "model": "glm-5.3"
+}

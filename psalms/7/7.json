@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Leve, Yawe, nan kòlè w; monte kont fizi advèsè m yo; e reveye pou m — jistis, se sa w òdone.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "nan kòlè w"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "monte"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "kont fizi"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "advèsè m yo"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "e reveye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "w òdone"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:55.074043396Z",
+  "model": "glm-5.3"
+}

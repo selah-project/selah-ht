@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 131,
+  "translation": "Wi, mwen fè nanm m kanpe dwat e mwen fè l kalm, tankou yon timoun sevre sou manman l; sou m, nanm m se tankou yon timoun sevre.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "mwen fè kanpe dwat"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "e mwen fè kalm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "tankou yon timoun sevre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "tankou yon timoun sevre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:17.863953861Z",
+  "model": "glm-5.3"
+}

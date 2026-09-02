@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Paske nenpòt ki moun ki maladichon ⟨את⟩ papa l ak ⟨את⟩ manman l, lanmò ⟨pou⟩ mouri l: papa l ak manman l li maladichon; san l sou li.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nenpòt ki moun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nenpòt ki moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "maladichon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "manman l"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lanmò"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mouri l"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ak manman l"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "li maladichon"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "san l"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:57.617302403Z",
+  "model": "glm-5.3"
+}

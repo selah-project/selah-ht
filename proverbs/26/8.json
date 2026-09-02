@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Koum yon wòch mare nan fromazon, konsa se moun ki bay onè bay yon fou.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "Koum yon wòch mare"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "nan fromazon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "bay yon fou"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "onè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:02.273220941Z",
+  "model": "glm-5.3"
+}

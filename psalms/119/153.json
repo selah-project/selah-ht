@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Gade mizè m, ak delivre m: paske lwa ou a, mwen pa bliye ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mizè m"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "ak delivre m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "lwa ou a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "mwen bliye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:49.210860544Z",
+  "model": "glm-5.3"
+}

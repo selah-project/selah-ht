@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E menm pitit Dichan yo: Hemdàn, Echban, Yitràn, ak Keràn.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E menm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Dichan"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Hemdàn"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ak Echban"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ak Yitràn"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ak Keràn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:30:23.884946028Z",
+  "model": "glm-5.3"
+}

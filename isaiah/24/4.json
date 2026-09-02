@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Tè a ap fè dèy ak fen, monn nan ap febli ak fen, wotè pèp tè a ap febli.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "ap fè dèy"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ap fen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ap febli"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ap fen"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "monn nan"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ap febli"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wotè"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:54.792182048Z",
+  "model": "glm-5.3"
+}

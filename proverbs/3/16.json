@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Lontan lavi ⟨genyen⟩ nan men dwat li; nan men goch li, richès ak glwa ⟨genyen⟩.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Lontan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "nan men dwat li"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "nan men goch li"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "richès"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ak glwa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:51.757017083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi l ap fè ⟨את⟩ men l poze sou tèt ofra l la, epi l ap touye ⟨את⟩ l devan tant rankont la; epi pitit Aharòn yo ap voye ⟨את⟩ san l la toutotou sou lotèl la.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ap fè poze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ofra l"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ap touye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (ofra a)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ap voye (asje)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san l la"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:17.500826988Z",
+  "model": "glm-5.3"
+}

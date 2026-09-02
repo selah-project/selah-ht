@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Li voye sekou ⟨ou⟩ soti nan santityè a, epi soti nan Tsiyòn Li sipòte ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "sekou ou"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "soti nan santityè a"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "epi soti nan Tsiyòn"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "sipòte ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:07.050663096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Eseye ⟨את⟩ yo ak ⟨את⟩ pitit nou yo, pou yo pale ⟨את⟩ yo nan tout moman, lè ou chita nan kay ou, lè ou mache nan wout la, lè ou kouche e lè ou levan.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "Eseye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "pitit nou yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit nou yo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pitit nou yo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pou pale"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "lè ou chita"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nan kay ou"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "e lè ou mache"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout la"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "e lè ou kouche"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "e lè ou levan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:45.802477134Z",
+  "model": "glm-5.3"
+}

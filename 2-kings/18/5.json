@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Li mete konfyans li nan Yawe, Elohim Izrayèl la; apre li pa gen okenn tankou li nan tout wa Yehouda yo, ni ⟨pami⟩ moun ki te ye anvan li.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "mete konfyans"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "apre li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "tankou li"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "epi moun ki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "anvan li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:16:56.108650362Z",
+  "model": "glm-5.3"
+}

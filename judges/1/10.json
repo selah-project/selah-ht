@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Yehouda ale kont Kenaàn nan ki te rete nan Hevròn — non Hevròn anvan te Kiryat-Arba — epi yo frape ⟨את⟩ Chechai ak ⟨את⟩ Ahimàn ak ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Epi ale"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kont"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaàn nan"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ki te rete"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "nan Hevròn"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "epi non"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevròn"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "epi yo frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chechai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Chechai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ahimàn"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:06.462540894Z",
+  "model": "glm-5.3"
+}

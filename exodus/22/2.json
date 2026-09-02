@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si solèy la leve sou li, gen san pou li — remèt li ap remèt; si li pa genyen, l ap vann nan vòlaj li.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "leve"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "remèt"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "li ap remèt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa genyen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "epi l ap vann"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "nan vòlaj li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:44.658618064Z",
+  "model": "glm-5.3"
+}

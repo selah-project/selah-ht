@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi yon fi yon nonm kohen, si l kòmanse fè pwostitisyon, se ⟨את⟩ papa l li pwofane — nan dife yo ap boule l.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Epi yon fi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "kòmanse pwofane"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "fè pwostitisyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "pwofane"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ap boule"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:19.617571953Z",
+  "model": "glm-5.3"
+}

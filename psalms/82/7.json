@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 82,
+  "translation": "Menm toutou, kou moun nou pral mouri, epi nou pra tonbe kou youn nan chèf yo.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Menm toutou"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "kou moun"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "pral mouri"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "epi kou youn"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "chèf yo"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "pral tonbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:33.296283066Z",
+  "model": "glm-5.3"
+}

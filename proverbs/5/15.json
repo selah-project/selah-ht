@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Bwe dlo nan sistèn ou a, epi dlo ki koule soti nan mitan pwi ou.",
+  "tokens": [
+    {
+      "surface": "שְׁתֵה",
+      "gloss": "Bwe"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "מִבּוֹרֶךָ",
+      "gloss": "nan sistèn ou a"
+    },
+    {
+      "surface": "וְנֹזְלִים",
+      "gloss": "epi ki koule"
+    },
+    {
+      "surface": "מִתּוֹךְ",
+      "gloss": "soti nan mitan"
+    },
+    {
+      "surface": "בְּאֵרֶךָ",
+      "gloss": "pwi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:24.452628705Z",
+  "model": "glm-5.3"
+}

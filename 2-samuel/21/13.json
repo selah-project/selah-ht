@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E l fè monte soti la ⟨את⟩ zo Chaoul yo ak ⟨את⟩ zo Yehonatan pitit gason li a; e yo ranmase ⟨את⟩ zo moun ki te pèndi yo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "fè monte"
+    },
+    {
+      "surface": "משם",
+      "gloss": "soti la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zo Chaoul yo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "zo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zo Yehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason li"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "e yo ranmase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zo moun pèndi yo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "zo"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "moun ki te pèndi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:49:28.753153514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Paske li renmen m ⟨anpil⟩, m ap delivre l; m ap mete l ⟨enpòtan⟩ anwo, paske li konnen Non m.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "nan m"
+    },
+    {
+      "surface": "חָשַׁק",
+      "gloss": "li renmen m"
+    },
+    {
+      "surface": "וַאֲפַלְּטֵהוּ",
+      "gloss": "m ap delivre l"
+    },
+    {
+      "surface": "אֲשַׂגְּבֵהוּ",
+      "gloss": "m ap mete l anwo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יָדַע",
+      "gloss": "li konnen"
+    },
+    {
+      "surface": "שְׁמִי",
+      "gloss": "Non m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:37.926695482Z",
+  "model": "glm-5.3"
+}

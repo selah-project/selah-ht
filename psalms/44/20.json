@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Men ⟨ou⟩ frape nou koupe nan kote chakal yo, e ⟨ou⟩ kouvri nou ak lonbraj lanmò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "kraze nou"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "chakal yo"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "e kouvri"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "ak lonbraj lanmò"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:16.041733210Z",
+  "model": "glm-5.3"
+}

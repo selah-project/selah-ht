@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Je tout ⟨kreyati⟩ tann gade sou ou, e ou ban yo ⟨את⟩ manje yo nan tan li.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "tann gade"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ou"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manje yo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "manje yo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "nan tan li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:36.700011266Z",
+  "model": "glm-5.3"
+}

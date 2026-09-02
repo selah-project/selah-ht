@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Yawe di ba m: paOPRESHE ⟨את⟩ Moab, epi pa pwovoke yo nan lagè, paske m pa pral ban ou de tè li pou ⟨yon⟩ eritaj, paske pou pitit Lot mwen te bay ⟨את⟩ A pou ⟨yon⟩ eritaj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi … di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "OPRESHE"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "pwovoke"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kont yo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nan lagè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "pral ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "de tè li"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "eritaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen te bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "A"
+    },
+    {
+      "surface": "ער",
+      "gloss": "A"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "eritaj"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:23.951018285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E tout vye granmoun Yisrael yo vini, e prèt yo pote ⟨את⟩ chès la.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vye granmoun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chès la"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "chès la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:08.672012050Z",
+  "model": "glm-5.3"
+}

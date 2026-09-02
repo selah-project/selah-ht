@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi HaElohim bay ⟨את⟩ Daniel pou hesed ak pou rachamim devan chèf saris yo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Epi bay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "pou hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "ak pou rachamim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "saris yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:47.891498420Z",
+  "model": "glm-5.3"
+}

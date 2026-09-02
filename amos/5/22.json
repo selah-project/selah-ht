@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "amos 5:22",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Menm si ou monte l pou mwen ⟨את⟩ ofrand boule yo ak ⟨את⟩ ofrand farin ou yo, mwen p ap agréye yo; e ofrand pè ou yo, mwen p ap gade l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Menm si"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menm si"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ou monte l"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ofrand boule yo",
+      "marks": "ofrand boule yo"
+    },
+    {
+      "surface": "ומנחתיכם",
+      "gloss": "ak ofrand farin ou yo",
+      "marks": "ofrand farin ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mwen agréye"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "e ofrand pè"
+    },
+    {
+      "surface": "מריאיכם",
+      "gloss": "bèf gra ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "mwen gade l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:37:51.697763438Z",
+  "model": "glm-5.3"
+}

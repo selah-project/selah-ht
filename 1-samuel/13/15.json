@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E Chemouèl kanpe, e li moute depi Gilgal rive nan Givèat Benyamin; e Chaoul konte ⟨את⟩ pèp la ki touve avèk li a, apeprè sis san moun.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "moute"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depi"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Givèat"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "konte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ki touve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avèk li"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "apeprè"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:51.486997057Z",
+  "model": "glm-5.3"
+}

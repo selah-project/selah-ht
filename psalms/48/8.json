@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Ak yon van lès Ou kraze bato Tarshish yo.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "Ak yon van"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "lès"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "bato"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:39.649028448Z",
+  "model": "glm-5.3"
+}

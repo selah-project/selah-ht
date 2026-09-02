@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Acher pa chase ⟨את⟩ moun Akko yo ni ⟨את⟩ moun Tsidon yo, ni ⟨את⟩ Akhlab ni ⟨את⟩ Akziv ni ⟨את⟩ Khelba ni ⟨את⟩ Afek ni ⟨את⟩ Rekhob.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Acher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "chase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun Akko yo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun ki t ap rete yo"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "Akko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "moun Tsidon yo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "moun ki t ap rete yo"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Akhlab"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Akhlab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Akziv"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Akziv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Khelba"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Khelba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Afek"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Rekhob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhob"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:39.951424314Z",
+  "model": "glm-5.3"
+}

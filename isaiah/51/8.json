@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Paske yon vè ap manje yo tankou yon abit, e yon vè nan lannwi ap manje yo; men kòrèktes mwen pou touttan ap genyen, e delivrans mwen pou jenerasyon jenerasyon.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כַבֶּ֨גֶד֙",
+      "gloss": "tankou yon abit"
+    },
+    {
+      "surface": "יֹאכְלֵ֣ם",
+      "gloss": "ap manje yo"
+    },
+    {
+      "surface": "עָ֔שׁ",
+      "gloss": "yon vè"
+    },
+    {
+      "surface": "וְכַצֶּ֖מֶר",
+      "gloss": "e tankou lannwi"
+    },
+    {
+      "surface": "יֹאכְלֵ֣ם",
+      "gloss": "ap manje yo"
+    },
+    {
+      "surface": "סָ֑ס",
+      "gloss": "yon vè nan lannwi"
+    },
+    {
+      "surface": "וְצִדְקָתִי֙",
+      "gloss": "e kòrèktes mwen"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "תִּֽהְיֶ֔ה",
+      "gloss": "ap genyen"
+    },
+    {
+      "surface": "וִישׁוּעָתִ֖י",
+      "gloss": "e delivrans mwen"
+    },
+    {
+      "surface": "לְד֥וֹר",
+      "gloss": "pou jenerasyon"
+    },
+    {
+      "surface": "דּוֹרִֽים",
+      "gloss": "jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:06.126403923Z",
+  "model": "glm-5.3"
+}

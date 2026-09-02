@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Beni Yawe, tout zèv l yo, nan tout kote ki anba pouvwa l! Beni, nanm mwen, ⟨את⟩ Yawe!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zèv l yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ki anba pouvwa l"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:37.200455170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi fanm nan di: ⟨את⟩ Kilès m ap monte pou ou? E li di: ⟨את⟩ Chemouèl — monte l pou m.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Epi … di"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kilès"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kilès"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "m ap monte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chemouèl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "monte l"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:25.588735982Z",
+  "model": "glm-5.3"
+}

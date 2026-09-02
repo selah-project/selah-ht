@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Paske pa gen yon mo nan lang m — gade, Yawe, ou konnen l tout antye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "nan lang m"
+    },
+    {
+      "surface": "הן",
+      "gloss": "gade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ou konnen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tout antye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:49.084461863Z",
+  "model": "glm-5.3"
+}

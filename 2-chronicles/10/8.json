@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Li kite ⟨את⟩ konsèy vyey granmoun yo ki te bay li, li konsilte ⟨את⟩ jèn gason yo ki te grandi avè ⟨את⟩ li, yo menm ki kanpe devan l.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "li kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konsèy"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "konsèy"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vyey granmoun yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "te bay li"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "li konsilte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jèn gason yo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "jèn gason yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "te grandi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avè ⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ki kanpe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:28:20.399447959Z",
+  "model": "glm-5.3"
+}

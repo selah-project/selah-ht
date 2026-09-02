@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Lè mechan yo rive sou m pou yo manje ⟨את⟩ vyann m — enmi m ak advèrsè m — se yo menm ki chancelen epi ki tonbe.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "rive sou"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pou yo manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyann m"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "vyann m"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "enmi m"
+    },
+    {
+      "surface": "ויבי",
+      "gloss": "ak advèrsè m"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo menm"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "chancelen"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "epi ki tonbe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:03.986839315Z",
+  "model": "glm-5.3"
+}

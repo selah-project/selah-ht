@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Yo pa ap rete nan tè Yawe a; Efrayim ap retounen nan Mitsrayim, e nan Achour yo ap manje ki pa prop.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ap rete"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ap retounen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "e nan Achour"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ki pa prop"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yo ap manje"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:02.683640256Z",
+  "model": "glm-5.3"
+}

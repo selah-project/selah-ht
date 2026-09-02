@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Pye mwen kanpe ⟨sou⟩ tè platon; nan reyinyon yo m ap beni Yawe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Pye mwen"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "sou tè platon"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "nan reyinyon yo"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "m ap beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:48.554481580Z",
+  "model": "glm-5.3"
+}

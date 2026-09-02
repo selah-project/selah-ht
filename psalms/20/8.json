@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Kèk moun nan charyo, kèk moun nan chwal yo; men nou, n ap sonje nan non Yawe Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kèk moun"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "nan charyo"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "epi kèk moun"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "nan chwal yo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "n ap sonje"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:33.221065766Z",
+  "model": "glm-5.3"
+}

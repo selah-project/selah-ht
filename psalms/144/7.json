@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Voye men ou yo soti anlè, delivre m, sove m nan dlo ki gen anpil, nan men pitit etranje yo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Voye…soti"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "men ou yo"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "delivre m"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "sove m"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ki gen anpil"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "etranye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:15.438870739Z",
+  "model": "glm-5.3"
+}

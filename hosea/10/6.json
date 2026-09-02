@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Menm ⟨את⟩ sa a ap pote ale Ashir, kòm tribi pou wa a, Yarev; Chemeròn ap resevwa wont, epi Yisrayèl ap wont konsèy li a pwòp tèt li fè.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Menm"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "sa a"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "pou Ashir"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ap pote ale"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kòm tribi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou wa a"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "wont"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Chemeròn"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ap resevwa"
+    },
+    {
+      "surface": "ובוש",
+      "gloss": "epi ap wont"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "konsèy li a pwòp tèt li fè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:55.509703677Z",
+  "model": "glm-5.3"
+}

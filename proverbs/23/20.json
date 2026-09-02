@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pa vin youn nan bwètè diven yo, ni nan glouton vyann yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "vin youn"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "nan bwètè"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diven"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "ni nan glouton"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:27.379048641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E mwen pa t vle tande Bilam; se poutètsa li beni ⟨את⟩ nou ankò e ankò, e mwen delivre ⟨את⟩ nou nan men l.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "mwen pa t vle"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "epi li beni"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ankò e ankò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "epi mwen delivre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "nan men l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:10:54.556961064Z",
+  "model": "glm-5.3"
+}

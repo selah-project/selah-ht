@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Mwen kouche, mwen domi, mwen reveye, paske Yawe sipòte mwen.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "mwen kouche"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "mwen domi"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "mwen reveye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "sipòte mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:31.061259671Z",
+  "model": "glm-5.3"
+}

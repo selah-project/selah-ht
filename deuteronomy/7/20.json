@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Menm tou, Yawe Elohim ou ap voye ⟨את⟩ gèpyon an sou yo, jouk moun ki rete yo ak moun ki kache anvan ou finn disparèt.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Menm tou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gèpyon an"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "gèpyon an"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ap voye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "finn disparèt"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ki rete yo"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "ak ki kache"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "anvan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:48.117454681Z",
+  "model": "glm-5.3"
+}

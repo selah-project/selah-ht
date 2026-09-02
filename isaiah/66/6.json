@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Yon bri debòda soti nan lavil la, yon bri soti nan tanp la, bri Yawe k ap peyi Enmi l yo sa yo merite.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Yon bri"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "debòda"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "nan lavil la"
+    },
+    {
+      "surface": "קול",
+      "gloss": "yon bri"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "nan tanp la"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "k ap peyi"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "sa yo merite"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "Enmi l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:44:53.587099494Z",
+  "model": "glm-5.3"
+}

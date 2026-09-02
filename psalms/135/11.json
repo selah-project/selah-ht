@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Sihòn wa Emori yo, ak Òg wa Bachan, ak tout wayòm Kenaàn yo —",
+  "tokens": [
+    {
+      "surface": "לְסִיח֤וֹן",
+      "gloss": "Sihòn"
+    },
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הָאֱמֹרִ֗י",
+      "gloss": "Emori yo"
+    },
+    {
+      "surface": "וּ֭לְעוֹג",
+      "gloss": "ak Òg"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הַבָּשָׁ֑ן",
+      "gloss": "Bachan"
+    },
+    {
+      "surface": "וּ֝לְכֹ֗ל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "מַמְלְכ֥וֹת",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "כְּנָֽעַן",
+      "gloss": "Kenaàn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:30.210806914Z",
+  "model": "glm-5.3"
+}

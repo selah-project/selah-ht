@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Pran ⟨את⟩ frè nou an tou, levez, retounen al jwenn nonm la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "frè nou an"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frè nou"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "levez"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al jwenn"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:37.311669987Z",
+  "model": "glm-5.3"
+}

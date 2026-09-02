@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "⟨את⟩ sa ki grandi tout sèl nan rekòt ou a, ou pa fèche; ak ⟨את⟩ rezen vyann ou ki pa annete a, ou pa ramase; yon lane repo konplè ap fèt pou tè a.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki grandi tout sèl nan rekòt ou a"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "sa ki grandi tout sèl"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "rekòt ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "fèche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "rezen vyann ou ki pa annete a"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "rezen"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "vyann ou ki pa annete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ramase"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "lane"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "repo konplè"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap fèt"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:03.522784568Z",
+  "model": "glm-5.3"
+}

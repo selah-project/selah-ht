@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "L pran ⟨את⟩ yo soti nan men yo, fòme ⟨את⟩ l ak yon chizèl, fè l yon jenn bèf ki fonn; e yo di: Se dye ⟨ou⟩ yo menm, Yisrael, ki fè ou monte soti nan peyi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "soti nan men yo"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "fòme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "lò a"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "ak yon chizèl"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "fè l"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "yon jenn bèf"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ki fonn"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "menm sa yo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dye ⟨ou⟩ yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "fè ou monte"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:18.003949895Z",
+  "model": "glm-5.3"
+}

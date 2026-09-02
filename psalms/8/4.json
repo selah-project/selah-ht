@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Lè m gade syèl ou yo, travay dwèt ou yo, linn ak etwal yo ki ou mete kanpe —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "syèl ou yo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "travay"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "dwèt ou yo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "linn"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ak etwal yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "ou mete kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:27.315468706Z",
+  "model": "glm-5.3"
+}

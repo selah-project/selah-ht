@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Lwa Yawe a ⟨se⟩ yon bagy ki parfait, li ranmene nanm lespri; temwayaj Yawe a ⟨se⟩ solid, li fè moun senp yo vin saj.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Lwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "parfait"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ki ranmene"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nanm"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "temwayaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "solid"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "ki fè vin saj"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "moun senp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:28.535822077Z",
+  "model": "glm-5.3"
+}

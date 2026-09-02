@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "E mèt li a wè ke Yawe te ak ⟨את⟩ li, e tout sa li te fè, Yawe te fè l reyisi nan men l.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E ... wè"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mèt li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ak li"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "te fè l reyisi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:19.890740944Z",
+  "model": "glm-5.3"
+}

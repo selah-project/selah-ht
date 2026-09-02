@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 38:23",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Yehouda di: Kite l pran bagay sa yo pou li, fò n pa vin an wont; gade, se mwen menm ki voye kabrit jèn sa a, e ou pa jwenn li.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fò n pa"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "an wont"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mwen voye"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "kabrit jèn an"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מצאתה",
+      "gloss": "jwenn li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:12.258548352Z",
+  "model": "glm-5.3"
+}

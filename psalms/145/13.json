@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Wayòm ou ⟨se⟩ yon wayòm pou tout tan yo, ak gouvènman ou ⟨nan⟩ tout generasyon ak generasyon.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "wayòm ou"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "tan yo"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "ak gouvènman ou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generasyon"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ak generasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:36.699577028Z",
+  "model": "glm-5.3"
+}

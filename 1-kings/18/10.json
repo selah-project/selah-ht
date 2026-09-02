@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Viv Yawe Elohim ou la, pa gen okenn nasyon ni wayòm kote mèt mwen pa voye ⟨pou yo⟩ chèche ou; e lè yo te di: Li pa la, li fè ⟨את⟩ wayòm nan ak ⟨את⟩ nasyon an prete sèman ke yo pa jwenn ou.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יש",
+      "gloss": "genyen"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasyon"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "ak wayòm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mèt mwen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "pou yo chèche ou"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "אין",
+      "gloss": "li pa la"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "li fè prete sèman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayòm nan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "wayòm nan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "nasyon an"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "nasyon an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "yo jwenn ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:20.021877836Z",
+  "model": "glm-5.3"
+}

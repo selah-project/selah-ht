@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Bay ou mwen rele, Yawe, e nan direksyon Adònay mwen chèche gras.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Bay ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mwen rele"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e nan direksyon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mwen chèche gras"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:12.762694665Z",
+  "model": "glm-5.3"
+}

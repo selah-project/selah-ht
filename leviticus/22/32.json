@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi nou pa profane ⟨את⟩ Non sen mwen an, epi m ap senifye nan mitan pitit Yisrael yo; se mwen menm Yawe, mwen ki senifye nou.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Epi pa"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "nou profane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Non sen mwen an"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sen mwen an"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "epi m ap senifye"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "mwen ki senifye nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:57.365106008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Entèlijans yon moun fè l pran tan ankoraje kòlè l, e glwa l se pase sou yon trigrès.",
+  "tokens": [
+    {
+      "surface": "שֵׂכֶל",
+      "gloss": "entèlijans"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "הֶאֱרִיךְ",
+      "gloss": "fè pran tan"
+    },
+    {
+      "surface": "אַפּוֹ",
+      "gloss": "ankoraje kòlè l"
+    },
+    {
+      "surface": "וְתִפאַרְתּוֹ",
+      "gloss": "e glwa l"
+    },
+    {
+      "surface": "עֲבֹר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פֶּשַׁע",
+      "gloss": "yon trigrès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:26:52.920053019Z",
+  "model": "glm-5.3"
+}

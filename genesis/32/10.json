@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E Yaakov di: Elohim papa m Avraham, e Elohim papa m Yitshak, Yawe, ⟨Men⟩ ki di m: Retounen nan peyi ou ak nan kote fèt ou, e m ap fè byen avèk ou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e Yaakov di"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ki di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "nan peyi ou"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ak nan kote fèt ou"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "e m ap fè byen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:00.310230179Z",
+  "model": "glm-5.3"
+}

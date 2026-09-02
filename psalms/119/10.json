@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Nan tout kè mwen mwen chèche ou; pa kite m egare soti nan kòmandman ou yo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Nan tout"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "mwen chèche ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "kite m egare"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "soti nan kòmandman ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:24.472003357Z",
+  "model": "glm-5.3"
+}

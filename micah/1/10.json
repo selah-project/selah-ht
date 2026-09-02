@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Nan Gat pa pale l, pa pléré; nan Bet-Le-Afra, mwen woule tèt mwen nan pousyè.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Nan Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "pale l"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "pléré"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "pléré"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan Bet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Le-Afra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "mwen woule tèt mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:23.923484723Z",
+  "model": "glm-5.3"
+}

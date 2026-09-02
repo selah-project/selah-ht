@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Moche ak ansyen Yisrael yo bay pèp la lòd, pou yo di: Kenbe ⟨את⟩ tout kòmandman an ke m ap bay ⟨את⟩ ou jodi a.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "bay lòd"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ak ansyen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout kòmandman an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "kòmandman an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ap bay lòd"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:54:13.462524210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi David separe gason yo ak pawòl, e li pa kite yo levi kont Chaoul ; e Chaoul kanpe soti nan kavàn nan, e li mache nan wout la.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "separe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gason yo"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "gason yo"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ak pawòl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "kite yo"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "levi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kont"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "e Chaoul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "soti nan kavàn nan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "li mache"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:32.858227760Z",
+  "model": "glm-5.3"
+}

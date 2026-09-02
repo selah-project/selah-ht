@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Se yon lòt moun ki dwe fè lwanj ou, se pa bouch ou; yon etranje, se pa lèv ou.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ki dwe fè lwanj ou"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yon lòt moun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "se pa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bouch ou"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "yon etranje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "se pa"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lèv ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:28.901539507Z",
+  "model": "glm-5.3"
+}

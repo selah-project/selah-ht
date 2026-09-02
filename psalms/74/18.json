@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Sonje sa a: lènmi an ensilte ⟨ou⟩, Yawe, e pèp anbèsil la meprize Non ou a.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Sonje"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lènmi an"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ensilte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e pèp"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "anbèsil la"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "meprize"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:15.124127595Z",
+  "model": "glm-5.3"
+}

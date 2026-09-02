@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Pou David. Jije m, Yawe, paske mwen mache nan entegrite m, e nan Yawe mwen konfye, mwen pa ⟨ap⟩ trann.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pou David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "jije m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "nan entegrite m"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "mache"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "e nan Yawe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "konfye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "trann"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:46.728276830Z",
+  "model": "glm-5.3"
+}

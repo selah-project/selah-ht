@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E tout bèt ki divize kòn, e ki fè yon fann, yon fann an de kòn, e ki remonte manje li — nan tout bèt yo — ⟨את⟩ li menm nou pral manje.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "E tout"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ki divize"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "e ki fè yon fann"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "fann"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "an de"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ki remonte"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "manje (rumine)"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "nan bèt yo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li menm"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou pral manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:40.050532145Z",
+  "model": "glm-5.3"
+}

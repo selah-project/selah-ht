@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Pou chèf mizisyen yo, pou pitit Kora ach yo, sou Alamot, yon chante.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen yo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kora ach"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:32.423790612Z",
+  "model": "glm-5.3"
+}

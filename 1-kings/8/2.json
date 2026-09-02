@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E tout moun Yisrael yo reyini ansanm devan wa a Chelomo, nan mwa Etanim la, nan fèt la — se sètyèm mwa a li ye.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "reyini ansanm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "nan mwa"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Etanim la"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "nan fèt la"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se … li ye"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwa a"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sètyèm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:08.671843300Z",
+  "model": "glm-5.3"
+}

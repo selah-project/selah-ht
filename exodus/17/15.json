@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi Moche bati yon lotèl, epi l rele non l Yawe-Nisi (Yawe drapo m).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "bati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "yon lotèl"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "epi l rele"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi (drapo m)"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:36.270520886Z",
+  "model": "glm-5.3"
+}

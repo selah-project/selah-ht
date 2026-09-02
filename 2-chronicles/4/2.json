@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Li fè ⟨את⟩ Basen an, yon pyès fonde — dis koud soti nan bò l rive nan lòt bò l, won toutou won — e senk koud wotè l, e yon kòd trant koud ap tounen ⟨את⟩ li toutou won.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basen an"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Basen an"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "fonde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "koud"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "soti nan bò l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "lòt bò l"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "won"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutou won"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e senk"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "koud"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "wotè l"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "e yon kòd"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "koud"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ap tounen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (Basen an)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutou won"
+    }
+  ],
+  "timestamp": "2026-09-02T21:26:35.229459500Z",
+  "model": "glm-5.3"
+}

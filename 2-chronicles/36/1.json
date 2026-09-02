@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Epi pèp peyi a pran ⟨את⟩ Yehoachaz, pitit gason Yochiyahou, e yo fè l wayo nan plas papa l an, nan Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yochiyahou"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "fè l wayo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nan plas"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:38:43.151661548Z",
+  "model": "glm-5.3"
+}

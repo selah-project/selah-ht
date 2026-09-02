@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E David swiv, li ak kat san gason; de san gason kanpe, yo te twò fèb pou travese ⟨את⟩ ravin Vesor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "swiv"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ak kat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "de san"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "te fin fèb"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "travese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ravin Vesor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ravin"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Vesor"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:47.224350192Z",
+  "model": "glm-5.3"
+}

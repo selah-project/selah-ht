@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Ki moun ki mezire ⟨את⟩ lespri Yawe, e ki moun ki konseye l, fè l konnen?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "mezire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lespri"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e yon nonm"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "konseye l"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "fè l konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:49.133841759Z",
+  "model": "glm-5.3"
+}

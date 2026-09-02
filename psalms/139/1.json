@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Bay mèt mizik la. Yon psòm David. Yawe, ou fè rechèch sou m, epi ou konnen m.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bay mèt mizik la"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psòm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "ou fè rechèch sou m"
+    },
+    {
+      "surface": "ו תדע",
+      "gloss": "epi ou konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:49.083827095Z",
+  "model": "glm-5.3"
+}

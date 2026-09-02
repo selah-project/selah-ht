@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Ahi, pitit Avdiel, pitit Gouni — tèt ⟨pou⟩ kay papa yo.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Avdiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Gouni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pou kay"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "papa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:51.064145863Z",
+  "model": "glm-5.3"
+}

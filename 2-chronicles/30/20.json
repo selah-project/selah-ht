@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi Yawe tande pou Yehizkiyahou, epi l geri ⟨את⟩ pèp la.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Epi … tande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahou"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "epi l geri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:36:26.966415795Z",
+  "model": "glm-5.3"
+}

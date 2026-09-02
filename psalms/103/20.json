@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Beni Yawe, zanj li yo, chen stroèg yo, moun k ap fè pawòl li, pou tande vwa pawòl li!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "zanj li yo"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "chen stroèg yo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "moun k ap fè"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pawòl li"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pou tande"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pawòl li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:46.956314867Z",
+  "model": "glm-5.3"
+}

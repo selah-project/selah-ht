@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "jèn gason ak jèn fi ansanm, vye moun ansanm ak timoun —",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ak ... ansanm"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jèn fi"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vye moun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "timoun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:04.697326017Z",
+  "model": "glm-5.3"
+}

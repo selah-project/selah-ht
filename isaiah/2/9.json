@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E moun an kabèse atè, e gason an rabese tèt li — pa pardonnen yo!",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "e li kabèse"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "e li rabese"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "pardonnen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:06.063238330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Beni ou ap ye anvan tout pèp yo: pa ap gen non ki pa fè pitit ni fanm ki pa fè pitit nan mitan ou, ni nan bèt ou yo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "anvan tout"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap gen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan mitan ou"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "non ki pa fè pitit"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ni fanm ki pa fè pitit"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "ni nan bèt ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:53.011354671Z",
+  "model": "glm-5.3"
+}

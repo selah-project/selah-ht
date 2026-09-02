@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi l ale, l pran ⟨yo⟩, l pote bay manman l; epi manman l prepare manje delika tankou sa papa l te renmen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Epi l ale"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "l pran"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "l pote"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "bay manman l"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "epi ... prepare"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "manje delika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tankou sa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "te renmen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:25.558232434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi David fè jan HaElohim kòmande l a, epi yo frape ⟨את⟩ kan Filistin yo soti nan Givòn rive jiska Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "epi … fè"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kòmande l"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "epi yo frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan Filistin yo"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "soti nan Givòn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "rive jiska"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-02T21:18:41.327205904Z",
+  "model": "glm-5.3"
+}

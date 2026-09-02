@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Paske gade, fè nwa a ap kouvri tè ⟨a⟩, ak nwè epè sou nasyon yo; men sou ou Yawe ap leve, ak glwa ⟨li⟩ ap parèt sou ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "fè nwa a"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ap kouvri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ak nwè epè"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sou nasyon yo"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "men sou ou"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "ak glwa l"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ap parèt"
+    }
+  ],
+  "timestamp": "2026-09-02T18:43:21.111872043Z",
+  "model": "glm-5.3"
+}

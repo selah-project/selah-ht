@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E li retabli ⟨את⟩ chèf mèt bwè yo sou sèvis mèt bwè l a, e li mete koup la sou palmen Paro.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "retabli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chèf mèt bwè yo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mèt bwè yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "sèvis mèt bwè l a"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "koup la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palmen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-02T15:31:17.629312920Z",
+  "model": "glm-5.3"
+}

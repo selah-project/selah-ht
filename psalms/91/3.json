@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Paske se ⟨li⟩ ki pral delivre ou nan pyèj chase a, ak nan pesilans ki ap fè mal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨li⟩"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ki pral delivre ou"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "nan pyèj"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "chase a"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ak nan pesilans"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ki ap fè mal"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:16.036610812Z",
+  "model": "glm-5.3"
+}

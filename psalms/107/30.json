@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "E yo kontan paske ⟨yo⟩ kalme, e li mennen yo nan pò dezi yo a.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "e yo kontan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "yo kalme"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "e li mennen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "pò"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "dezi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:16.420694393Z",
+  "model": "glm-5.3"
+}

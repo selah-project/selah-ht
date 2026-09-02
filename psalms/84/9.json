@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Yawe Elohim Tzavaot, koute lapriyè mwen an; pran zòrèy, Elohim Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzavaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "koute"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lapriyè mwen"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pran zòrèy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:48.541447549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epwi ou fè bad yo ak bwa chitim, epi ou kouvri yo ak ⟨את⟩ lò.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "epwi ou fè"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "bad yo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "epi ou kouvri yo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lò"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:31.006144782Z",
+  "model": "glm-5.3"
+}

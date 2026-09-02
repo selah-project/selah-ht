@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Beni Yawe, paske li fè hesed li (lanmou-fidelite) extraordinè pou mwen, nan yon vil syèj.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "fè extraordinè"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan yon vil"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "syèj"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:43.183873438Z",
+  "model": "glm-5.3"
+}

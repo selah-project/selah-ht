@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Vwa Yawe fè bich yo akouche, li dechaje fòtèt yo toutouni; e nan tanp ⟨li⟩ tout bagay ap di: kavod (glwa).",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "fè akouche"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "bich yo"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "li dechaje toutouni"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "fòtèt yo"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "e nan tanp li"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tout li"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod (glwa)"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:52.572056063Z",
+  "model": "glm-5.3"
+}

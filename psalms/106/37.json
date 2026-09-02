@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "E yo sakrifye ⟨את⟩ pitit gason yo ak ⟨את⟩ pitit fi yo pou dyab yo.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "sakrifye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason yo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "pitit gason yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit fi yo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "pitit fi yo"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "pou dyab yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:17.097053996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Nou beni pou Yawe, menm ki fè syèl yo ak tè a.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ak tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:31.002752553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Yo ap pale sou fòs zak efwayan ou yo, e m ap konte grandè ou.",
+  "tokens": [
+    {
+      "surface": "ו� 05;זוז",
+      "gloss": "ak fòs"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "zak efwayan ou yo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo ap pale"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "e grandè ou"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "m ap konte"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:27.557988704Z",
+  "model": "glm-5.3"
+}

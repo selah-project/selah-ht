@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Tout poto lakou a, toutotou, vlope ak ajè ajan; kwoke yo ⟨se⟩ ajan, epi sokè yo ⟨se⟩ kwiv.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "poto yo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "vlope ak ajè"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "kwoke yo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "epi sokè yo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:31.026271035Z",
+  "model": "glm-5.3"
+}

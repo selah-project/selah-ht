@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Pa vin saj nan zye w pwòp; rerespekte ⟨את⟩ Yawe, epi vire do ak movèz.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "vin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saj"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nan zye w pwòp"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "rerespekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "epi vire do ak"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "movèz"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:25.635680841Z",
+  "model": "glm-5.3"
+}

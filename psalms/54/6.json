@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Gade, Elohim ⟨è⟩ nan èd pou mwen; Adònay ⟨è⟩ ak moun ki sipòte nefech mwen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "nan èd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "ak moun ki sipòte"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:11.503154209Z",
+  "model": "glm-5.3"
+}

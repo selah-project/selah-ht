@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Nan maten semenn ⟨את⟩ grenn ou, e nan aswè pa kite men ou repoze, paske ou pa konnen kilès ap reisi, sa a oswa sa a, e si toude yo ansanm bon.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Nan maten"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semenn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grenn ou"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "grenn ou"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "e nan aswè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "kite repoze"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ou pa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kilès"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ap reisi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "toude yo"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:53.006367663Z",
+  "model": "glm-5.3"
+}

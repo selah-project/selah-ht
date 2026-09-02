@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Eli rele ⟨את⟩ Chemouèl, e li di: Chemouèl, pitit mwen! E li di: Men m!",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Eli rele"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chemouèl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Men m"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:31.879971391Z",
+  "model": "glm-5.3"
+}

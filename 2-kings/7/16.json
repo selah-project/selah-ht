@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Pèp la soti e yo pilye ⟨את⟩ kan Aram, e yon sa farin ble ⟨te vin⟩ yon chèkèl, e de sa òj pou yon chèkèl, dapre pawòl Yawe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "e pilye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ⟨te vin⟩"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "yon sa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "farin ble"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "yon chèkèl"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "e de sa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "òj"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "yon chèkèl"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dapre pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:13:20.639425Z",
+  "model": "glm-5.3"
+}

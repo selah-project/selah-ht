@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Yo louvri bouch yo gran ase sou mwen, yo di: Heach, heach, zye nou te wè ⟨sa⟩!",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "louvri gran"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "bouch yo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heach"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heach"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "te wè"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "zye nou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:42.996360375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E m ap pran ⟨את⟩ nou pou mwen, pou yon pèp, e m ap vin pou nou, pou Elohim, e nou ap konnen ke mwen se Yawe Elohim nou, mwen ki fè ⟨את⟩ nou soti anba chay Mitsrayim yo.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "e pran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "pran pou mwen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pou yon pèp"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "e vin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "e ap konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "ki fè soti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "soti anba chay Mitsrayim yo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "chay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:49.125598329Z",
+  "model": "glm-5.3"
+}

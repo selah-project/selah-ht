@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Lè ou mache, l ap gide ⟨את⟩ ou; lè ou kouche, l ap gade sou ou; e lè ou reveye, se li menm k ap pale avèk ou.",
+  "tokens": [
+    {
+      "surface": "בְּהִתְהַלֶּכְךָ֨",
+      "gloss": "Lè ou mache"
+    },
+    {
+      "surface": "תַּנְחֶ֬ה",
+      "gloss": "l ap gide"
+    },
+    {
+      "surface": "אֹתָ֗ךְ",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "בְּֽשָׁכְבְּךָ֭",
+      "gloss": "lè ou kouche"
+    },
+    {
+      "surface": "תִּשְׁמֹ֣ר",
+      "gloss": "l ap gade"
+    },
+    {
+      "surface": "עָלֶ֑יךָ",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "וַ֝הֲקִיצ֗וֹתָ",
+      "gloss": "e lè ou reveye"
+    },
+    {
+      "surface": "הִ֣יא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "תְשִׂיחֶֽךָ",
+      "gloss": "k ap pale avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:37.111507119Z",
+  "model": "glm-5.3"
+}

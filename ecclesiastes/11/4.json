@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Moun ki kenbe van pa seme; e moun ki gade nwèl yo pa ranmase.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "seme"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e k ap gade"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "nwèl yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ranmase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:25.734598078Z",
+  "model": "glm-5.3"
+}

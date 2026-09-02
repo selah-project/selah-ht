@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Glo splandè majeste ou a ak pawòl move etonan yo, m ap medite sou yo.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "splandè"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "majeste ou a"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ak pawòl"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "move etonan ou yo"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "m ap medite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:27.557585408Z",
+  "model": "glm-5.3"
+}

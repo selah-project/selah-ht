@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Pa gen pawòl e pa gen mo, san ⟨moun⟩ tande vwa yo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "san"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "vwa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:18.010700682Z",
+  "model": "glm-5.3"
+}

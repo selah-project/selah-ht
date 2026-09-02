@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi yon moun ki kouche ⟨את⟩ madanm papa l — nòdite papa l li dekouvri — lanmò ⟨pou⟩ mouri yo toude: san yo sou yo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi yon moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "kouche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madanm papa l"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "madanm"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nòdite"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "dekouvri"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lanmò"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "yo toude"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "san yo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:57.617924878Z",
+  "model": "glm-5.3"
+}

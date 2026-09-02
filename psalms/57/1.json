@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "Pou mèt mizik la; Al-Tachket (pa detwi); pou David; yon mikhtam; lè l te fè koudemen apati figi Chaoul, nan kavèrn an.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou mèt mizik la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "detwi (Al-Tachket)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "yon mikhtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "lè l te fè koudemen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "apati figi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "nan kavèrn an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:53.248803901Z",
+  "model": "glm-5.3"
+}

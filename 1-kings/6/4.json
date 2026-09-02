@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Li fè pou kay la fenèt ki gen zantray fen, byen fèmen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pou kay la"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "fenèt"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "ki gen zantray fen"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "byen fèmen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:18.106338046Z",
+  "model": "glm-5.3"
+}

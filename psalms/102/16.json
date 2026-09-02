@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "E lè sa a, nasyon yo ap pè ⟨את⟩ Non Yawe a, e tout wa yo sou tè a ap pè ⟨את⟩ glwa ou.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "E ap pè"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Non Yawe a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glwa ou"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "glwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:52.984324251Z",
+  "model": "glm-5.3"
+}

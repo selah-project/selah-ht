@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Chimen fyèlte a mwen chwazi, òdinans ou yo mwen mete devan m.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Chimen"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "fyèlte"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mwen chwazi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "òdinans ou yo"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "mwen mete devan m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:18.228740010Z",
+  "model": "glm-5.3"
+}

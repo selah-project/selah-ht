@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Lè ⟨li⟩ rive Shomron, li frape ⟨את⟩ tout moun ki te rete pou Ahab nan Shomron, jiskaske li te fin destwi yo, dapre pawòl Yawe, sa li te pale a Elyahou.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout moun ki te rete pou Ahab nan Shomron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "moun ki te rete yo"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "pou Ahab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "nan Shomron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskaske"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "destwi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dapre pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elyahou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:20.947627834Z",
+  "model": "glm-5.3"
+}

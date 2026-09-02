@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E Noach fè ⟨את⟩ tout sa Elohim kòmande ⟨את⟩ li — konsa l fè l.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E ... fè"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dapre tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Noach)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:48.787320907Z",
+  "model": "glm-5.3"
+}

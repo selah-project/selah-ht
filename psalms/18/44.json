@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Ou delivre m nan diskisyon pèp la; ou mete m kòm tèt nasyon yo; yon pèp m pa konnen ap sèvi m.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "delivre m"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "nan diskisyon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ou mete m"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "kòm tèt"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yon pèp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "sèvi m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:43.119984865Z",
+  "model": "glm-5.3"
+}

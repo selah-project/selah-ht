@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi mwen, m ap mache nan entègrite mwen; delivre mwen, epi fè mwan fason mizerikòd.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Epi mwen"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "nan entègrite mwen"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m ap mache"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "delivre mwen"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "epi fè mwen fason mizerikòd"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:48.554290688Z",
+  "model": "glm-5.3"
+}

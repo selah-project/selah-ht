@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Wa Eglon, youn; wa Gezer, youn;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:54.401807827Z",
+  "model": "glm-5.3"
+}

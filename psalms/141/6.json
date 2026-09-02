@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 141,
+  "translation": "Jij yo jete tè sou kote wòch la, epi yo ap tande paròl m yo, paske yo dous.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "jete tè"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "sou kote"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "wòch la"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "jij yo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "epi tande"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "paròl m yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "yo dous"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:28.135213094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi ou, Yawe, pa ale lwen; fòs m, prese pou vin nan sekou m.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Epi ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ale lwen"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "fòs m"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "pou vin nan sekou m"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "prese"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:10.816037876Z",
+  "model": "glm-5.3"
+}

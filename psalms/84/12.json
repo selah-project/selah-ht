@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Paske Yawe Elohim se yon solèy ak yon bouclie; Yawe ap banne favè ak glwa; Yawe p ap kenbe bon bagay deyò pou moun k ap mache nan entegrite.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "yon solèy"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "ak yon bouclie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favè"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ak glwa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ap banne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "ap kenbe deyò"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon bagay"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "pou moun k ap mache"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "nan entegrite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:48.542060457Z",
+  "model": "glm-5.3"
+}

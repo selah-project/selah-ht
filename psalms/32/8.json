@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "M ap fè w konprann epi m ap gide w nan wout ki gen la a, se la ou prale; m ap bay konsèy, je m ap gade ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "M ap fè w konprann"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "epi m ap gide w"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ki gen la"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ou prale"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "m ap bay konsèy"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "je m ap gade ⟨ou⟩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:31.705607778Z",
+  "model": "glm-5.3"
+}

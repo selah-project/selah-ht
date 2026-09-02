@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Mòn yo monte, val yo desann — jouk nan kote ⟨sa a⟩ ou fonde pou yo.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "monte"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "desann"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "val yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ou fonde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:21.971397571Z",
+  "model": "glm-5.3"
+}

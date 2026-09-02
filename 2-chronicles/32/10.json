@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Konsa Sanherib, wa Achour, di: Sou ki nou ap mete konfyans nou, ap rete nan asyej nan Yerouchalayim?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ap mete konfyans"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "ap rete"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "nan asyej"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:35:58.338494953Z",
+  "model": "glm-5.3"
+}

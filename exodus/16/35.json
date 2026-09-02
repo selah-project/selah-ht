@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 16:35",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Pitit Yisrael yo manje ⟨את⟩ man nan pandan karantan an, jiskaske yo rive nan yon tè abite; ⟨את⟩ man nan yo manje, jiskaske yo rive nan bò tè Kenaàn an.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man nan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man nan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "karantan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskaske"
+    },
+    {
+      "surface": "באם",
+      "gloss": "yo rive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "abite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man nan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man nan"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yo manje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskaske"
+    },
+    {
+      "surface": "באם",
+      "gloss": "yo rive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "bò"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:54.251749771Z",
+  "model": "glm-5.3"
+}

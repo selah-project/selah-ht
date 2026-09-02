@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "tout chè ap expire ansanm, e lèm ap tounen nan pousyè.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "ap expire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chè"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "e lèm"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ap tounen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:41:56.166594349Z",
+  "model": "glm-5.3"
+}

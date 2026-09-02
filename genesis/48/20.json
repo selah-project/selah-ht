@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Epi li beni yo jou sa a, lè l di: Se nan ou Yisrayèl ap beni, lè yo di: Elohim fè ou tankou Efrayim ak tankou Menache. Epi li mete ⟨את⟩ Efrayim anvan Menache.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "epi li beni yo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "lè l di"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ap beni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lè yo di"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "fè ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "tankou Efrayim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "ak tankou Menache"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "epi li mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:57.241200740Z",
+  "model": "glm-5.3"
+}

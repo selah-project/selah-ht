@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E pèp ki te swiv Omri a vin pi fò pase ⟨את⟩ pèp ki te swiv Tivni, pitit Ginat, e Tivni mouri, e Omri vin wa.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "vin pi fò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "te swiv"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp ki te swiv Tivni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "te swiv"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e mouri"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "vin wa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:45.867492135Z",
+  "model": "glm-5.3"
+}

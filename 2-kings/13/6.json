@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Men yo pa detounen soti nan peche kay Yarovam yo, kote l fè Yisrayèl peche ⟨את⟩, yo mache nan yo; epi Ashera a kanpe toujou nan Chomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "detounen"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "soti nan peche"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "fè peche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "epi"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera a"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "nan Chomron"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:41.584484648Z",
+  "model": "glm-5.3"
+}

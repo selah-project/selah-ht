@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Pitit gason l yo ak pitit gason pitit gason l yo ansanm ⟨את⟩ li, pitit fi l yo ak pitit fi pitit gason l yo, ak tout pitit pitit li — l pote ⟨את⟩ yo ansanm ⟨את⟩ li nan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ak pitit gason"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "pitit fi l yo"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ak pitit fi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "pitit pitit li"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "nan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:36:53.627980265Z",
+  "model": "glm-5.3"
+}

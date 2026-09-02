@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Efrayim pa chase ⟨את⟩ Kenaàn an, moun ki t ap rete nan Gezer; e Kenaàn an te rete nan mitan l, nan Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "chase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaàn an"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaàn an"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "moun ki t ap rete"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "nan Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e te rete"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaàn an"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nan mitan l"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "nan Gezer"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:39.951041343Z",
+  "model": "glm-5.3"
+}

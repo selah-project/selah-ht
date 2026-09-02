@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "«Pa preche», yo di, «yo ap preche»; yo pa pral preche pou sa yo; dezonè pa pral ale.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "preche"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "yo preche"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "preche"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "pou sa yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "ale"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "dezonè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:39:41.186661907Z",
+  "model": "glm-5.3"
+}

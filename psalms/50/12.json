@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Si mwen te grangou, mwen pa ta di ou sa, paske tè a se pou mwen, ak tout plen li.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "grangou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לי",
+      "gloss": "se pou mwen"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ak tout plen li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:26.777454997Z",
+  "model": "glm-5.3"
+}

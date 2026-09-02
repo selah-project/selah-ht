@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yon tan pou jete pyè, e yon tan pou ramase pyè; yon tan pou anbrace, e yon tan pou lwen ak ⟨anbrase⟩.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yon tan"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "pou jete"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pyè"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "pou ramase"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pyè"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yon tan"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "pou anbrace"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "pou lwen ak"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "anbrase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:46.024837204Z",
+  "model": "glm-5.3"
+}

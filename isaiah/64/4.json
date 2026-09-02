@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "W rankontre ⟨את⟩ moun ki gen kè kontan ak moun k ap fè jistis; nan chemen ou yo sonje ou. Gade, ou te fache, e nou te pèche — nan yo ⟨gen⟩ tout tan, e nou ap sove.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "W rankontre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki gen kè kontan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "moun ki gen kè kontan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e k ap fè"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "nan chemen ou"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "yo sonje ou"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "te fache"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "e nou te pèche"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tout tan"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "e nou ap sove"
+    }
+  ],
+  "timestamp": "2026-09-02T18:43:34.282652421Z",
+  "model": "glm-5.3"
+}

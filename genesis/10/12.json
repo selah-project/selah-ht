@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "ak ⟨את⟩ Resèn, ant Ninivè ak ant Kalakh — se li menm vil la ki gran an.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Resèn"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resèn"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninivè"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ki gran an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:56.747412532Z",
+  "model": "glm-5.3"
+}

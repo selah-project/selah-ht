@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Men ou, ou ⟨nan⟩ wotè pou tout tan, Yawe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men ou"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wotè"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:25.486501898Z",
+  "model": "glm-5.3"
+}

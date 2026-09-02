@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Prese vin ⟨pou⟩ èd mwen, Adònay, delivrans mwen an!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "prese vin"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "pou èd mwen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "delivrans mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:53.334601983Z",
+  "model": "glm-5.3"
+}

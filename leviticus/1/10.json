@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E si ofrann li a soti nan tibe yo — nan mouton yo oswa nan kabrit yo — pou yon ofrann boule, yon mal san defo li ap ofri l.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tibe yo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ofrann li a"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kabrit yo"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "pou ofrann boule"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mal"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "san defo"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "li ap ofri l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:31.016564024Z",
+  "model": "glm-5.3"
+}

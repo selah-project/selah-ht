@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Meonotay fè ⟨את⟩ Ofrà; e Serayah fè ⟨את⟩ Yoav, papa ⟨nan⟩ Gey-Harachim, paske obrivè yo te ye.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "E Meonotay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofrà"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofrà"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "e Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Gey"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Harachim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "obrivè"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:48.847328229Z",
+  "model": "glm-5.3"
+}

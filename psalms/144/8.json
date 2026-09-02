@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Ki bouch yo pale fofo, ak men dwat yo se yon men dwat mantè.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "bouch yo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "fofo"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ak men dwat yo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "yon men dwat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mantè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:15.439073016Z",
+  "model": "glm-5.3"
+}

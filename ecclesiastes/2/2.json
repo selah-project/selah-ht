@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Pou ri, mwen di: ⟨se⟩ fòl; e pou kè kontan: kisa sa a ap fè?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Pou ri"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "fòl"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "e pou kè kontan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ap fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:38.379222089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Mande ⟨את⟩ prèt yo, yo menm ki pote kès temwayaj la, pou yo monte soti nan Yarden an.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Mande kòmàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prèt yo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "yo menm ki pote"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kès"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "temwayaj la"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "pou yo monte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "nan Yarden an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:59:50.494550444Z",
+  "model": "glm-5.3"
+}

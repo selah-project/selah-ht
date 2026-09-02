@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E sa a ap vin cochonnèz li nan koulman l: kò l koule ⟨את⟩ koulman l, oswa kò l bloke sou koulman l — cochonnèz li, se li.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "E sa a"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "cochonnèz li"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "nan koulman l"
+    },
+    {
+      "surface": "רר",
+      "gloss": "koule"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kò l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koulman l"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "koulman l"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "bloke"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kò l"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "sou koulman l"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "cochonnèz li"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:50.270490016Z",
+  "model": "glm-5.3"
+}

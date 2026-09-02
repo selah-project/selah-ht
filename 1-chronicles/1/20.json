@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Yoktan fè pitit ⟨את⟩ Almodad, ⟨את⟩ Chelef, ⟨את⟩ Hatsarmavet, ak ⟨את⟩ Yerah.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Epi Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Chelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Hatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yerah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerah"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:12.377450984Z",
+  "model": "glm-5.3"
+}

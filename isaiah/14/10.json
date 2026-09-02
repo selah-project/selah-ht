@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Tout yo ap reponn epi yo ap di ou: Èske ou menm vin fèb tankou nou? Èske ou vin tankou nou?",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tout yo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ap reponn"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "epi yo ap di"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "vin fèb"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "tankou nou"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "tankou nou"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "vin tankou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:29.701871341Z",
+  "model": "glm-5.3"
+}

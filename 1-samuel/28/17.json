@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi Yawe fè pou li jan l te pale nan men mwen; epi Yawe chire ⟨את⟩ wayòm nan nan men ou, epi l bay zanmi w la, Davide.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "בְּיָדִי",
+      "gloss": "nan men mwen"
+    },
+    {
+      "surface": "וַיִּקְרַע",
+      "gloss": "chire"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wayòm nan"
+    },
+    {
+      "surface": "הַמַּמְלָכָה",
+      "gloss": "wayòm nan"
+    },
+    {
+      "surface": "מִיָּדֶךָ",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "וַיִּתְּנָהּ",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לְרֵעֲךָ",
+      "gloss": "zanmi w la"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-09-02T22:11:39.164421054Z",
+  "model": "glm-5.3"
+}

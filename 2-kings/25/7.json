@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E yo masakre ⟨את⟩ pitit Tsidkiyahou yo devan je l; e yo fè je Tsidkiyahou yo vin avèg, ⟨את⟩; e yo mare l ak chèn kwiv, e yo pote l ale Babylòn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pitit Tsidkiyahou yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahou"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "masakre"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "devan je l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "je Tsidkiyahou yo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahou"
+    },
+    {
+      "surface": "עור",
+      "gloss": "fè vin avèg"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "mare l"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ak chèn kwiv"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "pote l ale"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylòn"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:57.170587563Z",
+  "model": "glm-5.3"
+}

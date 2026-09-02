@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "Pou chèf mizisyen an, ak enstriman kòd, yon mizmo pou Asaf, yon chante.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ak enstriman kòd"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:11.309941639Z",
+  "model": "glm-5.3"
+}

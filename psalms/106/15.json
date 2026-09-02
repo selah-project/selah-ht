@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Li ba yo sa yo te mande a, men li voye mayigri nan nanm yo.",
+  "tokens": [
+    {
+      "surface": "וַיִּתֵּ֣ן",
+      "gloss": "li bay"
+    },
+    {
+      "surface": "לָהֶ֭ם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שֶׁאֱלָתָ֑ם",
+      "gloss": "sa yo te mande a"
+    },
+    {
+      "surface": "וַיְשַׁלַּ֖ח",
+      "gloss": "li voye"
+    },
+    {
+      "surface": "רָז֣וֹן",
+      "gloss": "mayigri"
+    },
+    {
+      "surface": "בְּנַפְשָֽׁם",
+      "gloss": "nan nanm yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:37.376432772Z",
+  "model": "glm-5.3"
+}

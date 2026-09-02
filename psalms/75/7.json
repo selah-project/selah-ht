@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 75,
+  "translation": "Paske se pa ni de lès, ni de lwès, ni de dezè, ⟨chèf⟩ ap monte soti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "de lès"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ni de lwès"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "de dezè"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ap monte"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:23.584806414Z",
+  "model": "glm-5.3"
+}

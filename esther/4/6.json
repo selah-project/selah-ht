@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Hatakh soti ale jwenn Mordèkay, nan plas piblik lavil la, ki devan pòt wa a.",
+  "tokens": [
+    {
+      "surface": "וַיֵּצֵא",
+      "gloss": "soti ale"
+    },
+    {
+      "surface": "הֲתָךְ",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "מָרְדֳּכַי",
+      "gloss": "Mordèkay"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "רְחֹב",
+      "gloss": "plas piblik"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "devan"
+    },
+    {
+      "surface": "שַׁעַר",
+      "gloss": "pòt la"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:54:11.009329493Z",
+  "model": "glm-5.3"
+}

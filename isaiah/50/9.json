@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 50:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Men, Adònay Yawe ap ede m; kiyès ki se li ki ka deklare m koupab? Men, yo tout ap vye tankou yon rad; yon chen ap manje yo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ap ede"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ki se li"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "ki ka deklare m koupab"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Men"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "yo tout"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "tankou yon rad"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ap vye"
+    },
+    {
+      "surface": "עש",
+      "gloss": "yon chen"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ap manje yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:40:30.323274596Z",
+  "model": "glm-5.3"
+}

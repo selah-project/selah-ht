@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi wa a pale ak nonm Elohim nan: Vini ⟨את⟩ ak mwen lakay, epi pran fòs, e m ap ba ou yon kado.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Epi ... pale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim nan"
+    },
+    {
+      "surface": "באה",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ak mwen"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "epi pran fòs"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "epi m ap ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "yon kado"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:46.847979791Z",
+  "model": "glm-5.3"
+}

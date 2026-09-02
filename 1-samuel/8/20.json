@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "pou nou menm touvin tounen tankou tout nasyon yo, pou wa nou a jije ⟨את⟩ nou, pou li mache devan nou, e pou li fè ⟨את⟩ lagè nou.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "pou nou tounen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "touvin"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tankou tout"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "pou wa nou a jije"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "wa nou"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e pou li mache deyò"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "e pou li fè lagè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lagè nou"
+    },
+    {
+      "surface": "מלחמותינו",
+      "gloss": "lagè nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:27.531878793Z",
+  "model": "glm-5.3"
+}

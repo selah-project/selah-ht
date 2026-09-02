@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E jou sèvyèm nan se choma pou Yawe Elohim ou a: ou pa fè okenn travay, ou, ni gason ou, ni pitit fi ou, ni esklav gason ou, ni esklav fi ou, ni bèt ou yo, ni etranje ki nan pòt ou yo.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "E jou"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sèvyèm nan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "choma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "okenn"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ni gason ou"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "ni pitit fi ou"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "esklav gason ou"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ni esklav fi ou"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "ni bèt ou yo"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ni etranje ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "nan pòt ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:26.703476727Z",
+  "model": "glm-5.3"
+}

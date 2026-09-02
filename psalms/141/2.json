@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 141,
+  "translation": "Kanpe priyè m devan ou tankou ansan, levè men m yo tankou ofran aswè a.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "Kanpe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "priyè m"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ansan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "levè"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "men m yo"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ofran"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aswè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:23.517516500Z",
+  "model": "glm-5.3"
+}

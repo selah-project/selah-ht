@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E jou Terah te senk an e de san an; e Terah mouri nan Haràn.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "senk"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "an"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e de san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "nan Haràn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:04.012396957Z",
+  "model": "glm-5.3"
+}

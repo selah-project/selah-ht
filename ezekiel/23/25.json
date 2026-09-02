@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 23:25",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E M ap mete jalouzi M nan sou ou, e yo ap fè ⟨את⟩ ou nan kòlè: nen ou ak zòrèy ou yo ap retire, e rès ou ap tonbe ak epe; se yo menm — pitit gason ou yo ak pitit fi ou yo yo ap pran, e rès ou ap fin manje nan dife.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e M ap mete"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "jalouzi M"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "e yo ap fè"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou (fè ou nan kòlè)"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "nan kòlè"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nen ou"
+    },
+    {
+      "surface": "ואזניך",
+      "gloss": "ak zòrèy ou"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "yo ap retire"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "e rès ou"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ak epe"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ap tonbe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "se yo menm"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit gason ou yo"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "ak pitit fi ou yo"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "yo ap pran"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "e rès ou"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ap fin manje"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    }
+  ],
+  "timestamp": "2026-09-02T21:58:03.725022035Z",
+  "model": "glm-5.3"
+}

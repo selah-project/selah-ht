@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "ranfòse ⟨את⟩ fò yo, mete nan l yo chèf, epi depo manje, lwil oliv ak diven",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ranfòse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fò yo"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "fò yo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan l yo"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "ויצרות",
+      "gloss": "epi depo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "lwil oliv"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ak diven"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:01.368790183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Pi bon yon ti kras avèk jistis pase anpil rekòt san jistis.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Pi bon"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yon ti kras"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "avèk jistis"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "pase anpil"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "rekòt"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "san"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jistis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:22.794532583Z",
+  "model": "glm-5.3"
+}

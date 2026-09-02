@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi Yawe Elohim ou a sikonsize ⟨את⟩ kè ou ak ⟨את⟩ kè pitit ou yo, pou ou renmen ⟨את⟩ Yawe Elohim ou ak tout kè ou ak tout nefech ou, pou lavi ou.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "epi sikonsize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè ou"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "kè ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kè pitit ou yo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pitit ou"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "pou renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "kè ou"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefech ou"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "lavi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:33.669640307Z",
+  "model": "glm-5.3"
+}

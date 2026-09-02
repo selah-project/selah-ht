@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Pitit Yisrael pran ⟨את⟩ fanm Midyan yo ak ⟨את⟩ timoun yo, ak ⟨את⟩ tout bèt yo, ak ⟨את⟩ tout bèt kay yo; ⟨את⟩ tout richès yo yo pilye.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm Midyan yo"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "fanm yo"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "timoun yo"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "timoun yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout bèt yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "bèt yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout bèt kay yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "bèt kay yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout richès yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "richès yo"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "pilye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:47.044847016Z",
+  "model": "glm-5.3"
+}

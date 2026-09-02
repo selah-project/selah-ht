@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 62:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Epi yo ap rele yo pèp sen a, moun Yawe delivre yo; epi yo ap rele ou Vil Chèche, yon vil ki pa janm abandone.",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "epi yo ap rele"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sen a"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "moun ... delivre yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "epi ou"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ap rele ou"
+    },
+    {
+      "surface": "דרושה",
+      "gloss": "Vil Chèche"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "yon vil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa janm"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "abandone"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:55.128002245Z",
+  "model": "glm-5.3"
+}

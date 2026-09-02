@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Sèlman, yon nonm, pa diskite — e pa reprimann ⟨yon⟩ nonm; pèp ou menm tankou moun ki ap diskite avèk ⟨la⟩ prèt.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "diskite"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "reprimann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "pèp ou menm"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "tankou moun ki ap diskite avèk"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prèt"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:51.720502296Z",
+  "model": "glm-5.3"
+}

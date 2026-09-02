@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E wa a vire figi l, e li beni ⟨את⟩ tout asanble Yisrael la; e tout asanble Yisrael la ap kanpe.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "E … vire"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi l"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e li beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout asanble Yisrael la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ap kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:31.781787878Z",
+  "model": "glm-5.3"
+}

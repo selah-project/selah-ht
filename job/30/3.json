@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Nan mank ak nan grangou, yo vin dezè — k ap graje tè sèk la, yon kote depi lontan se dezas ak ravaj.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "nan mank"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "ak nan grangou"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "dezè"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "k ap graje"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "tè sèk la"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "depi lontan"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "dezas"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "ak ravaj"
+    }
+  ],
+  "timestamp": "2026-09-02T20:40:57.102462884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Fè nou wè hesed ou a, Yawe, epi ba nou delivrans ou.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Fè nou wè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "epi delivrans ou"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ou pral bay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ba nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:46.266904972Z",
+  "model": "glm-5.3"
+}

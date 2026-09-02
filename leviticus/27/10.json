@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Pa chanje l, ni pa fè echanj ⟨את⟩ li — yon bon pou yon movan, oswa yon movan pou yon bon; e si l fè echanj toutbon, yon bèt kont yon lòt bèt, ⟨ap vin⟩ li menm ak sa ki ranplase l ap vin sen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "chanje l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "fè echanj"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (yon bon)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yon bon"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "pou yon movan"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yon movan"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "pou yon bon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "המר",
+      "gloss": "fè echanj (toutbon)"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "echanj"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "yon bèt"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "kont yon lòt bèt"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e ⟨ap vin⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "ak sa ki ranplase l"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:01.131326410Z",
+  "model": "glm-5.3"
+}

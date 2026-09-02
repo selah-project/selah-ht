@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "paske moun rich l yo plen vyolans, e moun k ap rete l yo pale manti, e lang yo plen twicheri nan bouch yo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עשיריה",
+      "gloss": "moun rich l yo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "plen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "e moun k ap rete l yo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "manti"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "e lang yo"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "plen twicheri"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nan bouch yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:42:05.010982506Z",
+  "model": "glm-5.3"
+}

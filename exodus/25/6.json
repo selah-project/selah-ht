@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "lwil pou limyè a, epis pou lwil konsekran an, ak pou encens ki bon odè —",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "pou limyè a"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "epis"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "pou lwil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "konsekran an"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ak pou encens"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ki bon odè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:12.808941834Z",
+  "model": "glm-5.3"
+}

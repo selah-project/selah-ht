@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 14:50",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E non fanm Chaoul te Ahinoàm, pitit fi Ahimàats; e non chèf lame l te Aviner, pitit gason Ner, tonton Chaoul.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoàm"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimàats"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "lame l"
+    },
+    {
+      "surface": "אבינר",
+      "gloss": "Aviner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "tonton"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    }
+  ],
+  "timestamp": "2026-09-02T17:30:40.673059913Z",
+  "model": "glm-5.3"
+}

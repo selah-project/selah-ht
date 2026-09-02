@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi yo anonse ⟨את⟩ sa Ritspa, pitit fi Aya, madan siden Chaoul, te fè bay David.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Epi yo anonse"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bay David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Ritspa te fè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "madan siden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    }
+  ],
+  "timestamp": "2026-09-02T17:50:05.044992438Z",
+  "model": "glm-5.3"
+}

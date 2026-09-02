@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Paske se moun ki ranmse li k ap manje ⟨את⟩ l, epi yo ap fè lokann pou Yawe; epi se moun ki rasanble l k ap bwè l nan lakou sentèt mwen an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "moun ki ranmse li"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "k ap manje l"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "epi yo ap fè lokann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l (ble a)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "epi moun ki rasanble l"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "k ap bwè l"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "nan lakou"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sentèt mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:55.127361400Z",
+  "model": "glm-5.3"
+}

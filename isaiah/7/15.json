@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Bè ak siwo myèl l ap manje, pou l ka konnen rejte mal la epi chwazi bon an.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "bè"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ak siwo myèl"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "pou l ka konnen"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "rejte"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mal la"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "epi chwazi"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "bon an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:05.925581320Z",
+  "model": "glm-5.3"
+}

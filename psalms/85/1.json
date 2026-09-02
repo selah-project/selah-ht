@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Pou chèf mizisyen an. Pou pitit yo, pitit Korach. Yon mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Pou pitit yo"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "pitit Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmor"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:35.722964841Z",
+  "model": "glm-5.3"
+}

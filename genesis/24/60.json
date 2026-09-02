@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Yo beni ⟨את⟩ Rivka epi yo di li: Ou se sè nou — ou, vin dè milye ak dè ribann — epi pitit ou ap posede ⟨את⟩ pòtay moun ki rayi l yo.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "yo beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "epi yo di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "sè nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "ou"
+    },
+    {
+      "surface": "היי",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "dè milye"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "ak dè ribann"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ap posede"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pitit ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pòtay moun ki rayi l yo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "moun ki rayi l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:22:44.569187654Z",
+  "model": "glm-5.3"
+}

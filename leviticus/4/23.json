@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Oswa lè yo fè konnen ba li peche l — peche l ke li te fè — epi li ap pote ⟨את⟩ ofrann l: yon kabrit, yon mal, san defo.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Oswa"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "peche l"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "peche"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "epi pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann l"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ofrann l"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kabrit"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kabrit (chèv)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mal"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "san defo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:28.351694130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Enmi a p ap pran taksyon sou li, e pitit mechanste a p ap opwime l.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ap pran taksyon sou"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enmi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e pitit"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mechanste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ap opwime l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:46.569151907Z",
+  "model": "glm-5.3"
+}

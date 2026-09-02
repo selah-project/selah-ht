@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Pechè yo ap gen chagren, tout moun ki jete krok nan Yeor la ap fè dèlko, epi moun ki deploye rezo sou fas dlo a ap pèdi fòs.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "ap gen chagren"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "pechè yo"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ap fè dèlko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "moun ki jete"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "nan Yeor"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "krok la"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "epi moun ki deploye"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "rezo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ap pèdi fòs"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:23.671335045Z",
+  "model": "glm-5.3"
+}

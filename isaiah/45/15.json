@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Vrèman vre, ou se yon El ki kache ⟨tèt ou⟩, Elohim Yisrael, Sovè a.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Vrèman vre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yon El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "ki kache ⟨tèt ou⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Sovè a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:51.670271532Z",
+  "model": "glm-5.3"
+}

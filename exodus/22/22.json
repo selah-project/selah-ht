@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si vrèman nou maltrete ⟨את⟩ yo — paske si yo kriye vin kriye ba mwen, m ap tande kriyaj yo an vre.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "vrèman"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "maltrete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "vrèman"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "kriye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba mwen"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "an vre"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "m ap tande"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "kriyaj yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:26.673314869Z",
+  "model": "glm-5.3"
+}

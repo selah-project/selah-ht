@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim fè ⟨את⟩ de gwo limyè yo — ⟨את⟩ gwo limyè a pou gouvène jou a, ak ⟨את⟩ piti limyè a pou gouvène nwit la — ak ⟨את⟩ zetwal yo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gwo limyè yo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "gwo limyè yo"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "gwo yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gwo limyè a"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "limyè a"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "gwo a"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pou gouvène"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "piti limyè a"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "limyè a"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "piti a"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pou gouvène"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nwit la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zetwal yo"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "zetwal yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:14.686562008Z",
+  "model": "glm-5.3"
+}

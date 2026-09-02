@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E l fè ⟨את⟩ fanmi Yehouda vin devan, e l pran ⟨את⟩ fanmi Zerahi yo; e l fè ⟨את⟩ fanmi Zerahi yo vin devan pou gason yo, e se Zavdi ki te pran.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "fè vin devan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanmi Yehouda"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanmi Zerahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerahi yo"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "fè vin devan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanmi Zerahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerahi yo"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "pou gason yo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "te pran"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zavdi"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:12.650442256Z",
+  "model": "glm-5.3"
+}

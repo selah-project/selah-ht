@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "⟨את⟩ Kòf temwayaj la ak ⟨את⟩ baw li yo, ak ⟨את⟩ kouvèkòf la.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kòf temwayaj la"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Kòf"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "temwayaj la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "baw li yo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "baw li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kouvèkòf la"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kouvèkòf la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:54.151226579Z",
+  "model": "glm-5.3"
+}

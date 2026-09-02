@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Yehonatan retire ⟨את⟩ ròb la ki te sou li, e li bay David li, ak rad li, jouk jiska epe li, jouk jiska ak li, jouk jiska sentiwon li.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "e retire"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ròb la"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ròb la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "e bay li"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ak rad li"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk jiska"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "epe li"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk jiska"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk jiska"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "sentiwon li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:21.771269164Z",
+  "model": "glm-5.3"
+}

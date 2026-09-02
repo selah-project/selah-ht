@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Paske kisa moun genyen nan tout trime l ak nan tourman kè l, ke l ap trime anba solèy la?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "genyen"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "pou moun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "trime l"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "ak nan tourman"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "ke l"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ap trime"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:32.202831160Z",
+  "model": "fable-5-hand"
+}

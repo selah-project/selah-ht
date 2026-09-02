@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Bat-Cheva bese tèt li epi pwostne devan wa a; epi wa a di: Kisa ou vle?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "bese tèt li"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "pwostne"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "devan wa a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi … di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou vle"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:04.951079180Z",
+  "model": "glm-5.3"
+}

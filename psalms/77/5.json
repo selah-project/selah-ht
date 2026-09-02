@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Ou kenbe je m ⟨nan⟩ gad — m bouleverse, e m pa ka pale.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Ou kenbe"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "gad"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "m bouleverse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ka pale"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:55.794628030Z",
+  "model": "glm-5.3"
+}

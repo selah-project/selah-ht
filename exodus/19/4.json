@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Nou menm, nou wè sa mwen fè bay Mitsrayim, epi mwen pote ⟨את⟩nou sou zèl èg yo, epi mwen mennen ⟨את⟩nou jiska mwen.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Nou menm"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nou wè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mwen fè"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "bay Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "epi mwen pote"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "sou zèl èg yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "zèl"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "èg yo"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "epi mwen mennen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "jiska mwen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "jiska mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:32.007450116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi lè Aharòn fè ⟨את⟩ lanp yo monte ant de aswè yo, li fimen l — yon ensans ki pa janm sispann devan Yawe, pou jenerasyon nou yo.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "Epi lè ... fè ... monte"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanp yo"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lanp yo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de aswè yo"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "li fimen l"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ensans"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ki pa janm sispann"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "pou jenerasyon nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:39.343524384Z",
+  "model": "glm-5.3"
+}

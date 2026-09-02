@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E mwen tande ⟨את⟩ vwa Adònay ki di: ⟨את⟩ Ki moun mwen pral voye? E ki moun pral ale pou nou? E mwen di: Men mwen, voye mwen.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "E mwen tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ki di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ki moun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mwen pral voye"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e ki moun"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "pral ale"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e mwen di"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "voye mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:38.059712209Z",
+  "model": "glm-5.3"
+}

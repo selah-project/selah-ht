@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Pi byen sa w pa fè nèd, pase w chesa fè nèd epi w pa peye l.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Pi byen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "w fè nèd"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "pase w chesa fè nèd epi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "w peye l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:55.527388990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E wa a voye chèche, e yo rasanble bò kote li tout ansyen yo nan Yehouda ak Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "epi …voye chèche"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "epi yo rasanble"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bò kote li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansyen yo nan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ak Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:36.355709803Z",
+  "model": "glm-5.3"
+}

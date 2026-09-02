@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E pawòl sa yo, sa ki mwen kòmande ou jodi a, ⟨ap kanpe⟩ sou kè ou a.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "e ⟨ap kanpe⟩"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "kè ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:24.924832372Z",
+  "model": "glm-5.3"
+}

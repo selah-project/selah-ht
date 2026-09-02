@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Yawe voye sou li ⟨את⟩ bann sòlda Kachdim yo, ak ⟨את⟩ bann sòlda Aram yo, ak ⟨את⟩ bann sòlda Moav yo, ak ⟨את⟩ bann sòlda pitit Amon yo; epi li voye yo nan Yehouda pou l detwi l, dapre pawòl Yawe a, menm sa li te pale nan men sèvant l yo, pwofèt yo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bann sòlda Kachdim yo"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "bann sòlda"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kachdim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bann sòlda Aram yo"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "bann sòlda"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bann sòlda Moav yo"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "bann sòlda"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bann sòlda pitit Amon yo"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "bann sòlda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "epi li voye yo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "nan Yehouda"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "pou l detwi l"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dapre pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvant l yo"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pwofèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:25.230820399Z",
+  "model": "glm-5.3"
+}

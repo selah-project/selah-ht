@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Avraham pran ⟨את⟩ bwa yo pou ofrand boule a, li mete yo sou Yitshak, pitit gason li; li pran nan men l ⟨את⟩ dife a ak ⟨את⟩ kouto a; epi de yo mache ansanm.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bwa yo pou ofrand boule a"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa yo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pou ofrand boule a"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "li mete yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason li"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "li pran"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dife a"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dife a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kouto a"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "kouto a"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mache"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de yo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:34.413036111Z",
+  "model": "glm-5.3"
+}

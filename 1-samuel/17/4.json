@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Yon nonm chanpyon sòti nan kan Pelichtim yo, Golyat se non l, soti nan Gat; wotè l se sis koud ak yon zepàn.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sòti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "chanpyon"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "nan kan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelichtim"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "se non l"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "soti nan Gat"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "wotè l"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "koud"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ak yon zepàn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:32:23.643273515Z",
+  "model": "glm-5.3"
+}

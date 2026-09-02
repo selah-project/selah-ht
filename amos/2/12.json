@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E nou fè ⟨את⟩ nazirèt yo bwè diven, e sou profèt yo nou bay lòd pou nou di: Pa pwofeti.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "E nou fè bwè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nazirèt yo"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nazirèt yo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diven"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sou"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profèt yo"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "nou bay lòd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "pwofeti"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:57.769039359Z",
+  "model": "glm-5.3"
+}

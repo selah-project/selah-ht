@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E anvyans Yisrael fin temwaye devan figi l; e yo pa tounen ale nan Yawe, Elohim yo, e yo pa chèche l nan tout bagay sa yo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "e temwaye"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "anvyans"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "devan figi l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "tounen ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "chèche l"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bagay sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:03.200319705Z",
+  "model": "glm-5.3"
+}

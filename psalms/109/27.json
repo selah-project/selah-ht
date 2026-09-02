@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "E pou yo konnen se men ⟨ou⟩ ki fè ⟨sa⟩ — se ou, Yawe, ki fè l.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "E pou yo konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ki fè l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:35.921203018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 125,
+  "translation": "Fè byen, Yawe, pou moun ki byen yo, ak pou moun ki dwat yo ⟨nan⟩ kè yo.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Fè byen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "pou moun ki byen yo"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "ak pou moun ki dwat yo"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "nan kè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:48.531478882Z",
+  "model": "glm-5.3"
+}

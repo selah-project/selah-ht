@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Tifi wa yo nan moun presye ou; rèn la kanpe a adwat ou, an lò Ofir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "tifi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "nan moun presye ou"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "rèn"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "a adwat ou"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "an lò"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:39.104307272Z",
+  "model": "glm-5.3"
+}

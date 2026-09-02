@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Li kenbe mòn yo kanpe ak fòs li; li mennen sanl ak pwèsans.",
+  "tokens": [
+    {
+      "surface": "מְכִין",
+      "gloss": "li kenbe kanpe"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "בְּכֹחוֹ",
+      "gloss": "ak fòs li"
+    },
+    {
+      "surface": "נֶאְזָר",
+      "gloss": "li mennen sanl"
+    },
+    {
+      "surface": "בִּגְבוּרָה",
+      "gloss": "ak pwèsans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:56.997214108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Tout bèt ki rampe epi ki vole, ki mache sou kat ⟨pat⟩ — yon cheket ⟨li ye⟩ pou nou.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "bèt ki rampe"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ki vole"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ki mache"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat (pat)"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "yon cheket"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:26.967796728Z",
+  "model": "glm-5.3"
+}

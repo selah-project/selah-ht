@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Paske sèvant ou yo renmen ⟨את⟩ wòch li yo, epi pou ⟨את⟩ pousyè li a yo gen pitye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvant ou yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wòch li yo"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "wòch li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi pou ⟨את⟩"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "pousyè li a"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "yo gen pitye"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:32.142433554Z",
+  "model": "glm-5.3"
+}

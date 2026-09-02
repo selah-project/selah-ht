@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Ki moun ki fòme yon dye, ki fonde yon zidòl kile, pou li pa gen okenn valè?",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "יָצַר",
+      "gloss": "fòme"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "dye"
+    },
+    {
+      "surface": "וּפֶסֶל",
+      "gloss": "ak zidòl"
+    },
+    {
+      "surface": "נָסָךְ",
+      "gloss": "fonde"
+    },
+    {
+      "surface": "לְבִלְתִּי",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "הוֹעִיל",
+      "gloss": "gen valè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:19.821895640Z",
+  "model": "glm-5.3"
+}

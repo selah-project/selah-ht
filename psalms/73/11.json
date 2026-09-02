@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "E yo di: Kouman El ka konnen? Èske gen konesans nan Elyòn?",
+  "tokens": [
+    {
+      "surface": "וְֽאָמְר֗וּ",
+      "gloss": "e yo di"
+    },
+    {
+      "surface": "אֵיכָ֥ךָ",
+      "gloss": "kouman"
+    },
+    {
+      "surface": "יָדַֽע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וְיֵ֖שׁ",
+      "gloss": "èske gen"
+    },
+    {
+      "surface": "דֵּעָ֣ה",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "בְעֶלְיֽוֹן",
+      "gloss": "nan Elyòn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:51.464692317Z",
+  "model": "glm-5.3"
+}

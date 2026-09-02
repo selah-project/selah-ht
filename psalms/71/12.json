@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Elohim, pa ale lwen m; Elohim m, depèche pou Èd m.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ale lwen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "pou Èd m"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "depèche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:51.793629292Z",
+  "model": "glm-5.3"
+}

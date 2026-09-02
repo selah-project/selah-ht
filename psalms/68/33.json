@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Wayòm yo nan tè a, chante pou Elohim; jwe mizik pou Adònay. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "wayòm yo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "jwe (mizik)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:34.321923581Z",
+  "model": "glm-5.3"
+}

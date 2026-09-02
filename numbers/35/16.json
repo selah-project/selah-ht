@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Epi si l frape l ak yon zouti fè epi l mouri — asasinen l ye a; asasinen an pral fè mouri sètenman.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Epi si"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ak yon zouti"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "fè"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "l frape l"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "epi l mouri"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "asasinen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "l ye a"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pral fè mouri"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sètenman"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "asasinen an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:40:40.661023376Z",
+  "model": "glm-5.3"
+}

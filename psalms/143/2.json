@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 143,
+  "translation": "Epi pa antre nan jijman ⟨את⟩ esklav ou a, paske pa gen okenn moun ki vivan ki ap jistifye devan ou.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Epi pa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nan jijman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esklav ou a"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "esklav ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paskè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ap jistifye"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חי",
+      "gloss": "moun ki vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:10.015150719Z",
+  "model": "glm-5.3"
+}

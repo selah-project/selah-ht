@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi mwen ap fè ou vin yon gran nasyon; epi mwen ap beni ou; epi mwen ap fè non ou vin gwo; epi ou ap ye yon benediksyon.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "epi mwen ap fè ou"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "vin yon nasyon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "epi mwen ap beni ou"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "epi mwen ap fè vin gwo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "epi ou ap ye"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "yon benediksyon"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:11.871781622Z",
+  "model": "glm-5.3"
+}

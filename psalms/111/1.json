@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 111,
+  "translation": "Bay lwanj pou Yah! M ap di mèsi bay Yawe ak tout kè m, nan konsèy moun dwat yo ak ⟨nan⟩ asanble a.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Bay lwanj"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pou Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "M ap di mèsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bay Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "nan konsèy"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "moun dwat yo"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ak asanble a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:00.432482627Z",
+  "model": "glm-5.3"
+}

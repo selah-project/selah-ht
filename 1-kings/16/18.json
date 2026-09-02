@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi lè Zimri wè ke vil la te pran, li antre nan sitadèl la nan kay wa a, epi li boule sou li ⟨את⟩ kay wa a ak dife, epi li mouri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "lè … wè"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "te pran"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "li antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "sitadèl la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "epi li boule"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay wa a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ak dife"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "epi li mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:35.260706289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 87,
+  "translation": "E chantè yo ak ⟨moun ki danse⟩ ap di: tout sous mwen yo nan ou.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "E chantè yo"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "ak ⟨moun ki danse⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "sous mwen yo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:17.368968727Z",
+  "model": "glm-5.3"
+}

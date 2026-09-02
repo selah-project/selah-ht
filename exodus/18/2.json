@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Yitro, hoten Moche, pran ⟨את⟩ Tsipora, madanm Moche, apre li fin voye l ale.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "hoten"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "madanm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "apre"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "li fin voye l ale"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:21.286880192Z",
+  "model": "glm-5.3"
+}

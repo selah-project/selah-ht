@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Kisa pou nou menm — nou ap pile pèp m an, e figi moun pòv yo nou ap moulen? Konsa Adònay Yawe, Twa-ò yo, di.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "Kisa pou nou menm"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "nou ap pile"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp m an"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "e figi"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "moun pòv yo"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "nou ap moulen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "konsa ... di"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Twa-ò yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:23:16.907221423Z",
+  "model": "glm-5.3"
+}

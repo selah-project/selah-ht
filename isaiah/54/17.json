@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Tout zouti ki fòme kont ou pa pr reyisi, epi tout lang ki moute kont ou ⟨את⟩ ou pr kondane l nan jijman. Sa a se eritaj sèvitè Yawe yo, epi jistis yo soti ⟨את⟩ nan men mwen — won ⟨את⟩ Yawe a.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zouti"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "fòme"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kont ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יוצלח",
+      "gloss": "pr reyisi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "epi tout"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lang"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "moute"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ak ⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "nan jijman"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "ou pr kondane l"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "eritaj"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "epi jistis yo"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "nan men ⟨את⟩ mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "won"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:23:25.529595603Z",
+  "model": "glm-5.3"
+}

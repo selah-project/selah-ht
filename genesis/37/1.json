@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E Yaakov te rete nan peyi sejou papa l, nan peyi Kenaàn.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "te rete"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "sejou"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:31:12.648245780Z",
+  "model": "glm-5.3"
+}

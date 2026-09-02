@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 127,
+  "translation": "Menm jan ak flèch nan men yon gason fò, konsa pitit jèn yo ye.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "tankou flèch"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gason fò"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "jèn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:33.004383023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li di, ak mouch vlèban vin, ak mouch kretryèl nan tout teritwa yo",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mouch vlèban"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "mouch kretryèl"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "teritwa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:15.714513571Z",
+  "model": "glm-5.3"
+}

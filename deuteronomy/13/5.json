@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Apre Yawe Elohim nou an nou pral mache, ⟨את⟩ li nou pral pè, ⟨את⟩ kòmandman li yo nou pral kenbe, nan vwa l nou pral koute, ⟨את⟩ li nou pral sèvi, epi ak li nou pral kole.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Apre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "nou pral mache"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Yawe)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nou pral pè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman li yo"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kòmandman li yo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "nou pral kenbe"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "nan vwa l"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nou pral koute"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Yawe)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "nou pral sèvi"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "epi ak li"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "nou pral kole"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:39.547823943Z",
+  "model": "glm-5.3"
+}

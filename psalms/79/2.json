@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 79,
+  "translation": "Yo bay ⟨את⟩ kadav sèvitè ou yo kòm manje pou zwazo syèl yo, vyann moun fidel ou yo pou bèt sovaj tè a.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "yo bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadav sèvitè ou yo"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "kadav"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvitè ou yo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "kòm manje"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "pou zwazo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "moun fidel ou yo"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "pou bèt sovaj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:44.426200972Z",
+  "model": "glm-5.3"
+}

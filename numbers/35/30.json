@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Nenpòt moun ki frape yon nanm, sou bouch ⟨de⟩ temwen yo, ⟨y ap⟩ touye ⟨את⟩ moudrè a; men yon sèl temwen pa ap reponn sou yon nanm pou l mouri.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nenpòt"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ki frape"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "yon nanm"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sou bouch"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "temwen yo"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "ap touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moudrè a"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "moudrè a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "men yon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ap reponn"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sou yon nanm"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pou mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:40:17.905675690Z",
+  "model": "glm-5.3"
+}

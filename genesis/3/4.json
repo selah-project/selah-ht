@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epe sepan an di ba fanm lan: Mouri, nou pa pral mouri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epe… di"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "sepan an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm lan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Mouri"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "pral mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:16.273815233Z",
+  "model": "glm-5.3"
+}

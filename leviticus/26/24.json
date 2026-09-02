@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "lè sa a m ap mache, mwen menm, ak nou an ostilite, e m ap frape ⟨את⟩ nou — mwen menm — sèt fwa sou pekèt nou yo.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "lè sa a m ap mache"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ak nou"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "an ostilite"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "e m ap frape"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt fwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "pekèt nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:49.057827933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "E Yaakov soti nan Beèr-Cheva, epi li ale nan Kharàn.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "nan Beèr"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "nan Kharàn"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:42.983792234Z",
+  "model": "glm-5.3"
+}

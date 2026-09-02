@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi ⟨li⟩ di: Kisa ou fè? Fwa san frè ou a ap rele ba mwen soti nan tè a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "קול",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "san"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou a"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ap rele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba mwen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:38.535481605Z",
+  "model": "glm-5.3"
+}

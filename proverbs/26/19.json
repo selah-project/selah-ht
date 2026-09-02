@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Se konsa yon moun ki twonpe ⟨את⟩ zanmi l ye, e ki di: èske se pa jwèt m ap jwe mwen?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Se konsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ki twonpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanmi l"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zanmi l"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e ki di"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "èske se pa"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "jwèt m ap jwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:12.185610790Z",
+  "model": "glm-5.3"
+}

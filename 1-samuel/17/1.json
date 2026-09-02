@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Pelichtim yo rasanble ⟨את⟩ kan yo pou lagè, epi yo rasanble nan Chokho ki nan Yehouda, epi yo kanpe ant Chokho ak Azeka, nan Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "yo rasanble"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelichtim yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan yo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kan yo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pou lagè"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "yo rasanble"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Chokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "nan Yehouda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "yo kanpe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Chokho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "nan Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-09-02T17:32:23.642736390Z",
+  "model": "glm-5.3"
+}

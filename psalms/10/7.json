@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Sòm plen bouch l, ak twonpèri, ak fwod; anba lang l gen pen ak fonsei.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "sòm"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "bouch l"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plen"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ak twonpèri"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ak fwod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lang l"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pen"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ak fonsei"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:50.320045818Z",
+  "model": "glm-5.3"
+}

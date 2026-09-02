@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 125,
+  "translation": "Yerouchalayim — mòn touttoutou l ⟨antouraj⟩, e Yawe touttoutou pèp li, depi kounye a jiska touttan.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "touttoutou"
+    },
+    {
+      "surface": "לה",
+      "gloss": "l"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yawe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "touttoutou"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "depi kounye a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "touttan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:48.531215699Z",
+  "model": "glm-5.3"
+}

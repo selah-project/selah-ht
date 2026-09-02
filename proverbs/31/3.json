@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Pa bay fòs ou bay fanm yo, ni chemen ou bay moun ki efase wa yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "bay fanm yo"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "fòs ou"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "ni chemen ou"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "bay moun ki efase"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "wa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:37.942278054Z",
+  "model": "glm-5.3"
+}

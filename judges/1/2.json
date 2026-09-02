@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yawe di: Yehouda ap moute; gade, mwen bay ⟨את⟩ peyi a nan men l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ap moute"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyi a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:50.660763678Z",
+  "model": "glm-5.3"
+}

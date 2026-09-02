@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E mwen te ale, e mwen te kache l nan Perat, jan Yawe te kòmande ⟨את⟩ mwen.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "mwen te ale"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "mwen te kache l"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "nan Perat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "te kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:51:53.980844464Z",
+  "model": "glm-5.3"
+}

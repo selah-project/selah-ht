@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Ban m ⟨את⟩ fanm mwen yo ak ⟨את⟩ timoun mwen yo, ke mwen sèvi ⟨את⟩ ou ak yo, e m ap ale; paske ou konnen ⟨את⟩ sèvis mwen an, ke mwen sèvi ou.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Ban m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm mwen yo"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "fanm mwen yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "timoun mwen yo"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "timoun mwen yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "mwen sèvi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ak yo"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "e m ap ale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvis mwen an"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "sèvis mwen an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "mwen sèvi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:27:00.169924199Z",
+  "model": "glm-5.3"
+}

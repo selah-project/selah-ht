@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Yon El ki fè pè anpil nan konsèy moun sen yo, e ki epouvante sou tout sa ki antoune l.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Yon El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "ki fè pè"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "nan konsèy"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "moun sen yo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "e ki epouvante"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "sa ki antoune l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:06.086823500Z",
+  "model": "glm-5.3"
+}

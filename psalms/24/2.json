@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Paske ⟨li⟩ mete l sou lanmè yo, ⟨li⟩ establi l sou rivyè yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lanmè yo"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "mete l (kòm fondasyon)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivyè yo"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "establi l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:16.643144901Z",
+  "model": "glm-5.3"
+}

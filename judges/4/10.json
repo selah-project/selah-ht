@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Barak rele ⟨את⟩ Zebulon ak ⟨את⟩ Naftali nan ⟨nan⟩ Kedech, e l monte — dis mil gason nan pye l — e Devora monte avè l.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "rele"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebulon"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kedech"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "nan pye l"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "mil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-09-02T17:14:08.448100907Z",
+  "model": "glm-5.3"
+}

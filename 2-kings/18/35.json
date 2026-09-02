@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Kimoun, nan mitan tout dye peyi yo, ki te delivre ⟨את⟩ peyi yo nan men m, pou Yawe ap delivre ⟨את⟩ Yerouchalayim nan men m?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kimoun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan mitan tout"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "peyi yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyi yo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "peyi yo"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nan men m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ap delivre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nan men m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:23.818281589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Beni se Yawe, Elohim Izrayèl, depi toutan jouka toutan; epi tout pèp la di: Amen. Lwe Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depi"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "toutan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouka"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "toutan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "epi ... di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lwe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:48.951823118Z",
+  "model": "glm-5.3"
+}

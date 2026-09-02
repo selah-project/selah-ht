@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "Paske hesed ⟨ou⟩ an gran jouk nan syèl yo, ak verite ⟨ou⟩ jouk nan nyaj yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "gran"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ⟨ou⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ak jouk"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nan nyaj yo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "verite ⟨ou⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:00.159391343Z",
+  "model": "glm-5.3"
+}

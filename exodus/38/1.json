@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "L fè ⟨את⟩ otèy la pou ofrann ki boule, an bwa akasya: senk kib longè l, e senk kib large l, kare, e twa kib wotè l.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֛עַשׂ",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "otèy la"
+    },
+    {
+      "surface": "מִזְבַּ֥ח",
+      "gloss": "otèy"
+    },
+    {
+      "surface": "הָעֹלָ֖ה",
+      "gloss": "ki boule"
+    },
+    {
+      "surface": "עֲצֵ֣י",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שִׁטִּ֑ים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "חָמֵשׁ֩",
+      "gloss": "senk"
+    },
+    {
+      "surface": "אַמֹּ֨ת",
+      "gloss": "kib"
+    },
+    {
+      "surface": "אָרְכּ֜וֹ",
+      "gloss": "longè l"
+    },
+    {
+      "surface": "וְחָמֵ֥שׁ",
+      "gloss": "e senk"
+    },
+    {
+      "surface": "אַמֹּ֤וֹת",
+      "gloss": "kib"
+    },
+    {
+      "surface": "רָחְבּוֹ֙",
+      "gloss": "large l"
+    },
+    {
+      "surface": "רָב֔וּעַ",
+      "gloss": "kare"
+    },
+    {
+      "surface": "וְשָׁלֹ֥שׁ",
+      "gloss": "e twa"
+    },
+    {
+      "surface": "אַמֹּ֖ת",
+      "gloss": "kib"
+    },
+    {
+      "surface": "קֹמָתֹֽו",
+      "gloss": "wotè l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:18.358205840Z",
+  "model": "glm-5.3"
+}

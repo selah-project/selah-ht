@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Chelomo, pitit David, ranfòse sou wayòm li a, e Yawe, Elohim li, ⟨te⟩ avèk li, e li fè l vin gwo ⟨anpil⟩ anwo.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "ranfòse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "wayòm li"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim li"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avèk li"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "e fè l vin gwo"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "anpil anwo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:24:35.704734910Z",
+  "model": "glm-5.3"
+}

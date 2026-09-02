@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Aharòn ak pitit gason l yo pral lave avèk li ⟨את⟩ men yo ak ⟨את⟩ pye yo.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "yo pral lave"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ak pitit gason l yo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avèk li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men yo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pye yo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "pye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:27.255354887Z",
+  "model": "glm-5.3"
+}

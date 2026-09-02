@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E David beni ⟨את⟩ Yawe devan je tout asanble a, e David di: Beni ou ye, Yawe, Elohim Izrayèl, papa nou an, depi tout tan jouk tout tan.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "devan je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "papa nou an"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "depi tout tan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T22:06:02.363057378Z",
+  "model": "glm-5.3"
+}

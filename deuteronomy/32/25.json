@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Deyò, epèy la ap fè pèdi pitit yo, e nan chanm nan — pè: menm jèn gason an, menm jèn fi a, tibebe ki ap tete an ansanm ak granmoun ak cheve gri.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "Deyò"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "ap fè pèdi pitit"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epèy la"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "e nan chanm nan"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "pè"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "jèn gason an"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "jèn fi a"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "tibebe ki ap tete an"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "granmoun"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ak cheve gri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:57:31.906003742Z",
+  "model": "glm-5.3"
+}

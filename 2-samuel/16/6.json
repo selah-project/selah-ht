@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E l lanse wòch sou ⟨את⟩ David ak ⟨את⟩ tout sèvitè wa a David; men tout pèp la ak tout gason gayan yo te ye nan bò dwat l ak nan bò gòch l.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "e l lanse"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sèvitè wa a David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "gason gayan yo"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "nan bò dwat l"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "ak nan bò gòch l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:47:39.737188351Z",
+  "model": "glm-5.3"
+}

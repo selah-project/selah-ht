@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E li rasanble ⟨את⟩ tout chèf Yisrael yo, ak prèt yo ak Levit yo.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "E li rasanble"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout chèf Yisrael yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ak prèt yo"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ak Levit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:22:15.571935745Z",
+  "model": "glm-5.3"
+}

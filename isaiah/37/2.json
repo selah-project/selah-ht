@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E li voye ⟨את⟩ Elyakim ki sou kay la, ak ⟨את⟩ Chevna eskri a, ak ⟨את⟩ vye granmoun prèt yo — kouvri tèt yo ak sak — kay Yechayahu pitit Amots a, pwofèt la.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "li voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Chevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "eskri a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "vye granmoun prèt yo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vye granmoun"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "kouvri tèt yo"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "ak sak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yechayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:35:23.339016890Z",
+  "model": "glm-5.3"
+}

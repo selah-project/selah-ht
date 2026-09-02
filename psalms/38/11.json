@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Kè m ap bat fò, fòs mwen kite m ale, ak limyè zye mwen yo, menm yo pa ⟨את⟩ mwen.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Kè m"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "ap bat fò"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "kite m ale"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fòs mwen"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ak limyè"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "zye mwen yo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:51.975179182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi pou Yichmael, m tande ou: gade, m beni ⟨את⟩ li, e m ap fè ⟨את⟩ li fètil, e m ap miltipliye ⟨את⟩ li anpil, anpil anpil; l ap fè douz chèf, e m ap fè l yon gran nasyon.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "Epi pou Yichmael"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "m tande ou"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "m beni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Yichmael)"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "e m ap fè fètil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Yichmael)"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "e m ap miltipliye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Yichmael)"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil anpil"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "douz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "e m ap fè l"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "pou yon nasyon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    }
+  ],
+  "timestamp": "2026-09-02T15:19:16.174830005Z",
+  "model": "glm-5.3"
+}

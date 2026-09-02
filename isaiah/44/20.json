@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Li ap manje sann; yon kè ki twonpe desviye ⟨l⟩, e menm pa kapab sove ⟨את⟩ nefech li, e menm pa kapab di: Èske pa gen yon manti nan men dwat m?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "sann"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè a"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "ki twonpe"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "desviye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e menm pa"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "kapab sove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefech li"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefech li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e menm pa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "èske pa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yon manti"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "nan men dwat m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:17.089582795Z",
+  "model": "glm-5.3"
+}

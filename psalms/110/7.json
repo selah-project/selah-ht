@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 110,
+  "translation": "Li ap bwè dlo nan rivyè a sou wout la; poutèt sa l ap leve ⟨tèt li⟩.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "nan rivyè a"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sou wout la"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ap bwè"
+    },
+    {
+      "surface": "על",
+      "gloss": "poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:01.221859752Z",
+  "model": "glm-5.3"
+}

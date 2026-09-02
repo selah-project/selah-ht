@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Gadè yo vin e chase yo; men Moche kanpe, sove yo, e abevre ⟨את⟩ mouton yo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "gadè yo"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "chase yo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "sove yo"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "abevre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mouton yo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "mouton yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:59.031439360Z",
+  "model": "glm-5.3"
+}

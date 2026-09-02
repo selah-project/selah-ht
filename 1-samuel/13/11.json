@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 13:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi Chemouèl di: «Kisa ⟨ou⟩ fè?» Epi Chaoul di: «Paske mwen wè ke pèp la te dispèse ale lwen mwen, epi ⟨ou⟩ pa te vini nan randevou jou yo, epi Filistin yo ap rasanble nan Mikmach;»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi …di"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mwen wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "te dispèse ale"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "lwen mwen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "epi ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "באת",
+      "gloss": "te vini"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "nan randevou"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "epi Filistin yo"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "ap rasanble"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "nan Mikmach"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:05.941909495Z",
+  "model": "glm-5.3"
+}

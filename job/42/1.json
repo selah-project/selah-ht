@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Epi Iyob reponn ⟨את⟩ Yawe epi li di :",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:00.840897733Z",
+  "model": "glm-5.3"
+}

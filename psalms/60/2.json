@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Lè li te goumen kont ⟨את⟩ Aram Naharayim ak kont ⟨את⟩ Aram Tsovah, e Yoav tounen, e li frape ⟨את⟩ Edom nan Valè Sèl la — douz mil.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Lè li te goumen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kont ⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e li tounen"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e li frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "nan Valè"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Sèl la"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "douz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mil (de-dis)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:22.239595287Z",
+  "model": "glm-5.3"
+}

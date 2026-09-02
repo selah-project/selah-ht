@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Paske HaElohim ap mennen ⟨את⟩ tout aksyon nan jijman, sou tout bagay kache, kit li bon kit li movè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout aksyon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aksyon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ap mennen"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nan jijman"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "bagay kache"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kit"
+    },
+    {
+      "surface": "רע",
+      "gloss": "movè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:57.055740700Z",
+  "model": "glm-5.3"
+}

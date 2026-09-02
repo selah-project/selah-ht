@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Se te prèt Midyan an ki te gen sèt fi; epi yo vini, epi yo tire dlo, epi yo plen ⟨את⟩ bak yo pou abevwe mouton papa yo a.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "prèt"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "epi yo vini"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "epi yo tire dlo"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "epi yo plen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bak yo"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "bak yo"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "pou abevwe"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "papa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:16.520233063Z",
+  "model": "glm-5.3"
+}

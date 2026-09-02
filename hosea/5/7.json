@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Yo trahi Yawe, paske yo fè pitit etranje; kounye a yon mwa ap manje ⟨את⟩ pòsyon yo.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "kont Yawe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "yo trahi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ap manje yo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yon mwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pòsyon yo"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "pòsyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:43.286316900Z",
+  "model": "glm-5.3"
+}

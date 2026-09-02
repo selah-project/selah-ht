@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Nou pa manje vyann yo, nou pa manyen kadav yo; yo enpou pou nou.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "nan vyann yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou manje"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ak kadav yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "nou manyen"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "enpou"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:24.456771589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Chante pou Elohim, chante louwanj pou non l; prepare wout pou moun ki monte nan dezè yo; non l se Yah; e fete devan l.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chante louwanj"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "prepare wout"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "pou moun ki monte"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "nan dezè yo"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "nan Yah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "e fete"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:30.924255977Z",
+  "model": "glm-5.3"
+}

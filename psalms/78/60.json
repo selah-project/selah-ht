@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li abandonnen tabènakl Chilo a, telt ⟨ki te⟩ kanpe nan mitan moun.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "abandonnen"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "tabènakl"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Chilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telt"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:08.208305874Z",
+  "model": "glm-5.3"
+}

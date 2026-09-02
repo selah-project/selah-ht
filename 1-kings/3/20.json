@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi li kanpe nan mitan lannwit la, e li pran ⟨את⟩ pitit mwen an bò kote m, pandan sèvant ou a ap dòmi, e li kouchye l nan pwatrin li; e ⟨את⟩ pitit gason li a, mouri a, li kouchye l nan pwatrin mwen.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "lannwit la"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit mwen an"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen an"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "bò kote m"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "pandan sèvant ou a"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "ap dòmi"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "kouchye l"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "nan pwatrin li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit gason li a, mouri a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pitit gason li a"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mouri a"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "kouchye"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "nan pwatrin mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:39.241983870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "e li ranmase yo soti nan peyi yo, soti kote solèy leve ak soti kote solèy kouche, soti nò ak soti lanmè.",
+  "tokens": [
+    {
+      "surface": "וּמֵאֲרָצוֹת",
+      "gloss": "e soti nan peyi yo"
+    },
+    {
+      "surface": "קִבְּצָם",
+      "gloss": "ranmase yo"
+    },
+    {
+      "surface": "מִמִּזְרָח",
+      "gloss": "soti kote solèy leve"
+    },
+    {
+      "surface": "וּמִמַּעֲרָב",
+      "gloss": "ak soti kote solèy kouche"
+    },
+    {
+      "surface": "מִצָּפוֹן",
+      "gloss": "soti nò"
+    },
+    {
+      "surface": "וּמִיָּם",
+      "gloss": "ak soti lanmè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:03.835448637Z",
+  "model": "glm-5.3"
+}

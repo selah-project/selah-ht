@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Fè m ladans, Yawe, paske detres rive sou mwen; je m ap fini ak chagrin, ansanm ak ⟨nanm⟩ m ak vant m.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fè m ladans"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "צר",
+      "gloss": "detres"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rive sou mwen"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "ap fini"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "ak chagrin"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "ak vant m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:13.838712797Z",
+  "model": "glm-5.3"
+}

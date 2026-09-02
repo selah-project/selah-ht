@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "E mwen te voye ⟨yo⟩ ale nan entêtman kè ⟨yo⟩, pou yo mache nan konsèy yo pa yo.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "E mwen te voye ⟨yo⟩ ale"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "nan entêtman"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kè ⟨yo⟩"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yo mache"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "nan konsèy yo pa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:43.790062148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Yawe se pòsyon mwen — mwen di pou m kenbe pawòl ou yo.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "pòsyon mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pou kenbe"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "pawòl ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:13.077403757Z",
+  "model": "glm-5.3"
+}

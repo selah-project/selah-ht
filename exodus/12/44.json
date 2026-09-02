@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Ak tout sèvitè yon moun acha ak ajàn — lè ou fin sirkonsi ⟨את⟩ li, lè sa a li manje l.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "acha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajàn"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "epi ou fin sirkonsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "אז",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "בו",
+      "gloss": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:36.597623180Z",
+  "model": "glm-5.3"
+}

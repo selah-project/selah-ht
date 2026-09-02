@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Paske pitit Yisrayèl yo pral rete anpil jou san wa, san chèf, san sakrifis, san pilye sakre, san efod, san terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "pral rete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "אין",
+      "gloss": "san"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "san"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "san"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "san"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "pilye sakre"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "san"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "san terafim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:33:28.036662918Z",
+  "model": "glm-5.3"
+}

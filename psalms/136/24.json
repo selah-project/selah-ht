@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Epi l delivre nou de lènmi nou yo, paske pou tout tan hesed li.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "epi l delivre nou"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "de lènmi nou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:28.160863640Z",
+  "model": "glm-5.3"
+}

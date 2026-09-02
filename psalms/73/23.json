@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Men mwen toujou avèk ou; ou kenbe men nan adwat mwen an.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ou kenbe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "men"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "nan adwat mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:27.814217875Z",
+  "model": "glm-5.3"
+}

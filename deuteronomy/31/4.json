@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Epi Yawe ap fè yo jan l fè pou Sihòn ak Og, wa Emori yo, ak peyi yo, lè l detwi yo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihòn"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "peyi yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "detwi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:02.978127598Z",
+  "model": "glm-5.3"
+}

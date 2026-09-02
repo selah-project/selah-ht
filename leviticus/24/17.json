@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi yon moun, si l frape nenpòt nefech moun, mouri — yo dwe fè ⟨li⟩ mouri.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi yon moun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefech"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "yo dwe fè ⟨li⟩ mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:16:26.710316793Z",
+  "model": "glm-5.3"
+}

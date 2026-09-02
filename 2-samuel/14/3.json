@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E w antre ⟨nan palè⟩ wa a, e w pale ak li dapre pawòl sa a; e Yoav mete ⟨את⟩ pawòl yo nan bouch li.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan palè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dapre pawòl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "nan bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:48.001135057Z",
+  "model": "glm-5.3"
+}

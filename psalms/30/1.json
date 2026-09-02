@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Mizmor, yon chante pou konsakrasyon kay la, pou David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "chante"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "konsakrasyon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:18.458992892Z",
+  "model": "glm-5.3"
+}

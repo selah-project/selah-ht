@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pa gen fanm k ap pèdi pitit ni fanm san pitit nan peyi ou a; ⟨את⟩ kantite jou ou yo m ap ranpli.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "fanm k ap pèdi pitit"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ni fanm san pitit"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nan peyi ou a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kantite jou ou yo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kantite"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "jou ou yo"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "m ap ranpli"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:38.780545067Z",
+  "model": "glm-5.3"
+}

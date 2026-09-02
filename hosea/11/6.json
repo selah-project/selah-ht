@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Kouto a frape nan vil li yo, li fini ak ba pòt li yo, e li devore ⟨yo⟩ akòz konsey yo menm.",
+  "tokens": [
+    {
+      "surface": "וְחָלָה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "חֶרֶב",
+      "gloss": "kouto a"
+    },
+    {
+      "surface": "בְּעָרָיו",
+      "gloss": "nan vil li yo"
+    },
+    {
+      "surface": "וְכִלְּתָה",
+      "gloss": "fini ak"
+    },
+    {
+      "surface": "בַּדָּיו",
+      "gloss": "ba pòt li yo"
+    },
+    {
+      "surface": "וְאָכְלָה",
+      "gloss": "devore"
+    },
+    {
+      "surface": "מִמֹּעֲצֹתֵיהֶם",
+      "gloss": "akòz konsey yo menm"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:48.196913393Z",
+  "model": "glm-5.3"
+}

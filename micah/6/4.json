@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Paske mwen monte ou soti nan tè Mitsrayim, e nan kay sèvitè yo mwen delivre ou; mwen voye devan ou ⟨את⟩ Moche, Aharòn, ak Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "mwen monte ou"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "e soti nan kay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sèvitè yo"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "mwen delivre ou"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "e mwen voye"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche, Aharòn, ak Miryam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ak Miryam"
+    }
+  ],
+  "timestamp": "2026-09-02T19:43:03.960056395Z",
+  "model": "glm-5.3"
+}

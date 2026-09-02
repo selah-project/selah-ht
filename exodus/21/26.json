@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E si yon nonm frape ⟨את⟩ zye sèvant li oswa ⟨את⟩ zye sèvant fi li e li detwi l, an libète l ap voye l alèka, an plas zye l.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "E si"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zye sèvant la"
+    },
+    {
+      "surface": "עין",
+      "gloss": "zye"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sèvant li"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zye sèvant fi la"
+    },
+    {
+      "surface": "עין",
+      "gloss": "zye"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "sèvant fi li"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "e li detwi l"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "an libète"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "l ap voye l alèka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "zye l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:36.191388235Z",
+  "model": "glm-5.3"
+}

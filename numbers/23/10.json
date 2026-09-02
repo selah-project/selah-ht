@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Kiyès ki ka konte pousyè Yaakov, oubyen konte ⟨את⟩ ka yon ka nan Yisrayèl? Nèf mwen lan mouri ak mouri moun dwat yo, epi dènye pa mwen vin tankou pa yo!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ki ka konte"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "oubyen konte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka yon ka"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "ka yon ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nèf mwen lan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ak mouri"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "moun dwat yo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "epi ... vin"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "dènye pa mwen"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "tankou pa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:32:52.396208264Z",
+  "model": "glm-5.3"
+}

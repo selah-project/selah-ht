@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Paske David di: Yawe, Elohim Izrayèl la, bay pèp li repo, e ⟨li⟩ abite nan Yerouchalayim jou tout tan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "bay repo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "epi abite"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:22:08.712981808Z",
+  "model": "glm-5.3"
+}

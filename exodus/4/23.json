@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E mwen di ou: voye ⟨את⟩ pitit mwen ale pou l sèvi mwen; e ou refize voye l ale — gade, mwen ap touye ⟨את⟩ pitit ou, pitit ou ki fèt premye.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E mwen di"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit mwen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "pou l sèvi mwen"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "e ou refize"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "voye l ale"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ap touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit ou"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pitit ou"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "pitit ou ki fèt premye"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:00.468396165Z",
+  "model": "glm-5.3"
+}

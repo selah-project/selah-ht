@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si vòlaj la jwenn, vrèman jwenn nan men l — soti nan bèf jouk bourik jouk mouton — vivan, de fwa li ap remèt.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "vrèman jwenn"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "vòlaj la"
+    },
+    {
+      "surface": "משור",
+      "gloss": "soti nan bèf"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "bourik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de fwa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "li ap remèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:44.658785767Z",
+  "model": "glm-5.3"
+}

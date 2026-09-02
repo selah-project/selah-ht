@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Kite kalm devan Yawe, e tann li pasyan; pa chaje kòlè ⟨ak⟩ moun ki reyisi nan wout li, ni ⟨ak⟩ moun k ap fè move plan.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Kite kalm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "devan Yawe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "e tann pasyan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "chaje kòlè"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "ak moun ki reyisi"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nan wout li"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ak moun"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "k ap fè"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "move plan"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:24.479091828Z",
+  "model": "glm-5.3"
+}

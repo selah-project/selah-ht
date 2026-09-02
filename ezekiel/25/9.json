@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 25:9",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Se poutèt sa, men m ap louvri zepòl Movav depi nan vil yo, depi nan vil li yo, depi nan bò tè a: bèl peyi a, Beit haYechimot, Baal Meòn, ak Kiryatayim.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Se poutèt sa"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "men m ap"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zepòl Movav"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "zepòl"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Movav"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "depi nan vil yo"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "depi nan vil li yo"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "depi nan bò li"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "הישימת",
+      "gloss": "haYechimot"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meòn"
+    },
+    {
+      "surface": "וקריתמה",
+      "gloss": "ak Kiryatayim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:19:11.873840239Z",
+  "model": "glm-5.3"
+}

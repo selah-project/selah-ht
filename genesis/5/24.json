@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E Chanokh mache ak ⟨את⟩ HaElohim, e li pa la anplis, paske Elohim pran ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "E … mache"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "ak ⟨את⟩",
+      "marks": "HaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "e li pa la anplis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "Chanokh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:21.097257581Z",
+  "model": "glm-5.3"
+}

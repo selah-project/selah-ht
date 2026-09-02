@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi dyèt diri yo ak rezen yo ap pran dizyèm, epi l ap bay ⟨ofisye⟩ li yo ak sèvitè li yo.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "epi dyèt diri yo"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "ak rezen yo"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ap pran dizyèm"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "epi l ap bay"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "bay ofisye li yo"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "ak sèvitè li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:24.050753997Z",
+  "model": "glm-5.3"
+}

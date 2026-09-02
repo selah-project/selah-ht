@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Ou fè moun chache sou tèt nou; nou pase nan dife ak nan dlo, e ou fè nou soti ⟨nan⟩ yon kote k ap ba nou plen.\n",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Ou fè chache"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "sou tèt nou"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "nou pase"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ak nan dlo"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "e ou fè nou soti"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "nan yon kote k ap ba nou plen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:08.164258141Z",
+  "model": "glm-5.3"
+}

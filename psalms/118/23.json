@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Soti nan men ⟨את⟩ Yawe sa a fèt; li mavelè nan je nou.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "soti nan men ⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "mavelè"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "nan je nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:45.435910573Z",
+  "model": "glm-5.3"
+}

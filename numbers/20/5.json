@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E poukisa nou fè nou monte soti Mitsrayim, pou mennen ⟨את⟩ nou nan kote mal sa a? Li pa yon kote simans, ⟨ni⟩ figye, ⟨ni⟩ rezen, ⟨ni⟩ grenad, e pa gen dlo pou bwè.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "e poukisa"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "fè monte"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti Mitsrayim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "pou mennen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote a"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "simans"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ak figye"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ak rezen"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ak grenad"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "pou bwè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:31:42.090291808Z",
+  "model": "glm-5.3"
+}

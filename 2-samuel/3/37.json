@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Tout pèp la ak tout Yisrael konnen nan jou sa a ke se pa nan men wa a te vini ⟨את⟩ Avnè ben Nè yo touye.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "te vini"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "nan men wa a"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "pou yo touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnè ben Nè"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:37.607932440Z",
+  "model": "glm-5.3"
+}

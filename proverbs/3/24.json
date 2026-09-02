@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Lè w kouche, w pa pè; wi, w ap kouche, epi dòmi ou ap dous.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "w kouche"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "w pè"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "wi, w ap kouche"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "epi ... ap dous"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "dòmi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:01.819698095Z",
+  "model": "glm-5.3"
+}

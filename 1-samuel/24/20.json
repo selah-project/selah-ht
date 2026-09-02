@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Paske èske yon moun jwenn ⟨את⟩ lènmi l, epi li kite l ale sou yon bon wout? Epi Yawe ap remèt ou byen an plas sa w fè mwen jodi a.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "paske èske"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lènmi l"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "lènmi l"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "epi li kite l ale"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sou wout"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "epi Yawe"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "ap remèt ou"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "byen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "w fè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:47.215276400Z",
+  "model": "glm-5.3"
+}

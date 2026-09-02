@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Wa nan lame yo kouri ale, yo kouri ale, epi fanm k ap rete nan kay la ap pataje butin an.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nan lame yo"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "kouri ale"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "yo kouri ale"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "epi fanm k ap rete"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay la"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ap pataje"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "butin an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:51.298504592Z",
+  "model": "glm-5.3"
+}

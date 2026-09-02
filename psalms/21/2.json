@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Yawe, nan fòs ou wa a kontan, e nan delivrans ou kijan li kontan anpil!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "nan fòs ou"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ak nan delivrans ou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kijan"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:30.562589279Z",
+  "model": "glm-5.3"
+}

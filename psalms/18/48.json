@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "El la, ⟨menm⟩ ⟨li⟩ ki bay revanch pou m, epi ki soumèt pèp yo anba m.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El la"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "ki bay"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "revanch"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "epi ki soumèt"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "anba m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:32.144979828Z",
+  "model": "glm-5.3"
+}

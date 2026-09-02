@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 4:21",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Yawe di ba Moche: lè w ap tounen al nan Mitsrayim, gade tout mirak yo mwen mete nan men w, fè yo devan Paro; e mwen menm, mwen ap fè kè l vin dur, e li p ap voye pèp la ale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E … di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בלכתך",
+      "gloss": "lè w ap ale"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "mirak yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "mwen mete"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nan men w"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e mwen menm"
+    },
+    {
+      "surface": "אחזק",
+      "gloss": "ap fè kè l vin dur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè l"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "voye ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:00.468013265Z",
+  "model": "glm-5.3"
+}

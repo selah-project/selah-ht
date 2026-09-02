@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Yawe te ⟨את⟩ Yosèf, e hesed vwayaje ban li, e li mete favè l nan je chèf kay prizon an.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosèf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "vwayaje"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ban li"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e li mete"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "favè l"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "prizon an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:04.660117339Z",
+  "model": "glm-5.3"
+}

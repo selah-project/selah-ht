@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "e Li bay tè yo kòm eritaj, kòm eritaj pou Yisrael, pèp li a.",
+  "tokens": [
+    {
+      "surface": "וְנָתַ֣ן",
+      "gloss": "e Li bay"
+    },
+    {
+      "surface": "אַרְצָ֣ם",
+      "gloss": "tè yo"
+    },
+    {
+      "surface": "נַחֲלָ֑ה",
+      "gloss": "kòm eritaj"
+    },
+    {
+      "surface": "נַחֲלָ֗ה",
+      "gloss": "kòm eritaj"
+    },
+    {
+      "surface": "לְיִשְׂרָאֵ֥ל",
+      "gloss": "pou Yisrael"
+    },
+    {
+      "surface": "עַמּֽוֹ",
+      "gloss": "pèp li a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:30.210941020Z",
+  "model": "glm-5.3"
+}

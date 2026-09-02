@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E Yaakov mande, e li di: Tanpri, di non ⟨ou⟩ a. E li di: Poukisa pou sa ou mande non mwen? E li beni ⟨את⟩ li la.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "E li mande"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Di"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ⟨ou⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "ou mande"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "pou non mwen"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e li beni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:43.321823707Z",
+  "model": "glm-5.3"
+}

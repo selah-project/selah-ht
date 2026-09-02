@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Chak vale ap monte, epi chak mòn ak ti mòn ap bese; kote tòdwo a ap vin plati, ak kote wou yo ap vin yon plenn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Chak"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "vale"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "ap monte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "epi chak"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "ak ti mòn"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "ap bese"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "kote tòdwo a"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "plati"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "ak kote wou yo"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "yon plenn"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:17.822145660Z",
+  "model": "glm-5.3"
+}

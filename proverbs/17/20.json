@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Moun ki gen kè twòke pa jwenn sa ki bon; e moun ki vire lang li ap tonbe nan mal.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "ki gen kè twòke"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sa ki bon"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "e moun ki vire"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "lang li"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ap tonbe"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nan mal"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:46.317629137Z",
+  "model": "glm-5.3"
+}

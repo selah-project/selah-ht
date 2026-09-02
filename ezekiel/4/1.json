@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E ou menm, pitit moun, pran pou ou yon brik, e mete ⟨את⟩ l devan ou, e gravé sou li yon vil — ⟨את⟩ Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E ou menm"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "קח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "brik"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "e mete"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ l"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "e gravé"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "yon vil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:12:55.951641473Z",
+  "model": "glm-5.3"
+}

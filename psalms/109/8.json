@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Ke jou l yo vin piti, e ke yon lòt pran post li.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jou l yo"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "piti"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "post li (chanj ofisyel li)"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yon lòt"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:41.423642096Z",
+  "model": "glm-5.3"
+}

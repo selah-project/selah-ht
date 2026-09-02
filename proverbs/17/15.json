@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Moun ki deklare koupab la inosan, e moun ki deklare jis la koupab — de de yo se yon soupe devan Yawe.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "ki deklare inosan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "koupab la"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "e ki deklare koupab"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis la"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "soupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou de"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de de yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:46.450854698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Lè Chemouèl fin vye granmoun, li mete pitit gason l yo jij ⟨את⟩ pou Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "fin vye granmoun"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason l yo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason l yo"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "jij"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pou Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T21:49:54.140103972Z",
+  "model": "glm-5.3"
+}

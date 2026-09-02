@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Paske kouman yon bèf tèt di, Yisrael vire do; kounye a èske Yawe ap pate yo kouman mouton nan yon kote laj?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "kouman yon bèf"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "tèt di"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "vire do"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ap pate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "kouman mouton"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "nan yon kote laj"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:58.991454788Z",
+  "model": "glm-5.3"
+}

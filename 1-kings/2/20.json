@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi li di: Yon sèl ti petisyon mwen mande nan men ⟨את⟩ ou; pa vire ⟨את⟩ figi mwen an. Wa a di li: Mande, manman m, paske m ap vire pa ⟨את⟩ figi ou.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "petisyon"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "mande"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "nan men ⟨את⟩ ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "vire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi mwen an"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi mwen an"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "Mande"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "manman m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "m ap vire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi ou"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:59.517505052Z",
+  "model": "glm-5.3"
+}

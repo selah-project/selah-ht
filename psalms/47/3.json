@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Paske Yawe Elyòn, yon moun ki fè pè, se yon wa ki gran sou tout tè a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "yon moun ki fè pè"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ki gran"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:03.199721621Z",
+  "model": "glm-5.3"
+}

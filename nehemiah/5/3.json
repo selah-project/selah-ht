@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 5:3",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Gen kèk ki di: chan nou, jaden rezen nou ak kay nou — nou mete yo an gaj, e annen pran ble nan grangou.",
+  "tokens": [
+    {
+      "surface": "וְיֵשׁ",
+      "gloss": "Gen kèk"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אֹמְרִים",
+      "gloss": "di"
+    },
+    {
+      "surface": "שְׂדֹתֵינוּ",
+      "gloss": "chan nou"
+    },
+    {
+      "surface": "וּכְרָמֵינוּ",
+      "gloss": "ak jaden rezen nou"
+    },
+    {
+      "surface": "וּבָתֵּינוּ",
+      "gloss": "ak kay nou"
+    },
+    {
+      "surface": "אֲנַחְנוּ",
+      "gloss": "nou"
+    },
+    {
+      "surface": "עֹרְבִים",
+      "gloss": "mete an gaj"
+    },
+    {
+      "surface": "וְנִקְחָה",
+      "gloss": "annen pran"
+    },
+    {
+      "surface": "דָּגָן",
+      "gloss": "ble"
+    },
+    {
+      "surface": "בָּרָעָב",
+      "gloss": "nan grangou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:08:21.180897623Z",
+  "model": "glm-5.3"
+}

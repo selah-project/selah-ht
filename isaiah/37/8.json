@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E Ravchake tounen, e l jwenn ⟨את⟩ wa Achou ap goumen sou Libna, paske l te tande ke li te kite Lakiche.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E ... tounen"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "chake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "e l jwenn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa Achou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achou"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ap goumen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "l te tande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "te kite"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakiche"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:33.823281248Z",
+  "model": "glm-5.3"
+}

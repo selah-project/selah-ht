@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi Amalek vini, epi li goumen kont Yisrayèl nan Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "epi vini"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "epi goumen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kont"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "nan Refidim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:45.792426847Z",
+  "model": "glm-5.3"
+}

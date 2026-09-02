@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Li padon tout majistre ou — tout fòt ⟨ou⟩, li geri tout maladi ou yo.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Li padon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "majistre ou"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "li geri"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "maladi ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:10.237373754Z",
+  "model": "glm-5.3"
+}

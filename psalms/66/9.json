@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "⟨Men ki⟩ mete nefech nou nan lavi, e ki pa kite pye nou yo glise.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "⟨Men ki⟩ mete"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefech nou"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "nan lavi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ki pa kite"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pa kite"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "glise"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "pye nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:08.163659621Z",
+  "model": "glm-5.3"
+}

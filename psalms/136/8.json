@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "⟨את⟩ solèy la pou ⟨li⟩ gen pouvwa sou jou a, paske hesed ⟨li⟩ dire pou tout tan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "solèy la"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pou ⟨li⟩ gen pouvwa sou"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed ⟨li⟩ dire"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:27.621003473Z",
+  "model": "glm-5.3"
+}

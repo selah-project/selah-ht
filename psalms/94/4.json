@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Yo fè pawòl yo koule, yo pale ⟨pawòl⟩ san wont; tout moun ki fè mechan van yo tèt yo.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Yo fè pawòl yo koule"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "yo pale"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "san wont"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "van yo tèt yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "און",
+      "gloss": "mechan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:00.247806945Z",
+  "model": "glm-5.3"
+}

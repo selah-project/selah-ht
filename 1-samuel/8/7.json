@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi Yawe di Chemouèl: Koute vwa pèp la, nan tout sa yo ap di ou, paske se pa ⟨את⟩ ou yo rejte, men se ⟨את⟩ mwen yo rejte, pou m pa chèf sou yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(nan direksyon)"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo ap di"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "yo rejte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men paske"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "yo rejte"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "pou m pa chèf"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:47.677036642Z",
+  "model": "glm-5.3"
+}

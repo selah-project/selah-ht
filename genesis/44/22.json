@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "E nou di nan Adònay mwen an: Non, ti gason an pa kapab kite ⟨את⟩ papa l; si l kite ⟨את⟩ papa l, ⟨papa l ap⟩ mwi.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "e nou di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay mwen an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non \/ pa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti gason an"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "si l kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mwi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:27.498101912Z",
+  "model": "glm-5.3"
+}

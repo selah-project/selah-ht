@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi pèp mwen an ankere sou retou m, e yo ap rele l ansanm ⟨nan⟩ wotè a, ⟨men⟩ pa gen youn ki ap leve l.",
+  "tokens": [
+    {
+      "surface": "וְעַמִּי",
+      "gloss": "epi pèp mwen an"
+    },
+    {
+      "surface": "תְּלוּאִים",
+      "gloss": "ankere"
+    },
+    {
+      "surface": "לִמְשׁוּבָתִי",
+      "gloss": "sou retou m"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "epi nan"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "wotè a"
+    },
+    {
+      "surface": "יִקְרָאֻהוּ",
+      "gloss": "yo ap rele l"
+    },
+    {
+      "surface": "יַחַד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יְרוֹמֵם",
+      "gloss": "ap leve l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:48.197144586Z",
+  "model": "glm-5.3"
+}

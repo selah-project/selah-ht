@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Gade alyans la, paske kote fè nwa yo nan tè a plen ak kay vyolans.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "alyans la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "plen"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "kote fè nwa yo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:15.124560577Z",
+  "model": "glm-5.3"
+}

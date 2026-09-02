@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Èske m manke de moun fou, pou nou pote ⟨את⟩ moun sa a pou l fè fou devan m? Èske moun sa a pral antre nan kay m?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Èske m manke de"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "moun fou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "nou pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun sa a"
+    },
+    {
+      "surface": "זה",
+      "gloss": "moun sa a"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "pou l fè fou"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "devan m"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "moun sa a"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "pral antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kay m"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:05.543228690Z",
+  "model": "glm-5.3"
+}

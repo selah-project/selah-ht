@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ou pral ekri sou pyè yo ⟨את⟩ tout mo Tora sa a, byen klè.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "epi ekri"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "pyè yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout mo Tora sa a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mo yo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "באר",
+      "gloss": "klè"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "byen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:44.124272443Z",
+  "model": "glm-5.3"
+}

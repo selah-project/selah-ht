@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "M ap bay kontra mwen ant mwen ak ou, e m ap fè ou tèlman anpil.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "M ap bay"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontra mwen"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ant mwen"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "e m ap fè plis"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ou"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tèlman"
+    }
+  ],
+  "timestamp": "2026-09-02T15:19:37.868984457Z",
+  "model": "glm-5.3"
+}

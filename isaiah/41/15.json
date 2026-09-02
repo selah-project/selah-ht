@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Gade, mwen mete w kòm yon machin pile ble, chiriman, ki gen plizyè dàn: w ap pile mòn yo, w ap bwaze yo, e w ap fè kolin yo tankou pail.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "mwen mete w"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "kòm yon machin pile ble"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "chiriman"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nenfòm"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ki gen"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "plizyè dàn"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "w ap pile"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "w ap bwaze"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "e kolin yo"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "tankou pail"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "w ap fè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:54.959424434Z",
+  "model": "glm-5.3"
+}

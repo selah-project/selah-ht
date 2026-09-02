@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Èske dye nasyon yo, chak youn, janmen delivre ⟨את⟩ payi l nan men wa Achur a?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "Èske janmen"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak youn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payi l"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "payi l"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achur"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:23.817900643Z",
+  "model": "glm-5.3"
+}

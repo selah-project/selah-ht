@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi ou ap konsakre ⟨את⟩ yo, e yo ap vin sent nan sent yo; tout sa ki manyen yo ap vin sent.",
+  "tokens": [
+    {
+      "surface": "וְקִדַּשְׁתָּ",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (zouti yo)"
+    },
+    {
+      "surface": "וְהָיוּ",
+      "gloss": "e yo ap vin"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "sent"
+    },
+    {
+      "surface": "קָדָשִׁים",
+      "gloss": "sent yo (nan sent yo)"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הַנֹּגֵעַ",
+      "gloss": "sa ki manyen"
+    },
+    {
+      "surface": "בָּהֶם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יִקְדָּשׁ",
+      "gloss": "ap vin sent"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:42.520029005Z",
+  "model": "glm-5.3"
+}

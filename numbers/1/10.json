@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pou pitit yo ⟨de⟩ Yosèf: pou Efrayim, Elichamè, pitit Amihoud; pou Menache, Gamliel, pitit Pedatsour.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Pou pitit yo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "pou Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elichamè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihoud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "pou Menache"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsour"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:25.174580553Z",
+  "model": "glm-5.3"
+}

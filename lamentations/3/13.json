@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Li fè pitit kicho flèch li yo antre nan ren mwen.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "fè antre"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "nan ren mwen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "kicho flèch li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:48:00.264649894Z",
+  "model": "glm-5.3"
+}

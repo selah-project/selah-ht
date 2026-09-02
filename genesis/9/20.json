@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Noach kòmanse, nonm tè a, li plante yon jaden rezen.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "kòmanse"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "plante"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "jaden rezen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:30.639372641Z",
+  "model": "glm-5.3"
+}

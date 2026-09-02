@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Lavan atrape ⟨את⟩ Yaakov — e Yaakov te plante ⟨את⟩ tann li nan mòn ⟨la⟩ — e Lavan plante ⟨את⟩ frè li yo nan mòn Gilad la.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "atrape"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "e Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "plante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tann li"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tann li"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "e Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "plante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè li yo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè li yo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:27:48.819823862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "⟨את⟩ chabat mwen yo nou pran swen, ak kay sanktifye mwen an nou respekte; se mwen Yawe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chabat mwen yo"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "chabat mwen yo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "nou pran swen"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ak kay sanktifye mwen an"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nou respekte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:00.493367102Z",
+  "model": "glm-5.3"
+}

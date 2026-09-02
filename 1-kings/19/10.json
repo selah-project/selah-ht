@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 19:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E l di: Mwen jalou, mwen gen yon gwo jalouzi pou Yawe, Elohim Tsvaot, paske pitit Yisrael yo kite kontra ou a, yo demoli ⟨את⟩ otèl ou yo, e yo touye ⟨את⟩ pwofèt ou yo ak epe a; e mwen rete, mwen sèl, e yo chèche ⟨את⟩ lavi m pou pran l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "jalou"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "mwen gen yon gwo jalouzi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "yo kite"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "kontra ou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otèl ou yo"
+    },
+    {
+      "surface": "מזבחתיך",
+      "gloss": "otèl ou yo"
+    },
+    {
+      "surface": "הרסו",
+      "gloss": "yo demoli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pwofèt ou yo"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "pwofèt ou yo"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "yo touye"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ak epe a"
+    },
+    {
+      "surface": "ואותר",
+      "gloss": "e mwen rete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "e yo chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavi m"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lavi m"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "pou pran l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:13.584734823Z",
+  "model": "glm-5.3"
+}

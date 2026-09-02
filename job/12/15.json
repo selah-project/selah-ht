@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Men, li kenbe dlo yo e yo sèch; li voye yo lage e yo vire tè a.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "li kenbe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "e yo sèch"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "li voye yo lage"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "e yo vire"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:06.562173968Z",
+  "model": "glm-5.3"
+}

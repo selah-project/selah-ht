@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi Chaoul di ak valè l: «Pawòl ou bon; vini, ann ale.» Epi yo te ale nan vil la kote nonm HaElohim te ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "ak valè l"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Pawòl ou"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "vini"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "ann ale"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:12.523191342Z",
+  "model": "glm-5.3"
+}

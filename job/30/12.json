@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Sou kote dwat m ⟨yon⟩ bann ti sòt leve, yo pouse pye m ale, e yo monte chemen malè yo kont m.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kote dwat m"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "bann ti sòt"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pye m"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yo pouse ale"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "e yo monte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont m"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "malè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:40:10.767752529Z",
+  "model": "glm-5.3"
+}

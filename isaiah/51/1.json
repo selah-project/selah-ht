@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Koute m, nou k ap swiv jistis, nou k ap chèche Yawe: gade wòch nou te koupe soti, ak twou fotèy nou te fouye soti.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "nou k ap swiv"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "nou k ap chèche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "nou te koupe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak nan"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "martenèt"
+    },
+    {
+      "surface": "בור",
+      "gloss": "fotèy"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "nou te fouye"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:43.625445657Z",
+  "model": "glm-5.3"
+}

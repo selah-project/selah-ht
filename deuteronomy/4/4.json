@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E nou menm ki kole sou Yawe, Elohim nou an, ⟨se⟩ nou ⟨ki⟩ viv, nou tout, jodi a.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "E nou menm"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "ki kole sou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "viv"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "nou tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:44:26.052237917Z",
+  "model": "glm-5.3"
+}

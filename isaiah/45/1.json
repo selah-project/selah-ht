@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 45:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Konsa Yawe di pou Machiya l (moun ki resevwa lwil la), pou Kòrech, ke mwen kenbe nan men dwat li, pou mwen fè nasyon yo tonbe devan l, ak ren wa yo mwen pral lage; mwen pral louvri devan l pòt yo, e pòtay yo pa pral fèmen.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "pou Machiya l"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "pou Kòrech"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "החזקתי",
+      "gloss": "mwen kenbe"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "nan men dwat li"
+    },
+    {
+      "surface": "לרד",
+      "gloss": "pou fè tonbe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "ומתני",
+      "gloss": "ak ren"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "mwen pral lage"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pou louvri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "pòt yo"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "ak pòtay yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "pral fèmen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:21.293210746Z",
+  "model": "glm-5.3"
+}

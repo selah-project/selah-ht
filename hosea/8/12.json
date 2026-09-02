@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "M ekri pou li yon gwo kantite nan lwa mwen; yo konte yo kòm yon bagay etranje.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "m ekri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "yon gwo kantite"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "lwa mwen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kòm"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yon bagay etranje"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "yo konte yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:33:56.329697354Z",
+  "model": "glm-5.3"
+}

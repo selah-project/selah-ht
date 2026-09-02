@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi glwa Yawe a ap parèt, e tout chair ap wè ⟨li⟩ ansanm, paske bouch Yawe a te pale.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ap parèt"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ap wè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chair"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    }
+  ],
+  "timestamp": "2026-09-02T18:35:58.278081448Z",
+  "model": "glm-5.3"
+}

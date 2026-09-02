@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Rehavam ale Chekem, paske Chekem se la tout Yisrael te rive pou yo fè l wa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Chekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "te rive"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "pou yo fè wa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:28:11.208335038Z",
+  "model": "glm-5.3"
+}

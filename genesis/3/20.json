@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi Adam rele non fanm li Hava, paske li te manman tout sa ki vivan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Epi Adam rele"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "fanm li"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sa ki vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:37.616640298Z",
+  "model": "glm-5.3"
+}

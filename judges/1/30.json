@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Zebulon pa chase ⟨את⟩ moun Kitron yo ni ⟨את⟩ moun Nahalol yo; e Kenaàn an te rete nan mitan l, e yo vin tribitè.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "chase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun Kitron yo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "moun ki t ap rete yo"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "moun Nahalol yo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "moun ki t ap rete yo"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e te rete"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaàn an"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nan mitan l"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e yo vin"
+    },
+    {
+      "surface": "למס",
+      "gloss": "tribitè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:39.951259475Z",
+  "model": "glm-5.3"
+}

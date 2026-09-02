@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Priyè Moche, nonm HaElohim. Adònay, ou te yon refij pou nou, nan jenerasyon ak jenerasyon.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Priyè"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "refij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "היית",
+      "gloss": "te"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "nan jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:43.091091468Z",
+  "model": "glm-5.3"
+}

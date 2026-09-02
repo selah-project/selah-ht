@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Paske fondaman yo ap detwi — moun ki dwat la, kisa ⟨li⟩ fè?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "fondaman yo"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ap detwi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun ki dwat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "fè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:05.261273446Z",
+  "model": "glm-5.3"
+}

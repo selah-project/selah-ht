@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Pansman anndan yo ⟨se⟩: kay yo pou tout tan, demè yo pou jenerasyon ak jenerasyon; yo rele non yo sou tè yo.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "pansman anndan yo"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "kay yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "demè yo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak jenerasyon"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "yo rele"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "ak non yo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "tè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:29.837754108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Li kanpe, e m pa rekonèt figi l; yon fòm devan je m: silans, e m tande yon vwa.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "Li kanpe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ... pa"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "rekonèt"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "yon fòm"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "silans"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e yon vwa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "m tande"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:17.747811127Z",
+  "model": "glm-5.3"
+}

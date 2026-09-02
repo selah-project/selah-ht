@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Èske yon moun ap vòlè Elohim? Men nou menm, nou ap vòlè ⟨את⟩ mwen. E nou di: Nan ki sa n ap vòlè ou? Nan dism la ak ofann la.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Èske ... ap vòlè"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "nou ap vòlè"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "E nou di"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Nan ki sa"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "n ap vòlè ou"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "dism la"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "ak ofann la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:56.982374394Z",
+  "model": "glm-5.3"
+}

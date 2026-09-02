@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Paske ⟨fè⟩ opresyon an vin fou savan an, e kadò a detwi ⟨את⟩ kè ⟨moun nan⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "opresyon an"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "vin fou"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "savan an"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "e ... detwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "kadò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:33.199705694Z",
+  "model": "glm-5.3"
+}

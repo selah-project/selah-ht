@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E ⟨את⟩ kochon an — paske li divize kòn menm men li pa remonte manje — li pa pwi pou nou: nan vyann yo nou pa pral manje, e kadav yo nou pa pral manyen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E ⟨את⟩",
+      "marks": "kochon an"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "kochon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "li divize"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men... pa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "remonte manje"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "li pa pwi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nan vyann yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "pral manje"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "e kadav yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "pral manyen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:40.050877328Z",
+  "model": "glm-5.3"
+}

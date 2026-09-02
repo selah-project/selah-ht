@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Limyè ⟨se⟩ seme pou moun jis yo, e kè kontantman pou moun ki gen kè dwat.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Limyè"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seme"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pou moun jis yo"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "epi pou moun ki dwat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kè kontantman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.593616657Z",
+  "model": "glm-5.3"
+}

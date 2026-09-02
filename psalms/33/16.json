@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Pa gen wa ki sove gras a yon gwo lame, ni gason fò ki sove gras a anpil fòs.",
+  "tokens": [
+    {
+      "surface": "אֵין",
+      "gloss": "Pa gen"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נוֹשָׁע",
+      "gloss": "ki sove"
+    },
+    {
+      "surface": "בְּרָב",
+      "gloss": "gras a yon gwo"
+    },
+    {
+      "surface": "חַיִל",
+      "gloss": "lame"
+    },
+    {
+      "surface": "גִּבּוֹר",
+      "gloss": "gason fò"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יִנָּצֵל",
+      "gloss": "sove"
+    },
+    {
+      "surface": "בְּרָב",
+      "gloss": "gras a anpil"
+    },
+    {
+      "surface": "כֹּחַ",
+      "gloss": "fòs"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:50.595124073Z",
+  "model": "glm-5.3"
+}

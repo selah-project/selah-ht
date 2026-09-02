@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Rakonte sa bay pitit nou yo, e pitit nou yo bay pitit yo, e pitit yo bay jenerasyon k ap vini an.",
+  "tokens": [
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "sou ⟨sa⟩"
+    },
+    {
+      "surface": "לִבְנֵיכֶם",
+      "gloss": "bay pitit nou yo"
+    },
+    {
+      "surface": "סַפֵּרוּ",
+      "gloss": "Rakonte"
+    },
+    {
+      "surface": "וּבְנֵיכֶם",
+      "gloss": "e pitit nou yo"
+    },
+    {
+      "surface": "לִבְנֵיהֶם",
+      "gloss": "bay pitit yo"
+    },
+    {
+      "surface": "וּבְנֵיהֶם",
+      "gloss": "e pitit yo"
+    },
+    {
+      "surface": "לְדוֹר",
+      "gloss": "bay jenerasyon"
+    },
+    {
+      "surface": "אַחֵר",
+      "gloss": "k ap vini an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:17.513975999Z",
+  "model": "glm-5.3"
+}

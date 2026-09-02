@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi Plichtim yo pran ⟨את⟩ kès HaElohim la, epi yo pote l soti nan Even HaÈzer rive nan Achdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Epi Plichtim yo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kès HaElohim la"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kès"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "epi yo pote l"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "soti nan Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "HaÈzer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "nan Achdod"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:59.591850485Z",
+  "model": "glm-5.3"
+}

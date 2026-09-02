@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pitit Chet yo reponn ⟨את⟩ Avraham, pou yo di li:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:21.388608927Z",
+  "model": "glm-5.3"
+}

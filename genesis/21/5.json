@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Avraham te gen ⟨de⟩ san an lè ⟨את⟩ Yitshak, pitit gason li, fèt pou li.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Epi Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason ⟨de⟩"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "lè … fèt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:10.357426155Z",
+  "model": "glm-5.3"
+}

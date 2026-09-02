@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li sonje alyans li pou tout tan, pawòl li kòmande pou ⟨nan⟩ mil jenerasyon.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "alyans li"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "li kòmande"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "pou mil"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:16.903675659Z",
+  "model": "glm-5.3"
+}

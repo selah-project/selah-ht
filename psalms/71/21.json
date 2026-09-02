@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Ou ap fè grandè m ap grandi, e w ap tounen w ap konsole m.",
+  "tokens": [
+    {
+      "surface": "תֶּרֶב",
+      "gloss": "ap fè grandi"
+    },
+    {
+      "surface": "גְּדֻלָּתִי",
+      "gloss": "grandè m"
+    },
+    {
+      "surface": "וְתִסֹּב",
+      "gloss": "e w ap tounen"
+    },
+    {
+      "surface": "תְּנַחֲמֵנִי",
+      "gloss": "w ap konsole m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:04.955072448Z",
+  "model": "glm-5.3"
+}

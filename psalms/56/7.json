@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 56,
+  "translation": "Yo rasanble, yo ap kache, yo menm ap veye dèyè pye m, jan yo tann lavi m.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "yo rasanble"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "yo ap kache"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo menm"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "dèyè pye m"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ap veye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "yo tann"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lavi m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:31.025650330Z",
+  "model": "glm-5.3"
+}

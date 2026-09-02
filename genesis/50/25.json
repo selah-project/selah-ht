@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Epi Yosèf fè ⟨את⟩ pitit Yisrael yo sèman, li di konsa: Elohim ap vizite ⟨את⟩ nou sètenman, e nou pran monte ⟨את⟩ zo mwen yo soti nan kote sa a.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "epi … fè sèman"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrael yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di konsa"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "vizite"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ap vizite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "e nou pran monte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zo mwen yo"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "zo mwen yo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "soti nan kote sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:37:51.426930155Z",
+  "model": "glm-5.3"
+}

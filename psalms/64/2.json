@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "Koute, Elohim, vwa m nan plent m; ou kenbe lavi m lwen pè ènmi a.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vwa m"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "nan plent m"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "lwen pè"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ènmi a"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ou kenbe"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "lavi m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:59.149229298Z",
+  "model": "glm-5.3"
+}

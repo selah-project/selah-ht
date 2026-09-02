@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E Yawe ap yon fòtèsi pou moun ki kraze yo, yon fòtèsi pou tan yo nan detres.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E Yawe ap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "fòtèsi"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "pou moun ki kraze yo"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "fòtèsi"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pou tan yo"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "nan detres"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:58.273865367Z",
+  "model": "glm-5.3"
+}

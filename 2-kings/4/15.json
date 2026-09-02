@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi li di: Rele li. Epi l rele li, e li kanpe nan pòtay la.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "epi l rele"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "e li kanpe"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "nan pòtay la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:10:30.523639529Z",
+  "model": "glm-5.3"
+}

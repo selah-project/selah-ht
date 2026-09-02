@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi w ap fè ⟨את⟩ jip efòd la, tout an ble tap.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "w ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jip efòd la"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jip"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efòd la"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tout antye"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "an ble tap"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:29.763201760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 32:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E mwen genyen bèf, bourik, mouton, sèvant gason ak sèvant fi; e mwen voye ⟨mesaj la⟩ pou fè Mèt mwen konnen, pou mwen jwenn favè nan je ou yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi gen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "bourik"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "sèvant gason"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "sèvant fi"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "e mwen voye"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "pou fè konnen"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Mèt mwen"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "pou jwenn"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favè"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nan je ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:13.378229386Z",
+  "model": "glm-5.3"
+}

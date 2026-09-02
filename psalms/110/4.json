@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 110,
+  "translation": "Yawe sere epi l ap pè repanti: ou se prèt pou touttan, dapre lòd Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "ap repanti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prèt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "lòd"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:07.057716250Z",
+  "model": "glm-5.3"
+}

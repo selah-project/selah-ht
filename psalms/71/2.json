@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Nan jistis ou, delivre m, sove m; penche zorye ou bò kote m, e sove m.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Nan jistis ou"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "delivre m"
+    },
+    {
+      "surface": "וּתְפַלְּטֵנִי",
+      "gloss": "e sove m"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "penche"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bò kote m"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "zorye ou"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "e sove m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:12.939837715Z",
+  "model": "glm-5.3"
+}

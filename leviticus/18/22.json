@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi ak ⟨את⟩ yon gason ou pa dwe kouche jan yon moun kouche ak yon fi — abominasyon se li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Epi ak ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "kouchte"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "kouchman"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "abominasyon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:41.552500887Z",
+  "model": "glm-5.3"
+}

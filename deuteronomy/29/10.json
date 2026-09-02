@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "ti pitit nou yo, fanm nou yo, ak etranje ou a ki nan mitan kan ou yo, depi moun ki koupe bwa ou yo jiska moun ki tire dlo ou yo.",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "ti pitit nou yo"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "fanm nou yo"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ak etranje ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "kan ou yo"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "depi moun ki koupe"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "bwa ou yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "moun ki tire"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "dlo ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:22.961458398Z",
+  "model": "glm-5.3"
+}

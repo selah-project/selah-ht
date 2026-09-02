@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Lè sa a rive: nan jou Moche fin moute ⟨את⟩ tabènak la, li onde ⟨את⟩ l, li konsakre ⟨את⟩ l, ak ⟨את⟩ tout zatèt li, ak ⟨את⟩ lotèl la ak ⟨את⟩ tout zatèt li; epi li onde yo, epi li konsakre ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lè sa a rive"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "fin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "moute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabènak la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènak la"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "li onde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "li (tabènak la)"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "li konsakre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "li (tabènak la)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zatèt li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zatèt li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lotèl la"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zatèt li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zatèt li"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "epi li onde yo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "epi li konsakre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (tabènak la ak tout zatèt li, lotèl la ak tout zatèt li)"
+    }
+  ],
+  "timestamp": "2026-09-02T16:22:49.091244620Z",
+  "model": "glm-5.3"
+}

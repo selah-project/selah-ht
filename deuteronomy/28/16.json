@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Maledi ou nan vil la, e maledi ou nan chan an.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "maledi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil la"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "e maledi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan chan an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:23.368556484Z",
+  "model": "glm-5.3"
+}

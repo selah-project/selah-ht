@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Pase ansyen yo, mwen konprann plis, paske mwen te kenbe piyes ou yo.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "pase ansyen yo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mwen konprann plis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "piyes ou yo"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "mwen te kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:56.858745235Z",
+  "model": "glm-5.3"
+}

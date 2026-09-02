@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Se konsa Yehoua dechouke ⟨את⟩ Baal soti nan Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "dechouke"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehoua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "soti nan Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T21:51:25.275680191Z",
+  "model": "glm-5.3"
+}

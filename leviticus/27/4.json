@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi si se yon fi, èstimasyon ou an se trant chèkèl.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "epi si"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "yon fi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "alò ⟨li ye⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "èstimasyon ou"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "chèkèl"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:31.322592054Z",
+  "model": "glm-5.3"
+}

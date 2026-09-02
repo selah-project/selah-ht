@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi moun ki boule ⟨את⟩ bèf la a menm, l ap lave rad li ak dlo, epi l benyen kò l ak dlo, epi l ap rete pa pròp (tame) jouk aswè.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Epi moun ki boule"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "bèf la"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "l ap lave"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "epi benyen"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kò l"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "epi rete pa pròp (tame)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aswè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:31:27.426329669Z",
+  "model": "glm-5.3"
+}

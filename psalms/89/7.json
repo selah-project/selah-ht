@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Paske ki moun nan wo syèl la ka konpare ⟨ak⟩ Yawe? Ki moun ki resanble ⟨ak⟩ Yawe pami pitit fòs yo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "nan wo syèl la"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ka konpare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨ak⟩ Yawe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ki resanble"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨ak⟩ Yawe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "pami pitit"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "fòs yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:06.086688416Z",
+  "model": "glm-5.3"
+}

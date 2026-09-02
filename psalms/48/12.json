@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Fè mòn Tsiyòn kontan, fè ti fi Yehouda rekreye, pou rezon jijman ou yo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Fè ... kontan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "fè ... rekreye"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ti fi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou rezon"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jijman ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:19.363436615Z",
+  "model": "glm-5.3"
+}

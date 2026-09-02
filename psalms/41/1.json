@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Pou mèt mizik la. Yon mizmor pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou mèt mizik la"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:25.941501390Z",
+  "model": "glm-5.3"
+}

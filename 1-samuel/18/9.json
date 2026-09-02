@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi Chaoul mete ⟨את⟩ yon je sou David, depi jou sa a epi pi lwen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "yon je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "depi jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "epi pi lwen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:23.612410143Z",
+  "model": "glm-5.3"
+}

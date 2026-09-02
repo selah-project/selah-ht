@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Nan jou sa a, moun an pral jete ⟨את⟩ dye ajàn li yo ak ⟨את⟩ dye lò li yo, yo fè pou li pou l adore, pou rat tanpèt ak pou chovsouri.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "pral jete"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dye ajàn li yo"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ajàn li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dye lò li yo"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "lò li yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "pou l adore"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "pou rat tanpèt"
+    },
+    {
+      "surface": "פרות",
+      "gloss": ""
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "ak pou chovsouri"
+    }
+  ],
+  "timestamp": "2026-09-02T22:22:11.644048297Z",
+  "model": "glm-5.3"
+}

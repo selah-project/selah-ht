@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Depi nan kote kote li chita l ap gade byen, vi ⟨tout⟩ moun ki rete sou tè a.",
+  "tokens": [
+    {
+      "surface": "מִמְּכוֹן",
+      "gloss": "Depi nan kote"
+    },
+    {
+      "surface": "שִׁבְתּוֹ",
+      "gloss": "kote li chita"
+    },
+    {
+      "surface": "הִשְׁגִּיחַ",
+      "gloss": "l ap gade byen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "vi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "moun ki rete"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:50.594525552Z",
+  "model": "glm-5.3"
+}

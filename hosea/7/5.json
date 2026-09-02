@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Jou wa nou a, chèf yo fè ⟨li⟩ maladi ak chalè diven an; li tire men l ⟨ak⟩ ⟨את⟩ moun ki ap mokè yo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Jou"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "wa nou"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "fè maladi"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "chèf yo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "chalè"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "diven"
+    },
+    {
+      "surface": "משך",
+      "gloss": "tire"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki ap mokè yo"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "moun ki ap mokè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:00.623806150Z",
+  "model": "glm-5.3"
+}

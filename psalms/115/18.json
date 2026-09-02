@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "E nou menm, nou ap beni Yah depi kounye a jiska touttan. Fè lwanj, Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "E nou menm"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "ap beni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "depi kounye a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "touttan"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Fè lwanj"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:05.687751529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Paske jan l ap kalkile nan nanm li a, se konsa l ye; 'Manje e bwè,' l ap di ou, men kè l pa avèk ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ap kalkile"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "nan nanm li"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "l ye"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "e bwè"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "l ap di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "men kè l"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:14.615492955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 99,
+  "translation": "Nan yon poto nwaj li te pale ⟨ak⟩ yo; yo te kenbe temwayaj li yo, ak lwa li te bay yo.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "Nan yon poto"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "nwaj"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "li te pale"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "yo te kenbe"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "temwayaj li yo"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ak lwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "li te bay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:24.388736405Z",
+  "model": "glm-5.3"
+}

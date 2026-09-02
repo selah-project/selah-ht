@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E menm lè sot la ap mache nan wout la, kè l ap manke, e li di bay tout moun: sot li ye.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout la"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "konsa sot la"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ap manke"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bay tout moun"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:06.991608228Z",
+  "model": "glm-5.3"
+}

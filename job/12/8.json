@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 12:8",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Oswa pale ak tè a, epi l ap anseñe w; epi pwason lanmè a ap rakonte ba w.",
+  "tokens": [
+    {
+      "surface": "אוֹ",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "שִׂיחַ",
+      "gloss": "pale ak"
+    },
+    {
+      "surface": "לָאָרֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וְתֹרֶךָּ",
+      "gloss": "epi l ap anseñe w"
+    },
+    {
+      "surface": "וְיִסְפְּרוּ",
+      "gloss": "epi y ap rakonte"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "ba w"
+    },
+    {
+      "surface": "דְּגֵי",
+      "gloss": "pwason"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "lanmè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:10.642532369Z",
+  "model": "glm-5.3"
+}

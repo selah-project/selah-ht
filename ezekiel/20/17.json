@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi zye mwen te gen pitye sou yo, pou yo pa te detwi, e mwen pa fè ⟨את⟩ yo vin yon fen total nan dezè a.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "epi gen pitye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "zye mwen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "detwi yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mwen fè"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (yon fen total)"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yon fen total"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:18:05.925012207Z",
+  "model": "glm-5.3"
+}

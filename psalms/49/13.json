@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Men moun nan lonè pa rete: li fè menm bèt yo, yo pèdi.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Men moun"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "nan lonè"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "rete"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "li fè menm"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "bèt yo"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "yo pèdi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:01.682813921Z",
+  "model": "glm-5.3"
+}

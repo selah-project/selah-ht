@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Soti nan Aram, epi nan Moav, epi nan pitit Amon, epi nan Filistyen yo, epi nan Amalek, epi nan byen yo pran nan men Hadadezer, pitit gason Rehov, wa Tsoba.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "soti nan Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "epi soti nan Moav"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "epi soti nan pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "epi soti nan Filistyen yo"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "epi soti nan Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "epi soti nan byen yo pran"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    }
+  ],
+  "timestamp": "2026-09-02T17:42:30.162814575Z",
+  "model": "glm-5.3"
+}

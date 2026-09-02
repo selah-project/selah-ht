@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 79,
+  "translation": "Jouk lè, Yawe? Ou fache pou toutan? Ou ap boule tankou dife, jalouzi ou.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jouk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "fache"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "boule"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "jalouzi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:13.848919586Z",
+  "model": "glm-5.3"
+}

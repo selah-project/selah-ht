@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi li mennen ⟨את⟩ mwen soti nan yon kote laj; li delivre mwen, paske l te plezi ak m.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Epi li mennen soti"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "nan yon kote laj"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "li delivre mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "l te plezi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ak m"
+    }
+  ],
+  "timestamp": "2026-09-02T17:51:30.768057659Z",
+  "model": "glm-5.3"
+}

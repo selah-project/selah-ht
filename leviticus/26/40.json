@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E yo ap konfese ⟨את⟩ peché yo ak ⟨את⟩ peché papa yo — trayizon ke yo trayi kont mwen — e tou ke yo te mache ak mwen an ostilite.",
+  "tokens": [
+    {
+      "surface": "וְהִתְוַדּוּ",
+      "gloss": "epi yo ap konfese"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "peché yo"
+    },
+    {
+      "surface": "עֲוֹנָם",
+      "gloss": "peché yo"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "peché papa yo"
+    },
+    {
+      "surface": "עֲוֹן",
+      "gloss": "peché"
+    },
+    {
+      "surface": "אֲבֹתָם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "בְּמַעֲלָם",
+      "gloss": "nan trayizon yo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מָעֲלוּ",
+      "gloss": "yo trayi"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "kont mwen"
+    },
+    {
+      "surface": "וְאַף",
+      "gloss": "epi tou"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הָלְכוּ",
+      "gloss": "yo te mache"
+    },
+    {
+      "surface": "עִמִּי",
+      "gloss": "ak mwen"
+    },
+    {
+      "surface": "בְּקֶרִי",
+      "gloss": "an ostilite"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:55.770399814Z",
+  "model": "glm-5.3"
+}

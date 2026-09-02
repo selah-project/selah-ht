@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Yehizkiyahou ak chèf yo vin wè ⟨את⟩ ti tas yo, epi yo beni ⟨את⟩ Yawe ak ⟨את⟩ pèp li a, Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "yo vin"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahou"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ak chèf yo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "yo wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tas yo"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ti tas yo"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "epi yo beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèp li a, Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T21:35:21.964384632Z",
+  "model": "glm-5.3"
+}

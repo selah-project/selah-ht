@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Ak ⟨את⟩ mil la ak sèt san yo ak senk ak swasan li fè kwòk pou poto yo, e li kouvri tèt yo, e li mete bann kley ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "mil la ak sèt san yo ak senk ak swasan"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "mil la"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "san yo"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "swasan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "kwòk"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "pou poto yo"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "e li kouvri"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "tèt yo"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "e li mete bann kley"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (poto yo)"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:16.819649540Z",
+  "model": "glm-5.3"
+}

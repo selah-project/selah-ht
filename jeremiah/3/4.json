@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Èske se pa depi kounye a ou rele m: Papa m, zanmi jènnes m — se ou?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Èske se pa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "depi kounye a"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ou rele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Papa m"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "zanmi"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "jènnes m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:46:21.914355479Z",
+  "model": "glm-5.3"
+}

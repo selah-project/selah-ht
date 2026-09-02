@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi li di: «Mete men ou tounen nan pòch ou.» Li retounen men l nan pòch l, l retire l soti nan pòch l, e gade, men l retounen tankou vyann l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Mete tounen"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "pòch ou"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "epi li retounen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "pòch l"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "epi l retire l"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "soti nan pòch l"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "tankou vyann l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:23.261919306Z",
+  "model": "glm-5.3"
+}

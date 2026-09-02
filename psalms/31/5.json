@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Pou ou mennen m soti nan rezo sa a ke yo kache pou mwen, paske ou se fò mwen.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "mennen m soti"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "rezo"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "yo kache"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "fò mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:57.772490701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 2:7",
+  "book": "zephaniah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi kòt la ap pou restan kay Yehouda yo; yo ap fè mouton yo pâtre sou li, nan kay Achkelòn yo; aswè a yo ap kouche, paske Yawe, Elohim yo, ap vizite yo, epi li ap retounen exil yo ⟨an aryè⟩.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "gloss": "epi ... ap"
+    },
+    {
+      "surface": "חֶבֶל",
+      "gloss": "kòt"
+    },
+    {
+      "surface": "לִשְׁאֵרִית",
+      "gloss": "pou restan"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "עֲלֵיהֶם",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "יִרְעוּן",
+      "gloss": "yo ap fè pâtre"
+    },
+    {
+      "surface": "בְּבָתֵּי",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אַשְׁקְלוֹן",
+      "gloss": "Achkelòn"
+    },
+    {
+      "surface": "בָּעֶרֶב",
+      "gloss": "aswè a"
+    },
+    {
+      "surface": "יִרְבְּצוּן",
+      "gloss": "yo ap kouche"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יִפְקְדֵם",
+      "gloss": "ap vizite"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "Elohim yo"
+    },
+    {
+      "surface": "וְשָׁב",
+      "gloss": "epi li ap retounen"
+    },
+    {
+      "surface": "שְׁבוּתָם",
+      "gloss": "exil yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:45:14.348627566Z",
+  "model": "glm-5.3"
+}

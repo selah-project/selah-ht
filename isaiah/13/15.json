@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Tout moun ki yo jwenn, yo ap plante l kouto; epi tout moun ki vin jwenn yo, yo ap tonbe anba epè.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "moun ki yo jwenn"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "yo ap plante l kouto"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "epi tout"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "moun ki vin jwenn yo"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "yo ap tonbe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "anba epè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:02.614922372Z",
+  "model": "glm-5.3"
+}

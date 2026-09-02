@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Mwen di mwen nan kè mwen: Vini, bon, mwen eseye ou ak kè kontan, epi gade nan byen — e gade, menm sa a ⟨se⟩ vanite.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Mwen di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nan kè mwen"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bon"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "mwen eseye ou"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ak kè kontan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "nan byen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:38.378970082Z",
+  "model": "glm-5.3"
+}

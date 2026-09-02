@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E li fè l pitit gason: ⟨את⟩ Yeouch, ⟨ak⟩ ⟨את⟩ Chemarya, ⟨ak⟩ ⟨את⟩ Zaham.",
+  "tokens": [
+    {
+      "surface": "ו תלד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeouch"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeouch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chemarya"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Chemarya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:45.264769217Z",
+  "model": "glm-5.3"
+}

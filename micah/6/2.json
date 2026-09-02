@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Koute, mòn yo, ⟨את⟩ plent Yawe a, ak pye chaje yo, fondasyon tè a; paske Yawe gen yon plent ak pèp li a, e avèk Yisrael li ap diskite.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plent Yawe a"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "plent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "ak pye chaje yo"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "fondasyon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "plent"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe gen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e avèk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יִתְוַכָּח",
+      "gloss": "li ap diskite"
+    }
+  ],
+  "timestamp": "2026-09-02T19:43:03.959751231Z",
+  "model": "glm-5.3"
+}

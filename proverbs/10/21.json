@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Lèv yo nan jis la a nouri anpil moun, men moun sòt yo mouri paske kè a manke de sa.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Lèv yo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nan jis la a"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "nouri"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil moun"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "men moun sòt yo"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "paske ... manke de sa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè a"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:44.579420084Z",
+  "model": "glm-5.3"
+}

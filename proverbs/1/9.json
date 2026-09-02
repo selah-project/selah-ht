@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Paske se yon kouròn favè ⟨yo ye⟩ pou tèt ou, ak chèn pou kou ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "kouròn"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favè"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "pou tèt ou"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "ak chèn"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "pou kou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:45.555430189Z",
+  "model": "glm-5.3"
+}

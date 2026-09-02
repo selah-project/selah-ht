@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi li dekovri ⟨את⟩ kouvèti Yehouda a, epi ou gade nan jou sa a sou zam Kay Bwa a.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Epi li dekovri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kouvèti Yehouda a"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kouvèti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "epi ou gade"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "zam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Bwa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:15.103297823Z",
+  "model": "glm-5.3"
+}

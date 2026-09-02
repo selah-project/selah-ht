@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Paske dis lopin rezen ap bay sèlman yon bat, ak semans yon khomer ap bay sèlman yon efa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "lopin (pè bèf)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "rezen"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ak semans"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "khomer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:23:34.880336145Z",
+  "model": "glm-5.3"
+}

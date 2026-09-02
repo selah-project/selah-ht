@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Yo ranvèse moun move yo e ⟨yo⟩ pa gen ⟨egzistans⟩, men kay moun jis yo ap kanpe.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "Yo ranvèse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun move yo"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "e yo pa gen"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "men kay"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ap kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:25.070217110Z",
+  "model": "glm-5.3"
+}

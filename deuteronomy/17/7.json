@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Men temwen yo ap pase premye sou l pou fè l mouri, e men tout pèp la ap vini apre; e w ap efase move a nan mitan ou.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "temwen yo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap pase"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou l"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "premye"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "pou fè l mouri"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "e men"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "apre"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "e w ap efase"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "move a"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "nan mitan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:51:54.568085599Z",
+  "model": "glm-5.3"
+}

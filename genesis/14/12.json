@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E yo pran ⟨את⟩ Lot, pitit frè Avram, ak ⟨את⟩ byen li — e li te rete nan Sedòm — e yo ale.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "e yo pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "byen li"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "byen li"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e yo ale"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "te rete"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "nan Sedòm"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:27.260701355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Yawe ⟨⟨se⟩⟩ yon gran Non, e yo fè losaj li anpil, pa gen moun ki ka mezure grandè li.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "e yo fè losanj"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ak grandè li"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "mezure"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:31.303789150Z",
+  "model": "glm-5.3"
+}

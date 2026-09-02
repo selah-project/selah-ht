@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "M ap ravaje mòn yo ak ti mòn, ak tout zèb yo m ap fè sèk; m ap mete rivyè yo vin ⟨zile⟩, ak etan yo m ap fè sèk.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "m ap ravaje"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ak ti mòn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "zèb yo"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "m ap fè sèk"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "e m ap mete"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivyè yo"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "vin ⟨zile⟩"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "ak etan yo"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "m ap fè sèk"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:19.904423221Z",
+  "model": "glm-5.3"
+}

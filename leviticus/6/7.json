@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E sa a ⟨se⟩ lwa ofrann farin lan: pitit Aharòn yo pote ⟨את⟩ l devan Yawe, sou bò fas otèl la.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofrann farin lan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann farin lan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rive sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:37.960683609Z",
+  "model": "glm-5.3"
+}

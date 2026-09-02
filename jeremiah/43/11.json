@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "L ap vini, epi l ap frape ⟨את⟩ peyi Mitsrayim: sa ki pou mouri, pou mouri; sa ki pou prizonye, pou prizonye; sa ki pou kle, pou kle.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "L ap vini"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "epi l ap frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyi Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pou mouri"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pou mouri"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "pou prizonye"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "pou prizonye"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "pou kle"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "pou kle"
+    }
+  ],
+  "timestamp": "2026-09-02T19:06:10.171156171Z",
+  "model": "glm-5.3"
+}

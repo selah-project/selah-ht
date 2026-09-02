@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E ⟨li⟩ retire ⟨את⟩ wou charyo yo, e yo te kondwi yo ak anpil difikilte; e Mitsrayim yo di: Annou chape devan figi Yisrael, paske Yawe ap goumen pou yo kontre Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wou charyo yo"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "wou"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "charyo yo"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "kondwi yo"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "ak anpil difikilte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim yo"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "annou chape"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan figi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ap goumen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kontre Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:06.765433485Z",
+  "model": "glm-5.3"
+}

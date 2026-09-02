@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E li mete priyè pou li, pou kote sakre yo, pou bòk yo, ak pou bèf yo, menm sa li te fè.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "E li mete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "priyè"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "pou kote sakre yo"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "pou bòk yo"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "ak pou bèf yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li te fè"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:20.049991229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "E m di: sètènman fènwa ap anvlòp m, men lannwit ap vin limyè bò kote m;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E m di"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sètènman"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fènwa"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ap anvlòp m"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ak lannwit"
+    },
+    {
+      "surface": "אור",
+      "gloss": "limyè"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "bò kote m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:51.456070978Z",
+  "model": "glm-5.3"
+}

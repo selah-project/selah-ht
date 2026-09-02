@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E ⟨את⟩nou menm, m ap dispèse nan mitan nasyon yo, e m ap deginen yon epè dèyè nou; tè nou an ap vin dezè, e vil nou yo ap vin dezolasyon.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "e ⟨את⟩nou",
+      "marks": "dispèse (objè: nou)"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "ap dispèse"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "e m ap deginen"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "dèyè nou"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "yon epè"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tè nou an"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dezè"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "e vil nou yo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "dezolasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:34.963375128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E nan branch Achè la: ⟨את⟩ Machal ak ⟨את⟩ patiraj li yo, ak ⟨את⟩ Avdòn ak ⟨את⟩ patiraj li yo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "E nan branch"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Achè la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Machal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Machal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "patiraj li yo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "patiraj li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Avdòn"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "patiraj li yo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "patiraj li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:34.062925602Z",
+  "model": "glm-5.3"
+}

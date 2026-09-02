@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Delivre m nan labou a, e pa kite m tale; chape m anba moun k ap rayi m, ak nan fon dlo yo.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Delivre m"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "nan labou a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "kite m tale"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "chape m"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "anba moun k ap rayi m"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "ak nan fon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:00.267679660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Esklav yo gouvenye sou nou; pa gen moun ki delivre ⟨nou⟩ nan men yo.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "esklav yo"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "gouvenye"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ki delivre"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "nan men yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:34.993557903Z",
+  "model": "glm-5.3"
+}

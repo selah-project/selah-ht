@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Yo pran ⟨את⟩ chemiz Yosèf, yo touye yon bouk kabrit, epi yo plonje ⟨את⟩ chemiz la nan san an.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chemiz"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "chemiz"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "touye"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "bouk"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kabrit"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "plonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chemiz la"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "chemiz la"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nan san an"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:12.685208410Z",
+  "model": "glm-5.3"
+}

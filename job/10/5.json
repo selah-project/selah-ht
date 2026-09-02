@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Èske jou ou yo tankou jou yon moun fèb, oubyen lannen ou yo tankou jou yon nonm?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "tankou jou"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "moun fèb"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "jou ou yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oubyen"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "lannen ou yo"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "tankou jou"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nonm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:54.906444695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Se ou ki kòmande ⟨pou nwen⟩ kenbe kòmandman ou yo ak anpil serye.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "Se ou"
+    },
+    {
+      "surface": "צִוִּיתָה",
+      "gloss": "ki kòmande"
+    },
+    {
+      "surface": "פִקּוּדֶיךָ",
+      "gloss": "kòmandman ou yo"
+    },
+    {
+      "surface": "לִשְׁמֹר",
+      "gloss": "pou kenbe"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "ak anpil serye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:20.073776027Z",
+  "model": "glm-5.3"
+}

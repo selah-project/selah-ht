@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 8:13",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Kopi ekri a — pou lwa a bay nan chak pwovens ak chak pwovens — pibliye bay tout pèp yo, e pou Yehoudim yo pare pou jou sa a pou yo venge sou enèmi yo.",
+  "tokens": [
+    {
+      "surface": "פתשגן",
+      "gloss": "kopi"
+    },
+    {
+      "surface": "הכתב",
+      "gloss": "ekri a"
+    },
+    {
+      "surface": "להנתן",
+      "gloss": "pou ⟨yo⟩ bay"
+    },
+    {
+      "surface": "דת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan chak"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "pwovens"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "ak pwovens"
+    },
+    {
+      "surface": "גלוי",
+      "gloss": "pibliye"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bay tout"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "ולהיות",
+      "gloss": "e pou"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "Yehoudim yo"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "pare"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pou jou"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "להנקם",
+      "gloss": "pou yo venge"
+    },
+    {
+      "surface": "מאיביהם",
+      "gloss": "sou enèmi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:04:07.433031267Z",
+  "model": "glm-5.3"
+}

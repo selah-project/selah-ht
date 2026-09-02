@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Noach fèt papa twa pitit gason ⟨את⟩ Chem, ⟨את⟩ Cham, ak ⟨את⟩ Yafet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "fèt papa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    }
+  ],
+  "timestamp": "2026-09-02T22:17:35.046095220Z",
+  "model": "glm-5.3"
+}

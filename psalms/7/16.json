@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Trou li fouye, li kare l soti; e li tonbe nan fon troub li fè ⟨menm⟩ a.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Trou"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "li fouye"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "li kare l soti"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "e li tonbe"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "nan fon troub"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "li fè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:16.731339098Z",
+  "model": "glm-5.3"
+}

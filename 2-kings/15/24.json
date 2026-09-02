@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 15:24",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E l fè sa ki mal nan je Yawe; l pa vire lwen peche Yaravam, pitit gason Nevat, kijan ki fè ⟨את⟩ Yisrael peche.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sa ki mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vire lwen"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "peche"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "fè ... peche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:46.270103464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi yo anonse pou Mordèkhay ⟨את⟩ pawòl Ester yo.",
+  "tokens": [
+    {
+      "surface": "וַיַּגִּידוּ",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "לְמָרְדֳּכַי",
+      "gloss": "pou Mordèkhay"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl Ester yo"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "אֶסְתֵּר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:12.529558147Z",
+  "model": "glm-5.3"
+}

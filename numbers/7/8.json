@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "ak ⟨את⟩ kat char yo ak ⟨את⟩ uit bèf yo, li bay pitit Mèrari yo, dapre sèvis yo, anba men Itamar, pitit Aharòn, prèt la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kat char yo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "char yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "uit bèf yo"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bèf yo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "li bay"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bay pitit"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Mèrari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "sèvis yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "anba men"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:23:05.277374871Z",
+  "model": "glm-5.3"
+}

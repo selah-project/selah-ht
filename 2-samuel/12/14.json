@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Men paske ou fè ⟨את⟩ enmi Yawe yo meprize avèk zak sa a, menm pitit la ki fèt pou ou pral mouri vrèman.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Men"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "meprize"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "ou fè meprize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enmi Yawe yo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "avèk zak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "pitit la"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ki fèt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pral mouri"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "vrèman"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:12.199172052Z",
+  "model": "glm-5.3"
+}

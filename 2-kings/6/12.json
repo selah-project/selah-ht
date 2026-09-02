@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E youn nan sèvitè li yo di: Pa ⟨gen moun⟩, Adònay mwen, wa a; paske se Eliswa, pwofèt la ki nan Izrayèl, ki ap bay wa Izrayèl ⟨את⟩ pawòl yo ke ou ap di nan chanm dòmi w an.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E l di"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "nan sèvitè li yo"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay mwen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske se"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliswa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Izrayèl"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ou ap di"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "nan chanm"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "dòmi w an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:10:38.037091376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Nou manje ⟨את⟩ grès la, nou abiye ak ⟨את⟩ laflèch la, nou touye bèt gra yo, mouton yo nou pa pànse.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grès la"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grès la"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "laflèch la"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "laflèch la"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "abiye"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "bèt gra yo"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "touye"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "pànse"
+    }
+  ],
+  "timestamp": "2026-09-02T19:25:02.267084189Z",
+  "model": "glm-5.3"
+}

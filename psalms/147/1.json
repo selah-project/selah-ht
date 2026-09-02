@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Fè lwanj pou Yah, paske li bon pou nou chante pou Elohim nou an, paske li dous, li bèl, lwanj la.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Fè lwanj"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pou Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "li bon"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "chante"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "li dous"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "li bèl"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lwanj la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:30.329622837Z",
+  "model": "glm-5.3"
+}

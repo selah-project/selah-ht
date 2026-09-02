@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E nou ap sèvi la ak dye, travay men moun, bwa ak wòch, ki pa wè, e ki pa tande, e ki pa manje, e ki pa sant.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "E nou ap sèvi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ak wòch"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "wè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "tande"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "sant"
+    }
+  ],
+  "timestamp": "2026-09-02T16:44:39.759797302Z",
+  "model": "glm-5.3"
+}

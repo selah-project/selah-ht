@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Kare ⟨li ap⟩ dwe, dobe; yon zèt longè li, ak yon zèt lajè li.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Kare"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dwe"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dobe"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "yon zèt"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "longè li"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ak yon zèt"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lajè li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:35.738686857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 25:15",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Kòlè Yawe a boule sou Amatsyahou, e li sendi yon pwofèt ba li, ki te di l: Poukisa ou chèche ⟨את⟩ dye pèp la, yo ki pa t sove ⟨את⟩ pèp yo nan men w?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "boule"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Kòlè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באמציהו",
+      "gloss": "sou Amatsyahou"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "li sendi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "yon pwofèt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ki te di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "ou chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dye pèp la"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa t"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "sove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp yo"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "nan men w"
+    }
+  ],
+  "timestamp": "2026-09-02T21:34:36.231991529Z",
+  "model": "glm-5.3"
+}

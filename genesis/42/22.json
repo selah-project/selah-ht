@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 42:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "E Reouvenn reponn ⟨את⟩ yo, pou li di: Èske mwen pa t di nou, pou di: Pa peche kont timoun nan? E nou pa t koute. E menm san li — gade — yo ap mande l kont nou.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e ... reponn"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reouvenn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou li di"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "èske ... pa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ban nou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "peche"
+    },
+    {
+      "surface": "בילד",
+      "gloss": "kont timoun nan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e nou pa"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "koute"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san li"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "נדרש",
+      "gloss": "yo ap mande l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:27.925376097Z",
+  "model": "glm-5.3"
+}

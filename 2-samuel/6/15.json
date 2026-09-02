@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E David ak tout kay Izrayèl ap moute ⟨את⟩ wat Yawe a ak gwo joupa ak son kòne.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "E David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ap moute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Yawe a"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ak gwo joupa"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ak son"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "kòne"
+    }
+  ],
+  "timestamp": "2026-09-02T17:43:16.416829831Z",
+  "model": "glm-5.3"
+}

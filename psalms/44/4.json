@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Paske se pa ak epe ⟨yo⟩ yo te pran posede tè a, e se pa bra ⟨yo⟩ ki te sove ⟨yo⟩; se men dwat ⟨ou⟩, se bra ⟨ou⟩, ak limyè figi ⟨ou⟩, paske ou te favorize yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "ak epe yo"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "pran posede"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "e bra yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "sove"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "men dwat ou"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "ak bra ou"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ak limyè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "ou favorize yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:00.380249015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 8:18",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi li di a Zevah ak a Tsalmonna: Kote ⟨nonm⟩ yo ke nou touye nan Tavor? Epi yo reponn: Menm jan ak ou, menm jan ak yo — youn sèl, kòm figi pitit wa a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Zevah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak a"
+    },
+    {
+      "surface": "צלמנע",
+      "gloss": "Tsalmonna"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "kote"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nonm yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הרגתם",
+      "gloss": "nou touye"
+    },
+    {
+      "surface": "בתבור",
+      "gloss": "nan Tavor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "epi yo reponn"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "menm jan ak ou"
+    },
+    {
+      "surface": "כמוהם",
+      "gloss": "menm jan ak yo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn sèl"
+    },
+    {
+      "surface": "כתאר",
+      "gloss": "kòm figi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:16:53.127198990Z",
+  "model": "glm-5.3"
+}

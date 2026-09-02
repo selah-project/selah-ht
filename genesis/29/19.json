@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Lavan di: Bon mwen bay ⟨את⟩ li pou ⟨ou⟩ pase mwen bay ⟨את⟩ li pou yon lòt nonm; rete avè m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "mwen bay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (pou ou)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "mwen bay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (pou yon lòt nonm)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pou nonm"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "rete"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avè m"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:13.970038465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Pa fè tèt nou vin degoutan ⟨את⟩ nanm nou yo ak nenpòt kreyati ki ap rampe, epi pa fè tèt nou vin sal ak yo, pou nou pa vin sal ⟨ak yo⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "fè tèt nou vin degoutan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanm nou yo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nanm nou yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak nenpòt"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kreyati ki ap rampe"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ap rampe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "fè tèt nou vin sal"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "pou nou pa vin sal"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ak yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:19.694219120Z",
+  "model": "glm-5.3"
+}

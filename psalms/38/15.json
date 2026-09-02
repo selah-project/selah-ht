@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Mwen vin tankou yon nonm ki pa tande, e pa gen repwoch nan bouch li.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mwen vin"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "tankou yon nonm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "nan bouch li"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "repwoch"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:15.928919886Z",
+  "model": "glm-5.3"
+}

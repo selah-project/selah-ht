@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E mwen louvri ⟨את⟩ bouch mwen, epi l fè mwen manje ⟨את⟩ woulo sa a.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "E mwen louvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch mwen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch mwen"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "epi l fè mwen manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woulo sa a"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "woulo a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:12:32.584902785Z",
+  "model": "glm-5.3"
+}

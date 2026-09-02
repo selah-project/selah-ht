@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Menm tou, mwen te kanbe aliyans mwen ⟨את⟩ ak yo, pou m te bay yo ⟨את⟩ tè Kenaàn, ⟨את⟩ tè sejou yo, kote yo te sejouke ladan l.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Menm tou"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "mwen te kanbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aliyans mwen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aliyans mwen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ak yo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pou m te bay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè Kenaàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè sejou yo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "sejou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "yo te sejouke"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:43.544862784Z",
+  "model": "glm-5.3"
+}

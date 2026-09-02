@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E ⟨את⟩ Kivtsayim ak ⟨את⟩ dejde l, e ⟨את⟩ Beit Khoron ak ⟨את⟩ dejde l — kat vil.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kivtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dejde l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dejde l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Beit Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dejde l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dejde l"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "vil"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:01.887864768Z",
+  "model": "glm-5.3"
+}

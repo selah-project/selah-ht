@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Yawe, pou nou wont figi — pou wa nou yo, pou chèf nou yo, ak pou papa nou yo — paske nou peche ⟨kont⟩ ou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "wont"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "figi"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "pou wa nou yo"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "pou chèf nou yo"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "ak pou papa nou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nou peche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kont⟩ ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:00:44.009894768Z",
+  "model": "glm-5.3"
+}

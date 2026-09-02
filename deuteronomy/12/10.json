@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi nou ap pase ⟨את⟩ Yarden an, e nou ap rete nan tè a ke Yawe Elohim nou an ap fè ⟨את⟩ nou erite, epi l ap fè nou repò de tout lènmi nou yo toutotou, e nou ap rete an sekirite.",
+  "tokens": [
+    {
+      "surface": "וַעֲבַרְתֶּם",
+      "gloss": "Epi nou ap pase"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden an"
+    },
+    {
+      "surface": "הַיַּרְדֵּן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "וִישַׁבְתֶּם",
+      "gloss": "e nou ap rete"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "מַנְחִיל",
+      "gloss": "ap fè erite"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "וְהֵנִיחַ",
+      "gloss": "epi l ap fè repò"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "אֹיְבֵיכֶם",
+      "gloss": "lènmi nou yo"
+    },
+    {
+      "surface": "מִסָּבִיב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "וְיָשַׁבְתֶּם",
+      "gloss": "e nou ap rete"
+    },
+    {
+      "surface": "בֶּטַח",
+      "gloss": "an sekirite"
+    }
+  ],
+  "timestamp": "2026-09-02T16:50:05.414086730Z",
+  "model": "glm-5.3"
+}

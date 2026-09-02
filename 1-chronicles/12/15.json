@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Se menm pitit Gad yo ye, chèf lame yo: piti a ⟨se⟩ youn pou san, epi gran an pou yon mil.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Se menm"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "lame yo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "pou san"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "piti a"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "epi gran an"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "pou yon mil"
+    }
+  ],
+  "timestamp": "2026-09-02T21:18:38.082395516Z",
+  "model": "glm-5.3"
+}

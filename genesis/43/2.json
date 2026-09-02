@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Epi sa rive, lè yo fin manje ⟨את⟩ ble a ke yo te pote soti nan Mitsrayim, papa yo di yo: Retounen, achte yon ti manje pou nou.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi sa rive"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fin"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ble a"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "ble a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "yo te pote"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti nan Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "papa yo di"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "achte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yon ti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:05.118357481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi mwen pote ⟨את⟩ nou nan yon peyi, peyi Karmel la, pou nou manje fwi l ak byen l; men lè nou antre, nou sali ⟨את⟩ tè mwen an, epi eritaj mwen nou fè l yon abominasyon.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "epi mwen pote"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "peyi Karmel la"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pou manje"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "fwi l"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "epi byen l"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "epi nou antre"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "epi nou sali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè mwen an"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tè mwen"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "epi eritaj mwen"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "nou fè"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "yon abominasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T18:45:32.747341029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 14:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Men ⟨את⟩ sa a sèlman nou pa pral manje, nan mitan moun ki remonte manje yo ak moun ki gen kòn fann an de: ⟨את⟩ chamo a, ⟨את⟩ lapè a, ⟨את⟩ chafan an — paske yo remonte manje menm, men kòn yo pa divize — yo pa pwi pou nou.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Men... sèlman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa a"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "pral manje"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "nan mitan moun ki remonte manje"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "manje a"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "ak moun ki gen kòn"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "השסועה",
+      "gloss": "fann an de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chamo a"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "chamo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lapè a"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "chafan an"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "chafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "remonte manje"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "men kòn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הפריסו",
+      "gloss": "divize"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "pa pwi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:40.050717448Z",
+  "model": "glm-5.3"
+}

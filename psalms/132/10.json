@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Pou David, sèvitè ou a, pa vire figi Machiya ou.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvitè ou a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "vire figi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Machiya ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:09.168748443Z",
+  "model": "glm-5.3"
+}

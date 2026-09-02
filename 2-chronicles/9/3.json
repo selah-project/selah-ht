@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi larenn Cheba a wè ⟨את⟩ sages Chelomo a, ak kay la l te bati a.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "epi l wè"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "larenn"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sages"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "sages"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ak kay la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "l"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "te bati"
+    }
+  ],
+  "timestamp": "2026-09-02T21:28:33.313362362Z",
+  "model": "glm-5.3"
+}

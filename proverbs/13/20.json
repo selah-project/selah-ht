@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Moun ki mache ⟨את⟩ ak savan yo ap vin savan; men zanmi souke yo ap soufri.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Moun ki mache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ak savan yo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "savan yo"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ap vin savan"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "men zanmi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "souke yo"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ap soufri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:22.011881513Z",
+  "model": "glm-5.3"
+}

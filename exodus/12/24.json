@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Èpi nou gen pou n obsève ⟨את⟩ pawòl sa a kòm yon lwa pou nou ak pou pitit gason nou yo, pou tout tan.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "obsève"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "kòm yon lwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "ak pou pitit gason nou yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:51.796177882Z",
+  "model": "glm-5.3"
+}

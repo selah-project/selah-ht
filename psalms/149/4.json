@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 149,
+  "translation": "Paske Yawe kontan pèp l l, l ap fè moun ki enòm yo klere ak delivrans.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "pèp l"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "ap fè klere"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "moun ki enòm"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ak delivrans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:00.026674344Z",
+  "model": "glm-5.3"
+}

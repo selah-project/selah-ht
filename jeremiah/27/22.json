@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 27:22",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Yo pote yo an Babilòn, e la a yo ap rete, jouk jou m ap vizite ⟨את⟩ yo — sa Yawe deklare — e m ap fè yo monte, m ap retounen yo nan kote sa a.",
+  "tokens": [
+    {
+      "surface": "בבלה",
+      "gloss": "an Babilòn"
+    },
+    {
+      "surface": "יובאו",
+      "gloss": "yo pote yo"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "e la a"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yo ap rete"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "m ap vizite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (vasè yo)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sa Yawe deklare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והעליתים",
+      "gloss": "m ap fè yo monte"
+    },
+    {
+      "surface": "והשיבתים",
+      "gloss": "m ap retounen yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:58:10.456679428Z",
+  "model": "glm-5.3"
+}

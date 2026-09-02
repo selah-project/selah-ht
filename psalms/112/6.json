@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 112,
+  "translation": "Paske pou touttan li pa ap janm chèche; jis la a ap nan yon souvnans ki pa gen fen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ap janm chèche"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "nan yon souvnans"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ki pa gen fen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis la a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:40.532682897Z",
+  "model": "glm-5.3"
+}

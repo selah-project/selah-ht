@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Epi Yaakov wè ⟨את⟩ vizaj Lavan an, e menm, li pa t avè l jan l te ye yè ak anvan-yè.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vizaj Lavan an"
+    },
+    {
+      "surface": "פני",
+      "gloss": "vizaj"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "li pa t"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "yè"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ak anvan-yè"
+    }
+  ],
+  "timestamp": "2026-09-02T22:17:49.588354728Z",
+  "model": "glm-5.3"
+}

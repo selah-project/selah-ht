@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "ak lame l, ak moun ki konte nan li yo: twa ak senkant mil ak kat san.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ak lame l"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ak moun ki konte yo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ak senkant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ak kat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:40.122051507Z",
+  "model": "glm-5.3"
+}

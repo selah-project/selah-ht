@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "paskè yo pa t kwè nan Elohim, e yo pa t met konfyans nan delivrans li a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paskè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "kwè"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nan Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "met konfyans"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "nan delivrans li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:39.605606296Z",
+  "model": "glm-5.3"
+}

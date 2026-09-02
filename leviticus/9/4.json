@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "ak yon bèf ak yon belye pou ofrann lapè yo, pou ofri devan Yawe, ak yon ofrann farin melanje ak lwil; paske jodi a Yawe ap parèt ba nou.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "ak yon bèf"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ak yon belye"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "pou ofrann lapè yo"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "pou ofri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ak yon ofrann farin"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "melanje"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ak lwil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ap parèt"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ba nou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:29.179708077Z",
+  "model": "glm-5.3"
+}

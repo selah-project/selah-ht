@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Izevel, madanm li, antre bò kote li epi pale ak li: Kisa sa ye — lespri ou vire nwa konsa, epi ou pa manje pen?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bò kote li"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "lespri ou"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "vire nwa"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "epi ou pa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:06:35.289300591Z",
+  "model": "glm-5.3"
+}

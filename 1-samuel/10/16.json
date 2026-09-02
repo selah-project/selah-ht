@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 10:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Chaoul di tonton li a: Li make klè pou nou ke yo jwenn bourik yo. Men ⟨את⟩ pawòl wayòm la, li pa make konnen l — sa Chemouèl te di a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "tonton li a"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "make klè"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "li make klè"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "yo jwenn"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "bourik yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pawòl wayòm la"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "wayòm la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "make konnen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ... a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "te di"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:31.525694798Z",
+  "model": "glm-5.3"
+}

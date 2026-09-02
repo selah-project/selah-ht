@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Ke gen yon abundant ble sou tè a, sou tèt montay yo; fwi l ap fwite tankou Levanon, e yo ap fleri soti nan vil la tankou zèb tè a.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ke gen"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "yon abundant"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ble"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sou tèt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "montay yo"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ap fwite"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "tankou Levanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "fwi l"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "e yo ap fleri"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "soti nan vil la"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "tankou zèb"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:28.570605305Z",
+  "model": "glm-5.3"
+}

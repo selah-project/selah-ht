@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E ou prale mete ⟨את⟩ kaporet la sou kès la, sou tèt li, e nan kès la ou prale mete ⟨את⟩ temwayaj la ke m ap ba ou.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "e ou prale mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporet la"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kès la"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sou tèt li"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e nan"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kès la"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ou prale mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temwayaj la"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "temwayaj la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ap ba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:54.332556760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Se ⟨את⟩ Yawe Elohim ou a ou dwe pè, se ⟨את⟩ li ou dwe sèvi, e se nan non li ou dwe jire.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "se ⟨את⟩ li",
+      "marks": "li (Yawe)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "e nan non li"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "jire"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:43.797065838Z",
+  "model": "glm-5.3"
+}

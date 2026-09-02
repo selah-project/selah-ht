@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Yawe anile konsèy nasyon yo; li fè plan pèp yo vin ⟨san efek⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "anile"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "konsèy"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "fè vin (san efè)"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "plan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:23.956899124Z",
+  "model": "glm-5.3"
+}

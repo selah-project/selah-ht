@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi li mande ⟨את⟩ ofisye Paro yo ki te ak ⟨את⟩ li nan gad kay mèt li a, pou li di: Poukisa figi nou move jodi a?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "mande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofisye Paro yo"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "ofisye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ak ⟨את⟩ li"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "nan gad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mèt li"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou li di"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "figi nou"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "move"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:24.702110015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Kisa m ap bay Yawe an retou, pou tout byenfè li fè pou mwen?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "m ap bay an retou"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "byenfè li"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:30.830796446Z",
+  "model": "glm-5.3"
+}

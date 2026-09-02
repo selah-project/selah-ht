@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E rive nan twazyèm jou a, jou fèt nesans ⟨את⟩ Paro, li fè yon gwo fèt pou tout sèvitè li, e li leve ⟨את⟩ tèt chèf mèt ve a ak ⟨את⟩ tèt chèf boulanjye yo an mitan sèvitè li yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E rive"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "twazyèm la"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "fèt nesans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "yon gwo fèt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè li"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "e li leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt chèf mèt ve a"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mèt ve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tèt chèf boulanjye yo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "boulanjye yo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "an mitan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:00.397750548Z",
+  "model": "glm-5.3"
+}

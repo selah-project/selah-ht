@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "epi yon disyèm pou chak agno, pou katriz agno yo.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "epi yon disyèm"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "disyèm"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "pou agno"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chak"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "pou kat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "agno yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:36:14.155426887Z",
+  "model": "glm-5.3"
+}

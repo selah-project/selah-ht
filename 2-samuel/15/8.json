@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Paske esklav ou te fè yon promès lè l te rete nan Gchour nan Aram, lè l te di: Si Yawe vrèman fè m tounen nan Yerouchalayim, m ap sèvi ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "yon promès"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "esklav ou"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "lè l te rete"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "nan Gchour"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "nan Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lè l te di"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "vrèman fè tounen"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "fè m tounen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "m ap sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:46:57.581639886Z",
+  "model": "glm-5.3"
+}

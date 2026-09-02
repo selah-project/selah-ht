@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Yo pa pou yo wont nan tan move, e nan jou famin yo ap satisfè.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "wont"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "move"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "e nan jou"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "famin"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ap satisfè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:41.362231424Z",
+  "model": "glm-5.3"
+}

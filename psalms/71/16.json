@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Mwen ap antre nan fòs Adònay Yawe; mwen ap sonè jistis ou, ou sèl.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Mwen ap antre"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "nan fòs"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ap sonè"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "jistis ou"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ou sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:09.789162684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E kè l monte nan chemen Yawe yo, e an plis l retire ⟨את⟩ otèl yo ak ⟨את⟩ Achera yo nan Yehouda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "nan chemen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "e an plis"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otèl yo"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "otèl yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Achera yo"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Achera yo"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "nan Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T22:06:43.016970564Z",
+  "model": "glm-5.3"
+}

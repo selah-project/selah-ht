@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi li pa soti nan senktyè a, li pa pwofane ⟨את⟩ senktyè Elohim li — paske nezer (sa ki separe pou Bondye) lwil onksyon Elohim li a sou li; mwen se Yawe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Epi soti nan"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "senktyè a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "pwofane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senktyè Elohim li"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "senktyè"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer (sa ki separe)"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "onksyon"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim li"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:19.618456704Z",
+  "model": "glm-5.3"
+}

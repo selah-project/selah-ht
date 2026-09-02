@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Retire kout ou soti sou mwen; anba kont men ou la, mwen fini.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "retire"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "soti sou mwen"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "kout ou"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "kont"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "fini"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:18.693662622Z",
+  "model": "glm-5.3"
+}

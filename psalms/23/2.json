@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Nan preri zeb jèn yo li fè m kouch; sou dlo repo a li gide m.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "nan preri yo"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "zeb jèn"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "fè m kouch"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "repo"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "gide m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:38.373012793Z",
+  "model": "glm-5.3"
+}

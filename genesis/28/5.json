@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Yitshak voye ⟨את⟩ Yaakov ale, e l ale nan Padèn-Aram, kotè Lavan, pitit Betouèl la, Aramit la, frè Rivka, manman Yaakov ak Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye ale"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e l ale"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padèn"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kotè"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betouèl"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aramit la"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ak Esav"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:52.841425586Z",
+  "model": "glm-5.3"
+}

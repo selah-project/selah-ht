@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Chemouèl fè vin devan ⟨את⟩ tout trib Yisrael yo, e yo pran trib Binyamin an.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "fè vin devan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout trib Yisrael yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "trib"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "pran"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "trib"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:30.003827883Z",
+  "model": "glm-5.3"
+}

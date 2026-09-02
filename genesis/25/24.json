@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Lè jou yo li pou li fè pitit fin ranpli, e menm, se jimo ki te nan vant li.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "יָמֶיהָ",
+      "gloss": "jou yo li"
+    },
+    {
+      "surface": "לָלֶדֶת",
+      "gloss": "pou fè pitit"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "e menm, se"
+    },
+    {
+      "surface": "תוֹמִם",
+      "gloss": "jimo"
+    },
+    {
+      "surface": "בְּבִטְנָהּ",
+      "gloss": "nan vant li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:17:32.801556579Z",
+  "model": "glm-5.3"
+}

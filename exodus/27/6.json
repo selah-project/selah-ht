@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ou pral fè bar pou lotèl a, bar bwa akasya, epi ou pral kouvri ⟨את⟩ yo ak kwiv.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "epi ou pral fè"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "bar"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "pou lotèl la"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "bar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "epi ou pral kouvri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (bar yo)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ak kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:53.901677151Z",
+  "model": "glm-5.3"
+}

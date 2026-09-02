@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Pou David, yon maskil. Sa k ap viv bònè: moun ki gen revòlt la ki pote ⟨ale⟩, fòt la ⟨ki⟩ kouvri.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pou David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yon maskil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Sa k ap viv bònè"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "pote ⟨ale⟩"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "revòlt la"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "fòt la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:13.920374Z",
+  "model": "glm-5.3"
+}

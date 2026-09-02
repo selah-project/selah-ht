@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E yo chita ⟨את⟩ li sou tè a sèt jou ak sèt lannwit, e pa gen moun k ap pale yon mo ak li, paske yo wè ke doulè a te vin trè gwo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "e yo chita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ak li",
+      "marks": "li (Iyov)"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ak sèt"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "lannwit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "moun k ap pale"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yo wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "te vin trè gwo"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "doulè a"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "trè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:36.779275857Z",
+  "model": "glm-5.3"
+}

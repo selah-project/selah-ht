@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 15:5",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E li limen dife nan flambo yo, e l voye yo nan jaden koton Pelichtim yo, e li boule soti nan pye jaden koton ki anpile jouk nan koton ki kanpe, jouk nan jaden rezen ak pye zeytòn yo.",
+  "tokens": [
+    {
+      "surface": "ויבער",
+      "gloss": "boule"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "בלפידים",
+      "gloss": "nan flambo yo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "בקמות",
+      "gloss": "nan jaden koton"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelichtim"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "boule"
+    },
+    {
+      "surface": "מגדיש",
+      "gloss": "soti nan pye koton ki anpile"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "koton ki kanpe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "jaden rezen"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytòn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:19:50.820651537Z",
+  "model": "glm-5.3"
+}

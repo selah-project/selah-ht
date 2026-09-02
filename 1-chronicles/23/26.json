@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi tou pou Levi yo, pa gen ⟨pou⟩ pote ⟨את⟩ tant la ankò, ni ⟨את⟩ tout zouti li, pou sèvis li.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "epi tou"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "pou Levi yo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zouti li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti li"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "pou sèvis li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:22:08.713205109Z",
+  "model": "glm-5.3"
+}

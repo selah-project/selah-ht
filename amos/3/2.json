@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Se nou sèlman mwen konnen nan tout fanmi yo ki sou tè a; se poutèt sa mwen va vizite sou nou ⟨את⟩ tout fòt yo nou yo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mwen konnen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fanmi yo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ki sou tè a"
+    },
+    {
+      "surface": "על",
+      "gloss": "poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "mwen va vizite"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout fòt yo nou yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "fòt yo nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:36:50.143154772Z",
+  "model": "glm-5.3"
+}

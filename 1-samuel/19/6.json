@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Chaoul tande vwa Yonatan an, e Chaoul sere: Kòm Yawe vivan, li pap mouri.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "sere"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨pap⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:41.315750027Z",
+  "model": "glm-5.3"
+}

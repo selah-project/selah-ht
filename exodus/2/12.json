@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi li tounen gade bò sa a ak bò sa a, epi li wè ke pa te gen ⟨nenpòt⟩ nonm, epi li frape ⟨את⟩ Mitsrayim la, epi li kache l nan sab.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "epi li tounen gade"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bò sa a"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ak bò sa a"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "epi li wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa te gen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "epi li frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim la"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsrayim la"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "epi li kache l"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "nan sab"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:32.726566417Z",
+  "model": "glm-5.3"
+}

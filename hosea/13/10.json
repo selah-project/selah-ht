@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Kote ⟨ye⟩ wa ou kounye a, e kiyès ki ap delivre ou nan tout vil ou yo? E jij ou yo, ⟨yo menm⟩ ou te di: Ban mwen yon wa ak chèf!",
+  "tokens": [
+    {
+      "surface": "אֱהִ֤י",
+      "gloss": "kote"
+    },
+    {
+      "surface": "מַלְכְּךָ֙",
+      "gloss": "wa ou"
+    },
+    {
+      "surface": "אֵפ֔וֹא",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "וְיוֹשִֽׁיעֲךָ֖",
+      "gloss": "ki ap delivre ou"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עָרֶ֑יךָ",
+      "gloss": "vil ou yo"
+    },
+    {
+      "surface": "וְשֹׁפְטֶ֔יךָ",
+      "gloss": "ak jij ou yo"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אָמַ֔רְתָּ",
+      "gloss": "ou te di"
+    },
+    {
+      "surface": "תְּנָ֥ה",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "yon wa"
+    },
+    {
+      "surface": "וְשָׂרִֽים",
+      "gloss": "ak chèf"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:21.799012885Z",
+  "model": "glm-5.3"
+}

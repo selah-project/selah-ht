@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "ak ⟨את⟩ Bet-Nimra ak ⟨את⟩ Bet-Haran, vil fòtifye, ak koral mouton.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Bet-Nimra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Bet-Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fòtifye"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "ak koral"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:47.960200581Z",
+  "model": "glm-5.3"
+}

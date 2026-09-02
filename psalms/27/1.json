@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Pou David. Yawe se limyè m ak delivrans m — kilès m ap pè? Yawe se fòtès lavi m — kilès m ap trifouye?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pou David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "limyè m"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "ak delivrans m"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kilès"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fòtès"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "lavi m"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kilès"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "trifouye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:03.986386286Z",
+  "model": "glm-5.3"
+}

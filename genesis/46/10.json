@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Pitit Chimòn yo: Yemouèl, ak Yamin, ak Ohad, ak Yakhin, ak Tsohar, ak Chaoul, pitit ⟨gason⟩ fanm Kenaàn an.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimòn"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemouèl"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ak Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "ak Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ak Yakhin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "ak Tsohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ak Chaoul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "fanm Kenaàn an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:36:00.624360353Z",
+  "model": "glm-5.3"
+}

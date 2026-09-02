@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "ak ⟨את⟩ channdeliye limyè a, ak ⟨את⟩ vase li yo, ak ⟨את⟩ lanp li yo, ak ⟨את⟩ lwil limyè a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "channdeliye limyè a"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "channdeliye"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "limyè a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "vase li yo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "vase li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lanp li yo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lanp li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lwil"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "limyè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:59.667016195Z",
+  "model": "glm-5.3"
+}

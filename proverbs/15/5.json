@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Yon sòt méprize disiplin papa l a, men moun ki kenbe rebuk la ap vin prudan.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "méprize"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "disiplin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "epi kenbe"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "rebuk"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "ap vin prudan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:20.277004553Z",
+  "model": "glm-5.3"
+}

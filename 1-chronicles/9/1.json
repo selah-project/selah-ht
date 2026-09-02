@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Tout Izrayèl ⟨te⟩ fè rejis zansèt yo, e menm, yo ekri nan liv wa yo Izrayèl ak Yehouda; Yehouda ⟨te⟩ depòte nan Babylòn paske trezizon ⟨te⟩ pa yo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "fè rejis zansèt"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "liv"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ak Yehouda"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "depòte"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "nan Babylòn"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "paske trezizon pa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:17:21.027590679Z",
+  "model": "glm-5.3"
+}

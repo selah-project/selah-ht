@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li koupe wòch nan dezè, fè yo bwè dlo anpil tankou gwo fon dlo a.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "li koupe"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "fè yo bwè"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "tankou gwo fon dlo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:48.853169019Z",
+  "model": "glm-5.3"
+}

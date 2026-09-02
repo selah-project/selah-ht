@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Pa dezi bote li nan kè w, e pa kite l pran ou ak je pa li yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "dezi"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "bote li"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "nan kè w"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "kite l pran ou"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "ak je pa li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:20.531419695Z",
+  "model": "glm-5.3"
+}

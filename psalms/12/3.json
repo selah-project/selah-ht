@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Move fo yo pale, chak moun ak ⟨את⟩ vwazen li — lèv ki lis, ak yon kè ak yon lòt kè, yo pale.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "move fo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "yo pale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwazen li"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "vwazen li"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lèv"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ki lis"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ak yon kè"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ak yon lòt kè"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "yo pale"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:29.659681636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Yaakov kanpe, e li pote ⟨את⟩ pitit gason yo ak ⟨את⟩ fanm yo sou chameyo yo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason yo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "fanm yo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "fanm yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "chameyo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:27:50.858686498Z",
+  "model": "glm-5.3"
+}

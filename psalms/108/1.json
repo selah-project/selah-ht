@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Yon chant, yon mizmo, pou David.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yon chant"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:56.564123485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Ak moun Bavel fè ⟨את⟩ Soukot-Benot, ak moun Kout fè ⟨את⟩ Nergal, ak moun Hamat fè ⟨את⟩ Achima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ak moun"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Soukot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Soukot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ak moun"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kout"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ak moun"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Achima"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:50.672929069Z",
+  "model": "glm-5.3"
+}

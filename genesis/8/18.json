@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Noach soti, ak pitit gason li yo, ak madanm li, ak madanm pitit gason li yo, ⟨את⟩ avèk li.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ak pitit gason li yo"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ak madanm"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ avèk li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:45.205750874Z",
+  "model": "glm-5.3"
+}

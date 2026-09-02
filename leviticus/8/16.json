@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi li pran ⟨את⟩ tout grès ki sou trip yo, ak ⟨את⟩ lob fige a, ak ⟨את⟩ de rognon yo ak ⟨את⟩ grès yo, epi Moche fè l fimen ⟨sou⟩ lotèl la.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout grès la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grès la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "trip yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lob fige a"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "lob"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "fige a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "de rognon yo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "rognon yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "grès yo"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "grès yo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "fimen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨sou⟩ lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:42.283962529Z",
+  "model": "glm-5.3"
+}

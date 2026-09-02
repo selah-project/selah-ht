@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Lè sa a m ap anseye moun ki dezobeyi chemen ⟨ou⟩ yo, e pechè yo ap tounen nan ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "m ap anseye"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "moun ki dezobeyi"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "chemen ou yo"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "e pechè yo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ap tounen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:51.988314226Z",
+  "model": "glm-5.3"
+}

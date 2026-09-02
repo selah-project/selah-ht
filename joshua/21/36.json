@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi ki soti nan branch Reouvèn: ⟨את⟩ Betser ak ⟨את⟩ migra l, ⟨את⟩ Yahtsah ak ⟨את⟩ migra l.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Epi ki soti nan branch"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reouvèn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "migra l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migra l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yahtsah"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahtsah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "migra l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migra l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:03.205594733Z",
+  "model": "glm-5.3"
+}

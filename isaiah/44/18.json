@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Yo pa konnen, epi yo pa konprann, paske ⟨youn kouch lanmi⟩ fèmen je yo pou yo pa wè, ak kè yo pou yo pa gen sajès.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טח",
+      "gloss": "fèmen ak lanmi"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "je yo"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "gen sajès"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "kè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:17.089224202Z",
+  "model": "glm-5.3"
+}

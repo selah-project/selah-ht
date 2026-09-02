@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi si sakrifis ofrann li se yon pwomès oswa yon ofrann volontè, nan jou li pote pre ⟨את⟩ sakrifis li a yo ap manje l; epi lendemain tou, sa ki rete nan li yo ap manje.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "epi si"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "pwomès"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ofrann volontè"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ofrann li"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "li pote pre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakrifis li"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sakrifis li"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "epi lendemain"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "epi sa ki rete"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:02.911622697Z",
+  "model": "glm-5.3"
+}

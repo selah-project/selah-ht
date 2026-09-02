@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Yawe ap viv, epi beni ⟨se⟩ wòch mwen an, epi Eloah delivrans mwen an ap monte anwo.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ap viv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "epi beni"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "wòch mwen an"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "ap monte anwo"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "delivrans mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:32.144499558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Yo rele, e pa gen moun ki delivre; ♥ sou Yawe, e ♥ pa reponn yo.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "rele"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "moun ki delivre"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "reponn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:43.119198665Z",
+  "model": "glm-5.3"
+}

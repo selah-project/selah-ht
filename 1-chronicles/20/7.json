@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi lè l fin ensilté ⟨את⟩ Izrayèl la, se Yehonatan, pitit Chimèa, frè David, ki frape l.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "e lè l fin ensilté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrayèl la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl la"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ki frape l"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Chimèa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T21:21:09.613280270Z",
+  "model": "glm-5.3"
+}

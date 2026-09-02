@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi kounye a, kisa ki anba men ou? Ban senk pen nan men mwen, oswa sa ki jwenn la.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה",
+      "gloss": "Epi kounye a"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "יֵּשׁ",
+      "gloss": "ki gen"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "יָדְךָ",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "חֲמִשָּׁה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "תְּנָה",
+      "gloss": "Ban"
+    },
+    {
+      "surface": "בְּיָדִי",
+      "gloss": "nan men mwen"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "הַנִּמְצָא",
+      "gloss": "sa ki jwenn"
+    }
+  ],
+  "timestamp": "2026-09-02T22:21:14.706723906Z",
+  "model": "glm-5.3"
+}

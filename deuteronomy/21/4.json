@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi ansyen vil sa a ap desann ⟨את⟩ jenn bèf la nan yon ravèn ki pa kiltive l ni simen nan l, epi yo ap koupe kòk jenn bèf la la menm, nan ravèn nan.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "ap desann"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansyen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenn bèf la"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "jenn bèf la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ravèn"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ki pa janm chanje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "kiltive"
+    },
+    {
+      "surface": "בו",
+      "gloss": "l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "simen"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "koupe kòk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenn bèf la"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "jenn bèf la"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "nan ravèn nan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:01.035154736Z",
+  "model": "glm-5.3"
+}

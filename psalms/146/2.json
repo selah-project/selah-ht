@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 146,
+  "translation": "M ap fè lwanj pou Yawe pandan lavi m; m ap chante pou Elohim mwen pandan m ⟨gen⟩ yon lavi.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "m ap fè lwanj pou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "pandan lavi m"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ap chante pou"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "pandan m gen yon lavi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:20.110982225Z",
+  "model": "glm-5.3"
+}

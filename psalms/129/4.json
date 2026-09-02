@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 129,
+  "translation": "Yawe ⟨se⟩ jis; li te koupe kòd mechan yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "te koupe"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "kòd"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:01.583906635Z",
+  "model": "glm-5.3"
+}

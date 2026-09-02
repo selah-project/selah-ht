@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E sou nòb yo pami pitit gason Yisrael yo, ⟨li⟩ pa voye men ⟨li⟩; yo gade ⟨את⟩ HaElohim, e yo manje e yo bwè.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "E sou"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "nòb yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men ⟨li⟩"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "yo gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "e yo manje"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "e yo bwè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:16.985365016Z",
+  "model": "glm-5.3"
+}

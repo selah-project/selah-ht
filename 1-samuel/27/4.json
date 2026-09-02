@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Yo anonse Chaoul ke David te chape al Gat; e li pa t ap chèche l anko.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Yo anonse"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Chaoul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "te chape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "al Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "t ap ankò"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "anko"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "chèche l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:06.307648404Z",
+  "model": "glm-5.3"
+}

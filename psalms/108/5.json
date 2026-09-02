@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Paske hesed ou a gwo, pi wo pase syèl yo, ak verite ou rive jiska nwèl yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pi wo pase"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ak rive jiska"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nwèl yo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "verite ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.832629702Z",
+  "model": "glm-5.3"
+}

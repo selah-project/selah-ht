@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Li fè m soti nan yon kote laj, Li sove m, paske Li vle byen pou mwen.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "e Li fè m soti"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "nan yon kote laj"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Li sove m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vle byen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:51.857558687Z",
+  "model": "glm-5.3"
+}

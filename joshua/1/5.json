@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pa gen moun k ap kanpe devan w tout jou lavi w la; jan m te ye ak Moche, se konsa m ap ye ak ou; m pa lage w, epi m pa kite w.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "יִתְיַצֵּב",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "moun"
+    },
+    {
+      "surface": "לְפָנֶיךָ",
+      "gloss": "devan w"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "חַיֶּיךָ",
+      "gloss": "lavi w la"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "הָיִיתִי",
+      "gloss": "m te ye"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אֶהְיֶה",
+      "gloss": "m ap ye"
+    },
+    {
+      "surface": "עִמָּךְ",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אַרְפְּךָ",
+      "gloss": "lage w"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אֶעֶזְבְךָ",
+      "gloss": "kite w"
+    }
+  ],
+  "timestamp": "2026-09-02T17:01:58.795379497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 113,
+  "translation": "pou fè ⟨yo⟩ chita ak gran moun yo, ak gran moun pèp ⟨li⟩ a.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "pou fè chita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "gran moun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "gran moun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:36.400462457Z",
+  "model": "glm-5.3"
+}

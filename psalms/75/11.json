@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 75,
+  "translation": "Epi tout kòn mechan yo m ap koupe; kòn moun jis yo ap monte wo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Epi tout"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "m ap koupe"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "ap monte wo"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:40.794447129Z",
+  "model": "glm-5.3"
+}

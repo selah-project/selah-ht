@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "epi pòt yo pral fèmen nan lari a, lè son moulen nan bese, epi yon moun pral reveye nan son zwazo a, epi tout fi chante yo pral bese.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "epi … fèmen"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "pòt yo"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "nan lari a"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "lè … bese"
+    },
+    {
+      "surface": "קול",
+      "gloss": "son"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "moulen nan"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "epi … reveye"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "nan son"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "zwazo a"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "epi … bese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fi"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "chante yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:10.686045524Z",
+  "model": "glm-5.3"
+}

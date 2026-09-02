@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E pèp la di ba Yehochoua: Non, se ⟨את⟩ Yawe nap sèvi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E … di"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "nap sèvi"
+    }
+  ],
+  "timestamp": "2026-09-02T17:10:57.016479939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Konprann, moun sòt ⟨ki ye⟩ nan pèp la; e moun fou yo, kilè n ap vin saj?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Konprann"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "moun sòt"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "nan pèp la"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "e moun fou yo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kilè"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "n ap vin saj"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:13.481378809Z",
+  "model": "glm-5.3"
+}

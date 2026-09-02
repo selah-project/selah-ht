@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E wa Achou a depòte ⟨את⟩ Izrayèl nan Achou, e li plas yo nan Halah ak nan Havor, rivyè Gozan, ak nan vil peyi Maday.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "e li depòte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "nan Achou"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "e li plas yo"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "nan Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ak nan Havor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rivyè"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ak vil"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maday"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:03.367227880Z",
+  "model": "glm-5.3"
+}

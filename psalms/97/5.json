@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Mòn yo fonn tankou sire devan Yawe, devan Adònay tout tè a.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Mòn yo"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "tankou sire"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "fonn"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:06.396875686Z",
+  "model": "glm-5.3"
+}

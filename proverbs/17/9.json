@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Moun k ap kouvè yon fòt chèche ⟨lanmou⟩, men moun k ap repete yon bagay ap separe konpayon an.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "kouvè"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "fòt"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "lanmou"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "men moun k ap repete"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "yon bagay"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "ap separe"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "konpayon an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:44.883181198Z",
+  "model": "glm-5.3"
+}

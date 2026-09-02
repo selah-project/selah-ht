@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Woule de sou mwen outraj ak mepri; paske mwen te kenbe temwayaj ou yo.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "woule de"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "outraj"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ak mepri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "temwayaj ou yo"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "mwen te kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:28.842694980Z",
+  "model": "glm-5.3"
+}

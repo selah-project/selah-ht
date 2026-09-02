@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Paske rev la vin nan anpil kokenn, e vwa yon sòt ⟨vin⟩ nan anpil mo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "rev la"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nan anpil"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "kokenn"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e vwa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "yon sòt"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nan anpil"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:55.527124340Z",
+  "model": "glm-5.3"
+}

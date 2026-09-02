@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Nou dous frè, pitit yon sèl papa; youn pa gen ladann, epi piti a jodi a ak ⟨את⟩ papa nou nan peyi Kenaàn.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "dous"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dous"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "frè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "papa nou"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa gen ladann"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "epi piti a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa nou"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "papa nou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:30.438148757Z",
+  "model": "glm-5.3"
+}

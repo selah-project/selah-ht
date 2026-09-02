@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Ou ap leve, ou ap gen pitye pou Tsiyòn, paske se tan pou w fè ligratè sou li, paske tan randevou a rive.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ap gen pitye"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "pou Tsiyòn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עת",
+      "gloss": "se tan"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "pou w fè ligratè sou li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tan randevou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:52.984021813Z",
+  "model": "glm-5.3"
+}

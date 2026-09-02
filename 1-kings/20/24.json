@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi ⟨את⟩ pawòl sa a fè l: retire wa yo, chak moun nan plas li, epi mete gouvènè an plas yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "pawòl sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè l"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "retire"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "nan plas li"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "epi mete"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "gouvènè"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "an plas yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:24.900998571Z",
+  "model": "glm-5.3"
+}

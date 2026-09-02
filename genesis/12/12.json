@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "L ap rive, lè Ejipsyen yo wè ⟨את⟩ ou epi yo di: 'Se madanm li fanm sa a ye', yo ap touye ⟨את⟩ mwen, men ⟨את⟩ ou yo ap kite l viv.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "l ap rive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "yo ap wè"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Ejipsyen yo"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "epi yo ap di"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "fanm sa a"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "yo ap touye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "men ⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "yo ap kite l viv"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:20.127049566Z",
+  "model": "glm-5.3"
+}

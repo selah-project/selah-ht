@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E kounye a, wa yo, pran sans; resevwa disiplin, jij yo ki sou tè a.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "מְלָכִים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "הַשְׂכִּילוּ",
+      "gloss": "pran sans"
+    },
+    {
+      "surface": "הִוָּסְרוּ",
+      "gloss": "resevwa disiplin"
+    },
+    {
+      "surface": "שֹׁפְטֵי",
+      "gloss": "jij yo"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "ki sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:26.843806200Z",
+  "model": "glm-5.3"
+}

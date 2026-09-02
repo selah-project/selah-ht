@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 114,
+  "translation": "Li menm ki fin vire wòch la an basin dlo, wòch di a an sous dlo!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "ki fin vire"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "wòch la"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "an basin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "wòch di"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "an sous"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.374637490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Yawe fini ⟨את⟩ kòlè li; li vide chodyè kòlè nan nen li; li limen dife nan Tsiyòn, e dife a manje fondasyon l yo.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "fini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòlè li"
+    },
+    {
+      "surface": "חמתwo",
+      "gloss": "kòlè li"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "vide"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "chodyè kòlè"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "nan nen li"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "e li limen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "nan Tsiyòn"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "e li manje"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "fondasyon l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:48:32.081701605Z",
+  "model": "glm-5.3"
+}

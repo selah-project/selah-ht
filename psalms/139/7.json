@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Ki kote m prale ale lwen lespri ⟨ou⟩? E ki kote m ap kouri lwen figi ou?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ki kote"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m prale ale"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "lwen lespri ou"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "E ki kote"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "lwen figi ou"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "m ap kouri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:46.257852397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Paske mwen di: pou tout tan hesed ap bati; nan syèl yo ou mete fidelite ou a solid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ap bati"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ou mete solid"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "fidelite ou a"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:28.517528548Z",
+  "model": "glm-5.3"
+}

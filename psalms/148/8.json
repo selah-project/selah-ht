@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "Yon dife ak lapli glas, nèj ak vapè, yon van tantèt ki ap fè pawòl li a.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ak lapli glas"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "nèj"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ak vapè"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "tantèt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pawòl li a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:41.793937032Z",
+  "model": "glm-5.3"
+}

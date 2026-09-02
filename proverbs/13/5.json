@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Moun jis rayi mo mantè a, men moun mechan an fè yon santi repousan e li vin wont.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mantè"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "rayi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "men moun mechan"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "fè yon santi repousan"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "e vin wont"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:02.678930490Z",
+  "model": "glm-5.3"
+}

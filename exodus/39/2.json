@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Epi yo fè ⟨את⟩ efòd la an lò, an fil ble, an fil vyolet, ak an fil vè karmìn, ak an lin fin tise.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efòd la"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efòd la"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "fil ble"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ak fil vyolet"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ak vè"
+    },
+    {
+      "surface": "שני",
+      "gloss": "karmìn"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ak lin fin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tise"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:16.120519734Z",
+  "model": "glm-5.3"
+}

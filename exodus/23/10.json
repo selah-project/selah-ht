@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi sis ane ou pran simen ⟨את⟩ tè ou, epi ou pran ranmase ⟨את⟩ rekòt li.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Epi sis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ane"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "simen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè ou"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tè ou"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "epi ou pran ranmase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rekòt li"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "rekòt li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:41.498387237Z",
+  "model": "glm-5.3"
+}

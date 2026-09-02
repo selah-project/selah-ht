@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Pa gen pou ou nan poch ou yon pyè ak yon pyè, yon gwo ak yon piti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "nan poch ou"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "yon pyè"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ak yon pyè"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ak piti"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:48.236464184Z",
+  "model": "glm-5.3"
+}

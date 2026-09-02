@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E nan branch Binyamin ⟨את⟩ Givòn ak ⟨את⟩ banlye l, ⟨את⟩ Geva ak ⟨את⟩ banlye l.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "E nan branch"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givòn"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "banlye l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "banlye l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "banlye l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "banlye l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:48:13.169165325Z",
+  "model": "glm-5.3"
+}

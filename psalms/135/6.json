@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Tout sa Yawe vle, li fè ⟨l⟩ nan syèl yo ak sou tè a, nan lanmè yo ak tout fon yo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ak sou tè a"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nan lanmè yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "fon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:58.165625816Z",
+  "model": "glm-5.3"
+}

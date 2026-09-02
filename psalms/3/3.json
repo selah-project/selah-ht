@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Anpil ap di pou nanm m: pa gen delivrans pou li nan Elohim. Chela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Anpil"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pou nanm m"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nan Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chela"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:26.621446273Z",
+  "model": "glm-5.3"
+}

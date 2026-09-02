@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Annou chire ⟨את⟩ chèn yo, e annou jete kòd yo lwen nou.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "annou chire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chèn yo"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "chèn yo"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "e annou jete"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "lwen (nou)"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "kòd yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:54.321706180Z",
+  "model": "glm-5.3"
+}

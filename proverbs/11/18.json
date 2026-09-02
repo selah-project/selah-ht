@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Moun ki mal fè ap touche ⟨yon⟩ peman ki fòk, men moun ki simen jistis ap touche peman ki vre.",
+  "tokens": [
+    {
+      "surface": "רָשָׁע",
+      "gloss": "moun ki mal fè"
+    },
+    {
+      "surface": "עֹשֶׂה",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "פְּעֻלָּה",
+      "gloss": "peman\/travay"
+    },
+    {
+      "surface": "שָׁקֶר",
+      "gloss": "fòk"
+    },
+    {
+      "surface": "וְזֹרֵעַ",
+      "gloss": "epi moun ki simen"
+    },
+    {
+      "surface": "צְדָקָה",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "שֶׂכֶר",
+      "gloss": "peman"
+    },
+    {
+      "surface": "אֱמֶת",
+      "gloss": "verite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:25.991265803Z",
+  "model": "glm-5.3"
+}

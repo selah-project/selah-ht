@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "David leve e kouri jou a menm, depi devan Chaoul, e l rive jwenn Akich, wa Gat la.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "leve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "epi ... kouri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "a menm"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "depi devan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "epi ... rive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akich"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:09.179115519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Li bati ⟨את⟩ Elot e li retabli l bay Yehouda, apre wa a kouch ak papa l yo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Elot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "retabli"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "bay Yehouda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kouch"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:34:32.514172599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Kòm yon moun ki travay pou lwaye, kòm yon etranje ki rete, l ap ye avèk ou; jouk lane Yovel la l ap sèvi avèk ou.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "kòm yon moun ki travay pou lwaye"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "kòm yon etranje ki rete"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "lane"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yovel la"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ap sèvi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:13.415495909Z",
+  "model": "glm-5.3"
+}

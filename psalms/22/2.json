@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "El mwen, El mwen, poukisa ou abandone m? Lwen de delivrans mwen, se mo kri mwen yo.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El mwen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mwen"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ou abandone m"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "lwen"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "de delivrans mwen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "kri mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:20.591147123Z",
+  "model": "glm-5.3"
+}

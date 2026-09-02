@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Epi moun k ap tande a tande ⟨את⟩ son chofè a, epi l pa fè atansyon — epi epè a vini, epi l pran l — san l ap rete sou tèt li.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Epi ... tande"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "moun k ap tande a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son chofè a"
+    },
+    {
+      "surface": "קול",
+      "gloss": "son"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "chofè a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi l pa"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "fè atansyon"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "epi ... vini"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epè a"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "epi l pran l"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san l"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sou tèt li"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap rete"
+    }
+  ],
+  "timestamp": "2026-09-02T19:23:47.411871266Z",
+  "model": "glm-5.3"
+}

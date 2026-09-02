@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 95,
+  "translation": "Se poutèt sa m te jire nan kòlè m: yo pap janm antre nan repo m.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Se poutèt sa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "m te jire"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "nan kòlè m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨si⟩"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "repo m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:19.867847486Z",
+  "model": "glm-5.3"
+}

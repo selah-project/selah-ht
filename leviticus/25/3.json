@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Sizan ou prale seme ⟨nan⟩ champ ou, epi sizan ou prale taye vyenn ou, epi ou prale rasanble ⟨את⟩ rekòt li:",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "sis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ane"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "prale seme"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "champ ou"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "epi sizan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ane"
+    },
+    {
+      "surface": "תזמור",
+      "gloss": "prale taye"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "vyenn ou"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "epi ou prale rasanble"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rekòt li"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "rekòt li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:35.999133789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E pèp la di Chemouel: Ki moun ki te di 'Èske Chaoul pral sou nou'? Ba nou nonm nan… ba nou nonm yo, e nap fè yo mouri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ki te di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "pral sou nou"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ba nou"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nonm yo"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "e nap fè yo mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:17.666549718Z",
+  "model": "glm-5.3"
+}

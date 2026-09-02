@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E David te pran ⟨את⟩ Ahinòam depi Yizreèl, e tou de yo te vin madanm li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ahinòam"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinòam"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "te pran"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "depi Yizreèl"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "e yo te vin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou de"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "yo toutouni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "madanm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:12.984806579Z",
+  "model": "glm-5.3"
+}

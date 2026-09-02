@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi nan tribi Yisasakar ⟨את⟩ Kichyon ak ⟨את⟩ tè ki antoure l, ⟨את⟩ Dabèrat ak ⟨את⟩ tè ki antoure l.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Epi nan tribi"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisasakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kichyon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kichyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè ki antoure l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tè ki antoure l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabèrat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabèrat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè ki antoure l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tè ki antoure l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:35.635839127Z",
+  "model": "glm-5.3"
+}

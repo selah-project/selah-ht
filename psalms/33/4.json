@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Paske pawòl Yawe a dwat, e tout zèv li yo nan lealtè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "zèv li yo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "nan lealtè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:17.230001136Z",
+  "model": "glm-5.3"
+}

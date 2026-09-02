@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Kontante nan Yawe, jwaye, moun jis yo; fè kò wo, tout moun kè dwat!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Kontante"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "jwaye"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "fè kò wo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "moun ki dwat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:28.997235480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Cheol, ak vant matris ki fèmen, tè a ki pa janm satisfèt ak dlo, ak dife ki pa di janm: «Sa sifi.»",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "ak vant matris ki fèmen"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "vant matris"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa janm"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "satisfèt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ak dife"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "di"
+    },
+    {
+      "surface": "הון",
+      "gloss": "sa sifi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:35.166331921Z",
+  "model": "glm-5.3"
+}

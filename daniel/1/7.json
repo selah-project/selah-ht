@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 1:7",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Chèf sarisis yo mete non sou yo: li mete sou Daniyèl non Beltechatsar; sou Hananya, Chadrakh; sou Michaèl, Meychakh; epi sou Azarya, Avèd-Nego.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sarisis yo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "sou Daniyèl"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltechatsar"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "epi sou Hananya"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Chadrakh"
+    },
+    {
+      "surface": "ולמישאל",
+      "gloss": "sou Michaèl"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meychakh"
+    },
+    {
+      "surface": "ולעזריה",
+      "gloss": "epi sou Azarya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Avèd"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:29.090050285Z",
+  "model": "glm-5.3"
+}

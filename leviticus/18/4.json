@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Nou fè ⟨את⟩ jijman mwen yo, epi nou kenbe ⟨את⟩ lwa mwen yo, pou mache nan yo : se mwen Yawe, Elohim ou yo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jijman mwen yo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman mwen yo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "lwa mwen yo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "lwa mwen yo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou mache"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:53.924628532Z",
+  "model": "glm-5.3"
+}

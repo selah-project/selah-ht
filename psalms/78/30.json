@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Yo pa t vire do sou dezi ⟨yo⟩; manje a poko te soti nan bouch yo —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "vire do sou"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "dezi yo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "poko"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "manje a"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nan bouch yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:12.381090578Z",
+  "model": "glm-5.3"
+}

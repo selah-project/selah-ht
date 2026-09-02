@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Lè Esav tande ⟨את⟩ pawòl papa l yo, li fè yon kri, yon kri gwo ak amè jiskan plen, e li di pou papa l: Beni mwen menm tou, papa m!",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "lè … tande"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "e li fè yon kri"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "yon kri"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ak amè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "plen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di pou"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "beni mwen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm tou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:03.807002013Z",
+  "model": "glm-5.3"
+}

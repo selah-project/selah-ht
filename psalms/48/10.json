@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Nou reflechi sou hesed ou (lanmou ou ki fidele) a, Elohim, nan mitan tanp ou a.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Nou refleksi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou a"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tanp ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:19.362984704Z",
+  "model": "glm-5.3"
+}

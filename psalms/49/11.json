@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Paske li wè ⟨ke⟩ savan yo mouri; ansanm ak fou a ak bèt la pèdi, e yo kite richès yo pou lòt moun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "li wè"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "⟨ke⟩ savan yo"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fou a"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ak bèt la"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "e yo kite"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "pou lòt moun"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "richès yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:29.837549874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Avèk moun ki pi ⟨ou pi⟩; avèk moun ki tòdi ⟨ou tòdi⟩.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "avèk"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "moun ki pi"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "ou pi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e avèk"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "moun ki tòdi"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "ou tòdi"
+    }
+  ],
+  "timestamp": "2026-09-02T17:51:46.015623857Z",
+  "model": "glm-5.3"
+}

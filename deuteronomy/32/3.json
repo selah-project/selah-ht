@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Paske m ap anonse Non Yawe; bay grandè pou Elohim nou an!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ap anonse"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "grandè"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "pou Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:15.555051398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ beli a, li koupe l an mòso, e Moche fè soufle ⟨את⟩ tèt la ak ⟨את⟩ mòso yo ak ⟨את⟩ grès la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "beli a"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "beli a"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "koupe an mòso"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "an mòso li"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "epi fè soufle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt la"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tèt la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "mòso yo"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "mòso yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "grès la"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "grès la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:40.539721148Z",
+  "model": "glm-5.3"
+}

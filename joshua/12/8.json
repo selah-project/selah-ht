@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "nan mòn yo, nan Chefela a, nan Arava a, sou pant yo, nan dezè a, epi nan Neguev la — Chitit la, Emori a, Kenaanit la, Perizit la, Chivi la, ak Yevousit la —",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn yo"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "nan Chefela a"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "nan Arava a"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "sou pant yo"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "nan Neguev la"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chitit la"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori a"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Kenaanit la"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizit la"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chivi la"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yevousit la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:05:48.203358222Z",
+  "model": "glm-5.3"
+}

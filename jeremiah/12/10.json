@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Bèkè anpil detwi jaden rezen mwen, yo pile ⟨את⟩ pakèt tè mwen, yo fè ⟨את⟩ pakèt kè mwen renmen an vin yon dezè, yon dezolasyon.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "bèkè"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "detwi"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "jaden rezen mwen"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "pile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakèt tè mwen"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "pakèt tè mwen"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "fè vin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakèt kè mwen renmen an"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "pakèt"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "kè mwen renmen an"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "yon dezè"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dezolasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T18:51:42.034688370Z",
+  "model": "glm-5.3"
+}

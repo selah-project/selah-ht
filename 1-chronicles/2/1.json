@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Sa yo ⟨se⟩ pitit Yisrael yo: Reouvèn, Chimòn, Levi, ak Yehouda, Yisaskar, ak Zevoulòn.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Sa yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reouvèn"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimòn"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ak Yehouda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "ak Zevoulòn"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:45.660435836Z",
+  "model": "glm-5.3"
+}

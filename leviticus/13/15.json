@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi kohen nan ap gade ⟨את⟩ vyann viv la, e li ap deklare li rit: vyann viv la rit — se tsaraat li ye.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyann viv la"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "החי",
+      "gloss": "viv la"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ap deklare li rit"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "החי",
+      "gloss": "viv la"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "rit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:15.893008342Z",
+  "model": "glm-5.3"
+}

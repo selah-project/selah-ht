@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Gason ak fi li kreye yo, e li beni ⟨את⟩ yo, e li rele non yo Adam, nan jou yo te kreye yo.",
+  "tokens": [
+    {
+      "surface": "זָכָר",
+      "gloss": "Gason"
+    },
+    {
+      "surface": "וּנְקֵבָה",
+      "gloss": "ak fi"
+    },
+    {
+      "surface": "בְּרָאָם",
+      "gloss": "li kreye yo"
+    },
+    {
+      "surface": "וַיְבָרֶךְ",
+      "gloss": "e li beni"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "וַיִּקְרָא",
+      "gloss": "e li rele"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "non yo"
+    },
+    {
+      "surface": "שְׁמָם",
+      "gloss": "non yo"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "הִבָּרְאָם",
+      "gloss": "yo te kreye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:54.051248918Z",
+  "model": "glm-5.3"
+}

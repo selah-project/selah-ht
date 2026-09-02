@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi youn nan fanm yo di: Souple, Adònay mwen, mwen ak fanm sa a rete nan yon sèl kay, e mwen akouche ak li nan kay la.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "youn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "souple"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay mwen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "ak fanm nan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "rete"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "ויאלד... ואלד",
+      "gloss": "akouche"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:39.241412381Z",
+  "model": "glm-5.3"
+}

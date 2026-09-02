@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi nan panyè a ki anwo a te gen tout manje kwit pou Paro, travay boulanjè; epi zwazo yo t ap manje ⟨את⟩ yo, soti nan panyè a, anlè tèt mwen.",
+  "tokens": [
+    {
+      "surface": "וּבַסַּל",
+      "gloss": "Epi nan panyè"
+    },
+    {
+      "surface": "הָעֶלְיוֹן",
+      "gloss": "ki anwo"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מַאֲכַל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מַעֲשֵׂה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "אֹפֶה",
+      "gloss": "boulanjè"
+    },
+    {
+      "surface": "וְהָעוֹף",
+      "gloss": "epi zwazo"
+    },
+    {
+      "surface": "אֹכֵל",
+      "gloss": "t ap manje"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (tout manje kwit Paro)"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הַסַּל",
+      "gloss": "panyè a"
+    },
+    {
+      "surface": "מֵעַל",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "רֹאשִׁי",
+      "gloss": "tèt mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:03.301429046Z",
+  "model": "glm-5.3"
+}

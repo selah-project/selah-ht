@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Mwen menm, mwen te di nan pè mwen — tout moun se manti.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen te di"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "nan pè mwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "se manti"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:30.830694819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E Chelomo ale Khamat-Tsoba, e l prevay sou li.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֤לֶךְ",
+      "gloss": "E ... ale"
+    },
+    {
+      "surface": "שְׁלֹמֹה֙",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "חֲמָ֣ת",
+      "gloss": "Khamat"
+    },
+    {
+      "surface": "צוֹבָ֔ה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וַיֶּחֱזַ֖ק",
+      "gloss": "prevay"
+    },
+    {
+      "surface": "עָלֶֽיהָ",
+      "gloss": "sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:59.774636795Z",
+  "model": "glm-5.3"
+}

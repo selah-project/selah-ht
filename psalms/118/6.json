@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Yawe pou mwen; mwen pè pa — sa moun ka fè pou mwen?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mwen pè"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:34.047592814Z",
+  "model": "glm-5.3"
+}

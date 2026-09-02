@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi Paro di: Gade, kounye a pèp ki nan tè a anpil, e nou fè ⟨את⟩ yo kanpe soti nan chaj yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi … di"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ki nan tè a"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "e nou fè … kanpe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (pèp la)"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "soti nan chaj yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:42:02.427106828Z",
+  "model": "glm-5.3"
+}

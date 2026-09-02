@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Tout lènmi m ap wont epi truble anpil; yo ap tounen, wont nan yon ti kras.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ap wont"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "epi truble"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "lènmi m"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ap tounen"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "wont"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "nan yon ti kras"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:01.272281246Z",
+  "model": "glm-5.3"
+}

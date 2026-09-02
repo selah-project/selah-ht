@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 11:24",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Gen moun ki simen tout kote epi yo vin gen plis; gen moun ki kenbe plis pase sa ki dwat, e sèlman lagrikilt vin frape yo.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "gen moun ki"
+    },
+    {
+      "surface": "מפזר",
+      "gloss": "simen tout kote"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "epi vin gen plis"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "anko"
+    },
+    {
+      "surface": "וחושך",
+      "gloss": "epi ki kenbe plis pase"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "sa ki dwat"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "pou vin nan lagrikilt"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:06.562571099Z",
+  "model": "glm-5.3"
+}

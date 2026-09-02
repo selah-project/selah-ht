@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Kiyès nonm ki ap viv e pa wè mò, kiyès ap sove ⟨nanm li⟩ nan men Cheol? Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "viv"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mò"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sove"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nanm li"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:23.017194712Z",
+  "model": "glm-5.3"
+}

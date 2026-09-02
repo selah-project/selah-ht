@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 21:21",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi tout nonm lavil li ap lapide l ak wòch, epi l ap mouri; epi ou ap retire sa ki mal nan mitan ou, epi tout Yisrayèl ap tande epi ap pè.",
+  "tokens": [
+    {
+      "surface": "ורגמהו",
+      "gloss": "ap lapide l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "lavil li"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ak wòch"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "epi l ap mouri"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "epi ou ap retire"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sa ki mal"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "nan mitan ou"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "epi tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ap tande"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "epi ap pè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:50:46.091539059Z",
+  "model": "glm-5.3"
+}

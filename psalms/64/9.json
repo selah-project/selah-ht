@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "Epi yo fè ⟨li⟩ toupizi; sou yo menm ⟨se⟩ lang yo — tout moun ki gade yo ap secoue tèt.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "fè toupizi"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "sou yo menm"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lang yo"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "secoue tèt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ki gade"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:05.645793442Z",
+  "model": "glm-5.3"
+}

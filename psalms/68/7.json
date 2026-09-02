@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Elohim fè moun sèl yo rete lakay, li fè prizonye yo soti ⟨nan⟩ abondans; se sèlman rebèl yo ki rete nan yon tè chèch.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "fè ... rete"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "moun sèl yo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "prizonye yo"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "⟨nan⟩ abondans"
+    },
+    {
+      "surface": "אך",
+      "gloss": "se sèlman"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "rebèl yo"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "ki rete"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "nan yon tè chèch"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:30.924681835Z",
+  "model": "glm-5.3"
+}

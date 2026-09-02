@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Gade, ou tande ⟨את⟩ sa wa yo Achour fè a tout peyi yo, pou yo mete yo devwe destriksyon — èske ou menm pral sove?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa wa yo Achour fè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tout"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "peyi yo"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "pou yo mete yo devwe destriksyon"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ou menm"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "pral sove"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:45.109571024Z",
+  "model": "glm-5.3"
+}

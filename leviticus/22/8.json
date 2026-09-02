@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Kadav oswa bèt bèt sovaj te dechire, li pa manje pou vin pa pwòp avèk li; se mwen Yawe.",
+  "tokens": [
+    {
+      "surface": "נְבֵלָה",
+      "gloss": "kadav"
+    },
+    {
+      "surface": "וּטְרֵפָה",
+      "gloss": "oswa bèt bèt sovaj te dechire"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "לְטָמְאָה",
+      "gloss": "pou vin pa pwòp"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "avèk li"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:35.710332243Z",
+  "model": "glm-5.3"
+}

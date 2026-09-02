@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi l ap fè, ou ap bwè dlo nan ravin an, e ⟨את⟩ kòwayo yo, mwen bay lòd pou yo nouri ou la a.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "epi l ap fè"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "nan ravin la"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ou ap bwè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kòwayo yo"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kòwayo yo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mwen bay lòd"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "pou yo nouri ou"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:52.762104672Z",
+  "model": "glm-5.3"
+}

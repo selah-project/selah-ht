@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "An dèyè e an devan ou te ansere m, e ou mete palme men ou sou mwen.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "An dèyè"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "e an devan"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "ou te ansere m"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "e ou mete"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "palme men ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:46.257391547Z",
+  "model": "glm-5.3"
+}

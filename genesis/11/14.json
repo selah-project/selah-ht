@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Chèlakh viv trant an, epi fè ⟨את⟩ Èver.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "epi Chèlakh"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Èver"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Èver"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:47.626855238Z",
+  "model": "glm-5.3"
+}

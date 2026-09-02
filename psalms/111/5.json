@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 111,
+  "translation": "Li bay manje bay moun ki pè l; li sonje alyans l pou toutan.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "manje"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "bay moun ki pè l"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "li sonje"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "alyans l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:42.583523107Z",
+  "model": "glm-5.3"
+}

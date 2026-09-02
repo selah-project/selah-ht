@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Mwa sa a pou nou se tèt mwa yo; se premye mwa a pou nou, nan mwa lane a.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "mwa a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mwa yo"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "premye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "nan mwa"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "lane a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:52.057334895Z",
+  "model": "glm-5.3"
+}

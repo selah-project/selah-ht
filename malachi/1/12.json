@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Men nou, nou ap profane ⟨את⟩ li lè nou di: 'Tab Adònay la salyi, e fwi li — manje l — meprize.'",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Men nou"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "nou ap profane"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "li (non m)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "lè nou di"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tab"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "salyi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li se"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "e fwi li"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "meprize"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "manje l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:49:24.512419496Z",
+  "model": "glm-5.3"
+}

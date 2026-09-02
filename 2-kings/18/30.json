@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi pa kite Khizkiyahou fè nou mete konfyans nan Yawe, lè l di: Yawe ap delivre nou, ap delivre nou sètenman; epi yo p ap bay ⟨את⟩ vil sa a nan men wa Achour.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Epi pa"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "mete konfyans"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lè l di"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ap delivre"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ap delivre nou sètenman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "p ap bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vil sa a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    }
+  ],
+  "timestamp": "2026-09-02T18:18:57.093002841Z",
+  "model": "glm-5.3"
+}

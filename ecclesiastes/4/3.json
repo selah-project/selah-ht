@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E pi bon pase yo tou de ⟨את⟩ moun ki jouk koulye a pa ⟨te⟩ egziste, moun ki pa wè ⟨את⟩ travay mal la ki fèt anba solèy la.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "e pi bon"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "pase yo tou de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki jouk koulye a pa egziste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "jouk koulye a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "egziste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moun ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "travay mal la"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "travay la"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:55.715153235Z",
+  "model": "glm-5.3"
+}

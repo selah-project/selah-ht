@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Pa di 'konplo', sou tout sa pèp sa a di 'konplo'; epi ⟨את⟩ pè ⟨yo⟩ a, pa pè l, epi pa twouble.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "di"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "konplo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sou tout sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "konplo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pè yo a"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "pè yo a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pè l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "twouble"
+    }
+  ],
+  "timestamp": "2026-09-02T18:23:44.877397492Z",
+  "model": "glm-5.3"
+}

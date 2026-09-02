@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Mwen menm, lè dezastre nou an rive, m ap ri; lè pè nou an vini, m ap moke.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "lè dezastre nou an rive"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "m ap ri"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "m ap moke"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "lè ... vini"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "pè nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:05.557629234Z",
+  "model": "glm-5.3"
+}

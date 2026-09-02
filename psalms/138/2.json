@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 138,
+  "translation": "M ap pwostnen devan tanp sen ou a, e m ap rekonèt ⟨את⟩ non ou a pou hesed ou a ak pou verite ou a; paske ou fè ⟨את⟩ pawòl ou a pi gran pase tout non ou a.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "m ap pwostnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tanp"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sen ou a"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "e m ap rekonèt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non ou a"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou a"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou a"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak pou"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "verite ou a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ou fè pi gran"
+    },
+    {
+      "surface": "על",
+      "gloss": "pase"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou a"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "pawòl ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:56.501507455Z",
+  "model": "glm-5.3"
+}

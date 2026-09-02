@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi Yawe pinèt ke li te fè ⟨את⟩ moun an sou tè a, e chagren fè l jiskan kè l.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "epi pinèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun an"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun an"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "e chagren fè l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jiskan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:21.798879273Z",
+  "model": "glm-5.3"
+}

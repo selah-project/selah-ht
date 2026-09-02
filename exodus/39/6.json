@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "E yo fè ⟨את⟩ pye choham yo, ankre nan chesi lò, fin gravé ak gravri yon so, ak non pitit Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "e yo fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pye choham yo"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pye"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "choham yo"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "ankre"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "nan chesi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "fin gravé"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "gravri"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "yon so"
+    },
+    {
+      "surface": "על",
+      "gloss": "ak"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:38.405774552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Li pale twa mil pwovèb, e chante li te senk mil san.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pwovèb"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e te genyen"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "chante li"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "mil san"
+    }
+  ],
+  "timestamp": "2026-09-02T21:51:23.677377756Z",
+  "model": "glm-5.3"
+}

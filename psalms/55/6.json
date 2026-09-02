@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Pè ak trann antre nan m, ak frèt kouvri m.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Pè"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "ak trann"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nan m"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "ak ⟨li⟩ kouvri m"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "frèt"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:42.167929465Z",
+  "model": "glm-5.3"
+}

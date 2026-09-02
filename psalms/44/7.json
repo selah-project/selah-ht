@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Paske se pa nan lak mwen m ap mete konfyans mwen, e epe mwen menm pa kapab sove m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "nan lak mwen"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "m ap mete konfyans mwen"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "e epe mwen menm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "kapab sove m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:42.613859444Z",
+  "model": "glm-5.3"
+}

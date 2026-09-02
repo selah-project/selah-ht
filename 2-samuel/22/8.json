@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E tè a kase e tranble; fondasyon syèl yo tèmine e yo souke, paske kòlèt monte nan li.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "e kase"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "e tranble"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "fondasyon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "tèmine"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "yo souke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kòlèt monte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nan li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:50:16.345658711Z",
+  "model": "glm-5.3"
+}

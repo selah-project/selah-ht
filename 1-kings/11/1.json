@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi wa a Chelomo renmen anpil fanm etranj, ansanm ak ⟨את⟩ pitit fi Paro a: fanm Mowav yo, fanm Amon yo, fanm Edom yo, fanm Tsidon yo, fanm Hetit yo.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Epi wa a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "etranj"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit fi Paro a"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "fanm Mowav yo"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "fanm Amon yo"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "fanm Edom yo"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "fanm Tsidon yo"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "fanm Hetit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:44.132727230Z",
+  "model": "glm-5.3"
+}

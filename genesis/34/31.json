@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Epi yo reponn: Èske pou yon fèm k ap fè mesye avèk ⟨את⟩ sè nou kòm yon fèm ki vann kò?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Epi yo reponn"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "yon fèm ki vann kò"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fè mesye avèk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "sè nou",
+      "marks": "sè nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:13.631864640Z",
+  "model": "glm-5.3"
+}

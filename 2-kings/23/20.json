@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E li sacrifye ⟨את⟩ tout kohen bamah yo ki te la sou lotèl yo, e li boule ⟨את⟩ zo moun sou yo; e li tounen Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "e sacrifye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout kohen bamah yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "te la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "lotèl yo"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "e boule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zo moun"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e tounen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:40.688038899Z",
+  "model": "glm-5.3"
+}

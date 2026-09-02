@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Men sa yo nan zwazo yo nou dwe repute kòm devou: yo pa dwe manje, devou yo ye: ⟨את⟩ vòtè a, ak ⟨את⟩ pèrès la, ak ⟨את⟩ aznaya a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa yo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "repute kòm devou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "zwazo yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dwe manje"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "devou"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vòtè a"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "vòtè a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèrès la"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "pèrès la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "aznaya a"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "aznaya a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:36.150862632Z",
+  "model": "glm-5.3"
+}

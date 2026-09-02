@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Je mwen yo fini ⟨pou⟩ pawòl ou la, ⟨lè mwen di⟩: kilè ou ap konfòte m?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "fini"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je mwen yo"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "pou pawòl ou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨lè mwen di⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kilè"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "ou ap konfòte m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:57.396804981Z",
+  "model": "glm-5.3"
+}

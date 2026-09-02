@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Lè sa a, ke lènmi an pouse ⟨את⟩ nanm m, e ke li rive m, e ke li pitaye lavi m atè, e ke li fè glwa m rete nan pousyè a. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "ke … pouse"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lènmi an"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "e ke li rive m"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "e ke li pitaye"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "atè"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "lavi m"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "e glwa m"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "nan pousyè a"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ke li fè … rete"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:55.073831479Z",
+  "model": "glm-5.3"
+}

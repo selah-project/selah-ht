@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Ale, pèp mwen, antre nan chanm ou yo, e fèmen pòt ou yo dèyè ou — kache ou yon ti kras, yon ti moman, jis kòlè ⟨la⟩ fin pase.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "nan chanm ou yo"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "e fèmen"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "pòt ou yo"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "dèyè ou"
+    },
+    {
+      "surface": "חבiy",
+      "gloss": "kache ou"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "yon ti kras"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "yon ti moman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jis"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "fin pase"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "kòlè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:00.690749518Z",
+  "model": "glm-5.3"
+}

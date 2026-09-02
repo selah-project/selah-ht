@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Paske ou ⟨se⟩ Elohim fòs mwen — poukisa ou rejte m? Poukisa m ap mache ak figi nwa anba opresyon enmi an?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "fòs mwen"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "ou rejte m"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ak figi nwa"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "m ap mache"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "anba opresyon"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enmi an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:49.146226098Z",
+  "model": "glm-5.3"
+}

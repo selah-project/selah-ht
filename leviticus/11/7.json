@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "ak ⟨את⟩ kochon an, paske li divize pasa pye a, li fè chèk chèk nan pasa a, men l pa monte gèra; li enpou pou nou.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kochon an"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "kochon an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "divize"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "pasa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "fè chèk"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "chèk"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "pasa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gèra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "enpou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:24.456621837Z",
+  "model": "glm-5.3"
+}

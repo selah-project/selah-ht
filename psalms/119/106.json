@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen sèmen e m ap kanpe l ⟨pou⟩ kenbe jijman kè-a-dwa ou yo",
+  "tokens": [
+    {
+      "surface": "נִשְׁבַ֥עְתִּי",
+      "gloss": "mwen sèmen"
+    },
+    {
+      "surface": "וָאֲקַיֵּ֑מָה",
+      "gloss": "e m ap kanpe l"
+    },
+    {
+      "surface": "לִ֝שְׁמֹ֗ר",
+      "gloss": "pou kenbe"
+    },
+    {
+      "surface": "מִשְׁפְּטֵ֥י",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "צִדְקֶֽךָ",
+      "gloss": "kè-a-dwa ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:40.655717572Z",
+  "model": "glm-5.3"
+}

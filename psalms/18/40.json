@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E ou senyen m ak fòs pou lagè a; ou fè moun k ap leve kont m anba m janb yo.",
+  "tokens": [
+    {
+      "surface": "וַתְּאַזְּרֵנִי",
+      "gloss": "e ou senyen m"
+    },
+    {
+      "surface": "חַיִל",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "לַמִּלְחָמָה",
+      "gloss": "pou lagè a"
+    },
+    {
+      "surface": "תַּכְרִיעַ",
+      "gloss": "ou fè... plie"
+    },
+    {
+      "surface": "קָמַי",
+      "gloss": "moun k ap leve kont m"
+    },
+    {
+      "surface": "תַּחְתָּי",
+      "gloss": "anba m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:23.816406750Z",
+  "model": "glm-5.3"
+}

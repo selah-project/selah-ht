@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Gwòpwi Izrayèl ap reponn nan figi li; Izrayèl ak Efrayim ap tonbe nan inikite yo, Yehouda menm ap tonbe avèk yo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ap reponn"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gwòpwi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "nan figi li"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ak Izrayèl"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ak Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ap tonbe"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "nan inikite yo"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "avèk yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:43.285731792Z",
+  "model": "glm-5.3"
+}

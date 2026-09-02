@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E si yon bo kòrne ⟨את⟩ yon nonm oswa ⟨את⟩ yon fanm e moun nan mouri, yo dwe wòche bo a — wi, wòche l — e yo pa dwe manje ⟨את⟩ vyann li; e mèt bo a ⟨est⟩ inosan.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "E si"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "kòrne"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonm nan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm nan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e moun nan mouri"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "wòche"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "yo dwe wòche l"
+    },
+    {
+      "surface": "השור",
+      "gloss": "bo a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dwe manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyann li"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "vyann li"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "e mèt"
+    },
+    {
+      "surface": "השור",
+      "gloss": "bo a"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "inosan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:36.191772393Z",
+  "model": "glm-5.3"
+}

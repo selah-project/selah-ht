@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Pou fè tann vwa reconans lan, e pou rakonte tout miray ou yo.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Pou fè tann"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "reconans lan"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "e pou rakonte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "miray ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:27.775797530Z",
+  "model": "glm-5.3"
+}

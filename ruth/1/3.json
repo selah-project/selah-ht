@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E Elimelek, mari Naomi, mouri; e li rete, li ak de pitit gason li.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e mouri"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mari"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "e rete"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ak de"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "pitit gason li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:47:04.704624480Z",
+  "model": "glm-5.3"
+}

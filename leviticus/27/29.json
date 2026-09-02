@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Tout cherem ki konsakre nan mitan moun yo pa ka achte tounen; mouri, li ap mouri.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "cherem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ka achte tounen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ap mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:46.140277067Z",
+  "model": "glm-5.3"
+}

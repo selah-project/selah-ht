@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Se poutèt sa yo lewe e yo kouri chape nan fen nwit, e yo kite ⟨את⟩ tant yo ak ⟨את⟩ chwal yo ak ⟨את⟩ bourik yo — kan an jan l ye — e yo kouri pou sove vi yo.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "yo lewe"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "yo kouri chape"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "nan fen nwit"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "yo kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant yo"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "tant yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "chwal yo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "chwal yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bourik yo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "bourik yo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kan an"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "l ye"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "yo kouri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sove vi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:36.365846966Z",
+  "model": "glm-5.3"
+}

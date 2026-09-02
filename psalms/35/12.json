@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Yo peye m move an plas byen, pèt pitit pou nanm mwen.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "yo peye m"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "move"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "byen"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "pèt pitit"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pou nanm mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:51.845081288Z",
+  "model": "glm-5.3"
+}

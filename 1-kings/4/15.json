@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ahimaats, nan Neftali; li menm menm pran ⟨את⟩ Bachmat, pitit Chelomo, pou madanm.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "nan Neftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bachmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bachmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pou madanm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:39.394571354Z",
+  "model": "glm-5.3"
+}

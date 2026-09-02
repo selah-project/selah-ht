@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Paske flèch ou yo fin plante nan m, e menm ou desann sou m men ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "flèch ou yo"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "fin plante desann"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nan m"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "e menm desann"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:10.795131054Z",
+  "model": "glm-5.3"
+}

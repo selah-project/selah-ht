@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "paske nan lanmò li pa pran ⟨anyen⟩; glwa l pa ap desann apre l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "nan lanmò li"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "apre l"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glwa l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:45.280290286Z",
+  "model": "glm-5.3"
+}

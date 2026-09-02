@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Yawe fè tonnè nan syèl yo, ak Elyòn ban vwa l, grèl ak chabon dife.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "fè tonnè"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ak Elyòn"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "vwa l"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "grèl"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ak chabon"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:45.363965565Z",
+  "model": "glm-5.3"
+}

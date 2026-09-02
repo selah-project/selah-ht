@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Pran, tanpri, ⟨את⟩ benediksyon mwen, menm sa ki pote pou ou, paske Elohim fè m gras, e paske gen tout bagay pou mwen. E l ensiste sou li, e l pran l.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benedisyon mwen"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "benedisyon mwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm sa ki"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "pote"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fè m gras"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e paske"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout bagay"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "e l ensiste"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e l pran l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:21.913223418Z",
+  "model": "glm-5.3"
+}

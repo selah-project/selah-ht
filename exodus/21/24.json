@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "zye pou zye, dan pou dan, men pou men, pye pou pye.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "zye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pou"
+    },
+    {
+      "surface": "עין",
+      "gloss": "zye"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pou"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pou"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pye"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:49.183234180Z",
+  "model": "glm-5.3"
+}

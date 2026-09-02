@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Mikal, pitit fi Chaoul, te renmen ⟨את⟩ David; e yo anonse sa bay Chaoul, e bagay la te dwat nan zye li.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "te renmen"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "e yo anonse"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "bay Chaoul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "e ... te dwat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay la"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nan zye li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:14.974217941Z",
+  "model": "glm-5.3"
+}

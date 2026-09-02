@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E Aharòn ak pitit gason l yo fè ⟨את⟩ tout pawòl ⟨yo⟩ ke Yawe kòmande nan men Moche.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fè"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ak pitit gason l yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:31.007467617Z",
+  "model": "glm-5.3"
+}

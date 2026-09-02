@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E pèp la swaf la pou dlo, e pèp la plen kont Moche, e ⟨yo⟩ di: Poukisa ⟨sa a⟩ ou fè nou monte soti Mitsrayim, pou touye ⟨את⟩ mwen ak ⟨את⟩ pitit m yo ak ⟨את⟩ bèt m yo ak swaf?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "swaf"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "למים",
+      "gloss": "pou dlo"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "plen kont"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ou fè nou monte"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti Mitsrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "pou touye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit m yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit m yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèt m yo"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "bèt m yo"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ak swaf"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:45.279971538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E li waye karant ak yon ane nan Yerouchalayim; non manman l te Maakha, ti fi Avichalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "E karant"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ak yon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "waye"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ak non"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ti fi"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avichalom"
+    }
+  ],
+  "timestamp": "2026-09-02T18:02:53.397909938Z",
+  "model": "glm-5.3"
+}

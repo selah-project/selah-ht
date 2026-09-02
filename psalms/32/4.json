@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Paske lè jou ak lannuit men w te lou sou mwen; imidite mwen te vin sechè vonraj lete a. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "lè jou"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ak lannuit"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "te lou"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men w"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "te vin"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "imidite mwen"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "sechè vonraj"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "lete"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:13.921593183Z",
+  "model": "glm-5.3"
+}

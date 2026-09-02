@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Nasyon yo anfonse nan twou a yo fè a; nan filè sa a yo kache a, pye yo pran.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "anfonse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "nan twou"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "nan filè"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "yo kache"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "pran"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "pye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:34.688265469Z",
+  "model": "glm-5.3"
+}

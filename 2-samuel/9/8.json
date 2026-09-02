@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Li fè reverans ankò e li di: «Kisa sèvant ou ye, ou vire gade chen mouri a ki tankou m menm?»,",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "fè reverans"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "vire gade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rale sou"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "chen"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "tankou m menm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:43:06.680806962Z",
+  "model": "glm-5.3"
+}

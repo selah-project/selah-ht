@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Lè pèp la tande ⟨את⟩ pawòl movan sa a, yo fè dèy, e pèsonn pa mete bèl jwèl li sou li.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl movan sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "movan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "yo fè dèy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "mete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pèsonn"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "bèl jwèl li"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:46.395675208Z",
+  "model": "glm-5.3"
+}

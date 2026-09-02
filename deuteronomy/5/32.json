@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E nou dwe veye pou nou fè jan Yawe Elohim nou ⟨את⟩ nou kòmande; nou pa dwe detoune ni adwat ni goch.",
+  "tokens": [
+    {
+      "surface": "וּשְׁמַרְתֶּם",
+      "gloss": "E nou dwe veye"
+    },
+    {
+      "surface": "לַעֲשׂוֹת",
+      "gloss": "pou nou fè"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תָסֻרוּ",
+      "gloss": "nou dwe detoune"
+    },
+    {
+      "surface": "יָמִין",
+      "gloss": "ni adwat"
+    },
+    {
+      "surface": "וּשְׂמֹאל",
+      "gloss": "ni goch"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:41.386133242Z",
+  "model": "glm-5.3"
+}

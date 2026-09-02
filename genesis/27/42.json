@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "E yo rakonte ba Rivka ⟨את⟩ pawòl Esav, pitit li a, pi gran an; e li voye E rele Yaakov, pitit li a, piti a, e li di ba li: Gade, Esav frè ou ap soulaje kè li sou ou, pou al touye ou.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "E yo rakonte"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "ba Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "pi gran an"
+    },
+    {
+      "surface": "ויתשלח",
+      "gloss": "E li voye"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "E rele"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "piti a"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "ap soulaje kè li"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "pou al touye ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:17.889574610Z",
+  "model": "glm-5.3"
+}

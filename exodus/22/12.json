@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si se dechire yo dechire ⟨bèt la⟩, li pote ⟨reso⟩ l kòm temwen — se bèt ki te dechire a; li pa pral remèt ⟨anyen⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "dechire"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "yo dechire"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "li pote l"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kòm temwen"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "bèt ki te dechire a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pral remèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:36.820335405Z",
+  "model": "glm-5.3"
+}

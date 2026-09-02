@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Poutèt sa kè m kontan, gwo nàn mwen fè lanmòd, menm kò m ap rete an sekirite.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Poutèt sa"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "fè lanmòd"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "gwo nàn mwen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "kò m"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ap rete"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "an sekirite"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:06.086076317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Se sèlman si pèp mwen tande mwen, Yisrael ap mache nan chemen m!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Se sèlman si"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "nan chemen m"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ap mache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:43.790310036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Sa rive nan tan David la ⟨את⟩ ak Edom, lè Yoav, chèf lame a, te monte pou antere ⟨את⟩ mò yo, e li frape tout gason nan Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Sa rive"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "lè ... monte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "lame a"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "pou antere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mò yo"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "mò yo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e li frape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "nan Edom"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:20.153944385Z",
+  "model": "glm-5.3"
+}

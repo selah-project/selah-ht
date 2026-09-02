@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Paske anvan rekòt la, lè flè a fini epi rezen vèt la ap vin mi nan flè a, y ap koupe branch sèvo yo ak siròt, e ⟨את⟩ branch ki gaye yo l ap retire, l ap koupe yo net.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "rekòt la"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "fini"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "flè a"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "rezen vèt la"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ap vin mi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "nan flè a"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "y ap koupe"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "branch sèvo yo"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "ak siròt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "branch ki gaye yo"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "branch ki gaye yo"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "l ap retire"
+    },
+    {
+      "surface": "התז",
+      "gloss": "l ap koupe net"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:08.935171296Z",
+  "model": "glm-5.3"
+}

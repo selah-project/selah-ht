@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Menm tout jou l yo, li manje nan fènwa, avèk anpil fachi, ak maladi l, ak kòlè.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jou l yo"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "nan fènwa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ak fachi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "ak maladi l"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ak kòlè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:28.655025418Z",
+  "model": "glm-5.3"
+}

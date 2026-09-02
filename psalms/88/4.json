@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Paske nefech mwen an satire ak movè, ak lavi mwen an rive jouk Cheol",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "satire"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "ak movè"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen an"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ak lavi mwen an"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "jouk Cheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "rive"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:58.661498876Z",
+  "model": "glm-5.3"
+}

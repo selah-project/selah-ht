@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Soutni m e m ap sove, e m ap gade dekrè ou yo toutan.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "Soutni m"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "e m ap sove"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "e m ap gade"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "dekrè ou yo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:15.168368388Z",
+  "model": "glm-5.3"
+}

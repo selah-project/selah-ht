@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Paske ⟨ou⟩ chèche inikite mwen, epi ⟨ou⟩ foure dèy peche m?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ou chèche"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "inikite mwen"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "epi peche m"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ou foure dèy"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:54.906714933Z",
+  "model": "glm-5.3"
+}

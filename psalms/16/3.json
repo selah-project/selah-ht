@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Konsènan kadoach yo ki nan tè a — se yo menm, ak moun glwaye yo — tout plezi mwen se nan yo.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Konsènan kadoach yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "המה",
+      "gloss": "se yo menm"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "ak moun glwaye yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "plezi mwen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:44.663610979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E pèp la di ba Yehochoua: Se ⟨את⟩ Yawe, Elohim nou an, nap sèvi, ak vwa l nap koute.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E yo di"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "nap sèvi"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "ak vwa l"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nap koute"
+    }
+  ],
+  "timestamp": "2026-09-02T17:10:57.017112333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epou ou fè asyèt li yo, ak kwi li yo, ak kouvèk li yo, ak gobè li yo, kote yo vide ak yo; nan lò pi ou fè ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Epou ou fè"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "asyèt li yo"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "ak kwi li yo"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "ak kouvèk li yo"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "ak gobè li yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "yo vide"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (tout vas ki soti anvan)"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:13.599619195Z",
+  "model": "glm-5.3"
+}

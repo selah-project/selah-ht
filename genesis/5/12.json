@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Keynan viv san sant ane, epi li fè ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keynan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "san sant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "fè (pitit)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:22.005673156Z",
+  "model": "glm-5.3"
+}

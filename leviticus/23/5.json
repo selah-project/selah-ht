@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Nan premye mwa a, nan katòzyèm jou a nan mwa a, ant aswè yo, Pèsach pou Yawe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Nan mwa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "premye a"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nan mwa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "aswè yo"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pèsach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:35.566691217Z",
+  "model": "glm-5.3"
+}

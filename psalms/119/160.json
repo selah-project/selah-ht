@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Sòm pawòl ou a se ⟨la⟩ verite a, e pou tout tan tout jijman jistis ou yo ⟨kanpe⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Sòm"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "pawòl ou a"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verite a"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "e pou tout tan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "jistis ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:30.922605949Z",
+  "model": "glm-5.3"
+}

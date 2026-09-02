@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Epi chèf echanson yo pale ⟨את⟩ Paro pou l di: ⟨את⟩ fòt mwen yo, se mwen menm ki fè yo sonje jodi a.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "echanson yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fòt mwen yo"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "fòt mwen yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "fè sonje"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:11.241465247Z",
+  "model": "glm-5.3"
+}

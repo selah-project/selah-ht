@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Men nan pyebwa konesans la, sa ki bon ak sa ki mova, ou pa ap manje ⟨nan⟩ li; paske nan jou ou ap manje ⟨nan⟩ li, se mouri w ap mouri.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "Men nan pyebwa"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ak mova"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ou ap manje"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "li"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ap mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:26.937628604Z",
+  "model": "glm-5.3"
+}

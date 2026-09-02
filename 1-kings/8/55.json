@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li kanpe, li beni ⟨את⟩ tout asanble Yisrayèl la ak yon gwo vwa, li di:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "E li kanpe"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "li beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout asanble Yisrayèl la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:26.715974040Z",
+  "model": "glm-5.3"
+}

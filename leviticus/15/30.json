@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi kòm prèt la fè ⟨את⟩ youn lan tou ofrann peche, ak ⟨את⟩ lòt la tou ofrann boule, epi kòm prèt la fè ekspiyasyon pou li devan Yawe, pou ekoulman salte li a.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòm prèt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "youn lan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn lan"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ofrann peche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lòt la"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "lòt la"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ofrann boule"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "epi fè ekspiyasyon"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòm prèt la"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "ekoulman"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "salte li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:42.821123704Z",
+  "model": "glm-5.3"
+}

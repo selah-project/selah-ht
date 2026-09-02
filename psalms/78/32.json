@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Malgre tout sa yo peche ankò, e yo pa kwè nan mirak li yo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "malgre tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "yo peche"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "kwè"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "nan mirak li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:12.381358512Z",
+  "model": "glm-5.3"
+}

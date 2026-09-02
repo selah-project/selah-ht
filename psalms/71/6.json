@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Sou ou m apye depi vant lan; ou menm ki koupe kòd lan nan vant manman m; sou ou louanj m toutan.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Sou ou"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "m apye"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "depi vant lan"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "nan vant"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "manman m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ki koupe kòd lan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "louanj m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:28.003453568Z",
+  "model": "glm-5.3"
+}

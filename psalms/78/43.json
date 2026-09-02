@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Lè l mete siy l yo nan Mitsrayim, ak mirak l yo nan kan Tsoàn.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "siy l yo"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "ak mirak l yo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan kan"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoàn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:08.457337110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Menache kouche ak zansèt li yo, epi yo antere l nan kay li; Amon, pitit gason l, wayal nan plas li.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kouche"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt li yo"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "epi yo antere l"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nan kay li"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wayal"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:36:12.695048097Z",
+  "model": "glm-5.3"
+}

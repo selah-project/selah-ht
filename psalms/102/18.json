@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "⟨Li⟩ vire bò ← jèn lan ki pa gen pèsonn ← pou lapriyè moun ki san sekou a, epi li pa méprise ⟨את⟩ lapriyè yo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "vire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò pou"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "lapriyè"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "moun ki san sekou a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "méprise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapriyè yo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "lapriyè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:01.280861823Z",
+  "model": "glm-5.3"
+}

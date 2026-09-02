@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "E Yisrael di bay Yosèf: kounye a m ka mouri, apre m fin wè ⟨את⟩ figi w, paske ou ap viv anko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "m ka mouri"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "m fin wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi w"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi w"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ap viv anko"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:36:35.750248942Z",
+  "model": "glm-5.3"
+}

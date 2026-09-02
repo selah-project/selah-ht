@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Avèk brodri yo ap mennen ⟨li⟩ pou wa a; jènfi yo ki swiv li, zanmi l yo, yo ap pote pou ⟨w⟩.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "avèk brodri"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "yo ap mennen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou wa"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jènfi yo"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ki swiv li"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "zanmi l yo"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "yo ap pote"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:44.108324094Z",
+  "model": "glm-5.3"
+}

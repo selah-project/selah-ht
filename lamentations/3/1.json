@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Se mwen, gason la, ki wè mizè nan baton kòlè l.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "gason la"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mizè"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "nan baton"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "kòlè l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:48:11.675360772Z",
+  "model": "glm-5.3"
+}

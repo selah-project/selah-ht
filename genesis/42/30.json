@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Lòm nan, mèt peyi a, pale ⟨את⟩ nou dirèk, epi li mete ⟨את⟩ nou kòm espyon ⟨את⟩ peyi a.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lòm nan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mèt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nou"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "dirèk"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nou"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "kòm espyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:30.437812443Z",
+  "model": "glm-5.3"
+}

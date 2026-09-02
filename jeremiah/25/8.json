@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Se poutèt sa, konsa Yawe Tzavòt la di: paske nou pa t koute ⟨את⟩ pawòl m yo —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Se poutèt sa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzavòt"
+    },
+    {
+      "surface": "יען",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa t"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "koute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl m yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:56:18.095021535Z",
+  "model": "glm-5.3"
+}

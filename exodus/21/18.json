@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E si mesye yo diskite, e youn frape ⟨את⟩ zanmi l ak yon wòch oswa ak pwen, e li pa mouri men li tonbe ⟨nan⟩ kabann —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "E si"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "diskite"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mesye yo"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "e frape"
+    },
+    {
+      "surface": "איש",
+      "gloss": "youn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanmi l"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zanmi l"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ak yon wòch"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ak pwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "men tonbe"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "nan kabann"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:53.120285676Z",
+  "model": "glm-5.3"
+}

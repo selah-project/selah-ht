@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Paske Yawe te delivre ⟨את⟩ Yaakov, e te fè ranson pou li menm nan men yon moun ki te pi fò pase l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "te delivre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "e te fè ranson pou li"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yon moun ki te pi fò"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pase l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:58:36.036396879Z",
+  "model": "glm-5.3"
+}

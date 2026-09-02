@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "ak ⟨את⟩ de (2) gason l yo — non youn nan se Gerechom, paske li te di: mwen te yon etranje nan yon tè etranj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "de gason l yo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "gason l yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn nan"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerechom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "li te di"
+    },
+    {
+      "surface": "גר",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mwen te yon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "etranj"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:21.287045729Z",
+  "model": "glm-5.3"
+}

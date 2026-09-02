@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi l reponn l: Se mwen. Ale, di ba master ou: Gade, Eliyahou la.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi l di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ba master ou"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:23.414442523Z",
+  "model": "glm-5.3"
+}

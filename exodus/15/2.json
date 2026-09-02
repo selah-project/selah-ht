@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Fòs mwen ak chante mwen se Yah, epi li vin delivrans pou mwen; se Elohim mwen ye — m ap fè l bèl; Elohim papa m, m ap eksalte l.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "fòs mwen"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ak chante mwen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "epi li vin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "m ap fè l bèl"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "m ap eksalte l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:13.076735611Z",
+  "model": "glm-5.3"
+}

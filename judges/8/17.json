@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi li demoli ⟨את⟩ tou Pnouèl la, epi li touye ⟨את⟩ nonm vil la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "tou Pnouèl la"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tou"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Pnouèl"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "demoli"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "epi li touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonm vil la"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:16:53.126956132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ou fè ⟨את⟩ lakou Mishkan an, pou kote sid la, sou bò sid: rido pou lakou a, an lin blan twiste, san kibit longè, pou yon sèl kote.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakou Mishkan an"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "lakou"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan an"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pou kote"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sid"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "sou bò sid"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "rido"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "pou lakou a"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin blan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "twiste"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kibit"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "longè"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "pou kote"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yon sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:12.968723864Z",
+  "model": "glm-5.3"
+}

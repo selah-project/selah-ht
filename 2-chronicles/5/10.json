@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Pa gen anyen nan debo a, sèlman de tablèt yo ke Moche te mete la nan Chorev, kote Yawe te koupe ⟨alyans⟩ ak pitit Yisrayèl yo, lè yo te soti nan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "pa gen anyen"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "nan debo a"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "tablèt yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "te mete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nan Chorev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "te koupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "lè yo te soti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:26:30.331566783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Zye ki te gade l ap pa ⟨kontinye⟩, e plas li ap pa gade l ⟨ankò⟩.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "zye"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "ki te gade l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "kontinye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "תשורנה",
+      "gloss": "gade l"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:37:30.967574905Z",
+  "model": "glm-5.3"
+}

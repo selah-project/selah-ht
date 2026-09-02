@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Paske Yawe vide sou ou yon lespri dòm pwofon, e li fèmen ⟨את⟩ je ou yo — ⟨את⟩ pwofèt yo — e ⟨את⟩ tèt ou, vizyonè yo, li kouvri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "vide"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "dòm pwofon"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "epi li fèmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je ou yo"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "je ou yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pwofèt yo"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pwofèt yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tèt ou"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "tèt ou"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "vizyonè yo"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "kouvri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:22.611342464Z",
+  "model": "glm-5.3"
+}

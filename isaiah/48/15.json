@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Mwen menm, mwen menm, m te pale; wi, m te rele l; m te mennen l, epi fason l ap reyisi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen menm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "m te pale"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wi"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "m te rele l"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "m te mennen l"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "epi ... ap reyisi"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "fason l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:16.593723163Z",
+  "model": "glm-5.3"
+}

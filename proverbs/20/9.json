@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Kilès ki ka di: mwen te pwoprije kè mwen, mwen sen anpil sou peche mwen?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kilès"
+    },
+    {
+      "surface": "יֹאמַר",
+      "gloss": "ki ka di"
+    },
+    {
+      "surface": "זִכִּיתִי",
+      "gloss": "mwen te pwoprije"
+    },
+    {
+      "surface": "לִבִּי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "טָהַרְתִּי",
+      "gloss": "mwen sen"
+    },
+    {
+      "surface": "מֵחַטָּאתִי",
+      "gloss": "sou peche mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:02.317286316Z",
+  "model": "glm-5.3"
+}

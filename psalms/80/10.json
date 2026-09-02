@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Ou te fè plas devan li, e li te pran rasin — rasin li yo — e li te plen tè a.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Ou te fè plas"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "devan li"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "e li te pran rasin"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "rasin li yo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "e li te plen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:49.634959853Z",
+  "model": "glm-5.3"
+}

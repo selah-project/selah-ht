@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 79,
+  "translation": "Yo vide san yo tankou dlo toutotou Yerouchalayim, e pa gen moun ki antere yo.",
+  "tokens": [
+    {
+      "surface": "שָׁפְכ֬וּ",
+      "gloss": "yo vide"
+    },
+    {
+      "surface": "דָמָ֨ם",
+      "gloss": "san yo"
+    },
+    {
+      "surface": "כַּמַּ֗יִם",
+      "gloss": "tankou dlo"
+    },
+    {
+      "surface": "סְֽבִ֘יב֤וֹת",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "יְֽרוּשָׁלִָ֗ם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "קוֹבֵֽר",
+      "gloss": "moun ki antere"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:16.490929310Z",
+  "model": "glm-5.3"
+}

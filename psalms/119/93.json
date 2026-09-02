@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Pou touttan m ap pa bliye preskripsyon ou yo, paske se pa yo ou fè m viv.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Pou touttan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "preskripsyon ou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בם",
+      "gloss": "se pa yo"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ou fè m viv"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:40.089759004Z",
+  "model": "glm-5.3"
+}

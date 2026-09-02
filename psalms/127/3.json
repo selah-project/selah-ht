@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 127,
+  "translation": "Gade, pitit yo se eritaj Yawe — yon rekonpans, fwi vant la.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "eritaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "rekonpans"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "vant la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:33.004256879Z",
+  "model": "glm-5.3"
+}

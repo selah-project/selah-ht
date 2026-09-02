@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Ak ⟨את⟩ Chachavya, ak li ⟨את⟩ Yechaya, nan pitit Merari, frè l yo, ak pitit yo, ven.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chachavya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chachavya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ak li ⟨את⟩",
+      "marks": "Yechaya"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yechaya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "nan pitit"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ak pitit yo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ven"
+    }
+  ],
+  "timestamp": "2026-09-02T21:07:03.631414099Z",
+  "model": "glm-5.3"
+}

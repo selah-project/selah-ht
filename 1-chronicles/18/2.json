@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E li frape ⟨את⟩ Moab, e Moab vin sèvitè pou David, yo pome tribi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pome"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tribi"
+    }
+  ],
+  "timestamp": "2026-09-02T21:20:37.837081090Z",
+  "model": "glm-5.3"
+}

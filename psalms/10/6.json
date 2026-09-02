@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Li di nan kè l: «M ap janm pa treme, pou jenerasyon ak jenerasyon m ap pa nan malè.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nan kè l"
+    },
+    {
+      "surface": "בל",
+      "gloss": "janm"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "treme"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak jenerasyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nan malè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:50.319811480Z",
+  "model": "glm-5.3"
+}

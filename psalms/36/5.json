@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Movèz li trase sou kabann li; li kanpe tèt li nan yon chemen ki pa bon; movè li pa rejte.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "movèz"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "trase"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "kabann li"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "kanpe tèt li"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "movè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "rejte"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:21.988214199Z",
+  "model": "glm-5.3"
+}

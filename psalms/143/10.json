@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 143,
+  "translation": "Anseye m pou ⟨m⟩ fè volonte ou, paske ou se Elohim m; lespri ou ki ⟨bon⟩ a, gide m nan yon tè dwat.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Anseye m"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "fè"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "volonte ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "lespri ou"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bon"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "gide m"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "dwat"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:15.136685954Z",
+  "model": "glm-5.3"
+}

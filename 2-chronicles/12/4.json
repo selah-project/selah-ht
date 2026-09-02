@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "L te pran ⟨את⟩ vil fòtifye yo ki te pou Youda a, e l te rive jouk nan Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "l te pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vil fòtifye yo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "fòtifye yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "te pou Youda a"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e l te rive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:28:20.506061512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Dezè a ak tè sèk la ap kontan, savann lan ap rejwi epi ap fleri kòm roz.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "ap kontan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dezè a"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "ak tè sèk"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ap rejwi"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "savann lan"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "epi ap fleri"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "kòm roz"
+    }
+  ],
+  "timestamp": "2026-09-02T18:34:00.782035696Z",
+  "model": "glm-5.3"
+}

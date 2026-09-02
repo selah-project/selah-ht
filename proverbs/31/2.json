@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Kisa, pitit mwen? e kisa, pitit vant mwen? e kisa, pitit vòw yo mwen?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e kisa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "vant mwen"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e kisa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "vòw yo mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:37.942162457Z",
+  "model": "glm-5.3"
+}

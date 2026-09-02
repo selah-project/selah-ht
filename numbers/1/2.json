@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Leve ⟨את⟩ tèt tout asanble pitit gason Yisrael yo, dapre fanmi yo, dapre kay papa yo, ak konte non yo, tout gason, chak tèt pou kont li.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt tout asanble pitit gason Yisrael yo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "lain_לבית",
+      "gloss": "dapre kay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ak kont"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "chak tèt pou kont li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:08.641225664Z",
+  "model": "glm-5.3"
+}

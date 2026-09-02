@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Yawe di ba Yehochoua: Gade, mwen ban ou ⟨את⟩ Yeriho ak ⟨את⟩ wa l, gason ki gen valè.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen ban ou"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "wa l"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "wa l"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "gason"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ki gen valè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:01:51.768995080Z",
+  "model": "glm-5.3"
+}

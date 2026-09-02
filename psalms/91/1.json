@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Moun ki chita nan kachèt Elyòn, nan lonbraj Chadday (Bondye ki gen tout pouvwa) ap fè lwaye pou tout tan.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nan kachèt"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nan lonbraj"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadday"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "ap fè lwaye pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:16.036226932Z",
+  "model": "glm-5.3"
+}

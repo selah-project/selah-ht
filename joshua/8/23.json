@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi yo pran ⟨את⟩ wa HaAy la vivan, epi yo mennen ⟨את⟩ li vin jwenn Yehochoua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Epi ⟨את⟩",
+      "marks": "wa HaAy la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העי",
+      "gloss": "HaAy la"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "epi yo mennen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Yehochoua kote yo mennen l)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vin jwenn"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    }
+  ],
+  "timestamp": "2026-09-02T21:48:35.031779809Z",
+  "model": "glm-5.3"
+}

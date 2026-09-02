@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Paske ⟨pa gen⟩ memwa ⟨ou⟩ nan lanmò; nan Cheol, ki moun ki ap rekonèt ou?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "במות",
+      "gloss": "nan lanmò"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "memwa ⟨ou⟩"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "nan Cheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ki ap rekonèt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:13.060394264Z",
+  "model": "glm-5.3"
+}

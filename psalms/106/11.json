@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "E dlo yo kouvri opresè yo; pa youn pami yo ki rete.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "e kouvri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "opresè yo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "pami yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "rete"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:22.589634321Z",
+  "model": "glm-5.3"
+}

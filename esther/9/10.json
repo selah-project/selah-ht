@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Dis pitit gason Aman an, pitit gason Amedata a, lènmi Jwif yo — yo touye ⟨את⟩ yo; men sou butin an yo pa voye ⟨את⟩ men yo.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Aman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Amedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "lènmi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jwif yo"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "yo touye"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "men sou butin an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yo voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men yo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "men yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:30.804180786Z",
+  "model": "glm-5.3"
+}

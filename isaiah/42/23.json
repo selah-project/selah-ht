@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Kiyès nan mitan nou k ap tande sa? Kiyès k ap vierete e k ap tande pou tan ki ap vini?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "k ap tande"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "k ap vierete"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e k ap tande"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "pou tan ki ap vini"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:49.402130360Z",
+  "model": "glm-5.3"
+}

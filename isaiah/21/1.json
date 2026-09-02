@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Masa dezè lanmè a. Tankou tanponn nan Nègèv la ki pou pase, li ap vini soti nan dezè a, soti nan yon peyi k ap fè pè.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dezè"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "Tankou tanponn"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "nan Nègèv la"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ki pou pase"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "soti nan dezè a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "li ap vini"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan yon peyi"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "k ap fè pè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:09.929031272Z",
+  "model": "glm-5.3"
+}

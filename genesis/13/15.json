@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Paske ⟨את⟩ tout tè a ki ⟨ou⟩ ap wè, se pou ⟨ou⟩ m ap bay l, epi pou desandans ⟨ou⟩ jouk tout tan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout tè a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ou⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ap wè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ⟨ou⟩"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "m ap bay l"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "epi pou desandans ⟨ou⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:50.324739778Z",
+  "model": "glm-5.3"
+}

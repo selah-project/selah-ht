@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Elohim ⟨nan⟩ mitan l — l pap ⟨gen⟩ chèche; Elohim ap ede l byen bonè ⟨lè maten rive⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "nan mitan l"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "ede l"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "lè maten vire"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maten"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:57.366479884Z",
+  "model": "glm-5.3"
+}

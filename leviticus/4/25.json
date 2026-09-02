@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E prèt la pran san chatat la ak dwèt li, e mete l sou kòn otè a holokòs la, e ⟨את⟩ san l ap vide nan fondasyon otè a holokòs la.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "e pran"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "nan san"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "chatat la"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ak dwèt li"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e mete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otè"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "holokòs la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "san l"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san l"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ap vide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "fondasyon"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otè"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "holokòs la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:30.465265344Z",
+  "model": "glm-5.3"
+}

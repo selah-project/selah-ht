@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Malè pou chèf bèt yo ki ap detwi ak dispers ⟨את⟩ mouton nan pasti m an, sa Yawe deklare.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malè pou"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "chèf bèt yo"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "ki ap detwi"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "ak dispers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mouton nan pasti m an"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "nan pasti m an"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:55:19.674307656Z",
+  "model": "glm-5.3"
+}

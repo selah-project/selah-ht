@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 99,
+  "translation": "Yawe gran an Tsiyòn, li wo sou tout pèp yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "an Tsiyòn"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "pèp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:03.759677936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Se men ou ki dwe vini ede m, paske mwen chwazi lòd ou yo.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "dwe vini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "ede m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "lòd ou yo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mwen chwazi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:38.306871365Z",
+  "model": "glm-5.3"
+}

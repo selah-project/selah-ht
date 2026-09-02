@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Kè moun saj la nan bò dwat li, e kè sot la nan bò goch li.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saj"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "nan bò dwat li"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "e kè"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sot"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "nan bò goch li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:06.991426067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Yawe, tanpri aksepte ofrand lib volonte bouch mwen an, epi anseigne m jijman ou yo.",
+  "tokens": [
+    {
+      "surface": "נִדְבֹת",
+      "gloss": "ofrand lib volonte"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "bouch mwen"
+    },
+    {
+      "surface": "רְצֵה",
+      "gloss": "aksepte"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וּמִשְׁפָּטֶיךָ",
+      "gloss": "epi jijman ou yo"
+    },
+    {
+      "surface": "לַמְדֵנִי",
+      "gloss": "anseigne m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:29.537146635Z",
+  "model": "glm-5.3"
+}

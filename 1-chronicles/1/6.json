@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Ak pitit Gomer yo: Achkenaz, ak Rifat, ak Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ak pitit yo"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Achkenaz"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ak Rifat"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "ak Togarma"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:37.109078390Z",
+  "model": "glm-5.3"
+}

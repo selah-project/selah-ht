@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 61,
+  "translation": "Sejoune m nan tant Ou a pou tout touttan yo, refije m nan kache zèl Ou yo. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "Sejoune m"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "nan tant Ou a"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "pou tout touttan yo"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "refije m"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nan kache"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "zèl Ou yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:56.383612227Z",
+  "model": "glm-5.3"
+}

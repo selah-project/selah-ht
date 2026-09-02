@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Men tout Yisrael ak Yehouda renmen ⟨את⟩ David, paske li se li menm ki soti ak antre devan yo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Men tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ak Yehouda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li se li menm"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ki soti"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ak antre"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "devan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:24.656045722Z",
+  "model": "glm-5.3"
+}

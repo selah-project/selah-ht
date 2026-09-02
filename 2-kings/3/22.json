@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E yo levi byen bonè, nan maten, e solèy la klere sou dlo a, e Mowab wè, nan fòs, ⟨את⟩ dlo a wouj tankou san.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "E yo levi byen bonè"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "ak solèy la"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "klere"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "e yo wè"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "nan fòs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dlo a"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "wouj"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "tankou san"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:46.961029093Z",
+  "model": "glm-5.3"
+}

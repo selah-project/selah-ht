@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Se pou moun ki gen ògèy yo vin wont, paske yo dechouke m ak manti; m ap medite sou presepte ou yo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "vin wont"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "moun ki gen ògèy yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ak manti"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "yo dechouke m"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "ap medite"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "sou presepte ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:36.374574511Z",
+  "model": "glm-5.3"
+}

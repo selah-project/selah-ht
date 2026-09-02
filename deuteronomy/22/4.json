@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Pa wè ⟨את⟩ bourik frè ou oswa bèf li ap tonbe nan wout la, epi kache sou ou kont yo — leve, ou fèt leve yo avèk li.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bourik"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "bourik"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "bèf li"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ap tonbe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout la"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "epi kache sou ou"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kont yo"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "leve"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ou fèt leve yo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avèk li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:23.667981596Z",
+  "model": "glm-5.3"
+}

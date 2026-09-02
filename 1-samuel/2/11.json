@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Elkana ale Ramata kay li; epi jèn gason an t ap sèvi ⟨את⟩ Yawe anvan ⟨את⟩ figli Eli prèt la.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "epi ... ale"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramata"
+    },
+    {
+      "surface": "על",
+      "gloss": "rive"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "epi jèn gason an"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figli Eli prèt la"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:23:24.007521771Z",
+  "model": "glm-5.3"
+}

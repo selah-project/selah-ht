@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Paske Yawe gran, e ⟨li⟩ dwe resevwa anpil lofwanj, ⟨li⟩ fè pè sou tout dye yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "e dwe resevwa anpil lofwanj"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "fè pè"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:35.893746664Z",
+  "model": "glm-5.3"
+}

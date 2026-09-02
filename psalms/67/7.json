@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 67,
+  "translation": "Tè a bay rekòt li; Elohim, Elohim nou an, ap beni nou.",
+  "tokens": [
+    {
+      "surface": "אֶ֭רֶץ",
+      "gloss": "Tè a"
+    },
+    {
+      "surface": "נָתְנָ֣ה",
+      "gloss": "bay"
+    },
+    {
+      "surface": "יְבוּלָ֑הּ",
+      "gloss": "rekòt li"
+    },
+    {
+      "surface": "יְבָרְכֵ֗נוּ",
+      "gloss": "ap beni nou"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהֵֽינוּ",
+      "gloss": "Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:35.276387091Z",
+  "model": "glm-5.3"
+}

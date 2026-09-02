@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "paske yo pral tande ⟨את⟩ non ou a, gwo a, ak ⟨את⟩ men ou a, fò a, ak bwa ou a, ki lonje a; epi l ap vini epi l ap priye nan direksyon kay sa a —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "yo pral tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non ou a"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "gwo a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "men ou a"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "fò a"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ak bwa ou"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ki lonje a"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "epi l ap vini"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "epi l ap priye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:44.969924856Z",
+  "model": "glm-5.3"
+}

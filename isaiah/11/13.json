@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Jalouzi Efrayim ap detounen, ak enmi Yehouda yo ap koupe: Efrayim pa ap jalous ⟨את⟩ Yehouda, epi Yehouda pa ap pèsekyite ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "ap detounen"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "jalouzi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "ak enmi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ap koupe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "jalous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehouda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "epi Yehouda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "pèsekyite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:25.854278687Z",
+  "model": "glm-5.3"
+}

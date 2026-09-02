@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 56,
+  "translation": "Nan Elohim m ap fè lwanj pawòl ⟨li⟩; nan Yawe m ap fè lwanj pawòl ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Nan Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "m ap fè lwanj"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl ⟨li⟩"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "m ap fè lwanj"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl ⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:55.911232095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E mesajè Yawe a jwenn li bò kote yon sous dlo nan dezè a, bò kote sous la nan wout ki mennen ale Chour.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "jwenn li"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mesajè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "bò kote"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sous"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "על",
+      "gloss": "bò kote"
+    },
+    {
+      "surface": "העין",
+      "gloss": "sous la"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Chour"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:27.541987509Z",
+  "model": "glm-5.3"
+}

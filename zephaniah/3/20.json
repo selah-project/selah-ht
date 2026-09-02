@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zephaniah 3:20",
+  "book": "zephaniah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Nan tan sa a m ap mennen ⟨את⟩nou rantre, e nan tan m ap ranmase ⟨את⟩nou — paske m ap bay ⟨את⟩nou pou yon non ak pou louwanj nan mitan tout pèp tè a, lè m ap fè ⟨את⟩ retounen fòtè nou a devan zye nou, di Yawe a.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Nan tan"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "m ap mennen rantre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "nou (pèp la)"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "e nan tan"
+    },
+    {
+      "surface": "קבצי",
+      "gloss": "m ap ranmase"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "nou (pèp la)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ap bay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "nou (pèp la)"
+    },
+    {
+      "surface": "לשׁם",
+      "gloss": "pou yon non"
+    },
+    {
+      "surface": "ולתהלּה",
+      "gloss": "ak pou louwanj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan mitan tout"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "בשׁובי",
+      "gloss": "lè m ap fè retounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fòtè nou a"
+    },
+    {
+      "surface": "שׁבותיכם",
+      "gloss": "fòtè nou a"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "devan zye nou"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:44:54.815122207Z",
+  "model": "glm-5.3"
+}

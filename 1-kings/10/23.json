@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E wa Chelomo a vin pi gran pase tout wa tè a, an richès ak an sajès.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "vin pi gran"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pase tout"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "an richès"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "ak an sajès"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:12.448285951Z",
+  "model": "glm-5.3"
+}

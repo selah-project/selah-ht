@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Lè sa a Chimi levi, bwe ⟨את⟩ bourik li, e l ale nan Gat, kotè Akich, pou l te chèche ⟨את⟩ sèvitè li yo; Chimi ale, e l pote ⟨את⟩ sèvitè li yo soti nan Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "levi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Chimi"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "bwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bourik li"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "bourik li"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "nan Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kotè"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akich"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pou l te chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvitè li yo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè li yo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Chimi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvitè li yo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvitè li yo"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "soti nan Gat"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:09.553404873Z",
+  "model": "glm-5.3"
+}

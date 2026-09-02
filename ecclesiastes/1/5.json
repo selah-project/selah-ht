@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Solèy la leve, e solèy la kouche, e, ap pantyan souf, li tounen nan plas li — li menm ki leve la.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "e li leve"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e li kouche"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "epi nan"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "plas li"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ap pantyan souf"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ki leve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:03:19.483898532Z",
+  "model": "glm-5.3"
+}

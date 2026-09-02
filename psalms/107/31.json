@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Yo rekonèt Yawe pou hesed (lafèl byenfètans) li a, ak miray li yo pou timoun moun yo.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "yo rekonèt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    },
+    {
+      "surface": "וְנפלאותיו",
+      "gloss": "ak miray li yo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou timoun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:16.420801328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E ⟨ou⟩ renmen ⟨את⟩ Yawe, Elohim ou a, ak tout kè ou, ak tout nanm ou, ak tout fòs ou.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "e renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "kè ou a"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nanm ou a"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "fòs ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:24.924564369Z",
+  "model": "glm-5.3"
+}

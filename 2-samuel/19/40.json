@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E tout pèp la pase ⟨את⟩ Yarden an, e wa a pase; e wa a ba Bartzilay yon bo, e wa a beni l, e l tounen nan plas li.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden an"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "e wa a"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ba yon bo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Bartzilay"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "beni l"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:49:10.711667476Z",
+  "model": "glm-5.3"
+}

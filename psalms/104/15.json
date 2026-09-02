@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "ak diven ap fè kè moun mortal rejwi, fè figi klere depi lwil, ak pen ap sipòte kè moun mortal.",
+  "tokens": [
+    {
+      "surface": "וְיַיִן",
+      "gloss": "ak diven"
+    },
+    {
+      "surface": "יְשַׂמַּח",
+      "gloss": "fè rejwi"
+    },
+    {
+      "surface": "לְבַב",
+      "gloss": "kè a"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "moun mortal"
+    },
+    {
+      "surface": "לְהַצְהִיל",
+      "gloss": "fè klere"
+    },
+    {
+      "surface": "פָּנִים",
+      "gloss": "figi"
+    },
+    {
+      "surface": "מִשָּׁמֶן",
+      "gloss": "depi lwil"
+    },
+    {
+      "surface": "וְלֶחֶם",
+      "gloss": "ak pen"
+    },
+    {
+      "surface": "לְבַב",
+      "gloss": "kè a"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "moun mortal"
+    },
+    {
+      "surface": "יִסְעָד",
+      "gloss": "sipòte"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:32.153850900Z",
+  "model": "glm-5.3"
+}

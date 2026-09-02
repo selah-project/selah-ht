@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Moab ap fini kòm pèp, paske li fè tèt li gran kont Yawe.",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "ap fini"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kòm pèp"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "li fè tèt li gran"
+    }
+  ],
+  "timestamp": "2026-09-02T19:07:11.980590546Z",
+  "model": "glm-5.3"
+}

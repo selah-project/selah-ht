@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Chante pou Yawe, beni Non l, anonse delivrans l jou apre jou.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "beni"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Non l"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "apre jou"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "delivrans l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:35.893460151Z",
+  "model": "glm-5.3"
+}

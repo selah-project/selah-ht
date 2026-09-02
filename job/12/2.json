@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Bon, se nou menm ki ⟨se⟩ pèp la, e savèt la ap mouri avèk nou !",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "avèk nou"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "savèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:23.711695742Z",
+  "model": "glm-5.3"
+}

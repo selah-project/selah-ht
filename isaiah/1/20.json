@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Men si nou refize e nou rebèl, epè a pral manje nou; paske bouch Yawe a pale.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men si"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "nou refize"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "e nou rebèl"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epè"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ap manje nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:40.461306916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 128,
+  "translation": "Yawe beni ou depi Tsiyòn, epi ⟨ou⟩ gade byen ⟨nan⟩ Yerouchalaym, tout jou lavi ou yo.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "beni ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "depi Tsiyòn"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalaym"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "lavi ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:46.808036339Z",
+  "model": "glm-5.3"
+}

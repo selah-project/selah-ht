@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Moche pale ak Aharòn, ak pitit li yo, ak tout pitit Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "epi ... pale"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:51.060755309Z",
+  "model": "glm-5.3"
+}

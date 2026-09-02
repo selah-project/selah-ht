@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Bay yon pat a seyèm, epi menm a uit; paske ou pa konnen ki mal k ap vini sou tè a.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Bay"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "yon pat"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "a seyèm"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "epi menm"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "a uit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "k ap vini"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:25.734299552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E kay la te gen karant ⟨am⟩ ⟨longè⟩ — se ⟨li⟩ gran sal devan an.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ak karant"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "am"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te gen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "gran sal la"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:28.942505012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Paske ak lèv mokèl ak yon lòt lang ⟨ap⟩ pale bay pèp sa a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ak mokèl"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lèv"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "ak lang"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ap pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:32.507081031Z",
+  "model": "glm-5.3"
+}

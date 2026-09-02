@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Èske hesed li fini pou tout tan? Pawòl la fini pou jenerasyon ak jenerasyon?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Èske fini"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "fini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:17.057110905Z",
+  "model": "glm-5.3"
+}

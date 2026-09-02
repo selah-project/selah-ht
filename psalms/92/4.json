@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 92,
+  "translation": "Sou dis kòd yo, ak sou navèl la, sou yon son ki murmure, ak kinnor la.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dis kòd yo"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "navèl la"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "yon son ki murmure"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ak kinnor la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:48.370410073Z",
+  "model": "glm-5.3"
+}

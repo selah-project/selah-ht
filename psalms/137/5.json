@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 137,
+  "translation": "Si mwen bliye ou, Yerouchalayim, se bliye dwat mwen an bliye!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "mwen bliye ou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "dwat mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:44.472226367Z",
+  "model": "glm-5.3"
+}

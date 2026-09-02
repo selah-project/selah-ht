@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Si jou li yo determine, kantite mwa li yo nan men ⟨את⟩ ou, ou fè lètèmen li, e l ap pase l pa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "determine"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jou li yo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kantite"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "mwa li yo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "nan men ⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "lètèmen li"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "l ap pase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:53.533561884Z",
+  "model": "glm-5.3"
+}

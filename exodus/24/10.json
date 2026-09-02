@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Yo wè ⟨את⟩ Elohim Yisrael, e anba pye ⟨li⟩ te gen yon bagay ki sanble ak travay la nan sabon blanch sapiro a, e ki klere tankou syèl la lè li klè net.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Yo wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "e anba"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "pye ⟨li⟩"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "tankou travay la"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "nan sabon blanch"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "sapiro a"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "e tankou sans la"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl la"
+    },
+    {
+      "surface": "לטהar",
+      "gloss": "klè net"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:16.985113916Z",
+  "model": "glm-5.3"
+}

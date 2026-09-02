@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Wa a fè ajan ak lò vin gen anpil nan Yerouchalayim jan wòch ye, e sa\tkedra yo, li fè yo vin gen anpil jan pye fig ye nan plenn lan, anpil anpil.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "epi li fè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajan an"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ajan an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lò a"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò a"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "jan wòch ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "sa\tkedra yo"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "sa\tkedra yo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "jan pye fig ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "nan plenn lan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "anpil anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T21:24:18.809578605Z",
+  "model": "glm-5.3"
+}

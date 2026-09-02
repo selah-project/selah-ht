@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim di: Ke dlo ki anba syèl yo rasanble nan yon sèl kote, e ke tè sèch la parèt — e sa te fèt konsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ke … rasanble"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ki anba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "e ke … parèt"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tè sèch la"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e sa te"
+    },
+    {
+      "surface": "כן",
+      "gloss": "fèt konsa"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:02.973494835Z",
+  "model": "glm-5.3"
+}

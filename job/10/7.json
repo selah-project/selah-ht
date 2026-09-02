@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Dapre konesans ⟨ou⟩, ⟨ou gen konnen⟩ mwen pa koupab, epi pa gen moun ki ka sove m soti nan men ou?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "konesans ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ou gen konnen⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "koupab"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa gen"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "soti nan men ou"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ki ka sove m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:54.906875512Z",
+  "model": "glm-5.3"
+}

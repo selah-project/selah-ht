@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi ou pran ⟨את⟩ lwil la pou benyen moun yen, epi ou vide l sou tèt li, epi ou benyen ⟨את⟩ l.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "epi ou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwil la pou benyen moun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pou benyen moun"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "epi ou vide l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tèt li"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "epi ou benyen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "Aharòn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:40.455827295Z",
+  "model": "glm-5.3"
+}

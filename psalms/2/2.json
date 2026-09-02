@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Wa yo nan tè a kanpe devan, ak chèf yo rasanble ansanm, kont Yawe ak kont Machiya li,",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "kanpe devan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "ak chèf yo"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "rasanble"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak kont"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Machiya li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:54.321530305Z",
+  "model": "glm-5.3"
+}

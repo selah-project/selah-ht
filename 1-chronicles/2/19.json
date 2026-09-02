@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Azouva mouri, e Kalev pran pou li ⟨את⟩ Efrat, e li bay li nesans ⟨את⟩ Chour.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "Epi … mouri"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azouva"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e pran"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrat"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Efrat"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e bay nesans"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chour"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chour"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:35.752118313Z",
+  "model": "glm-5.3"
+}

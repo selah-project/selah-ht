@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Paske Ezra prepare kè l pou l chèche ⟨את⟩ lwa Yawe a, e pou l fè l, e pou l ansèyman nan Yisrayèl estati ak jijman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "pou chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwa Yawe a"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "e pou fè"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "e pou ansèyman"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Yisrayèl"
+    },
+    {
+      "surface": "חק",
+      "gloss": "estati"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ak jijman"
+    }
+  ],
+  "timestamp": "2026-09-02T21:04:45.305140317Z",
+  "model": "glm-5.3"
+}

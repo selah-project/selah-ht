@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Tounen, nanm m, nan repo ou, paske Yawe te fè byen pou ou.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Tounen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "nan repo ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "te fè byen"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:56.934043064Z",
+  "model": "glm-5.3"
+}

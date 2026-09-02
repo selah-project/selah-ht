@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Se paske Yoav ak Avichay, frè l, touye Avnèr — paske li te touye ⟨את⟩ Asahel, frè yo, nan Givòn, nan lagè a.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "ak Avichay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "touye"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avnèr"
+    },
+    {
+      "surface": "על",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ke"
+    },
+    {
+      "surface": "המית",
+      "gloss": "te touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "frè yo"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "nan Givòn"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "nan lagè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:41:08.207252891Z",
+  "model": "glm-5.3"
+}

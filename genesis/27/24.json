@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi l di: Èske ou se ou menm, pitit m an Esav? Epi l di: Mwen menm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi l di"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou se"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit m"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi l di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:10.959067450Z",
+  "model": "glm-5.3"
+}

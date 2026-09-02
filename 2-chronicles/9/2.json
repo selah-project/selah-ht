@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi Chelomo eksplike ba l ⟨את⟩ tout pawòl l yo; epi pa t gen yon pawòl kache soti nan Chelomo, sa l pa t di ba l.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "epi Chelomo eksplike"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ba l"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "pawòl l yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "kache"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon pawòl"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "soti nan Chelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ba l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:28:33.313217498Z",
+  "model": "glm-5.3"
+}

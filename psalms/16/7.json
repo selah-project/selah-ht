@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "M ap beni ⟨את⟩ Yawe ki konsèy m; menm lannwit yo, ren m ansèyman m.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "M ap beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "konsèy m"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "lannwit yo"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ansèyman m"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ren m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:26.848727401Z",
+  "model": "glm-5.3"
+}

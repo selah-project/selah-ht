@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Gade m, reponn m, Yawe Elohim mwen! Fè je m klere, pou m pa dòmi dòmi lanmò a!",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Gade m"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "reponn m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "Fè klere"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou m pa"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lanmò a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:55.630757763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Mwen konnen ou kapab tout bagay, epi pa gen plan ki ap ka cache ba ou.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "mwen konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout bagay"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ou kapab"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "ap ka cache"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "plan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:00.841112862Z",
+  "model": "glm-5.3"
+}

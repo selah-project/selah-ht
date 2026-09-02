@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Mete chèf yo tankou Orev ak tankou Zeèv; wi, tout prens yo tankou Zevah ak tankou Tsalmona —",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Mete"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "chèf yo"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "tankou Orev"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "ak tankou Zeèv"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "wi, tankou Zevah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "ak tankou Tsalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "prens yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:47.190837601Z",
+  "model": "glm-5.3"
+}

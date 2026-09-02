@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Sa a ⟨se⟩ lo ou a, pat miz ou, soti nan men ⟨את⟩ m, deklare Yawe, paske ou bliye ⟨את⟩ m epi ou mete konfyans nan manti.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "lo ou a"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pat"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "miz ou"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "soti nan men ⟨את⟩ m"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "ou bliye"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ m",
+      "marks": "ou bliye"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "epi ou mete konfyans"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "nan manti"
+    }
+  ],
+  "timestamp": "2026-09-02T18:51:43.873939049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 149,
+  "translation": "Lwanj ki monte pou El nan gòj yo, ak epe ki gen de bò byen file nan men yo.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "Lwanj ki monte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "nan gòj yo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ak epe"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ki gen de bò byen file"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "nan men yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:01.714164458Z",
+  "model": "glm-5.3"
+}

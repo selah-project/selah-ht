@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "M ap rekonèt ou ak kè dwat, lè m ap aprann jijman jistis ou yo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "M ap rekonèt ou"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "ak dwat"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "lè m ap aprann"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman yo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "jistis ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:05.916097665Z",
+  "model": "glm-5.3"
+}

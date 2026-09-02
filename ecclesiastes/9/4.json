@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Paske moun ki kole ak tout vivan yo gen konfyans; paske yon chyen vivan, li pi bon pase yon lyon ki mouri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "kole"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vivan yo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "konfyans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "pou yon chyen"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pi bon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pase"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "yon lyon"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ki mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:50.408588654Z",
+  "model": "glm-5.3"
+}

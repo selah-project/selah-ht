@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Elohim tande ⟨sa⟩, li vin fache, epi li rejete Yisrael anpil.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "vin fache"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "rejete"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:08.208145574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Tout ou bèl, zanmi m, ⟨e⟩ pa gen okenn mak nan ou.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "Tout ou"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "zanmi m"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "⟨e⟩ … mak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen okenn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:45:23.415610159Z",
+  "model": "glm-5.3"
+}

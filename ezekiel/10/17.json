@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Lè yo kanpe, sa yo kanpe; e lè yo monte, sa yo monte ⟨את⟩ yo menm, paske souf kreyati vivan an nan yo.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "Lè yo kanpe"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "sa yo kanpe"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "e lè yo monte"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "sa yo monte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo menm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "souf"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "kreyati vivan an"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:13:34.548620569Z",
+  "model": "glm-5.3"
+}

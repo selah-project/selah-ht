@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 37:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Li sonje yon lòt rèv ankò, e li konte ⟨את⟩ li bay frè l yo, e li di: Gade, mwen sonje yon rèv ankò, e gade, solèy la ak lalin nan ak on-z etwal yo ap tiyo devan mwen.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "rèv"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "konte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (rèv la)"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "bay frè l yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "mwen sonje"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "rèv"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ak lalin nan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ak on"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-z"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "etwal yo"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "ap tiyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "devan mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:05.638876520Z",
+  "model": "glm-5.3"
+}

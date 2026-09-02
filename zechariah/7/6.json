@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E lè nou manje, e lè nou bwè, èske se pa nou menm ki ap manje, ak nou menm ki ap bwè?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "E lè"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou manje"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e lè"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "nou bwè"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "èske se pa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "moun ki ap manje"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ak nou menm"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "moun ki ap bwè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:46:51.826327151Z",
+  "model": "glm-5.3"
+}

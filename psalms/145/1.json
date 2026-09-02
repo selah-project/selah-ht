@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Liv Antwoloji David. Mwen ap monte ou anwo, Elohim mwen, wa a, e mwen ap beni non ou pou touttan, pou touttan.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "antwoloji"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "mwen ap monte ou anwo"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "e mwen ap beni"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e pou touttan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:31.303412954Z",
+  "model": "glm-5.3"
+}

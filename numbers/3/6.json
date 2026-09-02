@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Fè tribi Levi a rive pre, epi fè l kanpe devan Aharòn, kòwè a, pou yo sèvi l.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "fè rive pre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tribi Levi a"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "fè kanbe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "tribi Levi a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòwè a"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "Aharòn"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:56.765859295Z",
+  "model": "glm-5.3"
+}

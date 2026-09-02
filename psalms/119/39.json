@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Fè pase wont mwen ke mwen te pè a, paske jijman ou yo bon.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "fè pase"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "wont mwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "mwen te pè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jijman ou yo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:06.663690107Z",
+  "model": "glm-5.3"
+}

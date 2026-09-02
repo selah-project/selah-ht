@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Depi reprimand ou a yo chape; depi vwa torè ou a yo kouri ale.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Depi"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "reprimand ou a"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "yo chape"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "torè ou a"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "yo kouri ale"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:21.971281066Z",
+  "model": "glm-5.3"
+}

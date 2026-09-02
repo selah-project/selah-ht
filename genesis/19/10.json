@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E mes yo lonje ⟨את⟩ men yo, yo mennen ⟨את⟩ Lot ba yo, nan kay la, e ⟨את⟩ pòt la yo fèmen.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "e yo lonje"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mes yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men yo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "yo mennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ba yo"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "nan kay la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pòt la"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pòt la"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "yo fèmen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:57.273514695Z",
+  "model": "glm-5.3"
+}

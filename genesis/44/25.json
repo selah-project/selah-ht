@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "E papa nou di: Retounen, achte yon ti manje pou nou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "papa nou"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Retounen"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "achte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yon ti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:59.819942436Z",
+  "model": "glm-5.3"
+}

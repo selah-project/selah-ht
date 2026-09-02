@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Nou te toujou rebèl ak Yawe, depi jou mwen konesan ⟨את⟩ nou.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "rebèl"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "nou te"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "depi jou"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "mwen konesan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:10.928192554Z",
+  "model": "glm-5.3"
+}

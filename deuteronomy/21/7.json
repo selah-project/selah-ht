@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi yo pran reponn, yo pran di: Men nou pa te koule ⟨את⟩ san sa a, e zye nou pa t wè l.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "yo pran reponn"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "yo pran di"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "te koule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san sa a"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "san"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "e zye nou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:50:55.368477479Z",
+  "model": "glm-5.3"
+}

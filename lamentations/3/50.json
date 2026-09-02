@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Jouk Yawe gade deyò e wè depi nan syèl yo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "gade deyò"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e wè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "depi syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:47:43.570106246Z",
+  "model": "glm-5.3"
+}

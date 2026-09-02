@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 10:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Moche pale ak Aharòn, ak Elazàr ak Itamar, pitit li yo k rete yo: Pran ⟨את⟩ ofran ble a ki rete nan ofrand difa Yawe a, e manje l san leven prezèt otè a, paske ⟨li⟩ sen nan mitan sa ki pi sen.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazàr"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "k rete yo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofran ble a"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofran ble a"
+    },
+    {
+      "surface": "הנותרת",
+      "gloss": "ki rete"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "nan ofrand difa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואכלוה",
+      "gloss": "e manje l"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "san leven"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "prezèt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nan mitan sa ki pi sen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:49.821832318Z",
+  "model": "glm-5.3"
+}

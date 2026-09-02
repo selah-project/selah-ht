@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Paske se ou menm ki kreye ren m yo, ou vlope m nan vant manman m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "kreye"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ren m yo"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ou vlope m"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "nan vant"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "manman m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:01.289710761Z",
+  "model": "glm-5.3"
+}

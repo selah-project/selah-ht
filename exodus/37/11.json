@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi li kouvri ⟨את⟩ li ak lò pi, epi li fè pou li yon bòdè lò toutou bò.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "epi kouvri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "lò pi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "זר",
+      "gloss": "bòdè"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutou bò"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:02.460923789Z",
+  "model": "glm-5.3"
+}

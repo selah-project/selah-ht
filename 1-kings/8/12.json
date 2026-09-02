@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Lè sa a Chelomo di: Yawe te di l ap rete nan fènwa epè a.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "te di"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "l ap rete"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "nan fènwa epè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:37.504989545Z",
+  "model": "glm-5.3"
+}

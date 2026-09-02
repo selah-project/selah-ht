@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Si w fè ⟨את⟩ bagay sa a, e Elohim kòmande ou konsa — w ap kapab kanpe, e tout pèp sa a tou pral ale nan plas l nan lapè.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagay sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "w fè"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "e kòmande"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "e w ap kapab"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e tou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "plas l"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "pral ale"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nan lapè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:04.341768889Z",
+  "model": "glm-5.3"
+}

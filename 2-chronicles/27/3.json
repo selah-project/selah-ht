@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Li menm bati ⟨את⟩ pòtay wo a kay Yawe, e sou mi Ofel la li bati anpil.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pòtay wo a"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "wo a"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "e sou mi"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofel la"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T21:33:12.455563083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Sa a se liv desandans Adam la. Nan jou Elohim kreye ⟨l'⟩ moun, nan resanblans Elohim li fè ⟨את⟩ l.",
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "Sa a"
+    },
+    {
+      "surface": "סֵפֶר",
+      "gloss": "liv"
+    },
+    {
+      "surface": "תּוֹלְדֹת",
+      "gloss": "desandans"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "Nan jou"
+    },
+    {
+      "surface": "בְּרֹא",
+      "gloss": "kreye"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "בִּדְמוּת",
+      "gloss": "nan resanblans"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:54.050814400Z",
+  "model": "glm-5.3"
+}

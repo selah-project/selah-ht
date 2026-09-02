@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yehouda moute, epi Yawe bay ⟨את⟩ Kenaàn yo ak Perizay yo nan men yo; yo frape yo nanèv Bezek — dis mil gason.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "moute"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "epi bay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaàn yo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaàn yo"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ak Perizay yo"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "nan men yo"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "yo frape yo"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "nanèv Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:50.661094474Z",
+  "model": "glm-5.3"
+}

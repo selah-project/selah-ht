@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "E Elohim tire yon flèch sou yo; toutouden, blese yo vin.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "E ... tire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "yon flèch"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "toutouden"
+    },
+    {
+      "surface": "היו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "blese yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:04.306364764Z",
+  "model": "glm-5.3"
+}

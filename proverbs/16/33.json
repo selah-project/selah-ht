@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Nan pòy a yo jete ⟨את⟩ lo a, men tout jijman li an soti nan Yawe.",
+  "tokens": [
+    {
+      "surface": "בַּחֵיק",
+      "gloss": "Nan pòy a"
+    },
+    {
+      "surface": "יוּטַל",
+      "gloss": "yo jete"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "lo a"
+    },
+    {
+      "surface": "הַגּוֹרָל",
+      "gloss": "lo a"
+    },
+    {
+      "surface": "וּמֵיְהוָה",
+      "gloss": "men soti nan Yawe"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מִשְׁפָּטוֹ",
+      "gloss": "jijman li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:58.636588734Z",
+  "model": "glm-5.3"
+}

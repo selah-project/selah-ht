@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Yon ti kalite pou moun jis la pi bon pase richès anpil movèz.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "pi bon"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yon ti kalite"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pou moun jis la"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "richès"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "movèz"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:32.510801568Z",
+  "model": "glm-5.3"
+}

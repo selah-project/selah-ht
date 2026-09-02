@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "⟨את⟩ Helkat ak ⟨את⟩ zòn louvri l yo, epi ⟨את⟩ Rekhov ak ⟨את⟩ zòn louvri l yo — kat vil.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Helkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Helkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zòn louvri l yo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zòn louvri l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "Rekhov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zòn louvri l yo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zòn louvri l yo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "vil"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:41.088813896Z",
+  "model": "glm-5.3"
+}

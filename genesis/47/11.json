@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "E Yosef fè ⟨את⟩ papa l ak ⟨את⟩ frè l yo rete, e li bay yo posesyon tè nan peyi Mitsrayim, nan pi bon tè a, nan tè Ramses, jan Paro te kòmande.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "fè rete"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e bay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "posesyon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "nan pi bon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ramses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-02T15:37:02.842819348Z",
+  "model": "glm-5.3"
+}

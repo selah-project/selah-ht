@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Moun ki renmen ajan pa janm satisfè ak ajan, epi moun ki renmen richès — pa gen pwofit l — menm sa a se van.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "satisfè"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "epi kisa moun ki"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "richès"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "pwofit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:51.801253820Z",
+  "model": "glm-5.3"
+}

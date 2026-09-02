@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E li di: «Yon pawòl mwen genyen pou ou.» E li di: «Pale.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon pawòl"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:48.281609449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi l ap depoule ⟨את⟩ ofann boule a, epi l ap koupe l an moso pou yo mete moso yo nan lòd.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "depoule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofann boule a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofann boule a"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ l",
+      "marks": "moso yo"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "an moso pou yo mete nan lòd"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:45.144733839Z",
+  "model": "glm-5.3"
+}

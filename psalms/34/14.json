@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Kenbe lang ou lwen mal, ak lèv ou pale twòp.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Kenbe"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lang ou"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "lwenn mal"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ak lèv ou"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "twòp"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:33.501303838Z",
+  "model": "glm-5.3"
+}

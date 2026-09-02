@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 129,
+  "translation": "Sou do m, laboure yo te labou; yo te fè silyon yo long.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "do m"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "te labou"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "laboure yo"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "te fè long"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "silyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:01.583712950Z",
+  "model": "glm-5.3"
+}

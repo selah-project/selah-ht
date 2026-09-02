@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Ou pa kapab touye ⟨את⟩ paka la nan youn nan pòt ou yo, kote Yawe Elohim ou a ap ba ou a.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paka la"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "paka la"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "nan youn nan"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "pòt ou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ap ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:17.750670041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Lè sa a w ap konprann pè Yawe, e w ap jwenn konesans Elohim.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ak konesans"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "jwenn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:23.731987345Z",
+  "model": "glm-5.3"
+}

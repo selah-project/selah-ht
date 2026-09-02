@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 18:37",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Ou elaji pa m anba m, ak chevèy pa m pa glise.",
+  "tokens": [
+    {
+      "surface": "תַּרְחִיב",
+      "gloss": "ou elaji"
+    },
+    {
+      "surface": "צַעֲדִי",
+      "gloss": "pa m"
+    },
+    {
+      "surface": "תַּחְתָּי",
+      "gloss": "anba m"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "ak pa"
+    },
+    {
+      "surface": "מָעֲדוּ",
+      "gloss": "glise"
+    },
+    {
+      "surface": "קַרְסֻלָּי",
+      "gloss": "chevèy pa m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:23.815615241Z",
+  "model": "glm-5.3"
+}

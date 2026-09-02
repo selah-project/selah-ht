@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li kanpe yon temwayaj nan Yaakov, epi li mete yon lwa nan Yisrael, ke li kòmande ⟨את⟩ zansèt nou, pou yo fè pitit yo konnen l.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "temwayaj"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "nan Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ak lwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zansèt nou"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "zansèt nou"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "pou fè yo konnen"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bay pitit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:50.841613745Z",
+  "model": "glm-5.3"
+}

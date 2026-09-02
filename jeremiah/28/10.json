@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi Khananya pwofèt la pran ⟨את⟩ joug la ki te sou kou Yirmeya pwofèt la, epi li kraze l.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "epi … pran"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Khananya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joug la"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "joug la"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "kou"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "epi li kraze l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:58:27.580258325Z",
+  "model": "glm-5.3"
+}

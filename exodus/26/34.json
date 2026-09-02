@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi ou mete ⟨את⟩ kouvèti a sou kòf temwayaj la, nan Kodesh Kadachim yo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kouvèti a"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kouvèti a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kòf"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "temwayaj la"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nan Kodesh"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "Kadachim yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:41.095371306Z",
+  "model": "glm-5.3"
+}

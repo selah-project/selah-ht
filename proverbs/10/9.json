@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Moun ki mache nan entegrite mache an sekirite, e moun ki fè wout li kwoke ap vin konnen.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "moun ki mache"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "nan entegrite"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "an sekirite"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "e ki fè kwoke"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "wout li"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ap vin konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:27.759632139Z",
+  "model": "glm-5.3"
+}

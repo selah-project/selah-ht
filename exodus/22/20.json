@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E ⟨ou⟩ pa gen dwa malfete yon etranje, ni oprese ⟨li⟩, paske ⟨ou yo⟩ te ye etranje nan peyi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וְגֵר",
+      "gloss": "ak yon etranje"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תוֹנֶה",
+      "gloss": "malfete"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "תִלְחָצֶנּוּ",
+      "gloss": "oprese li"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גֵרִים",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "הֱיִיתֶם",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מִצְרָיִם",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:58.110943342Z",
+  "model": "glm-5.3"
+}

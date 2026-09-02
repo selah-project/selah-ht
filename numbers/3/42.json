@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi Moche konte, jan Yawe te kòmande ⟨את⟩ li, ⟨את⟩ tout premye fiyè nan pitit gason Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Epi li konte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "te kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout premye fiyè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "premye fiyè"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "nan pitit gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:59.100282884Z",
+  "model": "glm-5.3"
+}

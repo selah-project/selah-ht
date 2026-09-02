@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Yon dife soti devan Yawe, epi li devore ⟨את⟩ yo, e yo mouri devan Yawe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yon dife"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "li devore"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "Nadav ak Avihou"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "yo mouri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:26.751553697Z",
+  "model": "glm-5.3"
+}

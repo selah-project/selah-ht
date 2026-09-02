@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Anvan twò lontan mwen t ap soumet enmi ⟨yo⟩, e kont advèsè ⟨yo⟩ mwen t vire men m.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Anvan twò lontan"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "enmi ⟨yo⟩"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "mwen t ap soumet"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e kont"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "advèsè ⟨yo⟩"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mwen t vire"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:43.790457483Z",
+  "model": "glm-5.3"
+}

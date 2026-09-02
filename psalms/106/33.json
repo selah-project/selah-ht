@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Paske yo te fè rouah li anmè, e li pale irasyonèlman ak lèv li yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "yo te fè... anmè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rouah li"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rouah li"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "e li pale irasyonèlman"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ak lèv li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:34.954351465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E David kache tèt li nan jaden an. E lè mwa nouvo a rive, wa a chita nan manje a pou manje.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "E kache tèt li"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden an"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e lè ... rive"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwa nouvo a"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e chita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "manje a"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "pou manje"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:02.323599642Z",
+  "model": "glm-5.3"
+}

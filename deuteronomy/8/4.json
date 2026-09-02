@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Rad ou pa fin vyeyi sou ou, epi pye ou pa fin anfle, sa a karentan ane.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Rad ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "fin vyeyi"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "epi pye ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "fin anfle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "karentan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    }
+  ],
+  "timestamp": "2026-09-02T16:47:09.587485754Z",
+  "model": "glm-5.3"
+}

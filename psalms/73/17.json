@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Jiska m rive nan senantis Elohim, m vin konprann dènye fen yo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jiska"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "m rive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "senantis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "m vin konprann"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "dènye fen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:48.331876273Z",
+  "model": "glm-5.3"
+}

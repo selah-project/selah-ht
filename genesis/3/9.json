@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi Yawe Elohim rele Adam, e li di l: Ki kote w ⟨ye⟩?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Ki kote w ⟨ye⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:38.813601477Z",
+  "model": "glm-5.3"
+}

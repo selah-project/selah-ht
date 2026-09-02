@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi Yitshak di ba Yaakov: Vini pre m, tanpri, pou m pèze ou, pitit m an; èske ou se ou menm, pitit m an Esav, wi ou non?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi l di"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "vini pre"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "pou m pèze ou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit m"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "èske ou se"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit m"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ou non"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:10.958562666Z",
+  "model": "glm-5.3"
+}

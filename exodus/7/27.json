@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi si ou refize pou laga yo ale, gade, mwen menm ap frape ⟨את⟩ tout tèritwa ou ak krapo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Epi si"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refize"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "pou laga yo ale"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ap frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout tèritwa ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "tèritwa ou"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "ak krapo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:07.374845531Z",
+  "model": "glm-5.3"
+}

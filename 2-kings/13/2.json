@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E li fè mal nan je Yawe, e li suivri peche Yarovam pitit Nevat, men ki te fè ⟨את⟩ Yisrael peche; li pa vire ale lwen yo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E li fè"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "E li suivri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "peche"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "te fè peche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vire ale"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "lwen li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:16:25.833451266Z",
+  "model": "glm-5.3"
+}

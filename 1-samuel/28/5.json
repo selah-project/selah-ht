@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Lè Chaoul wè ⟨את⟩ kanmpe Plichtim yo, li pè, e kè a tranble anpil.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanmpe Plichtim yo"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kanmpe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plichtim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "tranble"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:05.227339581Z",
+  "model": "glm-5.3"
+}

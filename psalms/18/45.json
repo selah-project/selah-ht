@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Nan tande zòrèy yo tande m; pitit etranje yo ap manti sou m.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Nan tande"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "zòrèy"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "yo tande"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "etranye"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "yo ap manti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sou m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:32.143557948Z",
+  "model": "glm-5.3"
+}

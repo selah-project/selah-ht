@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E majisyen yo fè konsa ak maji yo pou yo fè ⟨את⟩ kinnim yo soti, men yo pa t kapab; e kinnim yo te sou moun ak sou bèt yo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "E yo fè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "majisyen yo"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ak maji yo"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "pou fè soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinnim yo"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "kinnim yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "yo t kapab"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e te vin"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kinnim yo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sou moun"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ak sou bèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:10.511382636Z",
+  "model": "glm-5.3"
+}

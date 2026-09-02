@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 141,
+  "translation": "Kiti moun movè yo tonbe ansanm nan rezo yo menm, pandan mwen ap pase.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Kiti ... tonbe"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "nan rezo yo menm"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun movè yo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pandan"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ap pase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:26.127787565Z",
+  "model": "glm-5.3"
+}

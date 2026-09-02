@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Sove m, Elohim, paske dlo yo rive jiska nanm m.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Sove m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "באו",
+      "gloss": "rive"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nanm m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:16.518172852Z",
+  "model": "glm-5.3"
+}

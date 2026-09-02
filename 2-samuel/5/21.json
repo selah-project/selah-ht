@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E yo kite ⟨את⟩ zidòl yo la, e David ak gason li yo pran yo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "e yo kite"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zidòl yo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "zidòl yo"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "e pran yo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וינאשיו",
+      "gloss": "ak gason li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:42:09.528010507Z",
+  "model": "glm-5.3"
+}

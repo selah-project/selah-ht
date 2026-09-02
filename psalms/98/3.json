@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 98,
+  "translation": "Li sonje hesed li (lanmou ki pa janm fini) ak lafwa li pou kay Yisrael; tout bout tè a wè ⟨את⟩ delivrans Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ak lafwa li"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pou kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "bout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "delivrans Elohim nou an"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:13.018569286Z",
+  "model": "glm-5.3"
+}

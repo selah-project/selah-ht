@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 67,
+  "translation": "Pou ⟨tout⟩ nasyon yo konnen wout ou sou tè a, ak delivrans ou pami tout nasyon yo.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "pou yo konnen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "wout ou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "delivrans ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:49.881079369Z",
+  "model": "glm-5.3"
+}

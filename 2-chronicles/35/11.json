@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 35:11",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Epi yo touye Pesach la, e kohen yo jete ⟨san soti⟩ nan men yo, e Levi yo te depouye yo.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "yo touye"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach la",
+      "marks": "Pesach la"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "yo jete"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohen yo"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "nan men yo"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e Levi yo"
+    },
+    {
+      "surface": "מפשיטים",
+      "gloss": "te depouye"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.590981678Z",
+  "model": "glm-5.3"
+}

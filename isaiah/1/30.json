@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Paske n ap vin tankou yon pye chèn ak fey li ap fennen, e tankou yon jaden ki pa gen dlo pou li.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "n ap vin"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "tankou yon pye chèn"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ap fennen"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fey li"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "e tankou yon jaden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:42.830640803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Epi mwen, prèke pye mwen te vire de travè, pas mwen tankou pa gen nannan fin rankatre.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Epi mwen"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "prèke"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "te vire de travè"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pye mwen"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "tankou pa gen nannan"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "fin rankatre"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "pas mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:37.404699384Z",
+  "model": "glm-5.3"
+}

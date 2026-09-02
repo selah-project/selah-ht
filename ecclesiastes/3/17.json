@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Mwen di mwen nan kè mwen: HaElohim ap jije ⟨את⟩ jis la a ak ⟨את⟩ mechan nan, paske gen yon lè pou chak dezir, ak sou chak zèv, la a.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nan kè mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jis la a"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "jis la a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "mechan nan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mechan nan"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "jije"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lè"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou chak"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dezir"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chak"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "zèv"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:29.099994500Z",
+  "model": "glm-5.3"
+}

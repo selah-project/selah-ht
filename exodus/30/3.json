@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi ou pou vlope ⟨את⟩ l ak lò pi — ⟨את⟩ tèt li, ak ⟨את⟩ mi yo touttoutou, ak ⟨את⟩ kòn yo — epi ou pou fè pou li yon kouwòn lò touttoutou.",
+  "tokens": [
+    {
+      "surface": "וְצִפִּיתָ",
+      "gloss": "epi ou pou vlope"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "lò pi"
+    },
+    {
+      "surface": "זָהָב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טָהוֹר",
+      "gloss": "pi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tèt li"
+    },
+    {
+      "surface": "גַּגּוֹ",
+      "gloss": "tèt li"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "mi yo"
+    },
+    {
+      "surface": "קִירֹתָיו",
+      "gloss": "mi yo"
+    },
+    {
+      "surface": "סָבִיב",
+      "gloss": "touttoutou"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kòn yo"
+    },
+    {
+      "surface": "קַרְנֹתָיו",
+      "gloss": "kòn yo"
+    },
+    {
+      "surface": "וְעָשִׂיתָ",
+      "gloss": "epi ou pou fè"
+    },
+    {
+      "surface": "לּוֹ",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "זֵר",
+      "gloss": "kouwòn"
+    },
+    {
+      "surface": "זָהָב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "סָבִיב",
+      "gloss": "touttoutou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:47.575206298Z",
+  "model": "glm-5.3"
+}

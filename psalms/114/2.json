@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 114,
+  "translation": "Yehouda vin sanktwè l, Yisrayèl vin domèn gouvènman l.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "sanktwè l"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "domèn gouvènman l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.822604248Z",
+  "model": "glm-5.3"
+}

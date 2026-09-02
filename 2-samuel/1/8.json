@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi li di mwen: Ki moun ⟨ou ye⟩? Epi ⟨mwen⟩ di ⟨bay⟩ li: Mwen se yon Amalekit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi … di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bay li"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mwen se"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:44.613949978Z",
+  "model": "glm-5.3"
+}

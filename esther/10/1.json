@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Wa a Achachveroch mete yon taks sou tè a ak sou zile yo nan lanmè a.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achachveroch"
+    },
+    {
+      "surface": "מס",
+      "gloss": "taks"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "ak zile yo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nan lanmè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:15.272203956Z",
+  "model": "glm-5.3"
+}

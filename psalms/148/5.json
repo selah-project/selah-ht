@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "Ke yo fè lwanj ⟨את⟩ Non Yawe a, paske li kòmande e ⟨yo⟩ kreye.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "fè lwanj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Non Yawe a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "e yo kreye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:41.793383844Z",
+  "model": "glm-5.3"
+}

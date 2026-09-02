@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Ke yo vini wont, yo finnen, yo k ap akize nefech mwen; ke yo kouvwi ak oupri ak wont, yo k ap chache mal mwen.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "vini wont"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "finnen"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "k ap akize"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "kouvwi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ak oupri"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "ak wont"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "k ap chache"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mal mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:09.788615013Z",
+  "model": "glm-5.3"
+}

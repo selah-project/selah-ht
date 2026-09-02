@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi Filistin yo pè, paske yo di: Elohim rive nan kan an. Epi yo di: Malè pou nou! Paske pa t gen yon bagay konsa ni yè ni lòt jou anvan ye.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "pè"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kan an"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Malè"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "t gen"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "yon bagay konsa"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "ni yè"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ni lòt jou anvan ye"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:03.758242442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Sis nan non yo sou wòch la youn, ak ⟨את⟩ non sis ki rete yo sou dezyèm wòch la, dapre nesans yo.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "sis"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "nan non yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "wòch la"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "youn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "non sis ki rete yo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "sis"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "ki rete yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "wòch la"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "dezyèm"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "dapre nesans yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:29.043599105Z",
+  "model": "glm-5.3"
+}

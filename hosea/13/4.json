@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi se mwen menm Yawe, Elohim ou, soti nan peyi Mitsrayim; ou pa konnen yon dye an deyò mwen, epi pa gen Moun ki sove, eksepte mwen.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Epi se mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "yon dye"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "an deyò mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ou konnen"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "epi pa gen Moun ki sove"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "eksepte mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:29.062388731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 146,
+  "translation": "Van l soti, l tounen ⟨nan⟩ tè a; jou sa a plan l yo pèdi.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "van l"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "l tounen"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "plan l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:20.111337886Z",
+  "model": "glm-5.3"
+}

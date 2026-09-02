@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi yon lespri soti, kanpe devan Yawe, epi li di: Se mwen menm ki ap twonpe l. Epi Yawe di li: Ak ki bagay?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "lespri a"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "ki ap twonpe l"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "li"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ak ki bagay"
+    }
+  ],
+  "timestamp": "2026-09-02T18:07:55.086526191Z",
+  "model": "glm-5.3"
+}

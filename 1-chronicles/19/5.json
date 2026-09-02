@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 19:5",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi yon kèk moun ale, epi yo fè Davide konnen sou esti sou moun yo, epi li voye jwenn yo, paske moun yo te wont anpil anpil; epi wa a di: Rete nan Yericho jiskote bò nou repouse, epi nou ap tounen.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou esti sou"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "jwenn yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "wont"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil anpil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "rete"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "nan Yericho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "repouse"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "bò nou"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "tounen"
+    }
+  ],
+  "timestamp": "2026-09-02T21:21:20.454576523Z",
+  "model": "glm-5.3"
+}

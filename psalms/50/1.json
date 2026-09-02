@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Mizmo pou Asaf. El, Elohim, Yawe pale, e li rele tè a, depi kote solèy leve jouk kote l kouche.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e li rele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "depi kote solèy leve"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solèy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "kote l kouche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:21.322034544Z",
+  "model": "glm-5.3"
+}

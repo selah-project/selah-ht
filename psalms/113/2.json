@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 113,
+  "translation": "Nou dwe di Non Yawe a beni, depi kounye a jou pou tout tan.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Nou dwe di"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "depi kounye a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jou pou"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:38.115619812Z",
+  "model": "glm-5.3"
+}

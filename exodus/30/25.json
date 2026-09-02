@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi w ap fè ⟨את⟩ li yon lwil pou wantrèr, yon melanj parfen, travay yon moun ki prepare parfen; lwil pou wantrèr konsakre li ap ye.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Epi w ap fè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (yon lwil pou wantrèr)"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "wantrèr"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "yon melanj"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "parfen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ki prepare parfen"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "wantrèr"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "li ap ye"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:29.639416771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ak ⟨את⟩ chanmdel yo ak lanp yo pou limen yo dapre règleman an, devan devensanktuaryè a, lò pie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "chanmdel yo"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "chanmdel yo"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "ak lanp yo"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "pou limen yo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dapre règleman an"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "devensanktuaryè a"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "pie"
+    }
+  ],
+  "timestamp": "2026-09-02T21:25:26.129406228Z",
+  "model": "glm-5.3"
+}

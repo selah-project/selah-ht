@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Menm tou, sèvant ou avèti pa yo; lè n kenbe yo ⟨gen⟩ yon gwo rekonpans.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Menm tou"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "avèti"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pa yo"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "lè n kenbe yo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "an retou"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gwo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:28.695374033Z",
+  "model": "glm-5.3"
+}

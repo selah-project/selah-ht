@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Paske ⟨yo⟩ trayi avèk trayizousman kont mwen — kay Izrayèl la ak kay Yehouda la, deklare Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "trayizousman"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "yo trayi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kont mwen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "epi kay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:47:12.169100205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Pa tounen vers zidòl yo, epi pa fè pou nou dye ki fonde; mwen ⟨se⟩ Yawe Elohim nou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "zidòl yo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ak dye"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ki fonde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:45.570425695Z",
+  "model": "glm-5.3"
+}

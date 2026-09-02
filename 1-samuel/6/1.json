@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi chat Yawe a te nan Peyi Filistin yo (nan jaden Filistin yo) sèt mwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi te ye"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden (Peyi)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mwa"
+    }
+  ],
+  "timestamp": "2026-09-02T21:48:55.170310408Z",
+  "model": "glm-5.3"
+}

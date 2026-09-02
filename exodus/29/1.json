@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E sa a se bagay la pou w fè pou yo, pou w konsakre ⟨את⟩ yo pou yo vin kòhen pou mwen: pran yon bèf, pitit bèt, ak de belan san defo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "E sa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pou w"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kòhen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "ak belan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "san defo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:24.638123583Z",
+  "model": "glm-5.3"
+}

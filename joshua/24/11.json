@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 24:11",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E nou travèse ⟨את⟩ Jourdàn, e nou rive nan Yericho; e mèt Yericho yo fè lagè kont nou — ⟨la⟩ Emori a, ⟨la⟩ Perizi a, ⟨la⟩ Kenaàni a, ⟨la⟩ Heti a, ⟨la⟩ Girgachi a, ⟨la⟩ Hivi a, ⟨la⟩ Yevousi a — e mwen bay yo nan men nou.",
+  "tokens": [
+    {
+      "surface": "ותעברו",
+      "gloss": "epi nou travèse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jourdàn"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jourdàn"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "epi nou rive nan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "fè lagè"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kont nou"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mèt"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori a"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "epi Perizi a"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "epi Kenaàni a"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "epi Heti a"
+    },
+    {
+      "surface": "והגרגשי",
+      "gloss": "epi Girgachi a"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivi a"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "epi Yevousi a"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "epi mwen bay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "nan men nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:10:54.557135682Z",
+  "model": "glm-5.3"
+}

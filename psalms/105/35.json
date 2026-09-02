@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Yo manje tout zèb nan peyi yo, epi yo manje fwi tè yo.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zèb"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "nan peyi yo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "tè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:03.983662364Z",
+  "model": "glm-5.3"
+}

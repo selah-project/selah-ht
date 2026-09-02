@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 146,
+  "translation": "Yawe ap gouvènen pou tout tan — Elohim ou, Tsiyòn — pou jenerasyon ak jenerasyon. Louwe Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "ap gouvènen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak jenerasyon"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louwe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:02.350145718Z",
+  "model": "glm-5.3"
+}

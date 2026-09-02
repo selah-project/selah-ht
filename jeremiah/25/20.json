@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "ak ⟨את⟩ tout moun melanje yo, ak ⟨את⟩ tout wa peyi Outs la, ak ⟨את⟩ tout wa peyi Filistim yo, ak ⟨את⟩ Achkelon, ak ⟨את⟩ Aza, ak ⟨את⟩ Ekron, ak ⟨את⟩ rès Achdod la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout moun melanje yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "moun melanje yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout wa peyi Outs la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Outs la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout wa peyi Filistim yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Achkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Achkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "rès Achdod la"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "rès"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Achdod"
+    }
+  ],
+  "timestamp": "2026-09-02T18:57:15.911861482Z",
+  "model": "glm-5.3"
+}

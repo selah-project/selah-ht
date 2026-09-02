@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Èske yo pa ap ansènye ou, pa ap di ⟨ou⟩, e ap fè mo soti nan kè yo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "èske pa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "ap ansènye ou"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "e nan kè yo"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "ap fè soti"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:33:13.301283388Z",
+  "model": "glm-5.3"
+}

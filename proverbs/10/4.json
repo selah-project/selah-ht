@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Men lanman fè pòv; men moun k'ap travay di fè rich.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כף",
+      "gloss": "men"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lanman"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ak men"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "travay di"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "fè rich"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:46.128839124Z",
+  "model": "glm-5.3"
+}

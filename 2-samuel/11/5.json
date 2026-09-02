@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi fanm lan vin ansent, epi li voye ⟨moun⟩ ale, epi li fè sav ⟨sa⟩ nan David, epi li di: mwen ansent.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "vin ansent"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm lan"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "li voye"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "li fè sav"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nan David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "ansent"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:33.770134344Z",
+  "model": "glm-5.3"
+}

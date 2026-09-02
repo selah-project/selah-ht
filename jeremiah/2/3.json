@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Sen pou Yawe, Yisrael se, premye fwi tout rekòlt ⟨li⟩ yo; tout moun ki manje ⟨l⟩ ap koupab — move bagay ap vini sou yo, oracle Yawe a di.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "premye fwi"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "rekòlt li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "moun ki manje l"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ap koupab"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "move bagay"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:45:26.109496098Z",
+  "model": "glm-5.3"
+}

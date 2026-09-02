@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Ak yon talan lò pir li fè ⟨את⟩ li, ak ⟨את⟩ tout zouti li yo.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "yon talan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "menorah a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zouti li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zouti li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:39.104479510Z",
+  "model": "glm-5.3"
+}

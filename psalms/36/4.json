@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Mo bouch yo se vantyete ak twòperi; li kanpe ⟨pou⟩ vin saj, ⟨pou⟩ fè byen.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mo"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "און",
+      "gloss": "vantyete"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ak twòperi"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "li kanpe"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "pou vin saj"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "pou fè byen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:05.619256609Z",
+  "model": "glm-5.3"
+}

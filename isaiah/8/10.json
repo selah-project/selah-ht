@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Pran konsèy ansanm, epi l ap anile; pale yon pawòl, epi l pa p ap kanpe, paske El ⟨est⟩ ak nou.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Pran konsèy"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "konsèy"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "epi l ap anile"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon pawòl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "p ap kanpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ak nou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-02T18:23:44.877075427Z",
+  "model": "glm-5.3"
+}

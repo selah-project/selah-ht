@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Leve tèt nou, o pòtay yo; wi, leve, pòt tanp etènal yo, epi Wa a ⟨nan⟩ glwa a ap antre!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "pòtay yo"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "tèt nou"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "epi leve"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tanp etènal"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "epi ap antre"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "glwa a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:54.663573417Z",
+  "model": "glm-5.3"
+}

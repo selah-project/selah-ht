@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Gade, verite ou renmen nan pwofondè kè a, epi nan kache a, sajès ou fè m konnen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verite"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ou renmen"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "nan pwofondè kè a"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "epi nan kache a"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "ou fè m konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:50.515198433Z",
+  "model": "glm-5.3"
+}

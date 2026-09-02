@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi li pa pran desandan li pou li profane ⟨את⟩ li nan pèp li, paske se mwen, Yawe, ki konsekre l.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Epi li pa"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "profane"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "desandan li"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "nan pèp li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "ki konsekre l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:16.039549176Z",
+  "model": "glm-5.3"
+}

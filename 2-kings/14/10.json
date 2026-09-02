@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Wi, ou frape ⟨את⟩ Edom, e kè ou fin pote ou monte; glorie, e rete nan kay ou; e poukisa ou vle deklanche move, pou ou tonbe — ou menm, ak Yehouda ak ou?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "wi, vrèman"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ou frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "pote ou monte"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kè ou"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "glorie"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "rete"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nan kay ou"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e poukisa"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "deklanche"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nan move"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "pou ou tonbe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ak Yehouda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ak ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:51.723586340Z",
+  "model": "glm-5.3"
+}

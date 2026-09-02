@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Paske Yah chwazi Yaakov pou li, Yisrael pou ttresò pèsonèl li.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "chwazi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "pou ttresò pèsonèl li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:47.815785645Z",
+  "model": "glm-5.3"
+}

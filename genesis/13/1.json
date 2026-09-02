@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Avram monte soti Mitsrayim — li menm, madanm li, ak tout sa ki te pou li, ak Lot ak li — nan Nègb la.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "te pou li"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ak Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "nan Nègb la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:08.623182347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Yawe, sove sa! Wa a, se li ki reponn nou nan jou n ap rele a.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "sove sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Wa a"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "reponn nou"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "n ap rele"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:16.589798399Z",
+  "model": "glm-5.3"
+}

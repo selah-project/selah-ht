@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Jodi a nou ap soti, nan mwa Aviv la.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Jodi a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "יוצאים",
+      "gloss": "ap soti"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "nan mwa"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:35.830501126Z",
+  "model": "glm-5.3"
+}

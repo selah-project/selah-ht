@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Enmi ou yo wayi nan mitan kote reyinyon ou yo; yo mete siy yo kòm siy.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "wayi"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Enmi ou yo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "kote reyinyon ou"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "siy yo"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "kòm siy"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:41.744055342Z",
+  "model": "glm-5.3"
+}

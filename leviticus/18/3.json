@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Jan sa yo fè nan peyi Mitsrayim, kote nou te ye a, nou pa fè l ; epi jan sa yo fè nan peyi Kenaàn, kote m ap mennen nou ale a, nou pa fè l ; nan lwa yo pa marche.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "jan sa yo fè"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "nou te ye"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "epi jan sa yo fè"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ap mennen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ale la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "epi nan lwa yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "marche"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:53.924395453Z",
+  "model": "glm-5.3"
+}

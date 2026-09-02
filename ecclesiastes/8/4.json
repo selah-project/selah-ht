@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Kote pawòl wa a ⟨gen⟩ pouvwa, e ki moun ki ka di l: Sa ⟨w⟩ ap fè?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Kote"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "pouvwa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e ki moun"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ki ka di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "⟨w⟩ ap fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:57.367024986Z",
+  "model": "glm-5.3"
+}

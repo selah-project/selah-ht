@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E prèt la pou pran nan san l ak dwèt l, e pou mete l sou kòn yo nan otèl sakrifis boule a, e ⟨את⟩ tout san l ap koule li nan basement otèl la.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "e pran"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "nan san l"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ak dwèt l"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e mete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "kòn yo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otèl"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sakrifis boule a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout san l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "san l"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ap koule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "basement"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:07.435864331Z",
+  "model": "glm-5.3"
+}

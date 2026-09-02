@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 32:3",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Konsa Adònay Yawe di : m ap pale ⟨את⟩ filet m sou ou devan yon gran rasnanp pèp ki anpil, e yo ap monte ou nan filet m an.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ופרשתי",
+      "gloss": "m ap pale"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filet m"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "filet m"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "devan yon rasananp"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ki anpil"
+    },
+    {
+      "surface": "והעלוך",
+      "gloss": "e yo ap monte ou"
+    },
+    {
+      "surface": "בחרמי",
+      "gloss": "nan filet m an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:24:47.472536728Z",
+  "model": "glm-5.3"
+}

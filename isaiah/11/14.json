@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Yo ap vole sou zepòl Filistin yo bò solèy kouche, ansanm yo ap pilye ⟨את⟩ pitit Kedèm yo: Edom ak Moav, se voye men yo ⟨pou kontrole⟩, epi pitit Amon nan, se sou obeyisans yo.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "ap vole"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "sou zepòl"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "bò solèy kouche"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "ap pilye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Kedèm yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedèm"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "ak Moav"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "epi pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "obeyisans yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:25.854550043Z",
+  "model": "glm-5.3"
+}

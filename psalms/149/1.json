@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 149,
+  "translation": "Fè lwanj pou Yah, chante pou Yawe yon chante nouvo, lwanj l nan asanble a nan moun ki gen hesed.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Fè lwanj"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pou Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouvo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lwanj l"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nan asanble a"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "moun ki gen hesed"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:00.026148396Z",
+  "model": "glm-5.3"
+}

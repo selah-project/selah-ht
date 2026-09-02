@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Ki koupe lanmè Suf an moso, paske pou tout tan hesed li.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "ki koupe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "an moso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:33.110608774Z",
+  "model": "glm-5.3"
+}

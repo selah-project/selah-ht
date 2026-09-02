@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E li pote ⟨את⟩ bag konsakre papa l yo ak bag li menm konsakre yo nan kay Yawe: ajan, lò, ak uitansil.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bag konsakre papa l yo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "bag konsakre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ak bag li konsakre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ak uitansil"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:11.373128515Z",
+  "model": "glm-5.3"
+}

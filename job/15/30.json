@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "L ap pa chape soti nan fèblanèz lan; flamm ap fè pouse jèn l sèch, e l ap ale ak van ki soti nan bouch li.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "chape"
+    },
+    {
+      "surface": "מני",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fèblanèz"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "pouse jèn l"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "fè sèch"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "flamm"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "e l ap ale"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ak van"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:36:59.564214301Z",
+  "model": "glm-5.3"
+}

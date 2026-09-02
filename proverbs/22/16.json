@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Moun ki ap kraze pòv la pou vin rich, ak moun ki bay rich la, ap fini nan pòvrete sèlman.",
+  "tokens": [
+    {
+      "surface": "עֹשֵׁק",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "דַּל",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "לְהַרְבּוֹת",
+      "gloss": "pou vin rich"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "נֹתֵן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לְעָשִׁיר",
+      "gloss": "rich la"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "לְמַחְסוֹר",
+      "gloss": "nan pòvrete"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:35.824518649Z",
+  "model": "glm-5.3"
+}

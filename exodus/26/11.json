@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E ou pou w fè senkant kropiche kwiv, e mete ⟨את⟩ kropiche yo nan bòklè yo, e kole ⟨את⟩ tant la, e l ap vin youn.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e fè"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kropiche"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kwiv"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "e mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kropiche yo"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "kropiche yo"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "nan bòklè yo"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "e kole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant la"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e l ap"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vin youn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:54.007808645Z",
+  "model": "glm-5.3"
+}

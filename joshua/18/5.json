@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi pou yo separe ⟨את⟩ li an sèt pòsyon: Yehouda ap kanpe sou limit li nan sid, ak kay Yosèf ap kanpe sou limit yo nan nò.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "separe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (tè a)"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "an sèt"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "pòsyon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "limit li"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "nan sid"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ak kay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "limit yo"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "nan nò"
+    }
+  ],
+  "timestamp": "2026-09-02T17:08:33.485645208Z",
+  "model": "glm-5.3"
+}

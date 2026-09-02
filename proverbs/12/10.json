@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Moun jis la konnen nefech bèt li a, men sansuite moun mechan yo se k Rwè.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Moun jis"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefech"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "bèt li a"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "men sansuite"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun mechan yo"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "k Rwè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:21.966762681Z",
+  "model": "glm-5.3"
+}

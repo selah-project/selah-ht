@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Si ou tounen rete nan tè sa a, mwen ap bati ⟨את⟩ ou epi mwen pa ap deribe ; mwen ap plante ⟨את⟩ ou epi mwen pa ap debake ; paske mwen regrèt move a ke mwen fè ba ou.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "rete"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "mwen ap bati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "deribe"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "mwen ap plante"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "debake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "mwen regrèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "move a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mwen fè"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:06:25.798901334Z",
+  "model": "glm-5.3"
+}

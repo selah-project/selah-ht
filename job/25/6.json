@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Plis ankò, moun mòtel ⟨se⟩ yon vè, e pitit moun ⟨se⟩ yon vè manje!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Plis ankò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moun mòtel"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "yon vè"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "yon vè manje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:38:28.571639306Z",
+  "model": "glm-5.3"
+}

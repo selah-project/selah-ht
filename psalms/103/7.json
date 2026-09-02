@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Li fè chemen ⟨li⟩ yo konnen bay Moche, zèv ⟨li⟩ yo bay pitit Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "chemen ⟨li⟩ yo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "bay Moche"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bay pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "zèv ⟨li⟩ yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:52.583425408Z",
+  "model": "glm-5.3"
+}

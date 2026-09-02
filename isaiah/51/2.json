@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Gade Avraham, papa nou, ak Sarah, ki te fè nou: paske l te sèl youn lè m te rele l, e m te beni l, e m te fè l plizòm.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "papa nou"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak nan"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "ki te fè nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sèl youn"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "m te rele l"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "e m te beni l"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "e m te fè l plizòm"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:43.625703672Z",
+  "model": "glm-5.3"
+}

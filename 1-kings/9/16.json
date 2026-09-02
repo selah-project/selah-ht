@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Paro, wa Mitsrayim, te moute, e li te pran ⟨את⟩ Gezer e te boule l ak dife, e li te touye ⟨את⟩ Kenaani a ki t ap rete nan vil la; e li te bay pitit fi l, madanm Chelomo, l kòm kado maryaj.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "te moute"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "e li te pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "e te boule l"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ak dife"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kenaani a"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani a"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ki t ap rete"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil la"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "te touye"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "e li te bay l"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "kòm kado maryaj"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "bay pitit fi l"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "madanm"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:40.672569238Z",
+  "model": "glm-5.3"
+}

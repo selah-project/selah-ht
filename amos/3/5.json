@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Èske yon zwazo ap tonbe sou pyèj sou tè a, epi pa gen bwòsè pou li? Èske yon pyèj ap monte soti tè a, epi li pa kenbe anyen?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "Èske … tonbe"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "yon zwazo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פח",
+      "gloss": "pyèj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "epi bwòsè"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "ap monte"
+    },
+    {
+      "surface": "פח",
+      "gloss": "pyèj"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "epi kenbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "ap kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:37:03.944971566Z",
+  "model": "glm-5.3"
+}

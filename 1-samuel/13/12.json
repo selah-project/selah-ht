@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "epi mwen di: «Kounye a Filistin yo ap desann sou mwen nan Gilgala, epi mwen pa t adoube figi Yawe a; se konsa mwen fòse tèt mwen, epi mwen fè sàkrifis boule a moute.»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "epi mwen di"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Kounye a"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ap desann"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "nan Gilgala"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "epi figi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "t adoube"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "fòse tèt mwen"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "fè …moute"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sàkrifis boule a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:05.942049958Z",
+  "model": "glm-5.3"
+}

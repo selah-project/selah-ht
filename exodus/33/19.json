@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E l di: Mwen pral fè tout bonte m pase sou figi ou, e m pral rele nan non Yawe devan ou; e m pral fè gras ⟨את⟩ ⟨moun⟩ ke m vle fè gras, e m pral mizerikòde ⟨את⟩ ⟨moun⟩ ke m vle mizerikòde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "fè pase"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "bonte m"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "ווקראתי",
+      "gloss": "rele",
+      "note": "surface corrected below"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "fè gras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "fè gras"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "mizerikòde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "mizerikòde"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:46.273483978Z",
+  "model": "glm-5.3"
+}

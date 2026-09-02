@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Anplis ofrann boule maten an, ki se ⟨ofrann⟩ boule pèmanan an, nou fè ⟨את⟩ bagay sa yo.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "Anplis"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofrann boule"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "maten an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "pou ofrann boule"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "pèmanan an"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagay sa yo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bagay sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:35:33.527811792Z",
+  "model": "glm-5.3"
+}

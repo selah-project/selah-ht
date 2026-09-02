@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi l ap leve yon siy pou nasyon yo, l ap reyini moun Yisrael ki pouse deyò yo, epi moun Yehouda ki dispès yo l ap rake ansanm nan kat kwen tè a.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "epi l ap leve"
+    },
+    {
+      "surface": "נס",
+      "gloss": "siy"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "pou nasyon yo"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "epi l ap reyini"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "moun ki pouse deyò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונפצות",
+      "gloss": "epi moun ki dispès"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "l ap rake ansanm"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "nan kat"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "kwen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:46.671686484Z",
+  "model": "glm-5.3"
+}

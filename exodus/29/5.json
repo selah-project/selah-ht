@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi ou pran ⟨את⟩ rad yo, epi ou abiye Aharòn ak ⟨את⟩ kotòn lan, ak ⟨את⟩ manto a efod la, ak ⟨את⟩ efod la, ak ⟨את⟩ Chochen an, epi ou kenbe l ak sent efod la ki fèt ak sansyè.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "epi ou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad yo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "rad yo"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "epi ou abiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharòn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotòn lan"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kotòn lan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "manto efod la"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "manto"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "efod la"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chochen an"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Chochen an"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "epi ou kenbe l"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ak sent ki fèt ak sansyè"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:40.455320136Z",
+  "model": "glm-5.3"
+}

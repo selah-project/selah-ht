@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E majsye yo pa t kapab kanpe devan Moche akò klè a, paske klè a te sou majsye yo ak sou tout Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "majsye yo"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "akò"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "klè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "klè a"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "sou majsye yo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ak sou tout"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:13.467182961Z",
+  "model": "glm-5.3"
+}

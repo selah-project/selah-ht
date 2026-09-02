@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi chèf asasè yo konfye ⟨את⟩ Yosèf ak ⟨את⟩ yo, e li sèvi ⟨את⟩ yo; e yo pase jou nan gad.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "konfye"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "asasè yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosèf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (de ofisyèl yo)"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "pase"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "nan gad"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:09.444260076Z",
+  "model": "glm-5.3"
+}

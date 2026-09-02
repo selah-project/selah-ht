@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Yawe ap sipòte l sou kabann maladi l; ou menm ki renvèse tout kabann l nan doulè l.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "ap sipòte l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "kabann"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "maladi l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "kabann l"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "ou renvèse"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "nan doulè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:25.942314760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Montay yo te kouvri ak lonbraj li, e branch li yo te sedra El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "te kouvri"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "montay yo"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ak lonbraj li"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "e branch li yo"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "te sedra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:49.635081457Z",
+  "model": "glm-5.3"
+}

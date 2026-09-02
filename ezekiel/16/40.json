@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Yo ap moute yon asanble kont ou, yo ap lapide ou ak wòch, epi yo ap transpe ou ak epe yo.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "yo ap moute"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kont ou"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "yon asanble"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "yo ap lapide"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ou"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ak wòch"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "epi yo ap transpe ou"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "ak epe yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:16:27.298715361Z",
+  "model": "glm-5.3"
+}

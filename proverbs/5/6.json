@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Chemen lavi a, pou ⟨ou⟩ pa pese l: chemen ⟨li⟩ yo vwayaje, ⟨ou⟩ pa konnen yo.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou ⟨ou⟩ pa"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "pese l"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "vwayaje"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "chemen ⟨li⟩ yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:21.662252708Z",
+  "model": "glm-5.3"
+}

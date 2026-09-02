@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Anpli figi yo ak wont, pou yo chèche Non ou, Yawe.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Anpli"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "figi yo"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "wont"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "pou yo chèche"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:02.432537128Z",
+  "model": "glm-5.3"
+}

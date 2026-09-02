@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi sajès m pa aprann, ni konesans ⟨moun⟩ sen yo — ki mwen ap konnen?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Epi pa"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "m aprann"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ni konesans"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "⟨moun⟩ sen yo"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "m ap konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:42.771536961Z",
+  "model": "glm-5.3"
+}

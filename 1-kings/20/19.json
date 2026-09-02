@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 20:19",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi men moun sa yo soti nan vil la — jèn gason yo, se nan chèf pwovens yo — ak lame a ki te dèyè yo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "epi men moun sa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "yo soti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "jèn gason yo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "pwovens yo"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "ak lame a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "te dèyè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:34.500366283Z",
+  "model": "glm-5.3"
+}

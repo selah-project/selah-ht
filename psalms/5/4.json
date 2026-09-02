@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Yawe, nan maten Ou tande vwa m; nan maten m ap ranje ⟨pou⟩ Ou, e m ap veye tann ⟨ankò⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Ou tande"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vwa m"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "m ap ranje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou Ou"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "e m ap veye tann"
+    }
+  ],
+  "timestamp": "2026-09-02T22:24:57.340160796Z",
+  "model": "glm-5.3"
+}

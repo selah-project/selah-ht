@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Ki moun ⟨se⟩ sa a, Wa a ki gen glwa a? Yawe, fò ak pisan, Yawe, pisan nan lagè.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "glwa a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "fò"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ak pisan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nan lagè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:23.505915301Z",
+  "model": "glm-5.3"
+}

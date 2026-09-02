@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi kòt lanmè a ap vin kanman bètray, kote pesè yo rete, ak pakote mouton yo.",
+  "tokens": [
+    {
+      "surface": "וְהָיְתָה",
+      "gloss": "epi ... ap vin"
+    },
+    {
+      "surface": "חֶבֶל",
+      "gloss": "kòt"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "נְוֺת",
+      "gloss": "kanman"
+    },
+    {
+      "surface": "כְּרֹת",
+      "gloss": "bètray"
+    },
+    {
+      "surface": "רֹעִים",
+      "gloss": "kote pesè yo rete"
+    },
+    {
+      "surface": "וְגִדְרֹת",
+      "gloss": "ak pakote"
+    },
+    {
+      "surface": "צֹאן",
+      "gloss": "mouton yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:45:14.348386243Z",
+  "model": "glm-5.3"
+}

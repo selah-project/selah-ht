@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E l bati, ak ⟨את⟩ wòch yo, yon otèl nan non Yawe; e l fè yon trenche toutotou otèl la, ki ka kenbe de seah simityè.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wòch yo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "wòch yo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otèl"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "trenche"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ki ka kenbe"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "de seah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "simityè"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "otèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:35.171090365Z",
+  "model": "glm-5.3"
+}

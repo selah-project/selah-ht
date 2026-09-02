@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Pou jenerasyon ki ap vini konnen l, pitit ki ap fèt yo, pou yo leve epi rakonte l bay pitit yo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ki ap vini"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ki ap fèt"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "epi rakonte"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bay pitit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:50.841840329Z",
+  "model": "glm-5.3"
+}

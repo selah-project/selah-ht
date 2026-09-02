@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "E l rive, lè Moche fini ekri ⟨את⟩ pawòl lwa sa a sou yon liv, jiskaske yo fini nèt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e l rive"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "lè ... fini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl lwa sa a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "liv"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "fini nèt"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:47.467902750Z",
+  "model": "glm-5.3"
+}

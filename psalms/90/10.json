@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Jou ane lavi nou yo se swasan-dis an; e si ⟨nan⟩ fòs, katreven an; e kè fòs pa yo se pinèz ak enjistis; paske li koutèbyen, e n ap vole ⟨lwen⟩.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "ane lavi nou yo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨nan yo⟩"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "swasan-dis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "nan fòs"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "katreven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "e kè fòs pa yo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pinèz"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ak enjistis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גז",
+      "gloss": "li koutèbyen"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "vit"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "e n ap vole"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:13.219921874Z",
+  "model": "glm-5.3"
+}

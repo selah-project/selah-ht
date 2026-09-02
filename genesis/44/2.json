@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Mete ⟨את⟩ gobelet m an, gobelet ajan an, nan bouch sak pi piti a, ansanm ak ⟨את⟩ ajan ble li te achte. E li fè tout bagay dapre pawòl Yosèf te di.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "gobelet m an"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "gobelet m an"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "gobelet"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ajan an"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "mete"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nan bouch"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "sak"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "pi piti a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ansanm ak ⟨את⟩",
+      "marks": "ajan ble"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ble li te achte"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e li fè"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dapre pawòl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te di"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:50.103735853Z",
+  "model": "glm-5.3"
+}

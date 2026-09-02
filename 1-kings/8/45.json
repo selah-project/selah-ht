@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "epi ou tande nan syèl ⟨את⟩ lapriyè yo ak ⟨את⟩ demann yo, epi ou fè jijman yo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "epi ou tande"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nan syèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapriyè yo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "lapriyè yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "demann yo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "demann yo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "epi ou fè"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "jijman yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:49.014081821Z",
+  "model": "glm-5.3"
+}

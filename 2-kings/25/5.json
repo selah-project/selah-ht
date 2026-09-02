@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E lame Kachdim yo swiv wa a, e yo rive jwenn ⟨את⟩ li nan plèn Yericho a; e tout lame l gaye kote l te ye, lwen soti sou li.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "swiv"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "lame"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kachdim yo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "rive jwenn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "nan plèn"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yericho a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "lame l"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "lwen soti sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:57.170091230Z",
+  "model": "glm-5.3"
+}

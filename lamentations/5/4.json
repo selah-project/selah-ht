@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Dlo nou, nou bwè l ak lajan; bwa nou ap vini ak pri.",
+  "tokens": [
+    {
+      "surface": "מֵימֵינוּ",
+      "gloss": "Dlo nou"
+    },
+    {
+      "surface": "בְּכֶסֶף",
+      "gloss": "ak lajan"
+    },
+    {
+      "surface": "שָׁתִינוּ",
+      "gloss": "nou bwè"
+    },
+    {
+      "surface": "עֵצֵינוּ",
+      "gloss": "bwa nou"
+    },
+    {
+      "surface": "בְּמְחִיר",
+      "gloss": "ak pri"
+    },
+    {
+      "surface": "יָבֹאוּ",
+      "gloss": "ap vini"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:57.470727764Z",
+  "model": "glm-5.3"
+}

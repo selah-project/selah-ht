@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Kòm mèt ⟨⟨nan⟩⟩ pèp li a, li pa dwe vin anken pou desakre tèt li.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa dwe"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "vin anken"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "kòm mèt"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "nan pèp li a"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "pou desakre tèt li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:55.984998380Z",
+  "model": "glm-5.3"
+}

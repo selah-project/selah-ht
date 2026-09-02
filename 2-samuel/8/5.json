@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 8:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi Aram Dammèk vin pou l ede Hadadèzè, wa Tsovah; epi David frape nan Aram vent-de mil gason.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammèk"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "pou l ede"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "Hadadèzè"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "nan Aram"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vent"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    }
+  ],
+  "timestamp": "2026-09-02T17:42:28.484314409Z",
+  "model": "glm-5.3"
+}

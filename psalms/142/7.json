@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 142,
+  "translation": "Pran gad sou rivlavwa mwen la, paske mwen vin fèb anpil; delivré mwen anba men moun ki pouse m yo, paske yo fò pase m.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Pran gad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "rivlavwa mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "mwen vin fèb"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "delivré mwen"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "anba men moun ki pouse m yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "yo fò"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pase m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:29.396976111Z",
+  "model": "glm-5.3"
+}

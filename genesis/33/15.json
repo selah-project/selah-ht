@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E Esav di: Tanpri, kite m met kèk moun ki ⟨את⟩ ak mwen ansanm ak ou. E li di: Poukisa sa a? Se pou m jwenn favè nan zye Adònay mwen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "kite m met"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kèk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ak mwen",
+      "marks": "moun yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "m jwenn"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favè"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan zye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:24.207242047Z",
+  "model": "glm-5.3"
+}

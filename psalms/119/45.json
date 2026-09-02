@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "E m ap mache nan yon espas ki laj, paske se lòd ou yo mwen chèche.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "E m ap mache"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "nan yon espas ki laj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "lòd ou yo"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "mwen chèche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:28.856802846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 4:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Moun ki ap trenble yo, se pawòl ⟨ou⟩ ki kanpe yo, epi jenou ki ap plye yo ou ranfòse.",
+  "tokens": [
+    {
+      "surface": "כושל",
+      "gloss": "moun ki ap trenble"
+    },
+    {
+      "surface": "יקימון",
+      "gloss": "yo kanpe"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "epi jenou"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "ki ap plye"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "ou ranfòse"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:22.586797514Z",
+  "model": "glm-5.3"
+}

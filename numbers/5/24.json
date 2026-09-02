@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E l ap fè ⟨את⟩ fanm nan bwè ⟨את⟩ dlo amè yo, dlo ki ap malédiksyon; e dlo ki ap malédiksyon sa yo ap antre nan li pou amè.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "fè bwè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm nan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dlo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "amè yo"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "ki ap malédiksyon"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "e ap antre"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "ki ap malédiksyon"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "pou amè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:22:46.517950352Z",
+  "model": "glm-5.3"
+}

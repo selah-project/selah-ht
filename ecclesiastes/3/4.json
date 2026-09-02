@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yon tan pou plere, e yon tan pou ri; yon tan pou fè dèy, e yon tan pou danse.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Yon tan pou"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "plere"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan pou"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yon tan pou"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "fè dèy"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan pou"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "danse"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:00.861455819Z",
+  "model": "glm-5.3"
+}

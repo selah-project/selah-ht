@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Li abiye tèt li ak madichon kòm yon rad, e l antre kòm dlo nan kè l, e kòm lwil nan zo l yo.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "li abiye tèt li"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "madichon"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "kòm yon rad"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "e l antre"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kòm dlo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nan kè l"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "e kòm lwil"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "nan zo l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:59.311520508Z",
+  "model": "glm-5.3"
+}

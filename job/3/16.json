@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 3:16",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "oswa kòm yon pitit tonbe kache, m pa t ap egziste; kòm timoun piti ki pa janm wè ⟨limyè⟩.",
+  "tokens": [
+    {
+      "surface": "א֤וֹ",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "כְנֵ֣פֶל",
+      "gloss": "kòm yon pitit tonbe"
+    },
+    {
+      "surface": "טָמ֣וּן",
+      "gloss": "kache"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אֶהְיֶ֑ה",
+      "gloss": "m t ap egziste"
+    },
+    {
+      "surface": "כְּ֝עֹלְלִ֗ים",
+      "gloss": "kòm timoun piti"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רָא֥וּ",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אֽוֹר",
+      "gloss": "limyè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:17.162826874Z",
+  "model": "glm-5.3"
+}

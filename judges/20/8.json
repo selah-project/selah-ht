@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E tout pèp la kanpe kou yon sèl nonm, pou yo di: pa gen nonm k'ap ale nan tant li, e pa gen nonm k'ap tounen nan kay li.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kou yon nonm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "prale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "nan tant li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "nan kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:22:56.601304313Z",
+  "model": "glm-5.3"
+}

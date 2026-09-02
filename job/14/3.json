@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Menm sou sa w' louvri je ⟨ou⟩, e ou mennen ⟨את⟩ mwen nan jijman ak ou?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Menm"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "w' louvri"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "je ou"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "e ⟨את⟩ mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ou mennen"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nan jijman"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ak ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:49.221030592Z",
+  "model": "glm-5.3"
+}

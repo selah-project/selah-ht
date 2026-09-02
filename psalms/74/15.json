@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Se ou menm ki louvri sous dlo a ak rivyè a, se ou menm ki fè grann rivyè kase nan pèmanans yo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "se ou menm"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "sous dlo a"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ak rivyè a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou menm"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "fè...che"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivyè"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ki koule san sisil nan \/ pèmanan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:17.744438005Z",
+  "model": "glm-5.3"
+}

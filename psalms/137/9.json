@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 137,
+  "translation": "Kè kontan moun ki kenbe ⟨את⟩ tibebe ou yo epi ki frape yo sou wòch la.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Kè kontan"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "ki kenbe"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "epi ki frape"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tibebe ou yo"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "tibebe ou yo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "wòch la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:20.162201459Z",
+  "model": "glm-5.3"
+}

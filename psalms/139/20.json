@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Kite moun ki di non ou an move entansyon, ki pran ⟨non⟩ ou an van — ki di ou se moun ki veye pou ou pèdi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kite moun ki"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "di non ou"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "an move entansyon"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pran"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "an van"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "moun ki veye pou ou pèdi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:53.327757353Z",
+  "model": "glm-5.3"
+}

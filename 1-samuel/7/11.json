@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E gason Yisrayèl yo soti nan Mitzpa a, e yo pouse ⟨את⟩ Filistin yo, e yo frape yo jouk anba Beit-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa a"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "pouse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistin yo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "frape yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:53.126938374Z",
+  "model": "glm-5.3"
+}

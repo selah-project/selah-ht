@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Moun jis la pral rayi lè l ap gade vandèt la; l ap lave ⟨pye⟩ l yo nan san moun mechan yo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "pral rayi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "vandèt"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "pye l yo"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "lave"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nan san"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "moun mechan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:26.017267954Z",
+  "model": "glm-5.3"
+}

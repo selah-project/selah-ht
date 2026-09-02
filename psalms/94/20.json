@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Èske yon chèz ki bati sou dizastre ka fè alyans avèk ou, oubyen youn ki fòme pwoblèm sou lwa?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Èske ... ka fè alyans avèk ou"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chèz"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "dizastre"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ki fòme"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pwoblèm"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lwa"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:47.637836526Z",
+  "model": "glm-5.3"
+}

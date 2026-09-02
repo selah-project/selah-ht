@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi yo frape ⟨את⟩ tout moun ⟨kwayàn nan⟩ ki te nan lòt lavi nan bouch epe a; yo mete yo anba entèdi; pa gen anyen ki rete, pa yon sèl souf; epi li boule ⟨את⟩ Chatzor nan dife.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout moun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "nan bouch"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epe a"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "mete anba entèdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "rete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "souf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "boule"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    }
+  ],
+  "timestamp": "2026-09-02T17:05:14.696353379Z",
+  "model": "glm-5.3"
+}

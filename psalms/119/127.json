@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Se poutèt sa m renmen kòmandman ou yo plis pase lò, wi, plis pase lò pi fin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "m renmen"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kòmandman ou yo"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "pase lò"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ak lò pi fin"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:55.430969406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Nwaj ak nwa pè ⟨se⟩ sa ki toutou l; jistis ak jijman ⟨se⟩ fondasyon chèz l.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "nwaj"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ak nwa pè"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "toutou l"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ak jijman"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "fondasyon"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chèz l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:42.976687936Z",
+  "model": "glm-5.3"
+}

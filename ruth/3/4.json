@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E l ap fè : lè l kouché, w ap konnen ⟨את⟩ kote a kote l ap kouché ladan l ; epi w ap rantre, epi w ap dekouvri pye li yo, epi w ap kouché — e se l ap di ou ⟨את⟩ sa w ap fè a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E l ap fè"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "lè l kouché"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "w ap konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kote a"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "l ap kouché"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "w ap rantre"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "w ap dekouvri"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "pye li yo"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "w ap kouché"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e se l"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa w ap fè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "w ap fè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:44.185653073Z",
+  "model": "glm-5.3"
+}

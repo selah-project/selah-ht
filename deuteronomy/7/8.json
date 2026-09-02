@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Men paske Yawe renmen ⟨את⟩nou, e paske li kenbe ⟨את⟩ sèman an li te sèmante pou zansèt nou yo, se Yawe menm ki fè nou soti ⟨את⟩nou ak yon men fò, e li delivre nou soti nan kay esklav yo, nan men Paro, wa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Men paske"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "paske... renmen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "nou (objè lanmou Yawe a)"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "e paske li kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèman an"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sèman an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "li te sèmante"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "pou zansèt nou yo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "nou (sijè soti a)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ak men"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fò"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "e li delivre ou"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soti nan kay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "esklav yo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:04.184613975Z",
+  "model": "glm-5.3"
+}

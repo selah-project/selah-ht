@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Li grandi jouk nan lame syèl la, e li fè yon pati nan lame a ak yon pati nan etwal yo tonbe atè, e li pize sou yo.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "Li grandi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "lame"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl la"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "e li fè tonbe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    },
+    {
+      "surface": "מן",
+      "gloss": "yon pati nan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "lame a"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ak yon pati nan"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "etwal yo"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "e li pize sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:00:04.525275614Z",
+  "model": "glm-5.3"
+}

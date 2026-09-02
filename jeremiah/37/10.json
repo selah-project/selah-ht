@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 37:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Paske menm si nou frape ⟨את⟩ tout lame Kachdè yo ki ap goumen kont nou, epi yo rete ak sèlman moun ki gen blese nan kò yo, chak moun nan tant li pral kanpe, epi yo pr boule ⟨את⟩ vil sa a ak dife.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menm si"
+    },
+    {
+      "surface": "הכיתם",
+      "gloss": "nou frape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "lame"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kachdè"
+    },
+    {
+      "surface": "הנלחמים",
+      "gloss": "ki ap goumen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "kont ⟨את⟩ nou"
+    },
+    {
+      "surface": "ונשארו",
+      "gloss": "epi yo rete"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "ki gen blese nan kò yo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "nan tant li"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "pral kanpe"
+    },
+    {
+      "surface": "וושרפו",
+      "gloss": "epi yo pr boule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vil sa a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ak dife"
+    }
+  ],
+  "timestamp": "2026-09-02T19:02:49.951903409Z",
+  "model": "glm-5.3"
+}

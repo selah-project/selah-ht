@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi jèn yo ap fatigue epi ap lanse, epi jèn gason yo ap chansi toutafèt epi ap tonbe.",
+  "tokens": [
+    {
+      "surface": "וְיִעֲפוּ",
+      "gloss": "epi ap fatigue"
+    },
+    {
+      "surface": "נְעָרִים",
+      "gloss": "jèn yo"
+    },
+    {
+      "surface": "וְיִגָעוּ",
+      "gloss": "epi ap lanse"
+    },
+    {
+      "surface": "וּבַחוּרִים",
+      "gloss": "epi jèn gason yo"
+    },
+    {
+      "surface": "כָּשׁוֹל",
+      "gloss": "chansi toutafèt"
+    },
+    {
+      "surface": "יִכָּשֵׁלוּ",
+      "gloss": "ap chansi epi ap tonbe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:16.917601515Z",
+  "model": "glm-5.3"
+}

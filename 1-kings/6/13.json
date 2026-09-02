@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E m ap abite nan mitan pitit Yisrayèl yo, e m ap pa abandone ⟨את⟩ pèp m an, Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "abite"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "abandone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp m an"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp m an"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:44.283579813Z",
+  "model": "glm-5.3"
+}

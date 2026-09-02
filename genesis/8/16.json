@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Soti nan bato a — ou, ak madanm ou, ak pitit gason ou yo, ak madanm pitit gason ou yo, ⟨את⟩ ou.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Soti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bato a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ak madanm ou"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ak pitit gason ou yo"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ak madanm"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit gason ou yo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ak ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:29.314286830Z",
+  "model": "glm-5.3"
+}

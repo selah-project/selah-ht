@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Moun rich yo ap vin soti nan Mitsrayim; Kouch ap kouri reponn men l yo bay Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "moun rich yo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kouch"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "ap kouri"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "men l yo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bay Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:02.109739131Z",
+  "model": "glm-5.3"
+}

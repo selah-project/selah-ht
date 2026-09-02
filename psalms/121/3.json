@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 121,
+  "translation": "Li pa kite pye ⟨ou⟩ glise; moun ki ap gade ⟨ou⟩ a pa ap dòmi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kite"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "glise"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "pye ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "moun ki ap gade ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:39.868927884Z",
+  "model": "glm-5.3"
+}

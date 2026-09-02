@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Yehouda ak Yisrayèl te anpil, tankou sab ⟨ki⟩ sou bò lanmè a, an kantite — ⟨yo te⟩ manje, bwè, epi kontan.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ak Yisrayèl"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "tankou sab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bò lanmè a"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "an kantite"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "epi bwè"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "epi kontan"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:32.230175103Z",
+  "model": "glm-5.3"
+}

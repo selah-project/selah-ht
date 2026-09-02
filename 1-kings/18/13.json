@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 18:13",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Èske yo pa te di met mwen ⟨את⟩ sa m fè nan tan Izavel te touye ⟨את⟩ pwofèt Yawe yo, e m te kache nan pwofèt Yawe yo a sant moun, senkant-senkant moun, nan yon kav, e m te fè yo manje pen ak dlo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske... pa"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "te di"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "met mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa m fè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m fè"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "nan tan... te touye"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pwofèt Yawe yo"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "pwofèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "e m te kache"
+    },
+    {
+      "surface": "מנביאי",
+      "gloss": "nan pwofèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "a sant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "nan yon kav"
+    },
+    {
+      "surface": "ואכלכלם",
+      "gloss": "e m te fè yo manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ak dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:36.904429213Z",
+  "model": "glm-5.3"
+}

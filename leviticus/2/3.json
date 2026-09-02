@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi sa ki rete nan mincha a se pou Aharòn ak pitit li yo: kadoch kadochim, se nan ofrann dife Yawe yo li soti.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Epi sa ki rete"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha a"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pou Aharòn"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ak pitit li yo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadoch"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kadochim"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "nan ofrann dife"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:46.852085861Z",
+  "model": "glm-5.3"
+}

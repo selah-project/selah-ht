@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi sa rive apre sa: wa pitit yo Amon an mouri, e Hanun, pitit li a, vin wa nan plas li.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sa rive"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "vin wa"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:21:22.440016379Z",
+  "model": "glm-5.3"
+}

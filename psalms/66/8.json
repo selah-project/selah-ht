@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Nasyon yo, beni Elohim nou an; fè vwa lafwa l tande.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "beni"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Nasyon yo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "fè ... tande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lafwa l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:32.070042766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi tou, pou Lovt, ki mache ⟨את⟩ Avram, gen mouton, bèf, ak tant yo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "epi tou"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "pou Lovt"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ki mache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ak bèf"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ak tant yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:21.822805435Z",
+  "model": "glm-5.3"
+}

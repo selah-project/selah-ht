@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Ba byè fò moun k ap pèdi yo, ak diven moun k gen kè amè.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "byè fò"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "moun k ap pèdi yo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ak diven"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "moun k gen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kè amè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:35.379022013Z",
+  "model": "glm-5.3"
+}

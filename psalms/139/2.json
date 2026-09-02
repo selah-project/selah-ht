@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Ou menm, ou konnen chita m ak kanpe m; ou konprann ide m yo soti lwen.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou menm"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ou konnen"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "chita m"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "ak kanpe m"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ou konprann"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "ide m yo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "soti lwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:49.084174164Z",
+  "model": "glm-5.3"
+}

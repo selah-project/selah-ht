@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Tout sa men ou jwenn pou fè, fè l ak tout fòs ou, paske pa gen travay, ni kalkil, ni konesans, ni savizèri nan Cheol, kote ou prale.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ou jwenn"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "ak tout fòs ou"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ni kalkil"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ni konesans"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ni savizèri"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "nan Cheol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "prale"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kote sa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:51.517090751Z",
+  "model": "glm-5.3"
+}

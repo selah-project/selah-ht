@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Se konsa Elohim sove ⟨את⟩ bèt papa nou yo, epi li bay mwen yo.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "sove"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèt papa nou yo"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "papa nou"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ban mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:27:58.751376960Z",
+  "model": "glm-5.3"
+}

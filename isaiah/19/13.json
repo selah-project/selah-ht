@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Chèf Tsoàn yo vin sòt, chèf Nòf yo vin pa bèt yo; se yo menm ki fè ⟨את⟩ Mitsrayim ale esòt nan — kònen branch li yo menm.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "vin sòt"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoàn"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "vin pa bèt yo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nòf"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "fè ale esòt nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "kònen"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "branch li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:29.486109970Z",
+  "model": "glm-5.3"
+}

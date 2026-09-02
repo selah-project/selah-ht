@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E prèt la pote yo devan Yawe, e fè ⟨את⟩ ofrann peche l ak ⟨את⟩ ofrann boule l.",
+  "tokens": [
+    {
+      "surface": "ווהקריב",
+      "gloss": "e pote"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann peche l"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ofrann peche l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ofrann boule l"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ofrann boule l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:23:10.149075769Z",
+  "model": "glm-5.3"
+}

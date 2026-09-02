@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Tout ansyen yo ak tout pèp la di ba li: Pa koute, e pa aksepte.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ansyen yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "aksepte"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:59.304558680Z",
+  "model": "glm-5.3"
+}

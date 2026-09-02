@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Lè sa a, yo ap kriye bò kote Yawe, men l ap pa reponn ⟨את⟩ yo; l ap kache figi l devan yo nan tan sa a, paske aksyon yo te vin move.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "yo ap kriye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò kote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ... pa"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "l ap reponn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (pwonon objè)"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "l ap kache"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "devan yo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "paske jan"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "yo te vin move"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "aksyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:41:08.276684178Z",
+  "model": "glm-5.3"
+}

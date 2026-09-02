@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi timoun nan grandi, epi yo sevè li; epi Avraham fè yon gwo fèt nan jou yo sevè ⟨את⟩ Yitshak a.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Epi … grandi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "epi yo sevè li"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "epi … fè"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "yo sevè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:10.358035640Z",
+  "model": "glm-5.3"
+}

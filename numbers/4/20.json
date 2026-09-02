@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E yo pa dwe antre pou gade, menm yon ti moman, ⟨את⟩ bag konsakre yo, pou yo pa mouri.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "E yo pa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "antre"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou gade"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "yon ti moman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bag konsakre yo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bag konsakre yo"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "pou yo pa mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:34.288870560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Paske kounye a m t ap kouchen, m t ap kalm; m t ap dòmi, lè sa a repoze t ap vini pou mwen.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עַתָּ֭ה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "שָׁכַ֣בְתִּי",
+      "gloss": "m t ap kouchen"
+    },
+    {
+      "surface": "וְאֶשְׁק֑וֹט",
+      "gloss": "m t ap kalm"
+    },
+    {
+      "surface": "יָ֝שַׁ֗נְתִּי",
+      "gloss": "m t ap dòmi"
+    },
+    {
+      "surface": "אָ֤ז",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "יָנ֬וּחַֽ",
+      "gloss": "repoze"
+    },
+    {
+      "surface": "לִֽֽי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:17.162371123Z",
+  "model": "glm-5.3"
+}

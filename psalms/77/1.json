@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Pou chèf mizisyen an, sou Yedoutoun, pou Asaf, yon mizmo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedoutoun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:50.332090985Z",
+  "model": "glm-5.3"
+}

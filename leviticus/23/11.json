@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epitou li devan ⟨את⟩ bannòch la anvan Yawe, pou l aksepte pou nou: lendemen chòm la, prèt la ap devan l.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "epitou li devan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bannòch la"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "bannòch la"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "pou l aksepte pou nou"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "lendemen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "chòm la"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "prèt la ap devan l"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:02.158249771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E David chèche ⟨את⟩ HaElohim pou ti gason an, e David fè yon jèn; e li antre, e li pase nwit la, e li kouchye atè.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "E li chèche"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pou"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti gason an"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "e fè yon jèn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "jèn"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e li antre"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "e li pase nwit la"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "e li kouchye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:12.199449415Z",
+  "model": "glm-5.3"
+}

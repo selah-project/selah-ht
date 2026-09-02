@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Nou tout se pitit yon sèl nonm; ⟨se⟩ moun kè net ⟨nou⟩ ye; sèvitè ou yo pa ⟨te ye⟩ espyon.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "nou tout"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "moun kè net"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvitè ou"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "espyon"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:15.590099775Z",
+  "model": "glm-5.3"
+}

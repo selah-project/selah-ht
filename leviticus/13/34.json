@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 13:34",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E kòhen an ap gade ⟨את⟩ nètek la nan jou septyèm lan, e men, si nètek la pa gaye nan po a, e aparans li pa pi fon pase po a, e kòhen an deklare ⟨את⟩ li pwòp, e l ap lave rad li yo, e l ap vin pwòp.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "e ... ap gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nètek la"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "nètek la"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septyèm lan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "nètek la"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nan po a"
+    },
+    {
+      "surface": "ומראהו",
+      "gloss": "e aparans li"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "pi fon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pase"
+    },
+    {
+      "surface": "העור",
+      "gloss": "po a"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "e ... deklare pwòp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "moun ki gen nètek la"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "e l ap lave"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li yo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "e l ap vin pwòp"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:55.897855703Z",
+  "model": "glm-5.3"
+}

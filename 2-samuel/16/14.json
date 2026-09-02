@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Wa a ak tout pèp la ki te ⟨את⟩ avè l te rive fatige, e yo te pran souf la.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avè ⟨את⟩ l"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "fatige"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "pran souf"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:47:49.053415308Z",
+  "model": "glm-5.3"
+}

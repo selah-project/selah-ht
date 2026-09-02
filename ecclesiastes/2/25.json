@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Paske kiyès ki ka manje, e kiyès ki ka kouri dèyè ⟨sa⟩, deyò de mwen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e kiyès"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "kouri dèyè"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:35.186060723Z",
+  "model": "glm-5.3"
+}

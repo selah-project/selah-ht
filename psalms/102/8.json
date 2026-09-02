@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Mwen rete Reveye, e mwen vin kòm yon zwazo sèl sou do kay la.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "mwen rete reveye"
+    },
+    {
+      "surface": "ויבש ואהיה",
+      "gloss": "e mwen vin",
+      "notes": "koreksyon anba a"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kòm yon zwazo"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גג",
+      "gloss": "do kay la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:34.862634418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E si yon etranje vin rete avèk ⟨את⟩ ou nan peyi a ou yo, pa maltrete ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "E si"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "vin rete"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "avèk ⟨את⟩ ou"
+    },
+    {
+      "surface": "גר",
+      "gloss": "yon etranje"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "nan peyi a ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "maltrete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:23.630920261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Elohim mwen an, delivre m nan men mechant la, nan pwent men moun k'ap fè mechanste ak moun k'ap vyolan.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen an"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "delivre m"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechant"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "nan pwent men"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "moun k'ap fè mechanste"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "e moun k'ap vyolan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:12.940147278Z",
+  "model": "glm-5.3"
+}

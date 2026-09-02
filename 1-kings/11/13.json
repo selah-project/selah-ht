@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Sèlman ⟨את⟩ tout wayòm nan mwen pa chire; yon tribi mwen bay pitit ou, pou David sèvitè mwen, e pou Yerouchalayim ke mwen chwazi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout wayòm nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "wayòm nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "chire"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "pitit ou"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè mwen"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e pou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mwen chwazi"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:20.153458179Z",
+  "model": "glm-5.3"
+}

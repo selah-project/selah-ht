@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yawe, kòman enmi m yo miltipliye! Anpil moun ap leve kont mwen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kòman"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "miltipliye"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil moun"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:26.621174218Z",
+  "model": "glm-5.3"
+}

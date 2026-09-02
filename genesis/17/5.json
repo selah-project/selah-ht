@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi yo pa pral rele ⟨את⟩ non ou Avram ankò, e non ou pral Avraham, paske mwen fè ou papa yon foul nasyon yo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "anko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non ou"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e pral ye"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "foul"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "mwen fè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:46.403571063Z",
+  "model": "glm-5.3"
+}

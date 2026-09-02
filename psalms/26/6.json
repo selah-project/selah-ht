@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Mwen ap lave men mwan ansans, e m ap fè toutou ⟨את⟩ lotèl ou a, Yawe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Mwen ap lave"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "wan ansans"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "e m ap fè toutou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotèl ou a"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "lotèl ou a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:27.775595741Z",
+  "model": "glm-5.3"
+}

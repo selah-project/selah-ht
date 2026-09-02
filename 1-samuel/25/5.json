@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi David voye dis jèn gason, epi David di jèn gason yo : Monte ale Karmèl, nou prale jwenn Nabal, epi nou pral mande l an non mwen kijan li ye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi … di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "jèn gason yo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Monte"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "ale Karmèl"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "epi nou prale jwenn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "epi nou pral mande"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "an non mwen"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kijan li ye"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:36.925266519Z",
+  "model": "glm-5.3"
+}

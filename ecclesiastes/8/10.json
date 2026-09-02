@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E konsa mwen wè mechan yo antere, yo antre e yo mache soti nan kote sen an, e yo bliye nan vil la kote yo fè konsa — sa tou ⟨se⟩ vanite.",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "e konsa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "wè"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "antere"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "e antre"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "e nan kote"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yo mache"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "e yo bliye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:38.529657462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Kè kontan moun ki kenbe jistis la, moun ki fè sa ki dwat nan tout lè.",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "Kè kontan"
+    },
+    {
+      "surface": "שֹׁמְרֵ֣י",
+      "gloss": "moun ki kenbe"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "jistis la"
+    },
+    {
+      "surface": "עֹשֵׂ֖ה",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "צְדָקָ֣ה",
+      "gloss": "sa ki dwat"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עֵֽת",
+      "gloss": "lè"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:42.744534333Z",
+  "model": "glm-5.3"
+}

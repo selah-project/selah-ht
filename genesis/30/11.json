@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi Lea di: Bagay! Epi li rele non l ⟨את⟩ Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Bagay!"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-09-02T15:24:54.024802067Z",
+  "model": "glm-5.3"
+}

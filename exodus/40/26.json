@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E li mete ⟨את⟩ lotèl lò a nan tant reyinyon an, devan ridè a.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotèl lò a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lotèl"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nan tant"
+    },
+    {
+      "surface": "מועעד",
+      "gloss": "reyinyon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ridè a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:47.051295319Z",
+  "model": "glm-5.3"
+}

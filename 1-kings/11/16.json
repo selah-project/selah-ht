@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Paske siz mwa Yoav ak tout Yisrael te rete la, jouk yo fin koupe ⟨את⟩ tout gason nan Edom —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "siz"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "te rete"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "fin koupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "nan Edom"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:20.154107339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E Chemouèl te jije ⟨את⟩ Yisrayèl tout jou lavi li te ye.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "e jije"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "lavi li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:38.890140915Z",
+  "model": "glm-5.3"
+}

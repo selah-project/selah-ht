@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Pran gad vwa kri mwen an, wa mwen an ak Elohim mwen an, paske se pou ou m ap priye.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Pran gad"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "kri mwen an"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa mwen an"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ak Elohim mwen an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "se pou ou"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "m ap priye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:46.112112027Z",
+  "model": "glm-5.3"
+}

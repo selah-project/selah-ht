@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 44:14",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Epi m mete yo kòm gad ⟨את⟩ gadri kay la, pou tout sèvis li, ak pou tout sa ki ap fèt andedan l.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "epi m mete"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (gad yo)"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "gad"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gadri"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "sèvis li"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ak pou tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ap fèt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "andedan l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:30:30.946763832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E l te vin ⟨lè⟩ li te longtan ap priye devan Yawe, e Eli t ap gade ⟨את⟩ bouch li.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E l te vin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨lè⟩"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "longtan"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "ap priye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "e Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "t ap gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch li"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:23:45.999391001Z",
+  "model": "glm-5.3"
+}

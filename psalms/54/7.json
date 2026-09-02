@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Mal la ap tounen kont moun ki veye mwen yo; nan verite ou, detwi yo.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ap tounen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal la"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "kont moun ki veye mwen yo"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "nan verite ou"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "detwi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:11.503308222Z",
+  "model": "glm-5.3"
+}

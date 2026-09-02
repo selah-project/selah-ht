@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Ou fè nou yon wont pou vwazen nou, yon mocri ak yon ridik pou tout sa ki antoure nou.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Ou fè nou"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "yon wont"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "pou vwazen nou"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "yon mocri"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "ak yon ridik"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "pou tout sa ki antoure nou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:03.655560400Z",
+  "model": "glm-5.3"
+}

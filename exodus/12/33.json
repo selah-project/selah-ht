@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E Mitsrayim presyonnen sou pèp la pou yo voye yo byen vit soti nan tè a, paske yo di: Nou tout ⟨se⟩ moun ki mouri.",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "presyonnen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "byen vit"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "pou yo voye yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "nou tout"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "moun ki mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:03.092660940Z",
+  "model": "glm-5.3"
+}

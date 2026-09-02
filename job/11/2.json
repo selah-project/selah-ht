@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Èske yon gran kantite pawòl pa dwe ⟨reponn⟩? E èske yon moun plen lèv dwe jitifye?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "yon gran kantite"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "dwe reponn"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "E èske"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "plen lèv"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "dwe jitifye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:42.036752802Z",
+  "model": "glm-5.3"
+}

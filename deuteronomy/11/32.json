@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E nou dwe veye pou fè ⟨את⟩ tout lwa yo ak ⟨את⟩ jijman yo ke mwen menm ap mete devan nou jodi a.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "E nou dwe veye"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout lwa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lwa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jijman yo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "jijman yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ap mete"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:47:17.384483069Z",
+  "model": "glm-5.3"
+}

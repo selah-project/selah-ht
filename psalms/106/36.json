@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "E yo sèvi ⟨את⟩ zidòl yo, e yo vin yon pyèj pou yo.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "E yo sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zidòl yo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "zidòl yo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e yo vin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "yon pyèj"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:34.954763493Z",
+  "model": "glm-5.3"
+}

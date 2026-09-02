@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 112,
+  "translation": "Richès ak byen kay li ye; jistis l ap kanpe pou toutan.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "richès"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ak byen"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nan kay li"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ak jistis li"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:38.487306405Z",
+  "model": "glm-5.3"
+}

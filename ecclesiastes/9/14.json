@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Yon ti vil, ak kèk moun ladan l; epi yon wa gran vini kont li, li antoure ⟨את⟩ l, e li bati kont li gwo fò besejman.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ak moun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kèk"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "epi ... vini"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kont li"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "li antoure"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "l (vil la)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "e li bati"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kont li"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "fò besejman"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "gwo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:54.701708617Z",
+  "model": "glm-5.3"
+}

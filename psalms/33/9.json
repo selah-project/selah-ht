@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Paskè li pale, e ⟨li⟩ vin egziste; li kòmande, e ⟨li⟩ kanpe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paskè"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e li vin (egziste)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e li kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:23.956564137Z",
+  "model": "glm-5.3"
+}

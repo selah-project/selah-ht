@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Epi dis frè Yosèf yo desann pou yo te achte gren soti nan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "epi desann"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "pou achte"
+    },
+    {
+      "surface": "בר",
+      "gloss": "gren"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti nan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:33.312441726Z",
+  "model": "glm-5.3"
+}

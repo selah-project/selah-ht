@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Dlo a koule toutouantò otèl la, e li menm ranpli ⟨את⟩ chanèl la ak dlo.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "koule"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutouantò"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "otèl la"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e li menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chanèl la"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "chanèl la"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ak dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:44.094795317Z",
+  "model": "glm-5.3"
+}

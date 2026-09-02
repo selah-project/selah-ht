@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 127,
+  "translation": "An van pou nou, nou ki leve byen maten, ki rete chita jiskaswè, ap manje pen doulè a — se konsa li bay byen-eme l dòmi.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "an van"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "ki leve byen maten"
+    },
+    {
+      "surface": "קום",
+      "gloss": "leve"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ki rete ta"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "chita"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "doulè a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "li bay"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "byen-eme l"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "dòmi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:33.004110131Z",
+  "model": "glm-5.3"
+}

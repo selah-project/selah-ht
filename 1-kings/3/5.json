@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Nan Givòn Yawe parèt devan Chelomo nan yon rèv lannwit la, e Elohim di: Mande kisa m ap ba ou.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Nan Givòn"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "parèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "nan yon rèv"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "lannwit la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e Elohim di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Mande"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ap bay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:39.974659515Z",
+  "model": "glm-5.3"
+}

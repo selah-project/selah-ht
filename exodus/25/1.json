@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Yawe pale ak Moche, ⟨di⟩ ⟨pale⟩ :",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:24.584182234Z",
+  "model": "glm-5.3"
+}

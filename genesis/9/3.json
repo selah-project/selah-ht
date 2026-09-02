@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Tout bèt krawan ki vivan ap pou nou pou manje; menm jan ak zeèb vèt la, mwen te bay nou ⟨את⟩ tout.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "bèt krawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap genyen"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "pou manje"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "menm jan ak"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zeèb vèt"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen te bay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:53.995275014Z",
+  "model": "glm-5.3"
+}

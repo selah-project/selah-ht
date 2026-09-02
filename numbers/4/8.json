@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E yo ap deplwaye sou yo yon drap toulà ekarlat, e yo ap kouvri ⟨את⟩ li ak yon kouvèti kwi techech, e yo ap plase ⟨את⟩ ba yo.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "deplwaye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "drap"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "toulà"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ekarlat"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ak yon kouvèti"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "techech"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "plase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba yo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ba yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:20.788528218Z",
+  "model": "glm-5.3"
+}

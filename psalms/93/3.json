@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 93,
+  "translation": "Rivyè yo leve, Yawe; rivyè yo leve vwa yo; rivyè yo ap leve brayan ki frape yo.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivyè yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivyè yo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "vwa yo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivyè yo"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "brayan ki frape yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:32.750065548Z",
+  "model": "glm-5.3"
+}

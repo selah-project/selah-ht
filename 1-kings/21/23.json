@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E Yawe pale tou pou Izebel, pou di: Chen yo ap manje ⟨את⟩ Izebel nan ri Yizreèl.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "E tou"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "pou Izebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "chen yo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "nan ri"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:50.239967853Z",
+  "model": "glm-5.3"
+}

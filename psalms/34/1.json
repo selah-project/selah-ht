@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Pou David, lè l chanje ⟨את⟩ konpòtman li an devan Avimelekh, e li chase l ale, e li pati.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pou David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "lè l chanje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konpòtman li an"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "konpòtman li an"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "e li chase l ale"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e li pati"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:47.149168998Z",
+  "model": "glm-5.3"
+}

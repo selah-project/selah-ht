@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Mwen pa pran bèf soti nan kay ou, ni kabrit bòk soti nan koral ou yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "soti nan kay ou"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "soti nan koral ou yo"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kabrit bòk"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:26.776754151Z",
+  "model": "glm-5.3"
+}

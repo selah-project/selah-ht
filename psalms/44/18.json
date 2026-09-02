@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Tout sa a rive sou nou, e nou pa blije ⟨ou⟩, e nou pa fè fo nan alians ⟨ou⟩ a.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "a rive sou nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "blije ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "fè fo"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "nan alians ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:16.041352334Z",
+  "model": "glm-5.3"
+}

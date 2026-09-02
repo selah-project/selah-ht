@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Men ou, ou mete deyò e ou rejte; ou fache ak Machiya ou a.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men ou"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ou mete deyò"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "e ou rejte"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "ou fache"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Machiya ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:52.495753659Z",
+  "model": "glm-5.3"
+}

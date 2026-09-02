@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Chèlakh viv apre li fè ⟨את⟩ Èver twa an ak kat san an, epi fè pitit gason ak pitit fi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "epi ... viv"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Chèlakh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Èver"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Èver"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "twa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "an"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ak kat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ak pitit fi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:47.627023988Z",
+  "model": "glm-5.3"
+}

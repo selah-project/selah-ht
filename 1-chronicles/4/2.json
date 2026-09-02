@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Reaya, pitit Chobal, prokreye ⟨את⟩ Yachat; e Yachat prokreye ⟨את⟩ Ahoumay ak ⟨את⟩ Lahad. Sa yo se fanmi Tsoreati yo.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "E Reaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Chobal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "prokreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "e Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "prokreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahoumay"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ahoumay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Tsoreati yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:56.875382721Z",
+  "model": "glm-5.3"
+}

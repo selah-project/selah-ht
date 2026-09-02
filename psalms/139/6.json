@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Konesans ⟨sa a⟩ se yon bag etonan depi mwen; li ⟨gen twò⟩ ⟨wotè⟩, mwen pa kapab rive ⟨jiskaskò li⟩.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "yon bag etonan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Konesans"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "depi mwen"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "li monte wo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:46.257692936Z",
+  "model": "glm-5.3"
+}

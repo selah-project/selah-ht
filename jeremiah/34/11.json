@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Men apre sa yo tounen, yo fè ⟨את⟩ esklav yo ak ⟨את⟩ sèvant fi yo, ke yo te voye lib yo, tounen, e yo soumete yo kòm esklav ak kòm sèvant fi.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "yo tounen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "yo fè tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esklav yo"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "esklav yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sèvant fi yo"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "sèvant fi yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yo te voye"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "lib"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "e yo soumete yo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "kòm esklav"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "ak kòm sèvant fi"
+    }
+  ],
+  "timestamp": "2026-09-02T19:01:18.534638044Z",
+  "model": "glm-5.3"
+}

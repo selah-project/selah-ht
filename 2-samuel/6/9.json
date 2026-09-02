@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi David pè ⟨את⟩ Yawe jou sa a la, epi li di: Kijan sand Yawe a kay rive lakay m?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "epi pè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kijan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kay rive"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lakay m"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:42:26.772861440Z",
+  "model": "glm-5.3"
+}

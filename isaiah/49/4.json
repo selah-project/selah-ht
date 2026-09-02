@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Epi mwen di: Mwen fatige pou toutouni, pou vanite ak souf vid mwen fin vide fòs m; men vrèman jijman m ⟨את⟩ Yawe, epi paye m ⟨את⟩ Elohim m.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Epi mwen"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "pou toutouni"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "mwen fatige"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "pou vanite"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "epi souf vid"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fòs m"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mwen fin vide"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "men vrèman"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman m"
+    },
+    {
+      "surface": "את",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "epi paye m"
+    },
+    {
+      "surface": "את",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Elohim m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:49.560980316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Yon fontèn lavi se bouch moun jis la, e bouch mechan yo ap kouvri vyolans.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "fontèn"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis la"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "e bouch"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ap kouvri"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:27.760056179Z",
+  "model": "glm-5.3"
+}

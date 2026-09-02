@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Bouch mwen an ap di ⟨ap⟩ lwanj Yawe, e tout vyann ap beni Non sen l' ⟨a⟩ pou tout tan ak toutjou.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "lwanj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "di"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch mwen"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e beni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sen li"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ak toutjou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:54.811566732Z",
+  "model": "glm-5.3"
+}

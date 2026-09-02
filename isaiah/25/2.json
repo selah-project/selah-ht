@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Paske ou fè vil la tounen yon ti tas wòch, vil rèd anndan li vin yon krabwè; chanm etranje yo vin pa vil ankò; pou toutan li ap pa rebati janm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ou fè tounen"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "yon ti tas wòch"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "vil"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "rèd anndan li"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "yon krabwè"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "chanm"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "etranje yo"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "pa vil ankò"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "li ap rebati"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:27.283637540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Epi pran ⟨את⟩ papa nou e ⟨את⟩ kay nou, epi vini pou mwen, e m ap ba nou ⟨את⟩ sa ki bon nan tout peyi Mitsrayim, epi nou pral manje ⟨את⟩ pi bon byen tè a.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Epi pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa nou"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "papa nou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kay nou"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "kay nou"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "epi vini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "e m ap ba nou"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki bon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sa ki bon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nan tout peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "epi nou pral manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pi bon byen"
+    },
+    {
+      "surface": "חלeb",
+      "gloss": "pi bon byen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:36:55.113034448Z",
+  "model": "glm-5.3"
+}

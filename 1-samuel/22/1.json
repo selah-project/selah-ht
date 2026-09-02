@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi David ale depi la a, epi li chape ale nan keuv Adoulam la; epi frè l yo ak tout kay papa l tande, epi yo desann ale kote l la a.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "epi ale"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "depi la a"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "epi chape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale nan"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "keuv"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adoulam"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "epi tande"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "epi desann"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kote l"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:39.238914678Z",
+  "model": "glm-5.3"
+}

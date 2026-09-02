@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E kèk moun nan vyèye yo nan Yisrael vini jwenn m, e yo chita devan m.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "jwenn m"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kèk moun"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "nan vyèye yo nan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "yo chita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:15:09.453173986Z",
+  "model": "glm-5.3"
+}

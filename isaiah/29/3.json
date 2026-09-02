@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "M ap kanpe toutotou ou tankou yon sik; m ap fè blokaj sou ou ak pòs sòlda; m ap monte tout vay sèvjou sou ou.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "M ap kanpe"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "tankou yon sik"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "toutotou ou"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "m ap fè blokaj sou ou"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "pòs sòlda"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "m ap monte"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "tout vay sèvjou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:02.423113191Z",
+  "model": "glm-5.3"
+}

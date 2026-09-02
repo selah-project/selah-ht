@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Lanme sa a, gran ak lajè de kote — la a gen kreyati k ap deplase san konte, kreyati vivan, ti ak gran.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanme a"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ak lajè"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "de kote"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kreyati k ap deplase"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "san"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "konte"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "kreyati vivan"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gran"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:36.648748019Z",
+  "model": "glm-5.3"
+}

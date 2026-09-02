@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E Yawe wè li vire pou l ale gade. E Elohim rele l nan mitan sèvo a, e l di: Moche, Moche. E l reponn: Men mwen isit.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E ... wè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vire"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou l ale gade"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "E ... rele"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "sèvo a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... reponn"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Men mwen isit"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:59.822646181Z",
+  "model": "glm-5.3"
+}

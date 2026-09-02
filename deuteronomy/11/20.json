@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Ecrire yo sou poto pòt kay ou ak sou pòt kay ou yo.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Ecrire yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "poto pòt"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ak sou pòt kay ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:45.802611729Z",
+  "model": "glm-5.3"
+}

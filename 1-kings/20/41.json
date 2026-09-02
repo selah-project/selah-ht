@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E li fè vit, e li retire ⟨את⟩ poud la anba sou zye l yo, e wa a nan Yisrael rekonèt l, paske li se youn nan pwofèt yo.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "fè vit"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poud la"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "poud la"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "anba sou"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zye l yo"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "rekonèt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (pwofèt la)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "nan pwofèt yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li se"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:53.174696647Z",
+  "model": "glm-5.3"
+}

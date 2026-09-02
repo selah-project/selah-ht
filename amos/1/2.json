@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E l di: Yawe ap rwaye depi Tsiyòn, e depi Yerouchalayim l ap bay vwa l; e prè pastè yo ap dezole, e tèt Karmèl la ap seche.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E l di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "depi Tsiyòn"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ap rwaye"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "e depi Yerouchalayim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "vwa l"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "e ap dezole"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "prè"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pastè yo"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "e ap seche"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:37:30.797592590Z",
+  "model": "glm-5.3"
+}

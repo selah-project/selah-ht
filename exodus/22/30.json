@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E nou ap moun konsakre pou mwen; vyann yon bèt yo devore nan jaden a, nou pa dwe manje ⟨את⟩ l — pou chyen nou jete ⟨את⟩ l.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "e nou ap moun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "pou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "vyann yon bèt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden a"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "yo devore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou dwe manje"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "pou chyen"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "nou jete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (vyann an)"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:23.397100225Z",
+  "model": "glm-5.3"
+}

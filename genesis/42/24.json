@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "L vire ale kote yo, l plere; l tounen bò yo, l pale avèk yo; l pran ⟨את⟩ nan men yo ⟨את⟩ Chimòn, e l mare ⟨את⟩ li devan zye yo.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "l vire"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ale kote yo"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "l plere"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "l tounen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bò yo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "l pale"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "avèk yo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "l pran"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ nan men yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chimòn"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimòn"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "e l mare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "devan zye yo"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "devan zye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:27.925660724Z",
+  "model": "glm-5.3"
+}

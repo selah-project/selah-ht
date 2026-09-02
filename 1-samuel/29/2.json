@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi chèf Filistinyen yo ap defile pa santèn ak pa milen, epi David ak gason l yo ap defile nan dèyè ak Akich.",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "epi chèf"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistinyen yo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ap defile"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "pa santèn"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "ak pa milen"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "epi David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ak gason l yo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ap defile"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "nan dèyè"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akich"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:56.138150569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E se M menm ki ap dezole ⟨את⟩ tè a, e lènmi nou yo ki ap rete ladan l ap fouye je sou li.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "e M ap dezole"
+    },
+    {
+      "surface": "אני",
+      "gloss": "M menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ap fouye je"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "lènmi nou yo"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ki ap rete"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:00.048171155Z",
+  "model": "glm-5.3"
+}

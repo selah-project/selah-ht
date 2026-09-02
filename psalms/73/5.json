@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Nan mizè moun yo pa la; yo pa ⟨gen⟩ frape menm jan ak moun.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "Nan mizè"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "yo pa la"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "yo manyen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:54.494168068Z",
+  "model": "glm-5.3"
+}

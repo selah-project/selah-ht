@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Yawe, gide m nan jistis ou paske adversè m yo; fè wout ou vin dwat devan m.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "gide m"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nan jistis ou"
+    },
+    {
+      "surface": "למען",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "adversè m yo"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "fè vin dwat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "wout ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:12.218201495Z",
+  "model": "glm-5.3"
+}

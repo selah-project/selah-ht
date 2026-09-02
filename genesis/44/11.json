@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "E yo prese, chak moun desann ⟨את⟩ sak li atè, e chak moun louvri sak li.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "e yo prese"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "desann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sak li"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sak li"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "e louvri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sak li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:49.410529076Z",
+  "model": "glm-5.3"
+}

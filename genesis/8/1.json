@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi Elohim sonje ⟨את⟩ Noach, ak ⟨את⟩ tout bèt ki ap viv yo, ak ⟨את⟩ tout bèt domèstik yo ki te ak ⟨את⟩ li nan kot la; epi Elohim fè yon van pase sou tè a, e dlo yo kalm.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "epi sonje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout bèt ki ap viv yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "bèt ki ap viv yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout bèt domèstik yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt domèstik yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ak ⟨את⟩ li"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "nan kot la"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "epi fè pase"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "kalm"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:49.785192679Z",
+  "model": "glm-5.3"
+}

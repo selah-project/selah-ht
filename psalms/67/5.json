@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 67,
+  "translation": "Réjoui ak chante lap pou nasyon yo, paske ou ap jije pèp yo adwat, epi ou ap gide nasyon yo sou tè a. Sela.",
+  "tokens": [
+    {
+      "surface": "יִֽשְׂמְח֥וּ",
+      "gloss": "réjoui"
+    },
+    {
+      "surface": "וְֽיַרְנְּנ֗וּ",
+      "gloss": "ak chante lap pou"
+    },
+    {
+      "surface": "לְאֻ֫מִּ֥ים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תִּשְׁפֹּ֣ט",
+      "gloss": "ou ap jije"
+    },
+    {
+      "surface": "עַמִּ֣ים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "מִישֽׁוֹר",
+      "gloss": "adrwat"
+    },
+    {
+      "surface": "וּלְאֻמִּ֓ים",
+      "gloss": "epi nasyon yo"
+    },
+    {
+      "surface": "בָּאָ֖רֶץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "תַּנְחֵ֣ם",
+      "gloss": "ou ap gide"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:35.276015644Z",
+  "model": "glm-5.3"
+}

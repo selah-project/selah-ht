@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Kè m pèdi wout, laterè sezi m: ⟨את⟩ nèf dezi m li tounen ⟨an kouraj pè⟩ pou mwen.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "pèdi wout"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Kè m"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "laterè"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "sezi m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nèf dezi m"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "dezi m"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li tounen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "an kouraj pè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:09.929583134Z",
+  "model": "glm-5.3"
+}

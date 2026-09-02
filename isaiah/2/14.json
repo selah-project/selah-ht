@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E sou tout mòn wo yo, e sou tout ti mòn ki wo leve yo",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mòn wo yo"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ti mòn yo"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "ki wo leve yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:00.357898926Z",
+  "model": "glm-5.3"
+}

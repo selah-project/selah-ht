@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Li fè ⟨את⟩ basen an an kwiv, ak ⟨את⟩ pye l an kwiv, ak chats yo nan fanm sèvis yo ki t ap sèvi devan pòtay tant rankont la.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basen an"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "basen an"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kwiv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pye l"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pye l"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kwiv"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "ak chats yo"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "fanm sèvis yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "t ap sèvi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "devan pòtay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:43.493089992Z",
+  "model": "glm-5.3"
+}

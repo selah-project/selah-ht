@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Men li gade detrès yo, lè l tande ⟨את⟩ kri yo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "epi li gade"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "detrès"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "lè l tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kri yo"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "kri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:20.844653182Z",
+  "model": "glm-5.3"
+}

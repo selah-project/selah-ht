@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi Avraham di ak li: Fè atansyon pou w pa janm fè ⟨את⟩ pitit mwen an tounen la.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "fè atansyon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou w"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou w pa janm"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "fè tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit mwen an"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:22:01.653050281Z",
+  "model": "glm-5.3"
+}

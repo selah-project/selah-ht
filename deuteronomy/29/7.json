@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E nou pran ⟨את⟩ pèyi yo, e nou bay ⟨li⟩ kòm eritaj pou Reouvenit yo, ak pou Gadit yo, ak pou mwatye tribi Manase a.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "e nou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèyi yo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "pèyi yo"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "e nou bay ⟨li⟩"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "kòm eritaj"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "pou Reouvenit yo"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ak pou Gadit yo"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ak pou mwatye"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Manase a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:10.228855293Z",
+  "model": "glm-5.3"
+}

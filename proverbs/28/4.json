@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Moun ki abandone Lwa a fè lov pou mechant la; men moun ki kenbe Lwa a goumen kont yo.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "moun ki abandone"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Lwa a"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "fè lov pou"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechant la"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "men moun ki kenbe"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Lwa a"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "goumen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kont yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:24.339387418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E ⟨ou⟩ ansènye yo byen pou pitit ou yo, e ⟨ou⟩ pale yo lè ou chita nan kay ou a, e lè ou mache nan wout la, e lè ou kouche, e lè ou leve.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "e ansènye byen"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "pou pitit ou yo"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "e pale"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "lè ou chita"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nan kay ou a"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "e lè ou mache"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout la"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "e lè ou kouche"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "e lè ou leve"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:24.925006640Z",
+  "model": "glm-5.3"
+}

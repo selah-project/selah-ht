@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Tout gra tè a ap manje e ap mete tèt yo atè devan l; tout moun k ap desann nan pousyè a ap jenou devan l — ⟨menm moun ki⟩ pa kapab kenbe nanm pa yo vivan.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "e ap mete tèt yo atè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "gra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ap jenou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "moun k ap desann nan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ak nanm li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kapab kenbe vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:17.639796008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Men, dife a desann soti nan syèl yo, li devore ⟨את⟩ de chèf senkant premye yo ak ⟨את⟩ senkant yo menm; kounye a, ke lavi m presye nan je ou.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Men"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "desann"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "li devore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de chèf senkant premye yo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "premye yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "senkant yo menm"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "senkant yo menm"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "ke … presje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lavi m"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nan je ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:46.658541904Z",
+  "model": "glm-5.3"
+}

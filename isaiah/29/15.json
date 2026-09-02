@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Malè pou yo ki ap fouye twò fon pou kache konsèy yo depi Yawe; zak yo fèt nan fènwa, e yo di: Kimen ki gade nou, ak kimen ki konnen nou?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malè"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "yo ki ap fouye twò fon"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "depi Yawe"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "pou kache"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "konsèy"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "nan fènwa"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "zak yo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kimen ki"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "gade nou"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ak kimen ki"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "konnen nou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:22:21.423120473Z",
+  "model": "glm-5.3"
+}

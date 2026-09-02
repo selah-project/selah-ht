@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Elohim, tande lapriyè m; pran zòrèy pou pawòl bouch m.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lapriyè m"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pran zòrèy pou"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:54.006145256Z",
+  "model": "glm-5.3"
+}

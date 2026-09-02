@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Ke Yawe sonje ⟨fot⟩ zansèt li yo, epi ke yo pa efase pechè manman l.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Ke (li) sonje"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fot"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt li yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "epi pechè"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "efase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:16.007442628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Epi yo ofri zakrifis gras, epi yo rakonte zèv li yo ak chant rejwisans.",
+  "tokens": [
+    {
+      "surface": "וגזבחו",
+      "gloss": "epi yo ofri zakrifis"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "zakrifis"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "gras"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "epi yo rakonte"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zèv li yo"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ak chant rejwisans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:22.863297851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ak Ahichar sou kay la; ak Adòniram, pitit gason Avda, sou tribi a.",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "Ak Ahichar"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "ak Adòniram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Avda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המס",
+      "gloss": "tribi a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:54.774583592Z",
+  "model": "glm-5.3"
+}

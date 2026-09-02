@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Se ou, se men ou ki depouse nasyon yo, e ki plante yo; se ou ki aflije pèp yo, e ki voye yo deyò.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Se ou"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "depouse"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "e ou plante yo"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "aflije"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "e ou voye yo deyò"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:00.380023829Z",
+  "model": "glm-5.3"
+}

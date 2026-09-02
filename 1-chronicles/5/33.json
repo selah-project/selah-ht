@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Merayot fè pitit ⟨את⟩ Amarya, epi Amarya fè pitit ⟨את⟩ Ahitouv.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarya"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarya"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "epi Amarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahitouv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitouv"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:35.280379536Z",
+  "model": "glm-5.3"
+}

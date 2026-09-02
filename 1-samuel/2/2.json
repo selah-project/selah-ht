@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Pa gen ki sen tankou Yawe, paske pa gen ⟨lòt⟩ san ou, epi pa gen wòch tankou Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "tankou Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "san ou"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa gen"
+    },
+    {
+      "surface": "צור",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "tankou Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:27.754876047Z",
+  "model": "glm-5.3"
+}

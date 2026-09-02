@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi Yehochoua te levey bonè nan maten, epi prèt yo te pote ⟨את⟩ wat Yawe a.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "te levey bonè"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "te pote"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Yawe a"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:00:16.343441066Z",
+  "model": "glm-5.3"
+}

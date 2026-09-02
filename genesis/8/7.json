@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li voye ⟨את⟩ kòwo a, e li soti, ap soti ap tounen, jouk dlo yo che atè sou tè a.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E li voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòwo a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kòwo a"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e li soti"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "ap soti"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ak ap tounen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "che atè"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:00.477626030Z",
+  "model": "glm-5.3"
+}

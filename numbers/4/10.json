@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E yo mete ⟨את⟩ li ak ⟨את⟩ tout vasèl li yo nan yon kouvèti po tachach, e yo mete l sou ba pòte a.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "e yo mete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (channdelye a)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout vasèl li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "vasèl li yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kouvèti"
+    },
+    {
+      "surface": "עור",
+      "gloss": "po"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tachach"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "e yo mete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ba pòte a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:22:03.577083663Z",
+  "model": "glm-5.3"
+}

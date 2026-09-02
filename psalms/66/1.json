@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Pou chèf mizisyen an. Yon chante, yon mizmò. Fè bri pou Elohim, tout tè a!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmò"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "fè bri"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:29.649137690Z",
+  "model": "glm-5.3"
+}

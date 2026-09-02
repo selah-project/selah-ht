@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou pran mete ⟨את⟩ lotèbòy a pou ofrand boule a devan pòtay la nan habitasyon an, tant rankont la.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotèbòy ofrand boule a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lotèbòy"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrand boule a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "habitasyon"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:52.693555687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Arpakhchad fè ⟨את⟩ Chelah, ak Chelah fè ⟨את⟩ Èvè.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpakhchad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Chelah"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ak Chelah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Èvè"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Èvè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:40.053194416Z",
+  "model": "glm-5.3"
+}

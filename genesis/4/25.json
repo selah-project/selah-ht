@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Adam konnen ankò ⟨את⟩ madanm li, e li fè yon pitit gason, e li rele non l ⟨את⟩ Chèt, paske Elohim mete yon lòt pitit pou mwen an plas Hevel, paske Kayin touye l.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madanm li"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "li fè yon pitit gason"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "e li rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Chèt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שת",
+      "gloss": "mete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "youn lòt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "touye l"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:04.917470273Z",
+  "model": "glm-5.3"
+}

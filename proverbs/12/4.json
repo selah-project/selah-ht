@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Fanm ki gen valè se kouwòn pou mari l, men fanm ki fè l wont se kòm pourriti nan zo l yo.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ki gen valè"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kouwòn"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "pou mari l"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "men kòm pourriti"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "nan zo l yo"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "fanm ki fè l wont"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:40.436734154Z",
+  "model": "glm-5.3"
+}

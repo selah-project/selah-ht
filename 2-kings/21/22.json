@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E l kite ⟨את⟩ Yawe, Elohim papa l yo, e l pa mache nan wout Yawe a.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "e l kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:18:56.604159729Z",
+  "model": "glm-5.3"
+}

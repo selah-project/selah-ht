@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Jenn lyon yo pov epi grangou, ⟨men⟩ moun ki chèche Yawe pa ap manke nenpòt bon bagay.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "jenn lyon yo"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "pov"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "epi grangou"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "epi moun ki chèche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "ap manke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon bagay"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:33.516568101Z",
+  "model": "glm-5.3"
+}

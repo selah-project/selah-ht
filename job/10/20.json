@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Èske jou m yo pa kout? Sispann ⟨kounye a⟩, e mete deyò sou m, pou m ka eklere yon ti kras!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske ... pa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou m yo"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Sispann"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "e mete"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "deyò sou m"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "pou m ka eklere"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yon ti kras"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:17.348750427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Pa pou ou gen lòt dye devan ⟨fas⟩ mwen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "על",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:06.550003810Z",
+  "model": "glm-5.3"
+}

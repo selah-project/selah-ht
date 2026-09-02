@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Yo pran ⟨את⟩ tout pilyaj la ak ⟨את⟩ tout pwenn nan — nan moun ak nan bèt.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pilyaj la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "pilyaj la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout pwenn nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "pwenn nan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nan moun"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ak nan bèt"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:47.045365421Z",
+  "model": "glm-5.3"
+}

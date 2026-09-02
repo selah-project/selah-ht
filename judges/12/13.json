@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Apre li, Avdon, pitit Hillel, ⟨ki⟩ Piratònyen, jije ⟨את⟩ Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "jije"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "apre li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Piratònyen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:18:10.571391016Z",
+  "model": "glm-5.3"
+}

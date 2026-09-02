@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pawòl Yirmeyahu, pitit Khilkiyahu, yonn nan prèt yo, ki te nan Anatot, nan peyi Binjamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Pawòl"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilkiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "yonn nan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki te nan"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    }
+  ],
+  "timestamp": "2026-09-02T18:45:48.028119442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Pou fè pitit moun yo konnen zèv fòs l yo, ak glwa majeste wayòm li a.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "pou fè ... konnen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "zèv fòs l yo"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ak glwa"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "majeste"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "wayòm li a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:15.310374434Z",
+  "model": "glm-5.3"
+}

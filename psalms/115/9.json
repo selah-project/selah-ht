@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Yisrayèl, mete konfyans ou nan Yawe; se li menm èd yo ak bouclye yo.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "mete konfyans"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "èd yo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ak bouclye yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:32.237944880Z",
+  "model": "glm-5.3"
+}

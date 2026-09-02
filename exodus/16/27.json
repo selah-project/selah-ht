@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E l te pase, nan sètyèm jou la, kèk moun nan pèp la soti pou yo al rasanble, e yo pa jwenn anyen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E l te pase"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sètyèm la"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "yo soti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "pou al rasanble"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "yo jwenn anyen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:35.863826907Z",
+  "model": "glm-5.3"
+}

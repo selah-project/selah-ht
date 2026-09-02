@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Adònay Yawe sèman nan santite li: gade, jou yo ap vini sou nou, e ⟨yo⟩ ap pote ⟨את⟩ nou ak kwen, e dènye rezèv nou ⟨ak⟩ kwen pweson.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sèman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "nan santite li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gade (ke)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e ap pote"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "ak kwen"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "e dènye rezèv nou"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "ak"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "kwen pweson"
+    }
+  ],
+  "timestamp": "2026-09-02T19:37:36.713265049Z",
+  "model": "glm-5.3"
+}

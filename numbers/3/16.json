@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi Moche kontye ⟨את⟩ yo dapre bouch Yawe, jan li te resevwa lòd.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "epi ... kontye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (pitit Levi yo)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "על",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "li te resevwa lòd"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:07.455488504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Moun lavil la soti e yo goumen kont ⟨את⟩ Yoav, e gen moun ki tonbe nan pèp la, nan esklav David yo, e Ouwiya Hetit la mouri tou.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "e yo soti"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "e yo goumen kont"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "e moun tonbe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "pami esklav"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e li mouri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ouwiya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetit la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:23.699483943Z",
+  "model": "glm-5.3"
+}

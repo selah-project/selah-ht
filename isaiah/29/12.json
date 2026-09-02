@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E liv la bay yon moun ki pa konnen liv, pou yo di: 'Li sa a, souple'; e li reponn: 'M pa konnen liv.'",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "E bay"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "liv la"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moun ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "liv"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Li"
+    },
+    {
+      "surface": "נא",
+      "gloss": "souple"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "epi li reponn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m konnen"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "liv"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:22.611709018Z",
+  "model": "glm-5.3"
+}

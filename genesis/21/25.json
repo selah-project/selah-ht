@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Avraham fè reprann ⟨את⟩ Avimelekh sou zak yon pit dlo, menm pit la a ke sèvant Avimelekh te vòlè.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "fè reprann"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "zak"
+    },
+    {
+      "surface": "באר",
+      "gloss": "pit"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "te vòlè"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvant"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:22.207490986Z",
+  "model": "glm-5.3"
+}

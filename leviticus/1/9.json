@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "ak antray li ak janm li yo, y ap lave yo ak dlo; e prèt la ap fimen ⟨את⟩ tout bagay yo sou lotèl la — yon ofrann boule, yon ofrann dife, yon sant apay pou Yawe.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "ak antray li"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ak janm li yo"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ap lave"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "epi ap fimen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout bagay yo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sou lotèl la"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ofrann boule"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofrann dife"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "sant"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "apay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:31.016309711Z",
+  "model": "glm-5.3"
+}

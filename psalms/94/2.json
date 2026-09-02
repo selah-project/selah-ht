@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Leve w, jij ⟨nan⟩ tè a; voye tounen retribisyon sou moun van yo.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Leve w"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "jij"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "השב",
+      "gloss": "voye tounen"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "retribisyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "moun van yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:00.247594679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li chanje ⟨את⟩ dlo yo an san, e li fè ⟨את⟩ pwason yo mouri.",
+  "tokens": [
+    {
+      "surface": "הָפַ֣ךְ",
+      "gloss": "chanje"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dlo yo"
+    },
+    {
+      "surface": "מֵימֵיהֶ֣ם",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "לְדָ֑ם",
+      "gloss": "an san"
+    },
+    {
+      "surface": "וַ֝יָּ֗מֶת",
+      "gloss": "fè mouri"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pwason yo"
+    },
+    {
+      "surface": "דְּגָתָֽם",
+      "gloss": "pwason yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:27.310947855Z",
+  "model": "glm-5.3"
+}

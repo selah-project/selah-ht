@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Se pa m ap antre nan tant kay mwen, se pa m ap monte sou kabann dòmi mwen —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se pa"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "m ap antre"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nan tant"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kay mwen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se pa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "m ap monte"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "kabann"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "dòmi mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:12.657644945Z",
+  "model": "glm-5.3"
+}

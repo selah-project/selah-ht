@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 17:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E mwen pral kanpe ⟨את⟩ alyans mwen an ant mwen ak ou, ak desandan ou aprè ou, pou jenerasyon yo, pou yon alyans pou tout tan, pou mwen ye Elohim pou ou, e pou desandan ou aprè ou.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "mwen pral kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alyans mwen an"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alyans mwen an"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ant mwen"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "desandan ou"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aprè ou"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "pou jenerasyon yo"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "pou yon alyans"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "pou mwen ye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "epi pou desandan ou"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aprè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:46.403972474Z",
+  "model": "glm-5.3"
+}

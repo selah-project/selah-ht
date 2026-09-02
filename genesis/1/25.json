@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim fè ⟨את⟩ bèt sovaj tè a chak nan espès li, ak ⟨את⟩ bèt domestik yo chak nan espès li, ak ⟨את⟩ tout kreyati ki rampe sou tè a chak nan espès li; e Elohim wè ki sa a bon.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèt sovaj tè a"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bèt sovaj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "chak nan espès li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèt domestik yo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt domestik yo"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "chak nan espès li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout kreyati ki rampe sou tè a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kreyati ki rampe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "chak nan espès li"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:01.489758603Z",
+  "model": "glm-5.3"
+}

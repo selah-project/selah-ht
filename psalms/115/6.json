@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Zòrèy pou yo genyen, men yo pa tande; nen pou yo genyen, men yo pa fleri.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "zòrèy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "fleri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:17.039175664Z",
+  "model": "glm-5.3"
+}

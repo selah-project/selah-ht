@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Sajès moun malin, se pou l konprann wout li; men sòt nan sòt yo se twòp.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "moun malin"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "wout li"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "men sòt"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sòt yo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "twòp"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:00.664243050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Paske violans kè yo ap medite ⟨l⟩, ak mechanste lev yo ap pale ⟨l⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שד",
+      "gloss": "violans"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ap medite"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kè yo"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ak mechanste"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "lev yo"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "ap pale"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:45.949209452Z",
+  "model": "glm-5.3"
+}

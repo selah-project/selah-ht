@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "⟨את⟩ tant reyinyon an, ak ⟨את⟩ Ark temwayaj la, ak ⟨את⟩ kouvèman ekspiyasyon an ki sou li, ak ⟨את⟩ tout mobilye tant la —",
+  "tokens": [
+    {
+      "surface": "אֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "tant reyinyon an"
+    },
+    {
+      "surface": "אֹ֣הֶל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מוֹעֵ֗ד",
+      "gloss": "reyinyon"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ark temwayaj la"
+    },
+    {
+      "surface": "הָֽאָרֹ֟ן",
+      "gloss": "Ark la"
+    },
+    {
+      "surface": "לָֽעֵדֻ֔ת",
+      "gloss": "temwayaj"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kouvèman ekspiyasyon an"
+    },
+    {
+      "surface": "הַכַּפֹּ֖רֶת",
+      "gloss": "kouvèman ekspiyasyon an"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עָלָ֑יו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout mobilye tant la"
+    },
+    {
+      "surface": "כָּ֣ל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כְּלֵ֥י",
+      "gloss": "mobilye"
+    },
+    {
+      "surface": "הָאֹֽהֶל",
+      "gloss": "tant la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:45.201403223Z",
+  "model": "glm-5.3"
+}

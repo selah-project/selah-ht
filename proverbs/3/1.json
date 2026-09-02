@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Pitit mwen, pa bliye tora mwen, e mitzvot mwen, ke kè ⟨ou⟩ kenbe",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit mwen"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e mitzvot mwen"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:51.998057304Z",
+  "model": "glm-5.3"
+}

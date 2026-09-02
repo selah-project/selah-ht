@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi wa a lonje bay Ester ⟨את⟩ sèpt dore a; epi Ester leve epi li kanpe devan wa a.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "epi wa a lonje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "bay Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèpt"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "sèpt"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dore"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "epi Ester leve"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "epi li kanpe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:56:11.642073476Z",
+  "model": "glm-5.3"
+}

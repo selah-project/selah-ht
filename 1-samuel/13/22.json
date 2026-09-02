@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi lè jou batay la rive, yo pa te jwenn okenn epe ni lans nan men tout pèp ki te ak ⟨את⟩ Chaoul ak ⟨את⟩ Yonatan; men yo te jwenn pou Chaoul ak pou Yonatan, pitit gason li a.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Epi lè ... rive"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "batay la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "te jwenn"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epe"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "ni lans"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki te ak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "men yo te jwenn"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "pou Chaoul"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "ak pou Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason li a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:27:38.507740948Z",
+  "model": "glm-5.3"
+}

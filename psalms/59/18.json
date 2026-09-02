@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Fòs mwen an, ba ou m ap chante louwanj, paske Elohim se wòch wo mwen, Elohim hesed mwen an.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Fòs mwen an"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ap chante louvanj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "wòch wo mwen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesed mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:11.951502240Z",
+  "model": "glm-5.3"
+}

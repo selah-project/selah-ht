@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi senk wa sa yo pran foui, e yo kache tèyo nan yon kav nan Makeda.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "epi ... pran foui"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "senk"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "e yo kache tèyo"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "nan yon kav"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "nan Makeda"
+    }
+  ],
+  "timestamp": "2026-09-02T17:03:46.361654748Z",
+  "model": "glm-5.3"
+}

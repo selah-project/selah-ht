@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "E yo kwè nan pawòl li; yo chante lodaj li.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "e kwè"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "nan pawòl li"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lodaj li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:22.589735320Z",
+  "model": "glm-5.3"
+}

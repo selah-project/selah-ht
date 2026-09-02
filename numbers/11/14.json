@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Mwen pa kapab, mwen sèl, pote ⟨את⟩ tout pèp sa a, paske li twò lou pou mwen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kapab"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pèp sa a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:27:43.925246560Z",
+  "model": "glm-5.3"
+}

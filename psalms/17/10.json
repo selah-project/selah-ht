@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Grès ⟨kè⟩ yo fèmen ⟨yo⟩, bouch yo pale ak ògwaye.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "grès yo"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "bouch yo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ak ògwaye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:12.453661143Z",
+  "model": "glm-5.3"
+}

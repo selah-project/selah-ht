@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Paske konsa Yawe di: menm kaptif nan men gason fò a pral pran, e pyè ki vyolan an pral sove; ⟨את⟩ moun ki lite avèk ou se mwen ap lite, e ⟨את⟩ pitit ou yo se mwen ap delivre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "כה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "kaptif"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gason fò"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "pral pran"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "e pyè"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "ki vyolan"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "pral sove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "moun ki lite avèk ou"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "moun ki lite avèk ou"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ap lite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pitit ou yo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "se mwen"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ap delivre"
+    }
+  ],
+  "timestamp": "2026-09-02T18:40:28.009782927Z",
+  "model": "glm-5.3"
+}

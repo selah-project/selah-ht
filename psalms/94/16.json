@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Kiyès ki ap kanpe pou mwen kont moun k ap fè mal? Kiyès ki ap kanpe fèm pou mwen kont moun k ap travay movedis?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ki ap kanpe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kont"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "moun k ap fè mal"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ki ap kanpe fèm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kont"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun k ap travay"
+    },
+    {
+      "surface": "און",
+      "gloss": "movedis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:45.659300895Z",
+  "model": "glm-5.3"
+}

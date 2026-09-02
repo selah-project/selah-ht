@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Pou David. Plane ⟨la⟩ kòz mwen, Yawe, ak moun ki diskite ak mwen; goumen ⟨את⟩ moun ki goumen kont mwen.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pou David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "plane kòz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki diskite ak mwen"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "moun ki diskite ak mwen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "goumen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki goumen kont mwen"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "moun ki goumen kont mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:12.226921385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E kounye a, jire pou mwen nan Yawe: pa koupe ⟨את⟩ descandans mwen apre mwen, e pa fè ⟨את⟩ non mwen disparèt nan kay papa mwen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E kounye a"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "jire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "descandans mwen"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "descandans mwen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre mwen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "fè ... disparèt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non mwen"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "non mwen"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:44.575659456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Nwaj epè yo vide dlo, syèl yo bay yon son, menm flèch ou yo ap mache toutou.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "vide"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "nwaj epè yo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "yon son"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "flèch ou yo"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ap mache toutou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:33.767903758Z",
+  "model": "glm-5.3"
+}

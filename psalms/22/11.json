@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Sou Ou m te jete depi vant ⟨matris la⟩; depi nan vant manman m, se Ou El mwen ye.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Sou Ou"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "m te jete"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "depi vant"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "nan vant"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "manman m"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ou ye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:45.468949704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Gade, li ap fè pen ak mechanste; e li ansent malfe, e li fèt manti.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "li ap fè pen"
+    },
+    {
+      "surface": "און",
+      "gloss": "mechanste"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "e li ansent"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "malfe"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "e li fèt"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "manti"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:16.731178030Z",
+  "model": "glm-5.3"
+}

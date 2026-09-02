@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Pou David. Vers ou, Yawe, nanm mwen mwen leve.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pou David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Vers ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "leve"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:15.543789295Z",
+  "model": "glm-5.3"
+}

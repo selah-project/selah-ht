@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimnah ak ⟨את⟩ migra l, ⟨את⟩ Nahalal ak ⟨את⟩ migra l — kat vil.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimnah"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "migra l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migra l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "migra l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migra l"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "vil"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:03.205478997Z",
+  "model": "glm-5.3"
+}

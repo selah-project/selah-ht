@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "se pa m ap bay dòmi pou zye mwen, nickel pou pawpyè mwen —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se pa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ap bay"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pou zye mwen"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "pou pawpyè mwen"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "nickel"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:12.657772835Z",
+  "model": "glm-5.3"
+}

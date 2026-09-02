@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 10:23",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi yo fè konsa: yo mennen ⟨את⟩ senk wa yo sa yo soti nan kav la vin jwenn li — ⟨את⟩ wa Yerouchalayim an, ⟨את⟩ wa Hevròn an, ⟨את⟩ wa Yarmout la, ⟨את⟩ wa Lachich la, ⟨את⟩ wa Eglòn nan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "epi yo fè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "yo mennen soti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vin jwenn li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senk wa yo sa yo"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "senk"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "kav la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa Yerouchalayim an"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa Hevròn an"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevròn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa Yarmout la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmout"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa Lachich la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lachich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa Eglòn nan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglòn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:07.441727010Z",
+  "model": "glm-5.3"
+}

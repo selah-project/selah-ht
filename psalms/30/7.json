@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Men mwen menm, nan lapè mwen te di: Mwen pap janm trennen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "epi mwen menm"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen te di"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "nan trankilite m"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ap trennen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:36.109620664Z",
+  "model": "glm-5.3"
+}

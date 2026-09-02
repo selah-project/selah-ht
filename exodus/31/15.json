@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Senk jou... non — sis jou travay ka fèt, men nan sètyèm jou a, se chomo, chomoton, sen pou Yawe; tout moun ki fè travay nan jou chomo a ap mouri sètèlman.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "travay ka fèt"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "men nan jou a"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sètyèm"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "chomo"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "chomoton"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout moun"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "chomo a"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ap mouri sètèlman"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:00.738750174Z",
+  "model": "glm-5.3"
+}

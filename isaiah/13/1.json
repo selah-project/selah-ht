@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Chaj Bavel la — se sa Yechayahou, pitit Amots, te wè.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "chaj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "te wè"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yechayahou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:49.787955047Z",
+  "model": "glm-5.3"
+}

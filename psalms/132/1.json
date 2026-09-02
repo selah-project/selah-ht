@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Chante pou montey yo. Sonje, Yawe, pou David, ⟨את⟩ tout soufrans li yo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "montey yo"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Sonje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout soufrans li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "soufrans li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:12.657282231Z",
+  "model": "glm-5.3"
+}

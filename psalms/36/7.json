@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Jistis ou kòm mòn El yo (mòn ki gen fòs); jijman ou se yon gwo fon dlo; moun ak bèt ou sove, Yawe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Jistis ou"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "kòm mòn yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "jijman ou"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "gwo fon dlo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "yon gwo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ak bèt"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ou sove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:10.821331811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E yo sèvi Gilulim (zidòl yo), ki Yawe te di pou yo: «Nou pa fè ⟨את⟩ bagay sa a.»",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "e sèvi"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "Gilulim (zidòl yo)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagay sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:05.987634715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Se sètman l ap blame ⟨את⟩ nou, si nan kache n ap fè figi doub pou moun.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "sètman"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "l ap blame"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nan kache"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "figi"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "n ap fè doub"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:09.952913837Z",
+  "model": "glm-5.3"
+}

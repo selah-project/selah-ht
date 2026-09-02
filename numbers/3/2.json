@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Men non yo pou pitit Aharòn: premye pitit la Nadav, ak Avihou, Elazar, ak Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Men"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "premye pitit la"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ak Avihou"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ak Itamar"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:42.830422900Z",
+  "model": "glm-5.3"
+}

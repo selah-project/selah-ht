@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Pi bon yon lespri ki ba ak ⟨את⟩ pòv yo pase pataje butin ak ⟨את⟩ moun ki gen kè wo.",
+  "tokens": [
+    {
+      "surface": "טוֹב",
+      "gloss": "Pi bon"
+    },
+    {
+      "surface": "שְׁפַל",
+      "gloss": "ki ba"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pòv yo"
+    },
+    {
+      "surface": "עֲנִיִּים",
+      "gloss": "pòv yo"
+    },
+    {
+      "surface": "מֵחַלֵּק",
+      "gloss": "pataje"
+    },
+    {
+      "surface": "שָׁלָל",
+      "gloss": "butin"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki gen kè wo"
+    },
+    {
+      "surface": "גֵּאִים",
+      "gloss": "moun ki gen kè wo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:43.102688583Z",
+  "model": "glm-5.3"
+}

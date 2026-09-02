@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Moun ki ranmasye an sezon letan se yon gason ki gen lespri; moun ki dòmi nan sezon rekòlt la se yon gason ki fè wont.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "ranmasye"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "an sezon letan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gason"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ki gen lespri"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ki dòmi"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "nan sezon rekòlt la"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gason"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "ki fè wont"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:29.448828058Z",
+  "model": "glm-5.3"
+}

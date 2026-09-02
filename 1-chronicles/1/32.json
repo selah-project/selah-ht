@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Ak pitit Ketoura, konkiven Avraham: li fè ⟨את⟩ Zimran, ak Yokchan, ak Medan, ak Midiyan, ak Yichvak, ak Chouah. Ak pitit Yokchan: Cheva ak Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ak pitit"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketoura"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "konkiven"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "ak Yokchan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "ak Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "ak Midiyan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "ak Yichvak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "ak Chouah"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ak pitit"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokchan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "ak Dedan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:59.190129017Z",
+  "model": "glm-5.3"
+}

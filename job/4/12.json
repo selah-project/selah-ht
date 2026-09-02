@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi ba mwen yon pawòl fin glise an sekre, e zòrèy mwen pran yon ti bri de li.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "Epi ba mwen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon pawòl"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "fin glise an sekre"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "e ... pran"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "zòrèy mwen"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "yon ti bri"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "de li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:55.514617551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim rele rakia a Chemayim. Te gen swa, te gen maten — dezyèm jou a.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakia a"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Chemayim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "te gen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "swa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "te gen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dezyèm"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:02.973186880Z",
+  "model": "glm-5.3"
+}

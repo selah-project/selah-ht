@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Vil dezòd la ranpanen; tout kay fèmen, pa gen okenn antre.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ranpanen"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "vil"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "dezòd"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "antre"
+    }
+  ],
+  "timestamp": "2026-09-02T18:30:05.992269037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Èske ⟨mwen⟩ ap wè ankò kay moun mechan an, ak trezò mechanste, ak efa razòn (miz ki kout) ki deklare maledi?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "האש",
+      "gloss": "Èske ⟨mwen⟩ ap wè"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moun mechan"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "trezò"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechanste"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "ak efa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "razòn (kout)"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "ki deklare maledi"
+    }
+  ],
+  "timestamp": "2026-09-02T19:42:05.010673919Z",
+  "model": "glm-5.3"
+}

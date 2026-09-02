@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Se pou moun ki gen krentif pou ou retounen ba mwen, e pou moun ki konnen temwayaj ou yo.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba mwen"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "moun ki gen krentif pou ou"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "e pou moun ki konnen"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "temwayaj ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:36.374713436Z",
+  "model": "glm-5.3"
+}

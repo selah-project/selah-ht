@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi sa rive nan jou Akachveroch yo — li menm Akachveroch, wa a ki gouvène depi Houdou rive Kouch, sou sèt ak vent ak san pwovens.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sa rive"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akachveroch"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akachveroch"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "depi Houdou"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "rive"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kouch"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ak vent"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "pwovens"
+    }
+  ],
+  "timestamp": "2026-09-02T20:54:44.078919772Z",
+  "model": "glm-5.3"
+}

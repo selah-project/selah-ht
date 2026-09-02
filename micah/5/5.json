@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Yo ap pase ⟨את⟩ peyi Achoù anba epe a, e ⟨את⟩ peyi Nimwod nan pòtay li yo; l ap delivre nou de Achoù lè l antre nan peyi nou, lè l pye-mache nan fwontyè nou.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "yo ap pase anba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyi Achoù"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achoù"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "anba epe a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "peyi Nimwod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimwod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "nan pòtay li yo"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "e l ap delivre"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "de Achoù"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "l antre"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "nan peyi nou"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e lè"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "l pye-mache"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "nan fwontyè nou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:41:23.299231378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 61,
+  "translation": "Ajou jou sou jou wa a, ane l yo tankou jenerasyon ak jenerasyon.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "Ajou"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "ane l yo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "דר",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:56.384100598Z",
+  "model": "glm-5.3"
+}

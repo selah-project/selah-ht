@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Avchalom ak tout pèp la, gason Yisrayèl yo, te antre Yerouchalayim, e Ahitofèl te ⟨את⟩ avè l.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ak Avchalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "באו",
+      "gloss": "antre"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "ak Ahitofèl"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avè ⟨את⟩ l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:47:49.053527901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Li fè pè e li fwayan: jijman li ak sansyon li soti de li menm.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "fwayan"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "e fè pè"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de li"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "jijman li"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "ak sansyon li"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soti"
+    }
+  ],
+  "timestamp": "2026-09-02T19:43:19.854993567Z",
+  "model": "glm-5.3"
+}

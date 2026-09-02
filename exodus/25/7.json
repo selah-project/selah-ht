@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "pyè choham ak pyè ki moute pou efod la ak pou pyè pawòl sou kòt la —",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "pyè"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "choham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ak pyè"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ki moute"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "pou efod la"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ak pou pyè pawòl sou kòt la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:12.809181410Z",
+  "model": "glm-5.3"
+}

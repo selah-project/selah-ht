@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "ak ⟨את⟩ tout Naftali, ak ⟨את⟩ peyi Efrayim ak Manase, ak ⟨את⟩ tout peyi Yehouda, jouk lanmè dènye a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "peyi Efrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ak Manase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout peyi Yehouda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "dènye a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:59:08.739587235Z",
+  "model": "glm-5.3"
+}

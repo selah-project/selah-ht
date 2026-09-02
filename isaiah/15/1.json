@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Yon chaj pou Moav: paske nan yon nwit yo ravaje Ar nan Moav, li fini an silans; paske nan yon nwit yo ravaje Kir nan Moav, li fini an silans.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "chaj"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "nan yon nwit"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yo ravaje"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "li fini an silans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "nan yon nwit"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yo ravaje"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "li fini an silans"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:38.045529650Z",
+  "model": "glm-5.3"
+}

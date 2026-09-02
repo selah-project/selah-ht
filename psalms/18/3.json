@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Yawe, wòch mwen, fòtès mwen, moun ki delivre m, El mwen, wòch mwen — mwen pran refij nan li, bouchon mwen, kòn delivrans mwen, wòch gadyen mwen ki wo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "wòch mwen"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "fòtès mwen"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "moun ki delivre m"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mwen"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "wòch mwen"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mwen pran refij"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "bouchon mwen"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "kòn"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "delivrans mwen"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "wòch gadyen mwen ki wo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:17.656402598Z",
+  "model": "glm-5.3"
+}

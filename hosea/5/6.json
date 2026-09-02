@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Ak mouton yo ak bèf yo y ap ale pou chèche ⟨את⟩ Yawe, men yo p ap jwenn l; li pran kò l ale lwen yo.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "ak mouton yo"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "ak bèf yo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "y ap ale"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pou chèche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ap jwenn"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "pran kò l ale"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "lwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:43.286091714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi li te genyen fanm — prensès, sèt san — ak konkibin, twa san; e fanm li yo fè ⟨את⟩ kè l vire.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi te genyen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "prensès"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "ak konkibin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "twa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "fè vire"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "fanm li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè l"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:44.133155463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Mwen fè sèman ⟨את⟩ nou, fi Yerouchalayim, pa gazèl yo oswa pa bich yo nan jaden an: pa reveye ⟨את⟩ lanmou a, epi pa fè l reveye, jouk li vle.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "fè sèman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "fi Yerouchalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "pa gazèl"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "pa bich"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "reveye"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "fè reveye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanmou a"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lanmou a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "li vle"
+    }
+  ],
+  "timestamp": "2026-09-02T20:45:14.786871437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Li sibi pèp yo anba nou, e nasyon yo anba pye nou.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Li sibi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "anba nou"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "e nasyon yo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "pye nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:03.199874237Z",
+  "model": "glm-5.3"
+}

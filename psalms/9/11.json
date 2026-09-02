@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi moun ki konnen Non ou a mete konfyans yo nan ou, paske ou pa janm abandone moun ki chèche ou, o Yawe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "mete konfyans"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "moun ki konnen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "abandone"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "moun ki chèche ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:24:42.564466102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E ou touye ⟨את⟩ belier la, e ou pran ⟨את⟩ san l, e ou jete l sou lotèl la tout toutou.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "e ou touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belier la"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "belier la"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "e ou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san l"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san l"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "e ou jete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout toutou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:06.693656948Z",
+  "model": "glm-5.3"
+}

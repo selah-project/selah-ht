@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Paske hesed ou pi bon pase lavi, lèv mwen ap louwanj ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pi bon"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "pase lavi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lèv mwen"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ap louwanj ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:54.306789981Z",
+  "model": "glm-5.3"
+}

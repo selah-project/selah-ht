@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Yo louvri bouch yo kont m — yon lyon k ap dechire e k ap rwaye.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont m"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "bouch yo"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "yon lyon"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "k ap dechire"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "e k ap rwaye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:06.952640707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Kenbe fò, e ⟨ap fè⟩ kè nou vin kouraje, nou tout k ap tann pou Yawe.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Kenbe fò"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "e ⟨ap fè⟩ ... vin kouraje"
+    },
+    {
+      "surface": "לבבככם",
+      "gloss": "kè nou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "moun k ap tann"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:13.623046021Z",
+  "model": "glm-5.3"
+}

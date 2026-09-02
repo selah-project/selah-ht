@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Elohim Tsvaot, tounen, nou lapriyè ou! Gade soti nan syèl yo epi wè, epi vizite pye rezen sa a!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nou lapriyè ou"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "soti nan syèl yo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "epi wè"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "epi vizite"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "pye rezen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:04.252568676Z",
+  "model": "glm-5.3"
+}

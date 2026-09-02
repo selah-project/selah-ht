@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Ak lenmi mwen yo vivan, yo gen fòs; epi moun k ap rayi mwen san rezon yo pliriye.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Ak lenmi mwen yo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "yo gen fòs"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "epi … pliriye"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "moun k ap rayi mwen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "san rezon"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:57.422607876Z",
+  "model": "glm-5.3"
+}

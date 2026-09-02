@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Sa yo ap kanpe pou yo beni ⟨את⟩ pèp la sou mòn Gerizim, lè nou fin travèse ⟨את⟩ Yarden an: Chimòn, ak Levi, ak Yehouda, ak Yissakhar, ak Yosèf, ak Binyamin.",
+  "tokens": [
+    {
+      "surface": "אֵ֠לֶּה",
+      "gloss": "Sa yo"
+    },
+    {
+      "surface": "יַֽעַמְד֞וּ",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "לְבָרֵ֤ךְ",
+      "gloss": "pou yo beni"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "הָעָם֙",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הַ֣ר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "גְּרִזִ֔ים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בְּעָבְרְכֶ֖ם",
+      "gloss": "lè nou fin travèse"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden an"
+    },
+    {
+      "surface": "הַיַּרְדֵּ֑ן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "שִׁמְעוֹן֙",
+      "gloss": "Chimòn"
+    },
+    {
+      "surface": "וְלֵוִ֣י",
+      "gloss": "ak Levi"
+    },
+    {
+      "surface": "וִֽיהוּדָ֔ה",
+      "gloss": "ak Yehouda"
+    },
+    {
+      "surface": "וְיִשָּׂשכָ֖ר",
+      "gloss": "ak Yissakhar"
+    },
+    {
+      "surface": "וְיוֹסֵ֥ף",
+      "gloss": "ak Yosèf"
+    },
+    {
+      "surface": "וּבִנְיָמִֽן",
+      "gloss": "ak Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-02T22:20:21.147359173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi ou mete ⟨את⟩ de kòd lò yo sou de anchàn yo, nan bout panchè a.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kòd lò yo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "kòd"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "anchàn yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "bout"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "panchè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:29.917219893Z",
+  "model": "glm-5.3"
+}

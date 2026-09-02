@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 101,
+  "translation": "Moun ki ap fè mechansèt sou vwazen l an sekrè, ⟨את⟩ li m ap fini; moun ki gen je wo ak kè anfle, ⟨את⟩ li m pa ka sipòte.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "ki ap fè mechansèt"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "an sekrè"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "vwazen l"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ li",
+      "marks": "moun ki ap fè mechansèt sou vwazen l"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "m ap fini"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "je"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ak anfle"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "moun ki gen je wo ak kè anfle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kapab"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:43.209106389Z",
+  "model": "glm-5.3"
+}

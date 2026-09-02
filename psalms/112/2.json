@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 112,
+  "translation": "Desandan l ap vin gason fò nan tè a; jenerasyon moun dwat yo ap beni.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "gason fò"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "desandan li"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "moun dwat yo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ap beni"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:38.487197234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Yo rele ba Lot epi yo di l: Ki kote gason yo ki vin jwenn ou aswè a? Pote yo deyò jwenn nou, pou nou konnen ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "rele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ki kote"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gason yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "jwenn ou"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "aswè a"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "Pote yo deyò"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "jwenn nou"
+    },
+    {
+      "surface": "וידעה",
+      "gloss": "pou nou konnen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:55.554186835Z",
+  "model": "glm-5.3"
+}

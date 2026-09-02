@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E ou fè ⟨את⟩ chabat sen ou konnen pou yo; e ou kòmande pou yo kòmandman, estatwa ak lwa, nan men Moche, sèvitè ou a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "chabat sen ou"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "chabat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sen ou"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "e kòmandman"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "estatwa"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvitè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:10:05.894018178Z",
+  "model": "glm-5.3"
+}

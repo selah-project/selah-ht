@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 2:9",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "L ap kouri dèyè ⟨את⟩ moun ki renmen l yo, men l ap pa rive yo; l ap chèche yo, men l ap pa jwenn yo; epi l ap di: M ap ale, m ap tounen ba mari m an premye a, paske l te pi byen pou m lè sa a pase kounye a.",
+  "tokens": [
+    {
+      "surface": "ורדפה",
+      "gloss": "epi kouri dèyè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki renmen l yo"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "moun ki renmen l yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "rive"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "epi chèche yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "epi tounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mari m"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "premye a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "אז",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kounye a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:24:17.929225080Z",
+  "model": "glm-5.3"
+}

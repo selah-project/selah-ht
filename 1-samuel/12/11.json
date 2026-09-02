@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi Yawe voye ⟨את⟩ Yeroubaal, ak ⟨את⟩ Bedan, ak ⟨את⟩ Yiftakh, ak ⟨את⟩ Chemouel, e li delivre ⟨את⟩ nou nan men enmi nou yo toutotou, e nou rete an sekirite.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "epi li voye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroubaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yeroubaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yiftakh"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chemouel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "e li delivre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "enmi nou yo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "e nou rete"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "an sekirite"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:59.119608587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Li fè kòn yo sou kat kwen li yo — yo soti nan li menm, kòn yo; epi li kouvri ⟨את⟩ li ak kwiv.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "kòn yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "kwen li yo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "soti nan li"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "kòn yo"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (lotèl la)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:58.898917897Z",
+  "model": "glm-5.3"
+}

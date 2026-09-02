@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Se poutèt sa yon gason ap kite ⟨את⟩ papa l ak ⟨את⟩ manman l, e l ap kole ak fanm li, e yo ap vin yon sèl vyann.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "כן",
+      "gloss": "poutèt sa"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ap kite"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon gason"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "manman l"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "e l ap kole"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "ak fanm li"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e yo ap vin"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "yon sèl vyann"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:11.986015661Z",
+  "model": "glm-5.3"
+}

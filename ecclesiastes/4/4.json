@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E mwen menm mwen wè ⟨את⟩ tout pen ak ⟨את⟩ tout sajès travay la: paske li se jalouzi yon nonm kont vwazen li. Tou sa a se vanite e kourì dèyè van.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "e m wè"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sajès travay la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "travay la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "jalouzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "kont vwazen li"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "e kourì"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:55.715316746Z",
+  "model": "glm-5.3"
+}

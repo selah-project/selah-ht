@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Epi m ap vini nan ote Elohim, nan El, lajwa jwa mwen an; epi m ap fè lwanj ou ak kinòr, Elohim, Elohim mwen.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "epi m ap vini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ote"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "lajwa"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "jwa mwen an"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "epi m ap fè lwanj ou"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ak kinòr"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:49.146711256Z",
+  "model": "glm-5.3"
+}

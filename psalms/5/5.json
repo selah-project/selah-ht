@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Paske ou ⟨se⟩ pa yon El ki pran plezi nan mechansèt, mal pa ka rete devan ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yon El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ki pran plezi nan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechansèt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ka rete devan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:14.434489662Z",
+  "model": "glm-5.3"
+}

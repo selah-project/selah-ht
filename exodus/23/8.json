@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E pa pran kado koripsyon, paske kado koripsyon an fè menm moun ki gen je klè yo avèg, e li detwi pawòl moun jis yo.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "E kado koripsyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "kado koripsyon an"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "fè avèg"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "moun ki gen je klè yo"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "e li detwi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:13.003560257Z",
+  "model": "glm-5.3"
+}

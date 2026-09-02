@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ou koute vwa Yawe Elohim ou a, epi ou fè ⟨את⟩ kòmandman l yo ak ⟨את⟩ lwa l yo, se mwen menm ki kòmande ou yo jodi a.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "epi ou koute"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "epi ou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman l yo"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "kòmandman l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lwa l yo"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "lwa l yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kòmande ou yo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:38.438689512Z",
+  "model": "glm-5.3"
+}

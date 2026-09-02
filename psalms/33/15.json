@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Li menm ki fòme kè yo ansanm, li menm ki konprann tout zèv yo.",
+  "tokens": [
+    {
+      "surface": "הַיֹּצֵר",
+      "gloss": "Li menm ki fòme"
+    },
+    {
+      "surface": "יַחַד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "לִבָּם",
+      "gloss": "kè yo"
+    },
+    {
+      "surface": "הַמֵּבִין",
+      "gloss": "li menm ki konprann"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "vi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מַעֲשֵׂיהֶם",
+      "gloss": "zèv yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:50.594759540Z",
+  "model": "glm-5.3"
+}

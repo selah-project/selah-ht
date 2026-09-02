@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Pran vanjans — vanjans pitit Yisrael yo — nan men ⟨את⟩ Midyanimit yo; apre sa w ap rasanble ak pèp ou.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "pran vanjans"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "vanjans"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nan men ⟨את⟩",
+      "marks": "Midyanimit yo"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midyanimit yo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "apre sa"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "w ap rasanble"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "pèp ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:51.874474531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Vwa mwen ⟨viè⟩ Elohim, e m ap kriye; vwa mwen ⟨viè⟩ Elohim, e ⟨li⟩ bay zòrèy pou mwen.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Vwa mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨viè⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "e m ap kriye"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vwa mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨viè⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "e ⟨li⟩ bay zòrèy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:50.332328463Z",
+  "model": "glm-5.3"
+}

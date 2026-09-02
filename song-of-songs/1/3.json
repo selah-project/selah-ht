@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pou rèl lwil ou yo bon; non ou se yon lwil ki vide deyò; se poutèt sa jèn fi yo renmen ou.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "Pou rèl"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "lwil ou yo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bon"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "ki vide deyò"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "se pou"
+    },
+    {
+      "surface": "כן",
+      "gloss": "poutèt sa"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "jèn fi yo"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "renmen ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:40.069536095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi ou, leve, ale lakay ou; lè pye ou antre nan lavil la, timoun nan ap mouri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Epi ou"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "leve"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "lakay ou"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "lè … antre"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "pye ou"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "nan lavil la"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:51:17.326077238Z",
+  "model": "glm-5.3"
+}

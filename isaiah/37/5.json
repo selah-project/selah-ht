@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi sèvè wa Khizkiyaho vini jwenn Yechayaho.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Epi … vini"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyaho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yechayaho"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:57.909705195Z",
+  "model": "glm-5.3"
+}

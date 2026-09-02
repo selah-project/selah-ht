@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "N ap rele m, n ap mache, n ap priye pou mwen, e m ap koute pou nou.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "rele"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ m"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "mache"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "priye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "koute"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:58:29.134534849Z",
+  "model": "glm-5.3"
+}

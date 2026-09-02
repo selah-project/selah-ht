@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E li fè antre ⟨את⟩ prèt yo ak ⟨את⟩ Levit yo, e li ranmase yo sou plas la bò solèy leve.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E li fè antre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prèt yo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Levit yo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levit yo"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "e li ranmase yo"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "sou plas"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "bò solèy leve"
+    }
+  ],
+  "timestamp": "2026-09-02T21:34:42.677588861Z",
+  "model": "glm-5.3"
+}

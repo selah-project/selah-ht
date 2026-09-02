@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E sa rive: lè Bacha tande sa, li sispann konstwi ⟨את⟩ Rama a, e li fè ⟨את⟩ travay li kanpe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E sa rive"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lè … tande"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "sispann"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "konstwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama a"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama a"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "e li fè kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "travay li"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "travay li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:30:35.591599352Z",
+  "model": "glm-5.3"
+}

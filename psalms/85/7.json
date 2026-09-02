@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Èske se pa ou ki pral tounen pou ou fè nou viv ankò, pou pèp ou a rejwi nan ou?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske se pa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ki pral tounen"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "fè nou viv ankò"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "epi pèp ou"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ap rejwi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:46.266776105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Kòm yon siy m ⟨te⟩ ye pou anpil moun, men ou se refij m, fòs m.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "Kòm yon siy"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "m te ye"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "pou anpil moun"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "refij m"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:28.003597104Z",
+  "model": "glm-5.3"
+}

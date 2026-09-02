@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Yo tounen, yo tante El, epi yo fè ⟨את⟩ Sen Yisrael la chagren.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "tante"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "epi Sen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "fè … chagren",
+      "marks": "Sen Yisrael la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.587247521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Pou yo delivre moun ou renmen yo; delivre ak men dout ou a, epi reponn ⟨nou⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "yo delivre"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "moun ou renmen yo"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "delive"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "men dout ou"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "epi reponn ⟨nou⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:30.766142344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "W ap vannen yo, e van an pote yo ale, tanpèt la depanse ⟨את⟩ yo; e ou menm, w ap fè lavi nan Yawe, w ap fè lwanj nan Sen Yisrael.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "w ap vannen"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e van"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "pote yo ale"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "tanpèt la"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "depanse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ou menm"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "w ap fè lavi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "nan Sen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "w ap fè lwanj"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:54.959586758Z",
+  "model": "glm-5.3"
+}

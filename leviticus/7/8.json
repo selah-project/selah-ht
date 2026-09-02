@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E kohen ki pote ⟨את⟩ ofrann boule yon nonm — po ofrann boule a menm, sa li te poute a, ap pou kohen an ye.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "e kohen"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ki pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann boule"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofrann boule"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "עור",
+      "gloss": "po"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrann boule a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "te pote"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pou kohen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:21.650304443Z",
+  "model": "glm-5.3"
+}

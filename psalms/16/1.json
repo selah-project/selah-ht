@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Yon Mikhtam pou David. Kenbe m, El, paske m pran refij nan ou.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Yon Mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Kenbe m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m pran refij"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:44.663123306Z",
+  "model": "glm-5.3"
+}

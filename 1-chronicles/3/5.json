@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi yo fèt pou li nan Yerouchalayim: Chimèa, Chovav, Natan, ak Chelomo — kat — pou Bat-Choua, pitit fi Amyèl.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Epi sa yo"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Chimèa"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ak Chovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ak Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ak Chelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "pou pitit fi"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Choua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amyèl"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:53.769262165Z",
+  "model": "glm-5.3"
+}

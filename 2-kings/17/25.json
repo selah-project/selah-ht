@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi l te pase, nan kòmansman rèstans yo la a, yo pa t pè ⟨את⟩ Yawe; se poutèt sa Yawe voye ⟨את⟩ lyon yo nan mitan yo, e yo te touye kèk nan mitan yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi l te pase"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "nan kòmansman"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "rèstans yo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan mitan yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lyon yo"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "lyon yo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e yo te"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "touye"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan mitan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:59.241560358Z",
+  "model": "glm-5.3"
+}

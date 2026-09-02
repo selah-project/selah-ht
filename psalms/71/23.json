@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Lèv yo ap rele ak lajwa lè m ap jwe pou ou, ak nefech mwen menm, sa ou te delivre a.",
+  "tokens": [
+    {
+      "surface": "תְּרַנֵּנָּה",
+      "gloss": "ap rele ak lajwa"
+    },
+    {
+      "surface": "שְׂפָתַי",
+      "gloss": "lèv yo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "אֲזַמְּרָה",
+      "gloss": "m ap jwe"
+    },
+    {
+      "surface": "לָּךְ",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "וְנַפְשִׁי",
+      "gloss": "ak nefech mwen"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פָּדִיתָ",
+      "gloss": "ou te delivre"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:04.955941556Z",
+  "model": "glm-5.3"
+}

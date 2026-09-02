@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yawe Elohim nou an, ki ap mache devan nou — se li menm k ap goumen pou nou, selon tout sa li fè ak ⟨את⟩ nou nan Mitsrayim devan zye nou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ki ap mache"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ap goumen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "ak ⟨את⟩ nou"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "devan zye nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:52.209067398Z",
+  "model": "glm-5.3"
+}

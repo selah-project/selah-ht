@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "E li te abese ak trvay kè yo; yo te tontanbe, e pa t gen moun ki ede yo.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "E li te abese"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "ak trvay"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kè yo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "yo te tontanbe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa t gen"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "moun ki ede"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:01.653799874Z",
+  "model": "glm-5.3"
+}

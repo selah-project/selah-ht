@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Gason je movèz ap presye dèyè richès, e li pa konnen ke mank ap vini sou li.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "ap presye"
+    },
+    {
+      "surface": "להון",
+      "gloss": "dèyè richès"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "רע",
+      "gloss": "movèz"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "mank"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "ap vini sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:17.904293106Z",
+  "model": "glm-5.3"
+}

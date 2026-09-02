@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 142,
+  "translation": "Yon Machkil (pwevan enstriksyon) pou David, lè l te nan kav la — yon priyè.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Machkil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "lè l te"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "nan kav la"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "priyè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:10.818556151Z",
+  "model": "glm-5.3"
+}

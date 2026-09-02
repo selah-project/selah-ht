@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Si l pase, e l fèmen ⟨yo⟩, e l reyini ⟨yo⟩, èske kiyès ka fè l tounen?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "l pase"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "e l fèmen"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "e l reyini"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ka fè l tounen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:44.621201565Z",
+  "model": "glm-5.3"
+}

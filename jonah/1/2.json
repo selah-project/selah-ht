@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Leve, ale nan Ninèv, vil la ki gran an, epi rele kontre l, paske mechanste yo monte devan m.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "leve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninèv"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ki gran an"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "epi rele"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kontre l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "mechanste yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:55.458903479Z",
+  "model": "glm-5.3"
+}

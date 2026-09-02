@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Se poutèt sa orgey ansènen ⟨yo⟩ kòm yon kolye; vyolanse kouvri yo kòm yon rad.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Se poutèt sa"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ansènen"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "orgey"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "שית",
+      "gloss": "yon rad"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolanse"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:54.494414069Z",
+  "model": "glm-5.3"
+}

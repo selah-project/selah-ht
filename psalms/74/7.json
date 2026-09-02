@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Yo voye difé nan santuwè a ou; atè yo pwofane tabènak Non ou.",
+  "tokens": [
+    {
+      "surface": "שִׁלְח֣וּ",
+      "gloss": "yo voye"
+    },
+    {
+      "surface": "בָּ֭אֵשׁ",
+      "gloss": "difé"
+    },
+    {
+      "surface": "מִקְדָּשֶׁ֑ךָ",
+      "gloss": "nan santuwè a ou"
+    },
+    {
+      "surface": "לָאָ֗רֶץ",
+      "gloss": "atè"
+    },
+    {
+      "surface": "חִלְּל֥וּ",
+      "gloss": "yo pwofane"
+    },
+    {
+      "surface": "מִשְׁכַּ֥ן",
+      "gloss": "tabènak"
+    },
+    {
+      "surface": "שְׁמֶֽךָ",
+      "gloss": "Non ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:22.469719766Z",
+  "model": "glm-5.3"
+}

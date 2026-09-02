@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Èske m ap pran ⟨את⟩ pen m, ak ⟨את⟩ dlo m, ak ⟨את⟩ vyann mwen touye a, ki mwen touye pou moun k ap fè tès mouton m yo, e m ap bay gason m pa konnen ki kote yo soti?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "e m ap pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pen m"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "pen m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dlo m"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "dlo m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "vyann mwen touye a"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "vyann mwen touye a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "mwen touye"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "pou moun k ap fè tès mouton m yo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e m ap bay"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "gason"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mwen konnen"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kote"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ki kote"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:25.291101982Z",
+  "model": "glm-5.3"
+}

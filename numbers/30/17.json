@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Sa yo se lwa yo ke Yawe kòmande ⟨את⟩ Moche, ant yon nonm ak madanm li, ant yon papa ak pitit fi li, lè li toujou jèn nan kay papa l.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Sa yo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lwa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "ak madanm li"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אב",
+      "gloss": "yon papa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ak pitit fi li"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "lè li toujou jèn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "papa l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:36:34.034795192Z",
+  "model": "glm-5.3"
+}

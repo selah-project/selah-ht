@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Osi lwen ke lès la de lwès la, menm konsa ⟨li⟩ mete lwen ⟨את⟩ trangresyon nou, lwen nou.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "osi lwen ke"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "lès la"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "de lwès la"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "mete lwen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "lwen nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trangresyon nou"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "trangresyon nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.132278064Z",
+  "model": "glm-5.3"
+}

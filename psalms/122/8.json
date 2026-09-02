@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 122,
+  "translation": "Pou rezon frè m yo ak zanmi m yo, m ap pale kounye a: lapè nan ou.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pou rezon"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè m yo"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ak zanmi m yo"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "m ap pale"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:25.225384524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Malè pou moun ki di bay papa l: Sa w ap fè pitit? Oubyen bay fanm lan: Sa w ap akouche?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malè"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ki di"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "bay papa l"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "w ap fè pitit"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "Oubyen bay fanm lan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "w ap akouche"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:32.634595768Z",
+  "model": "glm-5.3"
+}

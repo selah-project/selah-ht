@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Yawe fin vale yon lespri pèvèsite nan mitan li, epi yo fè ⟨את⟩ Mitsrayim ale esòt nan tout travay li, jan yon moun ki sou ap tranble nan vomi l a.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "fin vale"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "nan mitan li"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "yon lespri"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "pèvèsite"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "epi yo fè ale esòt nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "travay li"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "jan ... ap tranble ale esòt"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "moun ki sou"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "nan vomi l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:29.486448239Z",
+  "model": "glm-5.3"
+}

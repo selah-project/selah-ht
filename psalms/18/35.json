@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Li anseye men m pou lagè, e bra m ⟨desann⟩ yon ak kwiv.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Li anseye"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pou lagè"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "e ... desann"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yon ak"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "kwiv"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "bra m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:49.423347889Z",
+  "model": "glm-5.3"
+}

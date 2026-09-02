@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 146,
+  "translation": "Fè lwanj pou Yah; nanm mwen, fè lwanj pou ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "fè lwanj pou"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "fè lwanj pou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:20.110740485Z",
+  "model": "glm-5.3"
+}

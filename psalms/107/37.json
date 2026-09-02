@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Epi yo simen jaden yo, epi yo plant jaden rezen, epi yo fwi rekòt an abondans.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "epi yo simen"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "jaden yo"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "epi yo plant"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "jaden rezen"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "epi yo fè"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "rekòt"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:24.982426121Z",
+  "model": "glm-5.3"
+}

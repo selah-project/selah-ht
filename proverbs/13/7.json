@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Gen moun ki fè tèt li rich e pa gen anyen; gen moun ki fè tèt li pòv e gen richès anpil.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "fè tèt li rich"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anyen"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "fè tèt li pòv"
+    },
+    {
+      "surface": "והון",
+      "gloss": "e richès"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:02.679319118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Sa gazam yo kite a, areb la manje; e sa areb la kite a, yalek la manje; e sa yalek la kite a, hasil la manje.",
+  "tokens": [
+    {
+      "surface": "יֶתֶר",
+      "gloss": "sa … kite a"
+    },
+    {
+      "surface": "הַגָּזָם",
+      "gloss": "gazam yo"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "הָאַרְבֶּה",
+      "gloss": "areb la"
+    },
+    {
+      "surface": "וְיֶתֶר",
+      "gloss": "e sa … kite a"
+    },
+    {
+      "surface": "הָאַרְבֶּה",
+      "gloss": "areb la"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "הַיָּלֶק",
+      "gloss": "yalek la"
+    },
+    {
+      "surface": "וְיֶתֶר",
+      "gloss": "e sa … kite a"
+    },
+    {
+      "surface": "הַיֶּלֶק",
+      "gloss": "yalek la"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "הֶחָסִיל",
+      "gloss": "hasil la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:17.514602876Z",
+  "model": "glm-5.3"
+}

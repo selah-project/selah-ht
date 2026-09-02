@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi moun ki chita sou mèb la zap la chita sou l ap lave rad li, epi ⟨li⟩ ap benyen nan dlo, epi ⟨li⟩ ap vin pa jouk aswè a.",
+  "tokens": [
+    {
+      "surface": "והישב",
+      "gloss": "Epi moun ki chita a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "mèb la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou l"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zap la"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ap lave"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "epi ap benyen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "epi ap vin pa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aswè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:08.442539303Z",
+  "model": "glm-5.3"
+}

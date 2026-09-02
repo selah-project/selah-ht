@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "e pou nou fè separasyon ant sa ki sen ak sa ki pa sen, ant sa ki enpi ak sa ki pi.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "e pou nou fè separasyon"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa ki sen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "החל",
+      "gloss": "sa ki pa sen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "sa ki enpi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "sa ki pi"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:49.821415681Z",
+  "model": "glm-5.3"
+}

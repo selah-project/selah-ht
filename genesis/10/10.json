@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Kòmansman wayòm li te ye Bavèl, Èrèkh, Akad ak Kalnèh, nan peyi Chinàr.",
+  "tokens": [
+    {
+      "surface": "וותהי",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Kòmansman"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "wayòm li"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavèl"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Èrèkh"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "Kalnèh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Chinàr"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:56.747014754Z",
+  "model": "glm-5.3"
+}

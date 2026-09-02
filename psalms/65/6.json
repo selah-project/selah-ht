@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Avèk zak ki fè moun trempe, nan jistis, ou reponn nou, Elohim delivrans nou an; ⟨li se⟩ sekirite tout bout tè a, ak lanmè ki lwen yo.",
+  "tokens": [
+    {
+      "surface": "נוֹרָאוֹת",
+      "gloss": "zak ki fè moun trempe"
+    },
+    {
+      "surface": "בְּצֶדֶק",
+      "gloss": "nan jistis"
+    },
+    {
+      "surface": "תַּעֲנֵנוּ",
+      "gloss": "ou reponn nou"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִשְׁעֵנוּ",
+      "gloss": "delivrans nou an"
+    },
+    {
+      "surface": "מִבְטָח",
+      "gloss": "sekirite"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "קַצְוֵי",
+      "gloss": "bout"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וְיָם",
+      "gloss": "ak lanmè"
+    },
+    {
+      "surface": "רְחֹקִים",
+      "gloss": "ki lwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:56.996981168Z",
+  "model": "glm-5.3"
+}

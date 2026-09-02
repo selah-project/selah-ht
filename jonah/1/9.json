@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E li di yo: Ivri mwen ye; e se Yawe, Elohim syèl yo, mwen pè — li ki fè ⟨את⟩ lanmè a ak ⟨את⟩ tè sèch la.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ivri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanmè a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè sèch la"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tè sèch la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:34.669046224Z",
+  "model": "glm-5.3"
+}

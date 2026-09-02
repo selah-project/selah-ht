@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Naòmi pran ⟨את⟩ timoun nan, e mete l nan bra l, e li vin pou li pou manman nòris.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "e pran"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naòmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timoun nan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "e mete l"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "nan bra l"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e vin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "pou manman nòris"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:14.151746965Z",
+  "model": "glm-5.3"
+}

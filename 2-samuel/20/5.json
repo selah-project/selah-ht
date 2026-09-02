@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi Amasa ale pou l rasanble ⟨את⟩ Yehouda, men l retarde pi lontan pase tan randevou a ke ⟨yo⟩ te fikse pou li.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "pou rasanble"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehouda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "rete lontan \/ retarde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pase"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "tan randevou a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "te fikse pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:50:41.692770484Z",
+  "model": "glm-5.3"
+}

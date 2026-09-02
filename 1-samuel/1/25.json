@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E yo touye ⟨את⟩ bèf la, e yo mennen ⟨את⟩ timoun nan vin jwenn Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèf la"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timoun nan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vin jwenn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:58.390691027Z",
+  "model": "glm-5.3"
+}

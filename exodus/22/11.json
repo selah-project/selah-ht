@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E si se vòlè yo vòlè l, l ap remèt ⟨kòb la⟩ bay mèt li.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "vòlè"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "yo vòlè l"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "l ap remèt"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "bay mèt li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:36.820193615Z",
+  "model": "glm-5.3"
+}

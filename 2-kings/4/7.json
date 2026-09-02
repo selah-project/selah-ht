@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Li vini, li fè konnen sa pou nonm HaElohim, e l di: Ale, vann ⟨את⟩ lwil la, e peye ⟨את⟩ dèt ou yo; e se ou ak pitit ou yo k ap viv ak sa ki rete.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "li vini"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "li fè konnen"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pou nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "vann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwil la"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lwil la"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "e peye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dèt ou yo"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "dèt ou yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ou"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "ap viv"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "ak sa ki rete"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:24.121406735Z",
+  "model": "glm-5.3"
+}

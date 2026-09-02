@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E l voye mesaje yo ale ba Ahab, wa Yisrayèl la, nan vil la.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "epi voye"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mesaje yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "nan vil la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:49.985466511Z",
+  "model": "glm-5.3"
+}

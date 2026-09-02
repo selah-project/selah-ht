@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Yosèf mouri, ak tout frè l yo, ak tout jenerasyon sa a.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "jenerasyon an"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:16.821258215Z",
+  "model": "glm-5.3"
+}

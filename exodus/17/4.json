@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E Moche rele a Yawe pou ⟨li⟩ di: Sa k m ap fè pou pèp sa a? Anko ti kras e ⟨yo⟩ lapide ⟨mwen⟩!",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "rele"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa k"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ap fè"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pou pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "anko"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ti kras"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "yo lapide mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:45.280162919Z",
+  "model": "glm-5.3"
+}

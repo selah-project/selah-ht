@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 2:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "David voye mesaje bay moun Yavech-Gilead yo epi li di yo : Nou beni nan je Yawe, paske nou fè hesed sa a ak met ou yo, ak Chaoul, epi nou antere l ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mesaje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavech"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nan je Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "nou fè"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "met ou yo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ותקברו",
+      "gloss": "epi nou antere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (Chaoul)"
+    }
+  ],
+  "timestamp": "2026-09-02T17:40:23.691778876Z",
+  "model": "glm-5.3"
+}

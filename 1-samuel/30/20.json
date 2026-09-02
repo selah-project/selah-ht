@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "David pran ⟨את⟩ tout mouton yo ak bèf yo; yo pouse yo mache devan bèt sa yo, e yo di: Sa a se gadòy David.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "epi pran"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout mouton yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ak bèf yo"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "pouse mache"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "bèt la"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e yo di"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "gadòy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:29.618350315Z",
+  "model": "glm-5.3"
+}

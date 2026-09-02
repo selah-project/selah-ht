@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Men ou rejte nou, ou fè nou wont, e ou pa soti ak lame nou yo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Men"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ou rejte"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "ou fè nou wont"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ou pa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ak lame nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:58.210588523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Mwen konnen tout zwazo mòn yo, ak bèt sovaj jaden an — yo ak mwen.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Mwen konnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "zwazo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ak bèt sovaj"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ak mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:26.777268436Z",
+  "model": "glm-5.3"
+}

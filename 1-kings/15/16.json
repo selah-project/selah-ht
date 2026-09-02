@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E lagè te genyen ant Asa ak Bacha, wa Izrayèl la, tout jou yo toutde.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "te genyen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "jou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:11.373247255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 79,
+  "translation": "Vide kòlè ou sou nasyon yo ki pa konnen ou, ak sou wayòm yo ki pa rele sou non ou.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Vide"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "kòlè ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "konnen ou"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "wayòm yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "rele"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:13.849140094Z",
+  "model": "glm-5.3"
+}

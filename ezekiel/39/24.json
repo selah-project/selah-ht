@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Selon piti yo ak selon dezòd yo mwen fè ⟨את⟩ yo, epi m te kache figi mwen pou devan yo.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "selon piti yo"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "ak selon dezòd yo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mwen fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "epi m te kache"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi mwen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "depi devan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:27:39.047198735Z",
+  "model": "glm-5.3"
+}

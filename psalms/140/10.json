@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 140,
+  "translation": "Tèt moun k ap antoure m yo — se pwoblèm menm sev pa yo a k ap kouvri yo.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Tèt"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "moun k ap antoure m yo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pwoblèm"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "sev pa yo"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "k ap kouvri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:48.085528486Z",
+  "model": "glm-5.3"
+}

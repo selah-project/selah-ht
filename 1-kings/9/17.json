@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E Chelomo bati ⟨את⟩ Gezer ak ⟨את⟩ Beit-Khoròn ki ba a.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "e bati"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Beit-Khoròn ki ba a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Khoròn"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ki ba a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:05.839347396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Sa se sa Yawe Elohim ⟨mwen⟩ di: Pa te mouton ⟨yo⟩ ki fèt pou yo masakre yo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sa se sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨mwen⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Pa te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mouton ⟨yo⟩ ki fèt pou yo masakre yo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton ⟨yo⟩"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ki fèt pou yo masakre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:48:05.288586069Z",
+  "model": "glm-5.3"
+}

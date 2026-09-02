@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E l ap touye ⟨את⟩ l sou kote lotèl la ki bò nò a, devan Yawe; e pitit Aharòn yo, prèt yo, ap voye ⟨את⟩ san l gayante sou lotèl la, toutotour.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "epi ap touye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (bèt la)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kote"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "bò nò"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "epi ap voye gayante"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san l"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotour"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:31.016728514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi l pase, e gade, pa gen l ankò; mwen te chèche l, men yo pa t jwenn l.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Epi l pase"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa gen l ankò"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "mwen te chèche l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "jwenn"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:41.565637485Z",
+  "model": "glm-5.3"
+}

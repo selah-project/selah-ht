@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Yonah fè priyè bay Yawe, Elohim li a, depi nan vant pwason nan.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "fè priyè"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim li a"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "depi nan vant"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "pwason nan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:09.147376986Z",
+  "model": "glm-5.3"
+}

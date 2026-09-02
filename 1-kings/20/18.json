@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi li di: Si se pou lapè yo soti, pran yo vivan; epi si se pou lagè yo soti, vivan, pran yo vivan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pou lapè"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "yo soti"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "pran yo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "epi si"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pou lagè"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "yo soti"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "pran yo vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:34.500225681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Nan premye mwa a, nan premye jou ⟨nan⟩ mwa a, w ap kanpe ⟨את⟩ tabènak la, tant randevou a.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwa a"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "premye"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "nan premye jou"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨nan⟩ mwa a"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "w ap kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabènak la"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "tabènak la"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "randevou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:15.240997933Z",
+  "model": "glm-5.3"
+}

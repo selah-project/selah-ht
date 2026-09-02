@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi Paro bay lòd sou kont li bay gason yo, e yo voye ⟨את⟩ li ale, ak ⟨את⟩ madanm li, ak ⟨את⟩ tout sa ki te pa l.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "bay lòd"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou kont li"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "gason yo"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "yo voye...ale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "madanm li"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa ki te pa l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pa l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:41.420473749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Yawe prepare yon gwo pwason pou l vale ⟨את⟩ Yonah, e Yonah te nan vant pwason an twa jou ak twa nwit.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "pwason"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "pou l vale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ... te"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "nan vant"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "pwason an"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ak twa"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nwit"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:09.147147746Z",
+  "model": "glm-5.3"
+}

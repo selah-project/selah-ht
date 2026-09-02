@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Epi li fè pèp li soti kòm mouton, epi li gide yo kòm troubiyon nan dezè a.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Epi li fè soti"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kòm mouton"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "epi li gide yo"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "kòm troubiyon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:08.152304410Z",
+  "model": "glm-5.3"
+}

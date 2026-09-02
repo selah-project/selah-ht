@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Pitit Gad yo bati ⟨את⟩ Dibòn ak ⟨את⟩ Atarot ak ⟨את⟩ Aroèr.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "bati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibòn"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Aroèr"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroèr"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:47.959879005Z",
+  "model": "glm-5.3"
+}

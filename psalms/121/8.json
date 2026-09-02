@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 121,
+  "translation": "Yawe ap kenbe lè ou soti a ak lè ou antre a, depi kounye a jiska tout tan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ap kenbe"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "lè ou soti a"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ak lè ou antre a"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "depi kounye a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:52.272035289Z",
+  "model": "glm-5.3"
+}

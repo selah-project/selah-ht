@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Paske syèl yo wo, pi wo pase tè a — menm jan chemen mwen yo wo, pi wo pase chemen nou yo, ak panse mwen pi wo pase panse nou yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "pase tè a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "menm jan"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "wo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "chemen mwen yo"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "pase chemen nou yo"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ak panse mwen"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "pase panse nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:20.159760928Z",
+  "model": "glm-5.3"
+}

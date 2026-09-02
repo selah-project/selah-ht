@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E mwen ap fè tounen ⟨את⟩ retounen Yehouda ak ⟨את⟩ retounen Yisrayèl, e mwen ap rebati yo tankou nan kòmansman an.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "e mwen ap fè tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "retounen"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "retounen"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "e mwen ap rebati yo"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "tankou nan kòmansman"
+    }
+  ],
+  "timestamp": "2026-09-02T19:00:44.382564301Z",
+  "model": "glm-5.3"
+}

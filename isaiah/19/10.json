@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Pyesti li yo ap vin kraze, tout moun ki travaye pou salè ap gen nanm tris.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "pyesti li yo"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "pou salè"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "tris"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nanm"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:39.684314459Z",
+  "model": "glm-5.3"
+}

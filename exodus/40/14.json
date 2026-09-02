@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou amene pre ⟨את⟩ pitit gason li yo, ou abiyen ⟨את⟩ yo ak chemiz.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason li yo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "amene pre"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "abiyen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "chemiz"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:41.917505391Z",
+  "model": "glm-5.3"
+}

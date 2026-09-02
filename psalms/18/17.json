@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Li voye anlè, li pran m, li tire m soti nan anpil dlo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "pran m"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "tire m soti"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:51.856790228Z",
+  "model": "glm-5.3"
+}

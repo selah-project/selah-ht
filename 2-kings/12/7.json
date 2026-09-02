@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi vin pase, nan ven-epi-twa lane pou wa Yehoch, prèt yo pa ranfòse ⟨את⟩ domaj kay la.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi vin pase"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "nan lane"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "epi twa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou wa"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ranfòse"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domaj"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "domaj"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:45.890372881Z",
+  "model": "glm-5.3"
+}

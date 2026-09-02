@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Paske Yawe fin tounen ⟨את⟩ glwa Yaakov, jan glwa Yisrael ye, paske vidè yo fin vide yo soti, epi branch rezen yo fin gate.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "שָׁב",
+      "gloss": "fin tounen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glwa Yaakov"
+    },
+    {
+      "surface": "גְּאוֹן",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כִּגְאוֹן",
+      "gloss": "jan glwa"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בְּקָקוּם",
+      "gloss": "fin vide yo"
+    },
+    {
+      "surface": "בֹּקְקִים",
+      "gloss": "vidè yo"
+    },
+    {
+      "surface": "וּזְמֹרֵיהֶם",
+      "gloss": "epi branch rezen yo"
+    },
+    {
+      "surface": "שִׁחֵתוּ",
+      "gloss": "fin gate"
+    }
+  ],
+  "timestamp": "2026-09-02T21:59:32.462064257Z",
+  "model": "glm-5.3"
+}

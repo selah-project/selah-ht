@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Ke yo fè lwanj pou Yawe pou hesed li (byenfeyans li), ak pou bèl zèv etonan li yo pou pitit moun!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ke yo fè lwanj"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ak bèl zèv etonan li yo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:01.218454200Z",
+  "model": "glm-5.3"
+}

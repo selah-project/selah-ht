@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "E yo fè de kadrajej lò ak de bag lò, e yo mete ⟨את⟩ de bag yo sou de bò hochen lan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "e yo fè"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "kadrajej"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ak de"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "bag"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "e yo mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bag yo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "bag yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "bò"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hochen lan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:22.456663309Z",
+  "model": "glm-5.3"
+}

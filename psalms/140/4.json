@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 140,
+  "translation": "Yo apile lang yo kou yon koulèv; pwazon asip an anba lèv yo. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "apile"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lang yo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kou"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "yon koulèv"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "pwazon"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "asip"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lèv yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:13.991609018Z",
+  "model": "glm-5.3"
+}

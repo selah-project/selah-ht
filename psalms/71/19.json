@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "E ak jistis ou, Elohim, jouk wotè yo — ou ki fè bagay gran yo: Elohim, ki moun tankou ou?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "e ak jistis ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wotè yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "bagay gran yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tankou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:26.058452062Z",
+  "model": "glm-5.3"
+}

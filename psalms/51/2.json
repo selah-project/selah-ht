@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Lè Natan pwofèt la vini jwenn li, apre l antre kay Bat-Cheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Lè ... vini"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jwenn li"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apre"
+    },
+    {
+      "surface": "בא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:41.282600143Z",
+  "model": "glm-5.3"
+}

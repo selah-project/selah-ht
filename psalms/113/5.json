@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 113,
+  "translation": "Ki moun ki tankou Yawe, Elohim nou an, ⟨ki⟩ wo anpil pou chita?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "tankou Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "ki wo anpil"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pou chita"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:36.400055947Z",
+  "model": "glm-5.3"
+}

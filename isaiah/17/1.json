@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Yon chaj pou Damachek. Men, Damachek ap retire ⟨kòm⟩ vil, e l ap vin yon debri, yon pèt ibwen.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "chaj"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "pou Damachek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Men"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damachek"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ap retire"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kòm vil"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e l ap vin"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "yon debri"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "yon pèt ibwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:21.632586079Z",
+  "model": "glm-5.3"
+}

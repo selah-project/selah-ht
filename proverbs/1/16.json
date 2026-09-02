@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Paske pye yo kouri fè mal, e yo prese pou yo vide san.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "pye yo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "fè mal"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "kouri"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "prese"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "vide"
+    },
+    {
+      "surface": "דם",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:02.010535801Z",
+  "model": "glm-5.3"
+}

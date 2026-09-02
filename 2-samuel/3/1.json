@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Lagè a vin long ant kay Chaoul la ak kay David la, e David ap mache ap vin fò, e kay Chaoul la ap mache ap vin fèb.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "vin"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "lagè a"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "long"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul la"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David la"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "ap vin fò"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul la"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "ap vin fèb"
+    }
+  ],
+  "timestamp": "2026-09-02T17:40:13.553154244Z",
+  "model": "glm-5.3"
+}

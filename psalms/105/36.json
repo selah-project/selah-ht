@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li frape tout pitit premye nan peyi yo, premye fwi tout fòs yo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pitit premye yo"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "nan peyi yo"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "premye fwi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "fòs yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:03.983791511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Yon bouch yo mete ⟨nan⟩ syèl yo, ak lang yo ap mache sou tout tè a.",
+  "tokens": [
+    {
+      "surface": "שַׁתּ֣וּ",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "בַשָּׁמַ֣יִם",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "פִּיהֶ֑ם",
+      "gloss": "bouch yo"
+    },
+    {
+      "surface": "וּ֝לְשׁוֹנָ֗ם",
+      "gloss": "ak lang yo"
+    },
+    {
+      "surface": "תִּֽהֲלַ֥ךְ",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:51.464197660Z",
+  "model": "glm-5.3"
+}

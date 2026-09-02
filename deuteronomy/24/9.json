@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Sonje ⟨את⟩ sa Yawe Elohim ou a te fè Miryàm, nan wout la, lè nou t ap soti an Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miryàm"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout la"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "lè nou t ap soti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "an Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:42.124620258Z",
+  "model": "glm-5.3"
+}

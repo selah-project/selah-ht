@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Yawe ap fè ou kanpe pou li kòm yon pèp sen, jan li jire pou ou, si ou garde ⟨את⟩ kòmandman Yawe Elohim ou a, epi ou mache nan chemen li yo.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "ap fè ou kanpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kòm yon pèp"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "jire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ou garde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "epi ou mache"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "nan chemen li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:17.096676090Z",
+  "model": "glm-5.3"
+}

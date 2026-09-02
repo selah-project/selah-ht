@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E l fè ⟨את⟩ pano yo pou Miray nan, an bwa chita, kanpe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pano yo"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "pano yo"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pou Miray nan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "an bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chita"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:56.426972755Z",
+  "model": "glm-5.3"
+}

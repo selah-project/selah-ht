@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Elazar fè ⟨את⟩ Pinechas, Pinechas fè ⟨את⟩ Avichoua;",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avichoua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avichoua"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:14.312196480Z",
+  "model": "glm-5.3"
+}

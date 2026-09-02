@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi li pote tounen ⟨את⟩ tout byen yo, e ansyi ⟨את⟩ Lot frè l — byen l yo tou li fè tounen — e ansyi ⟨את⟩ fanm yo ak ⟨את⟩ pèp la.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "pote tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout byen yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "byen yo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e ansyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot frè l"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "byen l yo"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "fè tounen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e ansyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm yo"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "fanm yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:10.751540719Z",
+  "model": "glm-5.3"
+}

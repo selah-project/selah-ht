@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Yon lanp — mepriz nan panse ⟨moun⟩ ki san pwoblèm — ⟨li⟩ pare pou moun ki pye ⟨yo⟩ glise.",
+  "tokens": [
+    {
+      "surface": "לַפִּיד",
+      "gloss": "yon lanp"
+    },
+    {
+      "surface": "בּוּז",
+      "gloss": "mepriz"
+    },
+    {
+      "surface": "לְעַשְׁתּוּת",
+      "gloss": "nan panse"
+    },
+    {
+      "surface": "שַׁאֲנָן",
+      "gloss": "ki san pwoblèm"
+    },
+    {
+      "surface": "נָכוֹן",
+      "gloss": "pare"
+    },
+    {
+      "surface": "לְמוֹעֲדֵי",
+      "gloss": "pou moun ki glise"
+    },
+    {
+      "surface": "רָגֶל",
+      "gloss": "pye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:10.641961579Z",
+  "model": "glm-5.3"
+}

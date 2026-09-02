@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Efrajim frape, rasin yo sèk, fwi ⟨yo pa⟩ fè; menm si yo fè pitit, mwen ap fè pitit lesye a nan vant yo mouri.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "rasin yo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "sèk"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "fè"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "yo fè pitit"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "mwen ap fè mouri"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "pitit lesye a"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "nan vant yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:09.936908491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E kounye a, gade, mwen konnen ke ou ap waye sètèlman, e wayòm Yisrael la ap kanpe nan men ou.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E kounye a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mwen konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "waye"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "ou ap waye"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "e ... ap kanpe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:44.575368962Z",
+  "model": "glm-5.3"
+}

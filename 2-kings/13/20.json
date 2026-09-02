@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E Elicha mouri, e yo antere l. E bann sòdadan Moab te vin antre nan peyi a, lè kòmansman lane a rive.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e … mouri"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "e yo antere l"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "e bann sòdadan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "te vin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:44.735511649Z",
+  "model": "glm-5.3"
+}

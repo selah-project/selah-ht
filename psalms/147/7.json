@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Chante pou Yawe ak grasisman; chante pou Elohim nou an ak klinòm.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ak grasisman"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "pou Elohim nou an"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ak klinòm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:40.378440795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li mete li kòm mèt ⟨sou⟩ kay li a, e kòm chèf sou tout sa li posede.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "mèt"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sou kay li"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "e kòm chèf"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sou tout"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "sa li posede"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:59.006129013Z",
+  "model": "glm-5.3"
+}

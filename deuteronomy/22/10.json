@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Pa laboure ak yon bèf ak yon bourik ansanm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "laboure"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ak yon bèf"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ak yon bourik"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T21:46:55.324397599Z",
+  "model": "glm-5.3"
+}

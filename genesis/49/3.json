@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Reouvèn, ou se premye pitit gason m, fòs m ak kòmansman pouvwa m; siperyò nan onè, siperyò nan fòs.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reouvèn"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "premye pitit gason m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou ⟨se⟩"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fòs m"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ak kòmansman"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "pouvwa m"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "siperyò"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "onè"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ak siperyò"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:13.023910715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Paske seisan kòm pen mwen manje, epi mwen melanje bwè m ak plè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "seisan"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "kòm pen"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "mwen manje"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "epi bwè m"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ak plè"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "mwen melanje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:38.724347184Z",
+  "model": "glm-5.3"
+}

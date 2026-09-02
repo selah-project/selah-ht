@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi Yehonatan fè konnen ba David, pou l di: Chaoul papa m ap chèche pou l touye ou; e kounye a souple, pran gad nan maten an, e rete nan yon kachèt, e kache tèt ou.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ba David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ap chèche"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "pou l touye ou"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "pran gad"
+    },
+    {
+      "surface": "נא",
+      "gloss": "souple"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "e rete"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nan kachèt"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "e kache tèt ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:49:35.725288696Z",
+  "model": "glm-5.3"
+}

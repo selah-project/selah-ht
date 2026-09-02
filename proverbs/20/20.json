@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Ki maledi papa l ak manman l, lanp l ap etenn nan fen nwa fènwa a.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "ki maledi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ak manman l"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ap etenn"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "lanp l"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "nan fen nwa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fènwa a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:26:53.996404326Z",
+  "model": "glm-5.3"
+}

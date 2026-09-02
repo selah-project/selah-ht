@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Sakriye sakrifis jistis, epi mete konfyans ⟨nan⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Sakriye"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "epi mete konfyans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨nan⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:39.053076463Z",
+  "model": "glm-5.3"
+}

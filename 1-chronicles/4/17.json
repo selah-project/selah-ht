@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E pitit Ezra: Yeter, ak Mered, ak Efer, ak Yalon; e ⟨li⟩ ansent ⟨את⟩ Miryam, ak ⟨את⟩ Chamay, ak ⟨את⟩ Yichbach papa Echtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "E pitit"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "ak Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ak Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "ak Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "e ⟨li⟩ ansent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chamay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Chamay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yichbach"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yichbach"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Echtemoa"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:01.702563160Z",
+  "model": "glm-5.3"
+}

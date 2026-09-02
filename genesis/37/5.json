@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi Yosèf fè yon rèv, e li rakonte l bay frè l yo, e yo ajoute ankò rayi ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "fè rèv"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "rèv"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "rakonte"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "bay frè l yo"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "yo ajoute"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "rayi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:31:26.370986515Z",
+  "model": "glm-5.3"
+}

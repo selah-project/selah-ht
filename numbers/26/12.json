@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Pitit Chimòn yo dapre fanmi yo: pou Nemouèl, fanmi Nemouèlit yo; pou Yamin, fanmi Yaminit yo; pou Yakìn, fanmi Yakinit yo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimòn"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "pou Nemouèl"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "Nemouèlit yo"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "pou Yamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Yaminit yo"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "pou Yakìn"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Yakinit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:34:17.270001931Z",
+  "model": "glm-5.3"
+}

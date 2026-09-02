@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E Avram ale, jan Yawe te pale ak li a, e Lot ale ak ⟨את⟩ li; e Avram te senkannven an lè l te soti nan Charan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e … ale"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ak ⟨את⟩ li",
+      "marks": "li (Avram)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "e Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "te ⟨pitit⟩ … an"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "senk"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "an"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "e swasanndis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "lè l te soti"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "nan Charan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:05.751106085Z",
+  "model": "glm-5.3"
+}

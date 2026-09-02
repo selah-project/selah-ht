@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E tout pèp la tè a rejwi, lavil la te trankilize; e ⟨את⟩ Atalyahou yo te fè mouri ak epe a.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "rejwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ak lavil la"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "trankilize"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Atalyahou"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahou"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "fè mouri"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ak epe a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:30:51.024908486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Paske Yawe tande pòv yo, e ⟨את⟩ prizonye li a pa méprize.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "pòv yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "prizonye li a"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "prizonye li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "méprize"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:37.274834344Z",
+  "model": "glm-5.3"
+}

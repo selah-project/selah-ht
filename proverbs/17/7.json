@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Pa apwopriye pou fou a gen lèv ki pale wo pawòl; plis ankò pou yon nòb, yon lèv manti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "apwopriye"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "pou fou a"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lèv"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ki pale wo pawòl"
+    },
+    {
+      "surface": "אף",
+      "gloss": "plis ankò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "yon nòb"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lèv"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "manti"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:56.607506680Z",
+  "model": "glm-5.3"
+}

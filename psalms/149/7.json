@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 149,
+  "translation": "Pou yo fè vanjans nan mitan nasyon yo, ak koreksyon nan mitan pèp yo.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Pou yo fè"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "vanjans"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "koreksyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "pèp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:01.714284665Z",
+  "model": "glm-5.3"
+}

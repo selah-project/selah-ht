@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 9:10",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Tout pechèè pèp mwen an ap mouri nan epe a, yo menm ki di: Mal la p ap rive devan nou, li p ap vin jwenn nou anvan.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "nan epe a"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "pechèè"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen an"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yo menm ki di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תגיש",
+      "gloss": "p ap rive devan"
+    },
+    {
+      "surface": "ותקדים",
+      "gloss": "p ap vin jwenn nou anvan"
+    },
+    {
+      "surface": "בעדינו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mal la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:38:24.419503918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Powèm enstriksyon pou Asaf. Ouve zòrèy, pèp mwen an, pou tora mwen; lonje zòrèy nou bò pawòl bouch mwen.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "powèm enstriksyon"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Ouve zòrèy"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen an"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora mwen"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "lonje"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "zòrèy nou"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "pou pawòl"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:01.008743162Z",
+  "model": "glm-5.3"
+}

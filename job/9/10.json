@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Ki fè bagay gran jouk la pa gen rechèch, ak bagay etonan jouk pa gen kont.",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֣ה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "גְ֭דֹלוֹת",
+      "gloss": "bagay gran"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "חֵ֑קֶר",
+      "gloss": "rechèch"
+    },
+    {
+      "surface": "וְנִפְלָא֗וֹת",
+      "gloss": "ak bagay etonan"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מִסְפָּֽר",
+      "gloss": "kont"
+    }
+  ],
+  "timestamp": "2026-09-02T20:33:15.952823578Z",
+  "model": "glm-5.3"
+}

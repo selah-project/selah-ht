@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Nou menm ki kanpe nan kay Yawe, nan lakou kay Elohim nou an!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "ki kanpe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "nan lakou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:47.815565558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Paske ou gran, ou ki fè miray yo — se ou menm sèl ki Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "miray yo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:37.639974103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li fè yo tonbe nan mitan kan yo, toutotou kay kote yo rete yo.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Li fè yo tonbe"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kan yo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "kay kote yo rete yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:51.619057088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Elohim, El mwen, se ou; byen bonè mwen chèche ou, nefech mwen swaf pou ou, kò mwen langwe pou ou, nan yon tè sèk ak fatige, san dlo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "byen bonè mwen chèche ou"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "swaf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "langwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "kò mwen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan yon tè"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "sèk"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ak fatige"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "san"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:54.306541814Z",
+  "model": "glm-5.3"
+}

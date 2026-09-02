@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Elohim tande ⟨את⟩ soupir yo, e Elohim sonje ⟨את⟩ alyans l, ⟨את⟩ Avraham, ⟨את⟩ Yitshak, ak ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soupir yo"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "soupir yo"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alyans l"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "alyans l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:46.798629949Z",
+  "model": "glm-5.3"
+}

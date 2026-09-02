@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Chaoul pran ⟨li⟩ menm jou sa a, e li pa kite ⟨li⟩ tounen lakay papa li.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "e pran li"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kite"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:21.770896529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi kè moun ki prese ap konprann konesans, ak lang moun ki begaye ap prese pou pale klè.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Epi kè"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "moun ki prese"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ap konprann"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ak lang"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "moun ki begaye"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "ap prese"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pou pale"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "klè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:29.745832468Z",
+  "model": "glm-5.3"
+}

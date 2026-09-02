@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Noumenm, nou dezobeji, nou rebelye; oumenm, ou pa padonnen.",
+  "tokens": [
+    {
+      "surface": "נַחְנוּ",
+      "gloss": "Noumenm"
+    },
+    {
+      "surface": "פָּשַׁעְנוּ",
+      "gloss": "nou dezobeji"
+    },
+    {
+      "surface": "וּמָרִינוּ",
+      "gloss": "nou rebelye"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "oumenm"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סָלַחְתָּ",
+      "gloss": "ou padonnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:47:41.386580930Z",
+  "model": "glm-5.3"
+}

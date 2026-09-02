@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Elohim, ou anseñi m depi jènès mwen, e jouk kounye a m ap anonse bagay etonan ou yo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "ou anseñi m"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "depi jènès mwen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e jouk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "m ap anonse"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "bagay etonan ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:26.058047089Z",
+  "model": "glm-5.3"
+}

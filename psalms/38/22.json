@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Pa kite m, Yawe, Elohim mwen, pa vin lwen de m.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "kite m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "vin lwen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:53.334433232Z",
+  "model": "glm-5.3"
+}

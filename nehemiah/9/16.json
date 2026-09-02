@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Men yo ak zansèt nou yo fè won, yo diri ⟨את⟩ kou yo, e yo pa tande kòmandman ou yo.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "e yo"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "ak zansèt nou"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "fè won"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "diri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kou yo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "kou yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kòmandman ou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:10:05.894378728Z",
+  "model": "glm-5.3"
+}

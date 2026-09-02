@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Ki sonje nou nan abèsman nou an, paske pou tout tan hesed li.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "nan abèsman nou an"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ki sonje"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:28.160758171Z",
+  "model": "glm-5.3"
+}

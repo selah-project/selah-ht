@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "M ap di a El, wòch m: Poukisa ou bliye m? Poukisa m ap mache ak kè nwa anba opresyon anmi m an?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "M ap di"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "wòch m"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "ou bliye m"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mache ak kè nwa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m ap mache"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "anba opresyon"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "anmi m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:19.209767572Z",
+  "model": "glm-5.3"
+}

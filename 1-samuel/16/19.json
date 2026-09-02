@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E Chaoul voye mesajè bay Yichay e di: Voye ba mwen ⟨את⟩ David, pitit gason ou a, ki avèk mouton yo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mesajè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yichay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Voye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pitit gason ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "avèk mouton yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:34.321162002Z",
+  "model": "glm-5.3"
+}

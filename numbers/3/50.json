@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Soti ⟨את⟩ nan pitit gason premye fizi Yisrayèl yo li pran ⟨את⟩ ajan an: senk ak swasan ak twa san ak mil, nan chèk labak senktye a.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "soti ⟨את⟩ nan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "premye fizi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajan an"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ajan an"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ak swasan"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ak twa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ak mil"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "nan chèk labak"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "senktye a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:21.000765250Z",
+  "model": "glm-5.3"
+}

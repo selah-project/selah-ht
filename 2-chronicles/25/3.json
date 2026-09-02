@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E lè wayòm nan vin solid sou li, li touye ⟨את⟩ sèvitè l yo, moun ki te frape ⟨את⟩ wa a, papa l.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "vin solid"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "wayòm nan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "li touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvitè l yo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè l yo"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "moun ki te frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:34:36.606394406Z",
+  "model": "glm-5.3"
+}

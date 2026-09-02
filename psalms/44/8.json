@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Paske se ou ki sove nou nan men detèsè nou yo, e se ou ki fè moun ki rayi nou yo fè honte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "ou sove nou"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "nan men detèsè nou yo"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "e moun ki rayi nou yo"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "ou fè honte"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:42.614040698Z",
+  "model": "glm-5.3"
+}

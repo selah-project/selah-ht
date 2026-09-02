@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Wa Yerouchalayim, youn; wa Khevron, youn;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:54.401608554Z",
+  "model": "glm-5.3"
+}

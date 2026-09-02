@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E fèt pou Aharòn ⟨את⟩ Nadav ak ⟨את⟩ Avihou, ⟨את⟩ Elazàr ak ⟨את⟩ Itamàr.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "E fèt"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pou Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadav"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Avihou"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazàr"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazàr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Itamàr"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamàr"
+    }
+  ],
+  "timestamp": "2026-09-02T16:35:07.259195620Z",
+  "model": "glm-5.3"
+}

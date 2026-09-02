@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E ou pral pale ak li, e ou pral mete ⟨את⟩ pawòl yo nan bouch li; e mwen menm, m ap la ak bouch ou ak bouch li, e m ap montre ⟨את⟩nou ⟨את⟩ sa nou pral fè.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "E ou pale"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "e ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "nan bouch li"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e mwen menm"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "m ap la"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bouch ou"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "e m ap montre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa nou pral fè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "nou pral fè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:16.195590938Z",
+  "model": "glm-5.3"
+}

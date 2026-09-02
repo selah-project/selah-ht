@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Kòmansman farin nou an, yon gato, nou prale leve kòm yon terouma; jan terouma plas kote yo pile ble a ye, konsa nou prale leve ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "kòmansman"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "farin nou an"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "yon gato"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nou prale leve"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "kòm yon terouma"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "jan terouma"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "plas kote yo pile ble a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nou prale leve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:29:00.675460347Z",
+  "model": "glm-5.3"
+}

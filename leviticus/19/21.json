@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E li pote ⟨את⟩ ofrand koulpa l bay Yawe, devan pòt tant reyinyon an, yon belè kòm ofrand koulpa.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "E li pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrand koulpa l"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ofrand koulpa l"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bay Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    },
+    {
+      "surface": "איל",
+      "gloss": "belè"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kòm ofrand koulpa"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:00.603347549Z",
+  "model": "glm-5.3"
+}

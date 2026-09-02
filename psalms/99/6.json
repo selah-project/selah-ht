@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 99,
+  "translation": "Moche ak Aharòn nan prèt ⟨li⟩ yo, ak Chemouèl nan moun ki rele non ⟨li⟩; yo rele ⟨sou⟩ Yawe, e li te reponn yo.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ak Aharòn"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "nan prèt li yo"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ak Chemouèl"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "nan moun ki rele"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "yo rele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "te reponn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:24.388580506Z",
+  "model": "glm-5.3"
+}

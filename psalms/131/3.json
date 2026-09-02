@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 131,
+  "translation": "Epi Yisrael, mete espwa ou nan Yawe, depi kounye a jiska tout tan.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "mete espwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "depi kounye a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:17.864098933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Li sonje tout ofann ⟨ou⟩ yo, epi ofran boule ⟨ou⟩ a Li fè l vin gra. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "ofann ou yo"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "epi ofran boule ou a"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "fè l vin gra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:07.050851265Z",
+  "model": "glm-5.3"
+}

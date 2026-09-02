@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Nan maten li fletri epi li pase; nan aswè li fin koupe epi li seche.",
+  "tokens": [
+    {
+      "surface": "בַּבֹּקֶר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "יָצִיץ",
+      "gloss": "fletri"
+    },
+    {
+      "surface": "וְחָלָף",
+      "gloss": "epi li pase"
+    },
+    {
+      "surface": "לָעֶרֶב",
+      "gloss": "nan aswè"
+    },
+    {
+      "surface": "יְמוֹלֵל",
+      "gloss": "li fin koupe"
+    },
+    {
+      "surface": "וְיָבֵשׁ",
+      "gloss": "epi li seche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:09.114141228Z",
+  "model": "glm-5.3"
+}

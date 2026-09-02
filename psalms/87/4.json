@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 87,
+  "translation": "M ap fè memwa sou Rahav ak Bavèl nan mitan moun ki konnen m; gade Pleshet, ak Tsor, ansanm ak Kouch: sa a fèt la.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "M ap fè memwa sou"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "ak Bavèl"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "pou moun ki konnen m"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pleshet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ak Tsor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kouch"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:31.893054786Z",
+  "model": "glm-5.3"
+}

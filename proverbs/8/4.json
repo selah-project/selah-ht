@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Nou menm, moun yo, m ap rele; epi vwa m ap ale nan zòrèy pitit moun yo.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "Nou menm"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ap rele"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "epi vwa m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan zòrèy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:16.252958163Z",
+  "model": "glm-5.3"
+}

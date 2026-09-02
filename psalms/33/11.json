@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Konsèy Yawe a ap kanpe pou touttan; plan kè l pou jenerasyon ak jenerasyon.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Konsèy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "plan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:23.957126476Z",
+  "model": "glm-5.3"
+}

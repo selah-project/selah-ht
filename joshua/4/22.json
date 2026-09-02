@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Nou pral fè pitit nou yo konnen, pou nou di yo: Sou tè sèch Yisrael travèse ⟨את⟩ Jourdain sa a.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "Nou pral fè konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit nou yo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pitit nou yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou nou di yo"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sou tè sèch"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "travèse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jourdain sa a"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jourdain sa a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:59:53.192471275Z",
+  "model": "glm-5.3"
+}

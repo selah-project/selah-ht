@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Nan lanmè a wout ou, ak chemen ou yo nan dlo ki gen anpil, ak tras pye ou yo pa ⟨te⟩ konnen.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "nan lanmè a"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "wout ou"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "ak chemen ou yo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ki gen anpil"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "ak tras pye ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:33.768333807Z",
+  "model": "glm-5.3"
+}

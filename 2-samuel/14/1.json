@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E Yoav, pitit Tserouya a, konnen ke kè wa a sou Avchalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserouya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:48.000707942Z",
+  "model": "glm-5.3"
+}

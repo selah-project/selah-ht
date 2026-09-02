@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi li soti nan kay li an, epi li ale, epi li vin pou yon lòt nonm.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "epi li soti"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "nan kay li an"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "epi li ale"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "epi li vin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pou yon nonm"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lòt"
+    }
+  ],
+  "timestamp": "2026-09-02T16:54:36.072501430Z",
+  "model": "glm-5.3"
+}

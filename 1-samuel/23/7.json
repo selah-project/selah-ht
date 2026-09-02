@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Yo anonse Chaoul ke David rive nan Kèila, e Chaoul di: Elohim rann ⟨את⟩ l vizib nan men m, paske l fèmen tèt li, l antre nan yon vil ki gen pòt ak baru.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "nan Kèila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "rann vizib"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "David (l)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "nan men m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "fèmen tèt li"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "l antre"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan yon vil"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ak baru"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:03.584577558Z",
+  "model": "glm-5.3"
+}

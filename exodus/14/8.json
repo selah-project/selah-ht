@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E Yawe fè ⟨את⟩ kè Paro, wa Mitsrayim, vin dur, e l pase dèyè pitit Yisrael yo — e pitit Yisrael yo t ap soti ak men anwo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "e ... fè vin dur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "e l pase dèyè"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "t ap soti"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ak men"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "anwo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:58.974649642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Mwen fè pou mwen basen dlo, pou wouze ak yo fòè pye ki ap pouse.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "basen yo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "pou wouze"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "fòè"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ki ap pouse"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "pye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:30.180304970Z",
+  "model": "glm-5.3"
+}

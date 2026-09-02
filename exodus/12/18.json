@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Nan premye mwa a, nan katreven-disyèm jou mwa a, aswè, nou pral manje pain san levèn — jouk nan jou an venteyen mwa a, aswè.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "nan premye mwa"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mwa a"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "aswè"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou pral manje"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "pain san levèn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ennyen"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e ven"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mwa a"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "aswè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:50.962650938Z",
+  "model": "glm-5.3"
+}

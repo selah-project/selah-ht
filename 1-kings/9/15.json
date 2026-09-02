@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E se sa kont tribi a ye, sa wa Chelomo te leve pou l bati ⟨את⟩ kay Yawe ak ⟨את⟩ kay li ak ⟨את⟩ Milo ak ⟨את⟩ miray Yerouchalayim, ak ⟨את⟩ Hatsor, ak ⟨את⟩ Megido, ak ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kont"
+    },
+    {
+      "surface": "המס",
+      "gloss": "tribi a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "te leve"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "pou bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kay li"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "miray Yerouchalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "miray"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Megido"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megido"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:40.672372129Z",
+  "model": "glm-5.3"
+}

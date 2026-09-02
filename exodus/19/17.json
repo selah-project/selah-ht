@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Moche mennen ⟨את⟩ pèp la pou yo ale rankontre HaElohim, soti nan kàn an; yo kanpe nan pye mòn an.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pou rankontre"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kàn an"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "yo kanpe"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "nan pye"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:17.545272093Z",
+  "model": "glm-5.3"
+}

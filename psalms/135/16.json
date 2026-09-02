@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Yon bouch yo genyen, ⟨men⟩ yo pa pale; je yo genyen, ⟨men⟩ yo pa wè.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Yon bouch"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo genyen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yo pa"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "je"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo genyen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yo pa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:42.937761047Z",
+  "model": "glm-5.3"
+}

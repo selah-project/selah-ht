@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Konsa pou yo pa fè yo pote ⟨את⟩ fot koupab la lè yo manje ⟨את⟩ bagèt sanktifye yo; paske se mwen menm Yawe ki sanktifye yo.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "fè yo pote"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "fot koupab la"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fot"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "koupab"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "lè yo manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagèt sanktifye yo"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "bagèt sanktifye yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ki sanktifye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:14.131771061Z",
+  "model": "glm-5.3"
+}

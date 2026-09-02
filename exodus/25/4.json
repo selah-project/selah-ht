@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "ak fil ble, ak move, ak ⟨fil⟩ kimson, ak lin fin, ak cheve kabrit.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "fil ble"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "move"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "kouchon ⟨fil⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kimson"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lin fin"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "cheve kabrit"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:24.584690161Z",
+  "model": "glm-5.3"
+}

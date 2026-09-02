@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Malè pou moun ki dekrète dekrè enjis, e moun ki ekri travay pénib pou ekri.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malè pou"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "moun ki dekrète"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "dekrè"
+    },
+    {
+      "surface": "און",
+      "gloss": "enjis"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "e moun ki ekri"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "travay pénib"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ekri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:32.463128550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Epi li bay ⟨את⟩ yo pou jwenn pitye devan tout kaptè yo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Epi li bay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo — pale sou pèp la, sa לרחמים pale a"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "pou jwenn pitye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "kaptè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:48.951491205Z",
+  "model": "glm-5.3"
+}

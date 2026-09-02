@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Ke lèv mwen yo te louvri ⟨pou pwononse⟩, e bouch mwen te pale nan detrès mwen an.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "te louvri"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lèv mwen yo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e ... pale"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch mwen"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nan detrès"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:23.484372919Z",
+  "model": "glm-5.3"
+}

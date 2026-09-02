@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Men bèt yo ke nou ka manje: bèf, ti mouton ak kabrit chèvi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Men"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou ka manje"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ti mouton"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ak kabrit"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "chèvi"
+    }
+  ],
+  "timestamp": "2026-09-02T16:47:54.454713768Z",
+  "model": "glm-5.3"
+}

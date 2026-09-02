@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Ki wape ⟨ak⟩ limyè kòm yon manto, ki ap deploye syèl yo kòm yon tant.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "ki wape"
+    },
+    {
+      "surface": "אור",
+      "gloss": "limyè"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "kòm yon manto"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "ki ap deploye"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "kòm yon tant"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:31.600757950Z",
+  "model": "glm-5.3"
+}

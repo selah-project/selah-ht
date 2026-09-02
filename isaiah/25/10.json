@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Paske men Yawe ap repoze sou mòn sa a, e Moab ap piye anba li, jan pay ap piye nan fatra a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "ap repoze"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou mòn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "e ap piye"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "anba li"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "jan ap piye"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "pay"
+    },
+    {
+      "surface": "במי",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "fatra"
+    }
+  ],
+  "timestamp": "2026-09-02T18:29:38.026040063Z",
+  "model": "glm-5.3"
+}

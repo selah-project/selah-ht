@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yon chay pawòl Yawe pou Yisrayèl, pa men Malakhi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pa men"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malakhi"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:49.692003723Z",
+  "model": "glm-5.3"
+}

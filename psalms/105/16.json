@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "E li te rele grangou sou tè a; tout baton pen an, li te kraze l.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e li te rele"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "grangou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "baton"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kraze"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:06.171690741Z",
+  "model": "glm-5.3"
+}

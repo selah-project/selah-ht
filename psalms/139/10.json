@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "menm la men, men ⟨ou⟩ ap gide m, ak men detwà ⟨ou⟩ ap kenbe m.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ap gide m"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ak ... ap kenbe m"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "men detwà ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:51.455872333Z",
+  "model": "glm-5.3"
+}

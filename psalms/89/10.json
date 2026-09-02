@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Se ou ki gen pouvwa sou kòlè lanmè a; lè vag li yo monte, se ou ki kalme yo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ki gen pouvwa sou"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "sou kòlè"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "lè yo monte"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "vag li yo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "kalme yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:28.581170860Z",
+  "model": "glm-5.3"
+}

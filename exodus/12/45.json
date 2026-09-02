@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Yon moun ki sejoune ak yon moun ki louvri pa manje ⟨nan⟩ li.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "yon moun ki sejoune"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ak yon moun ki louvri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨nan⟩ li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:20.259401229Z",
+  "model": "glm-5.3"
+}

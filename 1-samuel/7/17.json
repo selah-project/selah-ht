@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E retoun li te lan Ramata, paske se la kay li te ye, e se la l te jije ⟨את⟩ Yisrayèl; e li bati la yon otèl pou Yawe.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "e retoun li"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "lan Ramata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e la"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "jije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e li bati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "yon otèl"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:52.106236386Z",
+  "model": "glm-5.3"
+}

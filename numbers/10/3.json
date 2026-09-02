@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi lè yo soufle nan yo, tout asanble a ap reyini bò kote ou, devan pòt vant reyinyon an.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "epi yo soufle"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "ap reyini"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bò kote ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "vant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    }
+  ],
+  "timestamp": "2026-09-02T21:46:05.170463793Z",
+  "model": "glm-5.3"
+}

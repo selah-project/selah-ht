@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 137,
+  "translation": "Sou pye sali yo nan mitan l, nou te pann ⟨את⟩ instriman nou yo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "pye sali yo"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "nan mitan l"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "nou te pann"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "instriman nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:58.087473117Z",
+  "model": "glm-5.3"
+}

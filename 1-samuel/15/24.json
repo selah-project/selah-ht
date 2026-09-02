@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 15:24",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E Chaoul di a Chmouèl: Mwen peche, paske mwen te depase ⟨את⟩ bouch Yawe a ak ⟨את⟩ pawòl ou yo, paske mwen te pè ⟨את⟩ pèp la, epi mwen koute vwa yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chmouèl"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mwen peche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "mwen te depase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch Yawe a"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pawòl ou yo"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "pawòl ou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "mwen te pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "epi mwen koute"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "vwa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:40.262821042Z",
+  "model": "glm-5.3"
+}

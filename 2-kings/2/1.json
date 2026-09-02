@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi l te pase lè Yawe ap monte ⟨את⟩ Eliyahu nan yon tourbilyon syèl yo, ke Eliyahu ak Elisha ale soti nan Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi l te pase"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "lè …ap monte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "nan yon tourbilyon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "ak Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "nan Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:15.976569017Z",
+  "model": "glm-5.3"
+}

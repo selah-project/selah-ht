@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Sangsenn gen de fi yo: «Ban m, ban m.» Twa bagay ⟨yo⟩ pa janm satisfèt, kat pa di janm: «Sa sifi.»",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "sangsenn"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fi"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ban m"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ban m"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "twa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa janm"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "satisfèt"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "הון",
+      "gloss": "sa sifi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:35.166189573Z",
+  "model": "glm-5.3"
+}

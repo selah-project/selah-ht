@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Si mwen peche, ou siveye ⟨mwen⟩, e nan tomaye mwen ⟨ou⟩ pa janm deklare m ⟨inanpè⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mwen peche"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "ou siveye ⟨mwen⟩"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "e nan tomaye mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "ou deklare m inosan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:07.023012482Z",
+  "model": "glm-5.3"
+}

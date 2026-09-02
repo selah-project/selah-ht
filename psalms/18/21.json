@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Yawe fè m byen dapre jistis mwen; dapre pwòpte men mwen li ranmèse ⟨ba⟩ mwen.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "fè m byen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "dapre jistis mwen"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "dapre pwòpte"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men mwen"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ranmèse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:23.733439006Z",
+  "model": "glm-5.3"
+}

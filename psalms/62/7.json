@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Se sèlman ⟨li⟩ wòch m ak delivrans m, fòtès m; m ap pa chanche.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Se sèlman"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "wòch m"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ak delivrans m"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "fòtès m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "chanche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:42.104366986Z",
+  "model": "glm-5.3"
+}

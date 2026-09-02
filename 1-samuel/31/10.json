@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Yo mete ⟨את⟩ anmo li nan kay Achtarot yo, e ⟨yo⟩ fike ⟨את⟩ kò a nan miray Beit-Chan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anmo li"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "anmo li"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Achtarot yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kò a"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "kò a"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "fike"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "nan miray"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Chan"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:47.716833284Z",
+  "model": "glm-5.3"
+}

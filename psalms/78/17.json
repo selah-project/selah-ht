@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Epi yo ajoute ankor pou peche kont li, pou rebèl kont Elyòn nan dezè a.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "epi yo ajoute"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankor"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "pou peche"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kont li"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "pou rebèl"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "nan dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:45.472367092Z",
+  "model": "glm-5.3"
+}

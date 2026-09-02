@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "E yon deliè ap vini nan Tsiyòn, e pou moun ki vle tounen soti nan rebelyon nan Yaakov, orak Yawe a.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "e l ap vini"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "nan Tsiyòn"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "yon deliè"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "e pou moun ki vle tounen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "soti nan rebelyon"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "nan Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:43:38.253182714Z",
+  "model": "glm-5.3"
+}

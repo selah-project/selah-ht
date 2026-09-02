@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Sèlman pou Elohim, nan silans, nanm m ⟨ap tann⟩; paske espwa m soti nan men li.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "nan silans"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nan men li"
+    },
+    {
+      "surface": "תקותyi",
+      "gloss": "espwa m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:42.104234905Z",
+  "model": "glm-5.3"
+}

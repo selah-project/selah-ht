@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "⟨Li⟩ ap fè jistis pou timoun san papa ak pou vèv, epi ⟨li⟩ renmen etranje a, pou bay li pen ak rad.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "pou timoun san papa"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ak pou vèv"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "epi renmen"
+    },
+    {
+      "surface": "גר",
+      "gloss": "etranje a"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pou bay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ak rad"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:43.910290802Z",
+  "model": "glm-5.3"
+}

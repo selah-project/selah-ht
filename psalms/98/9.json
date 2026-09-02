@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 98,
+  "translation": "Devan Yawe, paske li vin pou ⟨li⟩ jije tè a; ⟨li⟩ ap jije Lemonn nan jitis, ak pèp yo nan dwatète.",
+  "tokens": [
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "Devan"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בָא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לִשְׁפֹּט",
+      "gloss": "pou ⟨li⟩ jije"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "יִשְׁפֹּט",
+      "gloss": "ap jije"
+    },
+    {
+      "surface": "תֵּבֵל",
+      "gloss": "Lemonn"
+    },
+    {
+      "surface": "בְּצֶדֶק",
+      "gloss": "nan jitis"
+    },
+    {
+      "surface": "וְעַמִּים",
+      "gloss": "ak pèp yo"
+    },
+    {
+      "surface": "בְּמֵישָׁרִים",
+      "gloss": "nan dwatète"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:26.586191121Z",
+  "model": "glm-5.3"
+}

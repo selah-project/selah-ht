@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "ak ⟨את⟩ tublàn lin fin an, ak ⟨את⟩ bèl kaskèt yo ak lin fin, ak ⟨את⟩ koulòt lin fin an, lin tise.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tublàn lin fin an"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "tublàn"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin fin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèl kaskèt yo"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "bèl kaskèt"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "kaskèt yo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin fin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "koulòt lin fin an"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "koulòt"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "lin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin fin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tise"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:34.092174617Z",
+  "model": "glm-5.3"
+}

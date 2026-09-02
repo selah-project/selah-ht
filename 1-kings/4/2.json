@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E se ofisye sa yo ki te pou li: Azaryahou, pitit Tsadok, ⟨se⟩ prèt la.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E se … sa yo"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ofisye yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:30.147239639Z",
+  "model": "glm-5.3"
+}

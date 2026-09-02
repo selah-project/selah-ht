@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi li rele ⟨את⟩ mwen, epi li pale avèk mwen pou di : Gade, moun k ap soti nan peyi nò a yo fè ⟨את⟩ lespri mwen repoze nan peyi nò a.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "rele"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "avèk mwen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "k ap soti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nò a"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "fè repoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lespi mwen"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lespri mwen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nò a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:47:13.313989019Z",
+  "model": "glm-5.3"
+}

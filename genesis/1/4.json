@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim wè ⟨את⟩ lumen an, ke li bon, e Elohim sepire lumen an ak fenwa a.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e li wè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumen an"
+    },
+    {
+      "surface": "האור",
+      "gloss": "lumen an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "e li sepire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "האור",
+      "gloss": "lumen an"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "fenwa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:02.584182758Z",
+  "model": "glm-5.3"
+}

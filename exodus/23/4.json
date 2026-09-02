@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Si w rankontre bèf yonmi ou oswa bourik li k ap pèdi wout, retounen l ba li.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "w rankontre"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "yonmi ou"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "bourik li"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "k ap pèdi wout"
+    },
+    {
+      "surface": "השב",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ou retounen l"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ba li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:26.932305522Z",
+  "model": "glm-5.3"
+}

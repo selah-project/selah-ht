@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Sakrifis ak ofrann, ou pa vle yo; zòrèy ou koupe pou mwen; sakrifis boule ak ofrann pou peche, ou pa mande yo.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Sakrifis"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ak ofrann"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "vle"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "zòrèy"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ou koupe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sakrifis boule"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "ak ofrann pou peche"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "mande"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:50.546659115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Kè kontan pou moun nan ke ou disiplinen, Yah, e ke ou ansèyane li soti nan lwa ou.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kè kontan pou"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "ou disiplinen li"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "e soti nan lwa ou"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "ou ansèyane li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:24.226768514Z",
+  "model": "glm-5.3"
+}

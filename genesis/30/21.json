@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Apre sa li fè yon pitit fi, e li rele non l ⟨את⟩ Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Apre sa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "li fè yon pitit fi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "e li rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "non l"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:11.001568801Z",
+  "model": "glm-5.3"
+}

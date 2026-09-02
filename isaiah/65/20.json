@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 65:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Pa gen la ankò tibebe ki pa gen jou, ni vye granmoun ki pa konplete ⟨את⟩ jou li yo; paske jèn gason ki gen san ane ap mouri, epi pekè a ki gen san ane ap modi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "la"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tibebe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ni vye granmoun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "konplete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou li yo"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jou li yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ki gen"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "והחוטא",
+      "gloss": "epi pekè a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ki gen"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ap modi"
+    }
+  ],
+  "timestamp": "2026-09-02T18:46:04.287815028Z",
+  "model": "glm-5.3"
+}

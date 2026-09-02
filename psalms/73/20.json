@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Kòm yon rèv lè yon moun reveye, konsa, Adònay, lè ⟨w⟩ reveye, w ap meprize imaj yo.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Kòm yon rèv"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "lè yon moun reveye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "lè w reveye"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "imaj yo"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "w ap meprize"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:48.332639981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Dwat ou a, Yawe, klere nan fòs la; dwat ou a, Yawe, kraze anmi an.",
+  "tokens": [
+    {
+      "surface": "יְמִינְךָ",
+      "gloss": "dwat ou"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נֶאְדָּרִי",
+      "gloss": "klere nan majeste"
+    },
+    {
+      "surface": "בַּכֹּחַ",
+      "gloss": "nan fòs"
+    },
+    {
+      "surface": "יְמִינְךָ",
+      "gloss": "dwat ou"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תִּרְעַץ",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "אוֹיֵב",
+      "gloss": "anmi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:31.876865113Z",
+  "model": "glm-5.3"
+}

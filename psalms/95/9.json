@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 95,
+  "translation": "Kote papa yo te fè m tès, te mete m nan egzamen, menm si yo te wè travay m.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kote"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "te fè m tès"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "te mete m nan egzamen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm si"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yo te wè"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "travay m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:19.867410732Z",
+  "model": "glm-5.3"
+}

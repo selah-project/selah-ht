@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Tè a fè debè, li afèbli; Lavanòn onte, li seyèche; Charòn vin sanm yon dezè, epi Bachàn ak Karmèl pèdi fèy yo.",
+  "tokens": [
+    {
+      "surface": "אָבַל",
+      "gloss": "fè debè"
+    },
+    {
+      "surface": "אֻמְלְלָה",
+      "gloss": "afèbli"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הֶחְפִּיר",
+      "gloss": "onte"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "Lavanòn"
+    },
+    {
+      "surface": "קָמַל",
+      "gloss": "seyèche"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "הַשָּׁרוֹן",
+      "gloss": "Charòn"
+    },
+    {
+      "surface": "כָּעֲרָבָה",
+      "gloss": "sanm yon dezè"
+    },
+    {
+      "surface": "וְנֹעֵר",
+      "gloss": "epi pèdi fèy"
+    },
+    {
+      "surface": "בָּשָׁן",
+      "gloss": "Bachàn"
+    },
+    {
+      "surface": "וְכַרְמֶל",
+      "gloss": "ak Karmèl"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:30.027916500Z",
+  "model": "glm-5.3"
+}

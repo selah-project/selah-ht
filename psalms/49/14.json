@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Sa a se chemen yo, sòt la pou yo; e apre yo ⟨y ap apwouve⟩ sa bouch yo di. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Sa a"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "chemen yo"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "e apre yo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ak bouch yo"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "y ap apwouve"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:01.683083042Z",
+  "model": "glm-5.3"
+}

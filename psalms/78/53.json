@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "E li mennen yo an sekirite, e yo pa pè, e ⟨את⟩ lènmi yo lanmè a kouvri yo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "an sekirite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "pè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "lènmi yo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "lènmi yo"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:28.692143736Z",
+  "model": "glm-5.3"
+}

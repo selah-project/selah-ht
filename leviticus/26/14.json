@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Men si nou pa tande mwen, e si nou pa fè ⟨את⟩ tout kòmandman sa yo:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout kòmandman sa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:07.854034078Z",
+  "model": "glm-5.3"
+}

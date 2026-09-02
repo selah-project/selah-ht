@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "ak ⟨את⟩ Tsora, ak ⟨את⟩ Ayalon, ak ⟨את⟩ Hevron, vil k ap nan Yehouda ak nan Binyamèn, vil fòtifye",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Tsora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "nan Yehouda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "ak nan Binyamèn"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "fòtifye"
+    }
+  ],
+  "timestamp": "2026-09-02T21:27:01.368584972Z",
+  "model": "glm-5.3"
+}

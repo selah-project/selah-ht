@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Se tsaraat ansyèn nan po nan kò l, e kohen la deklare l anpuren; li pa fèmen l deyò, paske l anpuren.",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "ansyèn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Se sa"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nan po"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nan kò l"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "e … deklare l anpuren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "fèmen l deyò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "anpuren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:45.531099745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Mwen sanble ak kakalèt dezè a, mwen vin trefè ruinn yo.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "mwen sanble ak"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "kakalèt"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dezè a"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mwen vin"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "ak trefè"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ruinn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:34.862488018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 70,
+  "translation": "Ke yo tounen ⟨pou⟩ wont kòm rekonpans yo, yo menm ki di: Hèach! Hèach!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Ke yo tounen"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kòm rekonpans ( literally: talon)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "wont yo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yo menm ki di"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hèach!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hèach!"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:41.001627134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Yehochafat kouchè ak zansèt li yo, epi yo antere l ak zansèt li yo nan lavil David la, epi Yehoram, pitit gason li, waye nan plas li.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kouchè"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt li yo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "yo antere l"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt li yo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "waye"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason li"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:32:14.494849008Z",
+  "model": "glm-5.3"
+}

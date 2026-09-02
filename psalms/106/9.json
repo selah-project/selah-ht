@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "E ⟨li⟩ fè blame sou Lanmè Sif, e ⟨li⟩ sèche, e ⟨li⟩ mennen yo nan fonfon yo, tankou nan dezè a.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "e fè blame sou"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nan Lanmè"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sif"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "e sèche"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "e mennen yo"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "nan fonfon yo"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "tankou dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:22.589327064Z",
+  "model": "glm-5.3"
+}

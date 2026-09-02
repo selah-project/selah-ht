@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Nan non ou yo ap rejwi tout jou a, e nan jitis ou yo ap monte wo.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "Nan non ou"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "yo ap rejwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "e nan jitis ou"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "yo ap monte wo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:34.518416976Z",
+  "model": "glm-5.3"
+}

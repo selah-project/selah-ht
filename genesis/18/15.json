@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi Sara di manti, l di : Mwen pa ri ; paske l t pè. E ⟨li⟩ di : Non, men ou ri.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Epi … di manti"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "l di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "mwen ri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "l t pè"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ⟨li⟩ di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "ou ri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:10.354473084Z",
+  "model": "glm-5.3"
+}

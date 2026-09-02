@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E l ranje ansanm ⟨את⟩ senk rido yo, youn ak lòt la, e senk lòt rido l ranje ansanm, youn ak lòt la.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "e l ranje ansanm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senk rido yo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "senk"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "rido yo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "youn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "lòt la"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e senk"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "lòt rido"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ranje ansanm"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "youn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "lòt la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:55.154166042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Bay Yawe glwa ki bati nan non li; pwostre nou devan Yawe nan bèlte santite.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Bay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "pwostre nou devan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "nan bèlte"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santite"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:36.168739676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yon tan pou fèt, e yon tan pou mouri; yon tan pou plante, e yon tan pou rache sa ki plante.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Yon tan"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "pou fèt"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan pou"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yon tan pou"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "plante"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan pou"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "rache"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "sa ki plante"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:00.861116992Z",
+  "model": "glm-5.3"
+}

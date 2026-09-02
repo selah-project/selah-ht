@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou abiyen ⟨את⟩ Aharòn ak rad sen yo, ou onnen ⟨את⟩ li, ou konsakre ⟨את⟩ li, e li sèvi kòm prèt pou mwen.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "abiyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharòn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad sen yo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "rad"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sen yo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "onnen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "sèvi kòm prèt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:41.917189193Z",
+  "model": "glm-5.3"
+}

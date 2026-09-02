@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E ou pral ⟨את⟩ gad règleman sa a nan tan li, jou apre jou.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "E ou pral gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "règleman sa a"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "règleman sa a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "nan tan li"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "apre jou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:31.618755366Z",
+  "model": "glm-5.3"
+}

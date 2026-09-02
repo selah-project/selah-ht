@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pakont yo pou branch Gad la: karannsenk mil ak sisannsenkann.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "pakont yo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pou branch"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "senk"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ak karann"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ak sis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ak senkann"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:53.849170055Z",
+  "model": "glm-5.3"
+}

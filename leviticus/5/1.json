@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi yon nefech lè ⟨li⟩ fè peche, epi ⟨li⟩ tande vwa yon sèman, epi ⟨li⟩ se temwen — te wè oswa te konnen — si l pa deklare l, l ap pòte fòt li.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Epi yon nefech"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "fè peche"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "epi l tande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sèman"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "epi li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "temwen"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "te wè"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "te konnen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "deklare"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "l ap pòte"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "fòt li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:01.705468232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E si yon nonm vann ⟨את⟩ titi l pou l vin sèvant fi, li p ap soti jan esklav yo soti a.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "E si"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "vann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "titi l"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "titi l"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "pou l vin sèvant fi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "jan soti"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "esklav yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:12.033393320Z",
+  "model": "glm-5.3"
+}

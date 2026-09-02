@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 70,
+  "translation": "Elohim, kite ⟨ou⟩ delivre m; Yawe, kouri vini ede m.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "kite delivre m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ede m"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "kouri vini"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:44.911943600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Paske jou mwen fini kou lafimen, e zo mwen cho boule kou yon kachèt dife.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fini"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "kou lafimen"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou mwen"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "e zo mwen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kou"
+    },
+    {
+      "surface": "קד",
+      "gloss": "yon kachèt dife"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "cho boule"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:26.829818851Z",
+  "model": "glm-5.3"
+}

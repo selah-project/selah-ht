@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi li tann ankò sèt lòt jou, epi li voye ⟨את⟩ pijon an, epi l pa t ajoute tounen jwe li ankò.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "tann"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "epi li voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pijon an"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pijon an"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi l pa t"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jwe li"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:29.056571995Z",
+  "model": "glm-5.3"
+}

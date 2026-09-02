@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Paske ⟨li⟩ konnen fòm nou an; li sonje ke pousyè ⟨se⟩ nou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "fòm nou an"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:05.464184642Z",
+  "model": "glm-5.3"
+}

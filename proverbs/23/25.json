@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Papa w ak manman w ap kontante, epi fanm ki fè w nesans ap rejwi.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ap kontante"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "ak manman w"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "epi ... ap rejwi"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "fanm ki fè w nesans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:49.727716099Z",
+  "model": "glm-5.3"
+}

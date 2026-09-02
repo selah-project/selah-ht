@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Yon bèt ki san blemyè, yon mal, ki gen yon lane, ap pou nou — nan mouton yo oswa nan kabrit yo nou pran l.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "san blemyè"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ki gen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "mouton yo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "oswa nan"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kabrit yo"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "pran"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:47.620329857Z",
+  "model": "glm-5.3"
+}

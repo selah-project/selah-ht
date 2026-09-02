@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E yo bay lòd ⟨את⟩ pitit gason Binyamin yo di: ale, e mete nou anbiskad nan pyebwa rezen yo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e yo bay lòd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "e mete nou anbiskad"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "nan pyebwa rezen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:23:28.768114798Z",
+  "model": "glm-5.3"
+}

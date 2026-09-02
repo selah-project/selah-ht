@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epe a deyò, epi epidemi an ak grangou a andedàn: moun ki nan jaden an ap mouri ak epe a; epi moun ki nan vil la, grangou ak epidemi ap manje l.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "epe a"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "epi epidemi an"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "ak grangou a"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "andedàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moun ki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan jaden"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ak epe a"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "epi moun ki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil la"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "grangou"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ak epidemi"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ap manje l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:11:54.635579249Z",
+  "model": "glm-5.3"
+}

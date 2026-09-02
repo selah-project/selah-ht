@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Trubl kè mwen yo elaji: soti m nan angois mwen yo.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "trubl yo"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "elaji"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "nan angois mwen yo"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "soti m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:59.946689739Z",
+  "model": "glm-5.3"
+}

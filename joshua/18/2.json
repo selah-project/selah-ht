@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E te rete nan pitit Yisrael yo ki pataje pa ⟨את⟩ eritaj yo, sèt tribi.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "te rete"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "nan pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "pataje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eritaj yo"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "eritaj yo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "tribi"
+    }
+  ],
+  "timestamp": "2026-09-02T17:08:07.409613926Z",
+  "model": "glm-5.3"
+}

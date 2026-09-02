@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi tout ofann mann yon kohen dwe boule tout antye, li pa dwe manje.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Epi tout"
+    },
+    {
+      "surface": "מִנְחַת",
+      "gloss": "ofann mann yon"
+    },
+    {
+      "surface": "כֹּהֵן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כָּלִיל",
+      "gloss": "tout antye"
+    },
+    {
+      "surface": "תִּהְיֶה",
+      "gloss": "dwe ⟨dwe⟩"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תֵּאָכֵל",
+      "gloss": "dwe manje"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:08.031897489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Venon koulèv-monstr se diven yo, e tèt koulèv vipè a se yon bagay ki san pitye.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "venon"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "koulèv-monstr"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "diven yo"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "e tèt"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "koulèv vipè"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "san pitye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:57:56.302228483Z",
+  "model": "glm-5.3"
+}

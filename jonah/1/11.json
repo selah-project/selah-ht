@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 1:11",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E yo di l: Kisa n ap fè ba ou, pou lanmè a ka kalm sou nou? Paske lanmè a ap mache e ap vin pi move.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e yo di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "n ap fè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "pou ... kalm"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "ap vin pi move"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:34.669457906Z",
+  "model": "glm-5.3"
+}

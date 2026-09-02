@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Moun ki mouri yo nan epidemi an te ventekat mil ⟨moun⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "te"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "moun ki mouri yo"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "nan epidemi an"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ak vent"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    }
+  ],
+  "timestamp": "2026-09-02T16:32:58.051371882Z",
+  "model": "glm-5.3"
+}

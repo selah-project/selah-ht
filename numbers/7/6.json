@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi Moche pran ⟨את⟩ char yo ak ⟨את⟩ bèf yo, epi li bay Livit yo yo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Epi Moche pran"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "char yo"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "char yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bèf yo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bèf yo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "epi li bay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Livit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:23:05.277016067Z",
+  "model": "glm-5.3"
+}

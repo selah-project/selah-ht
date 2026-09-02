@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E sa rive: lè mwen, Daniel, te wè ⟨את⟩ vizyon an e m te chèche konpreannyon, gad — yon figi kòm aparans yon gason te kanpe devan mwen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e sa rive"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "lè m te wè"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vizyon an"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "vizyon an"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "e m te chèche"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "konpreannyon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gad"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "te kanpe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "devan mwen"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "kòm aparans"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yon gason"
+    }
+  ],
+  "timestamp": "2026-09-02T21:00:02.543570839Z",
+  "model": "glm-5.3"
+}

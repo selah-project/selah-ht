@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Yisrael antre nan Mitsrayim, e Yaakov te rete kòm etranje nan peyi Cham la.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "e Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "te rete kòm etranje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:59.006569260Z",
+  "model": "glm-5.3"
+}

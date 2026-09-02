@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Bèjè Yisrael, kite zòrèy ou louvri, ou ki mennen Yosèf tankou mouton, ou ki chita sou kerub yo, parèt klere.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Bèjè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kite zòrèy ou louvri"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ki mennen"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "tankou mouton"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ki chita"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "sou kerub yo"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "parèt klere"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:17.381647405Z",
+  "model": "glm-5.3"
+}

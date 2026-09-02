@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "M ap kontan e m ap rejwi nan ou, m ap chante Non ou, Elyòn ⟨Pi Wo a⟩.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "M ap kontan"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "e m ap rejwi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ap chante"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn ⟨Pi Wo a⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:54.416970690Z",
+  "model": "glm-5.3"
+}

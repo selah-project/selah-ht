@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Sonje pitye ou yo, Yawe, ak hesed ou yo, paske yo soti depi tout tan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "pitye ou yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "ak hesed ou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "depi tout tan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:13.290066142Z",
+  "model": "glm-5.3"
+}

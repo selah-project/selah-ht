@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Chak moun ki rele pa ⟨pa⟩ non m, e ke m kreye pou glwa m — m fòme l, wi, m fè l.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "ki rele"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "pa non m"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "e pou glwa m"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "m kreye l"
+    },
+    {
+      "surface": "יצצרתיו",
+      "gloss": "m fòme l"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wi"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "m fè l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:10.793182151Z",
+  "model": "glm-5.3"
+}

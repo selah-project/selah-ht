@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Kite l bo mwen ak bo nan bouch li, paske lanmou ou yo bon plis pase diven.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "kite l bo mwen"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "ak bo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bon"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "lanmou ou yo"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "pase diven"
+    }
+  ],
+  "timestamp": "2026-09-02T20:44:40.069390604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "E Paro pale ak Yosèf, li di: papa w ak frè w yo rive ⟨aubò w⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ak frè w yo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "rive"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aubò w"
+    }
+  ],
+  "timestamp": "2026-09-02T15:36:55.917299133Z",
+  "model": "glm-5.3"
+}

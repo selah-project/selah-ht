@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi ou touye ⟨את⟩ pitit ou yo, epi ou bay yo, nan fè ⟨את⟩ yo pase, pou yo.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "epi ou touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit ou yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "epi ou bay yo"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "nan fè pase"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:15:47.324203768Z",
+  "model": "glm-5.3"
+}

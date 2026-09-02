@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Poukisa li bay limyè a moun nan mizè, e lavi a moun ki gen nanm bè?",
+  "tokens": [
+    {
+      "surface": "לָ֤מָּה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "יִתֵּ֣ן",
+      "gloss": "li bay"
+    },
+    {
+      "surface": "לְעָמֵ֣ל",
+      "gloss": "a moun nan mizè"
+    },
+    {
+      "surface": "א֑וֹר",
+      "gloss": "limyè"
+    },
+    {
+      "surface": "וְ֝חַיִּ֗ים",
+      "gloss": "e lavi"
+    },
+    {
+      "surface": "לְמָ֣רֵי",
+      "gloss": "a moun ki gen"
+    },
+    {
+      "surface": "נָֽפֶשׁ",
+      "gloss": "nanm bè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:06.567472207Z",
+  "model": "glm-5.3"
+}

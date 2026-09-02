@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Chet te viv senk ane ak san ane, epi l fè ⟨את⟩ Enoch.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "te viv"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "senk"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "epi l fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoch"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoch"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:47.855832259Z",
+  "model": "glm-5.3"
+}

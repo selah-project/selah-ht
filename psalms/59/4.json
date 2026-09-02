@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Paske gade, yo te mete tann pou nefech m, moun ki gen fòs rasanble kont m — pa revòlt m, e pa peche m, Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "yo te mete tann"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pou nefech m"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "yo rasanble"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont m"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "moun ki gen fòs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "revòlt m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "peche m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:52.355119349Z",
+  "model": "glm-5.3"
+}

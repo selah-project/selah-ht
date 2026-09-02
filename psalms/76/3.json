@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "Epi nan Chalem kabàn li ⟨ye⟩, ak kote ⟨li⟩ rete a nan Tsiyòn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi ... ⟨ye⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "nan Chalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "kabàn li"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "ak kote ⟨li⟩ rete a"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "nan Tsiyòn"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:38.599054555Z",
+  "model": "glm-5.3"
+}

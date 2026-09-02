@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Eli tande ⟨את⟩ vwa krialamentè a, e l di: Ki sa k fè tout brui tumulte sa a? Nonm nan prese, l antre, e l anonse bagay yo ba Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa krialamentè a"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "krialamentè a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ki sa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "tumulte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "e nonm nan"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "prese"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "ba Eli"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:23.555481766Z",
+  "model": "glm-5.3"
+}

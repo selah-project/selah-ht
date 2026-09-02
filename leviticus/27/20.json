@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "E si l pa rakechte ⟨את⟩ jaden an, e si l vann ⟨את⟩ jaden an bay yon lòt moun, l p ap ka rakechte l ankò.",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יִגְאַל",
+      "gloss": "rakechte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "jaden an"
+    },
+    {
+      "surface": "הַשָּׂדֶה",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "מָכַר",
+      "gloss": "vann"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "jaden an"
+    },
+    {
+      "surface": "הַשָּׂדֶה",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "לְאִישׁ",
+      "gloss": "bay yon moun"
+    },
+    {
+      "surface": "אַחֵר",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יִגָּאֵל",
+      "gloss": "ka rakechte"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:37.827971981Z",
+  "model": "glm-5.3"
+}

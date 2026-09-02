@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 19:2",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi pilègèch li a fè fònikasyon sou li, epi l ale kite ⟨את⟩ l pou l al nan kay papa l, nan Beit-Lèchem Yehouda; epi l te la kat mwa.",
+  "tokens": [
+    {
+      "surface": "ותזנה",
+      "gloss": "fè fònikasyon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "pilègèch li a"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kite ⟨את⟩ l",
+      "marks": "l (li)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou l al nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lèchem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mwa"
+    }
+  ],
+  "timestamp": "2026-09-02T17:22:21.266656005Z",
+  "model": "glm-5.3"
+}

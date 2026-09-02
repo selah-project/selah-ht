@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Rejwi nan Yawe, moun jis yo; pou moun dwat yo, lof ⟨apwopriye⟩.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "rejwi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "pou moun dwat yo"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "apwopriye"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lof"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:17.229259429Z",
+  "model": "glm-5.3"
+}

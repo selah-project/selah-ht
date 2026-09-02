@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Epi mwen, mwen pòv e nan doulè; delivrans ⟨ou⟩ a, Elohim, ap mete m an sekirite.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Epi mwen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "ak doulè"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "delivrans ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ap mete m an sekirite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:12.422949989Z",
+  "model": "glm-5.3"
+}

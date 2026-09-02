@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E yo reponn ⟨את⟩ Yehochoua, yo di: Tout sa w òdone nou, n ap fè l; e nan tout kote w ap voye nou, n ap ale.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲנוּ",
+      "gloss": "e yo reponn"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehochoua"
+    },
+    {
+      "surface": "יְהוֹשֻׁעַ",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צִוִּיתָנוּ",
+      "gloss": "w òdone nou"
+    },
+    {
+      "surface": "נַעֲשֶׂה",
+      "gloss": "n ap fè"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "e nan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "תִּשְׁלָחֵנוּ",
+      "gloss": "w ap voye nou"
+    },
+    {
+      "surface": "נֵלֵךְ",
+      "gloss": "n ap ale"
+    }
+  ],
+  "timestamp": "2026-09-02T17:00:40.837908520Z",
+  "model": "glm-5.3"
+}

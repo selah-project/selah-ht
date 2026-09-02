@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Yo pap rete nan tè ou, de pou yo fè ou fòt ou kontre m, paske w ap sèvi ⟨את⟩ dye yo, paske y ap vin yon pyèj pou ou.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יֵשְׁבוּ",
+      "gloss": "rete"
+    },
+    {
+      "surface": "בְּאַרְצְךָ",
+      "gloss": "nan tè ou"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "de pou"
+    },
+    {
+      "surface": "יַחֲטִיאוּ",
+      "gloss": "fè ou fòt"
+    },
+    {
+      "surface": "אֹתְךָ",
+      "gloss": "⟨את⟩ ou"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "kontre m"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תַעֲבֹד",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "dye yo"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "dye yo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "לְמוֹקֵשׁ",
+      "gloss": "pyèj"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:04.628534268Z",
+  "model": "glm-5.3"
+}

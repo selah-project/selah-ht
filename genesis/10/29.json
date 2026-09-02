@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "ak ⟨את⟩ Ofir, ak ⟨את⟩ Chavilah, ak ⟨את⟩ Yovav; tout sa yo se pitit Yoktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-09-02T22:11:33.450027095Z",
+  "model": "glm-5.3"
+}

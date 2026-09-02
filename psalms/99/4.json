@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 99,
+  "translation": "E fòs wa ki renmen jistis — ou menm, ou etabli dwatè; jistis ak kè-dwa nan Yaakov, ou menm, ou fè ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "e fòs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ki renmen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ou etabli"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "dwatè"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e kè-dwa"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "nan Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:03.759952156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Tout zo mwen yo ap di: Yawe, ki moun ki sanble ou, ki sove pòv la nan men pi fò pase li, ak pòv la ak malere a, nan men vòlè l?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "zo mwen yo"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ki sanble ou"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ki sove"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "nan men pi fò"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pase li"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ak pòv la"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ak malere a"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "nan men vòlè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:51.844532010Z",
+  "model": "glm-5.3"
+}

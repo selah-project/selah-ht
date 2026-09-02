@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Dife a dwe boule pou toutan sou otèl la, li pa dwe ⟨etenn⟩.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "boule"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otèl la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "etenn"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:37.960547128Z",
+  "model": "glm-5.3"
+}

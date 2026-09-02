@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Aswè, ak nan maten, ak nan midi m ap medite, m ap gemi, e l tande vwa m.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Aswè"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ak nan maten"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ak nan midi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "m ap medite"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "m ap gemi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e l tande"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vwa m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:10.932627391Z",
+  "model": "glm-5.3"
+}

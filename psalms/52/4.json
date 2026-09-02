@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Lang ou ap planifen destriksyon, tankou yon razè byen file, ou menm ki fè twòp.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "destriksyon"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ap planifen"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "Lang ou"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "tankou yon razè"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "byen file"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ou menm ki fè"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "twòp"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:29.230621171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi li mennen yo devan ⟨את⟩ figi wa Moav la, epi yo rete ak li tout jou David te ye nan fò a.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "epi mennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi wa Moav la"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "epi rete"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "היות",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "nan fò a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:39.239617270Z",
+  "model": "glm-5.3"
+}

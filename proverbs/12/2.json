@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Moun ki bon fè soti favè soti nan men Yawe, men moun ki gen plan move, ⟨Yawe⟩ deklare l koupab.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "moun ki bon"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "favè"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "soti nan men Yawe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men moun ki gen"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "plan move"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "deklare koupab"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:40.436476Z",
+  "model": "glm-5.3"
+}

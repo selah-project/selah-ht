@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E li touye ⟨את⟩ ofrann boule a, e pitit Aharòn pote ba li ⟨את⟩ san a, e li jete l sou otèl la touttoutou.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann boule a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrann boule a"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san a"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "san a"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "jete l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otèl la"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "touttoutou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:23.166638807Z",
+  "model": "glm-5.3"
+}

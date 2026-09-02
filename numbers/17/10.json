@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Leve ⟨ou⟩ nan mitan asanble sa a, pou m detwi ⟨את⟩ yo menm kout la. E yo tonbe sou figu yo.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "pou m detwi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "menm kout la"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "e yo tonbe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "figu yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:29:51.236138125Z",
+  "model": "glm-5.3"
+}

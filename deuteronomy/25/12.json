@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "epi ou ap koupe ⟨את⟩ men l; je w pa dwe gen pitye.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "epi ou ap koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "men l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "dwe gen pitye"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "je w"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:09.209273954Z",
+  "model": "glm-5.3"
+}

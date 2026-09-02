@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 118,
+  "translation": "Ou pouse m fò pou m tonbe, men Yawe ede m.",
+  "tokens": [
+    {
+      "surface": "דַּחֹ֣ה",
+      "gloss": "pouse fò"
+    },
+    {
+      "surface": "דְּחִיתַ֣נִי",
+      "gloss": "ou pouse m"
+    },
+    {
+      "surface": "לִנְפֹּ֑ל",
+      "gloss": "pou m tonbe"
+    },
+    {
+      "surface": "וַ֖יהוָ֣ה",
+      "gloss": "men Yawe"
+    },
+    {
+      "surface": "עֲזָרָֽנִי",
+      "gloss": "ede m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:50.978633732Z",
+  "model": "glm-5.3"
+}

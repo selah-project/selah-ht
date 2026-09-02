@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Li soti ale, li fè lagè kont Filistyen yo, li kraze ⟨את⟩ mi lavil Gat la, ak ⟨את⟩ mi lavil Yavneh la, ak ⟨את⟩ mi lavil Achdod la; e li bati lavil nan peyi Achdod la e nan mitan Filistyen yo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "li soti ale"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "li fè lagè kont"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "li kraze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mi lavil Gat la"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mi lavil"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "mi lavil Yavneh la"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mi lavil"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "mi lavil Achdod la"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mi lavil"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Achdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "e li bati"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "lavil"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "nan peyi Achdod la"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "e nan mitan Filistyen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:33:13.759788610Z",
+  "model": "glm-5.3"
+}

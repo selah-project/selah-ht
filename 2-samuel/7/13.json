@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Li ap bati yon kay pou Non mwen, epi m ap fè kanpe ⟨את⟩ chèz wayòm li jiska touttan.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Li"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ap bati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yon kay"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "pou Non mwen"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "epi m ap fè kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chèz la"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chèz"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "wayòm li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "touttan"
+    }
+  ],
+  "timestamp": "2026-09-02T17:42:13.760292272Z",
+  "model": "glm-5.3"
+}

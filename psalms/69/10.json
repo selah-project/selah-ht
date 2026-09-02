@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Paske jalouzi kay ⟨ou⟩ a devore m, ak mok moun ki moke ⟨ou⟩ yo tonbe sou m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "jalouzi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "devore m"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "ak mok"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "moun ki moke ou"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:22.743546299Z",
+  "model": "glm-5.3"
+}

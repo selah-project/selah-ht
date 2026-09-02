@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi yo met ⟨את⟩ fatra HaElohim sou yon charèt nèf, soti nan kay Avinadav; Ouza ak Ahyo ⟨te⟩ kondwi charèt la.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fatra HaElohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fatra"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "charèt"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soti nan kay"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "e Ouza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ak frè l"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "kondwi"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "charèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:39.929098020Z",
+  "model": "glm-5.3"
+}

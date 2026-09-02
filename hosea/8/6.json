@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Paske se nan Yisrayèl li soti — yon atizan fè l, e li pa yon dye; paske bèf Shomron an ap vin moso!",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מִיִּשְׂרָאֵל",
+      "gloss": "soti nan Yisrayèl"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "חָרָשׁ",
+      "gloss": "atizan"
+    },
+    {
+      "surface": "עֲשָׂהוּ",
+      "gloss": "fè l"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "dye"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "li"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שְׁבָבִים",
+      "gloss": "moso"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "עֵגֶל",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "שֹׁמְרוֹן",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:55.115795053Z",
+  "model": "glm-5.3"
+}

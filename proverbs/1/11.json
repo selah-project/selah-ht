@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Si yo di: Vini ak ⟨את⟩ nou, ann anbiche pou san, ann kache tann moun sans fòt la san rezon.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ak ⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "ann anbiche"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "pou san"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "ann kache tann"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "pou moun sans fòt la"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "san rezon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:45.555935392Z",
+  "model": "glm-5.3"
+}

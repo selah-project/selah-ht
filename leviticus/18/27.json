@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Paske nonm yo nan tè a ki te devan nou menm, se ⟨את⟩ tout abominasyon sa yo yo te fè, e tè a vin sal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "abominasyon yo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yo te fè"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "nonm yo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "e ... vin sal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:34.194807587Z",
+  "model": "glm-5.3"
+}

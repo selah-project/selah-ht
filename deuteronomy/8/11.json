@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Fè atansyon pou w pa bliye ⟨את⟩ Yawe Elohim ou an, pou w pa kenbe kòmandman l yo, ak jijman l yo, ak lwa l yo, ke mwen ap kòmande w jodi a.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "fè atansyon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou w pa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou an"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pou w pa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kòmandman l yo"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ak jijman l yo"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ak lwa l yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ap kòmande w"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:27.075585667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Beni, nanm m, ⟨את⟩ Yawe, e pa bliye tout sa li fè pou ou — tout byen li fè ⟨pou ou⟩!",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "beni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "byen li fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:10.237235806Z",
+  "model": "glm-5.3"
+}

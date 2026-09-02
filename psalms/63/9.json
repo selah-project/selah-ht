@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Nanm mwen kole aprete ou, men dwat ou kenbe m.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "kole aprete"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nanm mwen"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "men dwat ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:09.198794033Z",
+  "model": "glm-5.3"
+}

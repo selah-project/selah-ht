@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Pa kite kouran dlo a debòde sou m, ni pa kite fon san fon nan vale m, ni pa kite fou a fèmen bouch li sou m.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "kite … debòde sou m"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "kouran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni pa kite"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "vale m"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "fon san fon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni pa kite"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    },
+    {
+      "surface": "באר",
+      "gloss": "fou a"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:00.268020724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Kombien fwa yo rebelle kont li nan dezè a, fè l chagren nan chyèn rèn plen lonbraj la!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Kombien fwa"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "yo rebelle kont li"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "fè l chagren"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "nan chyèn rèn plen lonbraj la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:59.754630263Z",
+  "model": "glm-5.3"
+}

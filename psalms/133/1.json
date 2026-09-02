@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 133,
+  "translation": "Chant nan monte yo, pou David. Gade, kijan sa bon e kijan sa dous, frè yo rete ansanm, menm ansanm!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nan monte yo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kijan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e kijan"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dous"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "rete"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "frè yo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:02.794817695Z",
+  "model": "glm-5.3"
+}

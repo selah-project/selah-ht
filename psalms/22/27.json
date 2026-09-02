@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Moun ki gen yon kè anba yo ap manje epi yo ap vin satre; sa k ap chèche Yawe ap fè lwanj pou li; kè nou ap viv pou tout tan.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "yo ap manje"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "moun ki gen yon kè anba"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "epi yo ap vin satre"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "yo ap fè lwanj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "sa k ap chèche l"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "ap viv"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "kè nou"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:17.794537750Z",
+  "model": "glm-5.3"
+}

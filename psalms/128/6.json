@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 128,
+  "translation": "Epi ⟨ou⟩ gade pitit pitit ou yo, lapè sou Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:46.808274377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Yon lyon k'ap gwonde ak yon lous k'ap kouri dèyè — se sa yon gouvènè mechan ye sou yon pèp pòv.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "lyon"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "k'ap gwonde"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "ak lous"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "k'ap kouri dèyè"
+    },
+    {
+      "surface": "משל",
+      "gloss": "k'ap gouvènen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pòv"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:54.870811562Z",
+  "model": "glm-5.3"
+}

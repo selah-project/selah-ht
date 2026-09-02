@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Li fè lapli tonbe sou moun ki fè mal: filè, dife ak souf, ak van k ap boule — ⟨se⟩ pa ⟨yo⟩ nan vè yo.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Li fè lapli tonbe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun ki fè mal"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "filè"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "ak souf"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ak van"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "k ap boule"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "vè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:26.562546014Z",
+  "model": "glm-5.3"
+}

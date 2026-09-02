@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 146,
+  "translation": "Moun ki fè jistis pou moun yo ap krase, ki ban manje granfamen yo, Yawe se moun ki devlope prizonye yo.",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֤ה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "מִשְׁפָּ֨ט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "לָעֲשׁוּקִ֗ים",
+      "gloss": "pou moun yo ap krase"
+    },
+    {
+      "surface": "נֹתֵ֣ן",
+      "gloss": "ki ban"
+    },
+    {
+      "surface": "לֶ֭חֶם",
+      "gloss": "manje"
+    },
+    {
+      "surface": "לָרְעֵבִ֑ים",
+      "gloss": "granfamen yo"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מַתִּ֥יר",
+      "gloss": "ki devlope"
+    },
+    {
+      "surface": "אֲסוּרִֽים",
+      "gloss": "prizonye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:43.635084560Z",
+  "model": "glm-5.3"
+}

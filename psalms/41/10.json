@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Menm moun ki te gen lapè ak mwen, mwen te mete konfyans nan li, menm moun ki te manje pen mwen an — li fin leve talon sou mwen.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "lapè ak mwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mwen te mete konfyans"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "pen mwen"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "fin grandi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "talon"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:10.842998643Z",
+  "model": "glm-5.3"
+}

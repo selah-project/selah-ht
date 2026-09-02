@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Èske pa jan Karkemich, Kalno a? Èske pa jan Arpad, Hamat a? Èske pa jan Damasek, Chomeron a?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske pa"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "jan Karkemich"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "èske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "jan Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "èske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "jan Damasek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:31.672929385Z",
+  "model": "glm-5.3"
+}

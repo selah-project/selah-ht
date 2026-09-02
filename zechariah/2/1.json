@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Mwen leve ⟨את⟩ je m mwen gade e menm kat kòn yo.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Mwen leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je m"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "mwen gade"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "kòn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:46:55.516326050Z",
+  "model": "glm-5.3"
+}

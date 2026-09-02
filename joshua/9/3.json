@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Men moun ki t ap rete Givòn yo tande ⟨את⟩ sa k Yehochoua te fè ak Yericho ak Ay.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "ak moun ki t ap rete"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givòn"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa k Yehochoua te fè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa k"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "ak Yericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ak Ay"
+    }
+  ],
+  "timestamp": "2026-09-02T17:03:35.205967789Z",
+  "model": "glm-5.3"
+}

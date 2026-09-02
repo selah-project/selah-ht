@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi bò papa l, papa ti fi a, kenbe l fèm, epi li rete ak ⟨את⟩ li twa jou; epi yo manje, yo bwè, epi yo pase nwit la.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "kenbe fèm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "l"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "bò papa l"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ti fi a"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ak ⟨את⟩ li",
+      "marks": "li (l)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "manje"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "bwè"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "pase nwit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:22:21.267021933Z",
+  "model": "glm-5.3"
+}

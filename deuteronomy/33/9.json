@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Moun ki di nan papa l ak manman l: Mwen pa wè l; ⟨את⟩ frè l yo, li pa rekonèt; ⟨את⟩ pitit li yo, li pa konnen; paske yo te kenbe pawòl ou, e ak kontrà ou yo ap gade l.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Moun ki di"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "nan papa l"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ak manman l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "wè l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "frè l yo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "rekonèt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit li yo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "te kenbe"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "ak kontrà ou"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ap gade l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:47:34.911622791Z",
+  "model": "glm-5.3"
+}

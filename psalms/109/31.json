@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Paske ⟨Yawe⟩ ap kanpe pou l ⟨ rete ⟩ bò dwat pòv la, pou l sove ⟨li⟩ de moun ki jije nanm li.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "pou l rete bò dwat"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "pou sove"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "de moun ki jije"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nanm li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:56.817091296Z",
+  "model": "glm-5.3"
+}

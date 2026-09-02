@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi sa ap rive: apre m fin derasine ⟨את⟩ yo, m ap tounen, epi m ap gen pitye pou yo; m ap fè yo tounen, chak moun nan eritaj li, epi chak moun nan peyi l.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Epi sa ap rive"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "m fin derasine"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "m ap tounen"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "epi m ap gen pitye pou yo"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "m ap fè yo tounen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "nan eritaj li"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "epi chak moun"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "nan peyi l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:52:23.131604787Z",
+  "model": "glm-5.3"
+}

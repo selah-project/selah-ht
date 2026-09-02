@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E l di ba mwen: pitit moun, ⟨את⟩ sa ki w ap jwenn, manje; manje ⟨את⟩ woulo sa a, epi ale pale kay Yisrael yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E l di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba mwen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki w ap jwenn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "w ap jwenn"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "manje"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woulo sa a"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "woulo a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "epi ale"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T19:12:32.584704769Z",
+  "model": "glm-5.3"
+}

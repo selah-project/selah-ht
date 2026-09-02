@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Èske ou gen je chè? Èske w wè jan moun fèl wè?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "èiske ou gen je"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou gen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oswa èske"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "jan ... wè"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moun fèl"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "w wè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:43.730436948Z",
+  "model": "glm-5.3"
+}

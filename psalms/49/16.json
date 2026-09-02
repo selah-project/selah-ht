@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Sètènman Elohim ap delivre nanm mwen nan men Cheol, paske l ap pran mwen. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sètènman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ap delivre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "l ap pran mwen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:01.683414537Z",
+  "model": "glm-5.3"
+}

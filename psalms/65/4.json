@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Kòz fòt yo gen fòs sou mwen; revòlt nou yo — se ou k ap kouvri yo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Kòz"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "fòt yo"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "gen fòs sou"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "revòlt nou yo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "k ap kouvri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:53.633264497Z",
+  "model": "glm-5.3"
+}

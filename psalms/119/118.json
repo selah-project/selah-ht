@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Ou meprize tout moun ki deraye kite dekrè ou yo, paske se mant trayri yo ye.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Ou meprize"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "moun ki deraye"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "kite dekrè ou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mant"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "trayri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:15.168586520Z",
+  "model": "glm-5.3"
+}

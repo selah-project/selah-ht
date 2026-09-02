@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Aram soti lès, e Filistin soti dèyè, e yo devore ⟨את⟩ Izrayèl ak tout bouch. Malgre tout sa, kòlè l pa vire, e menm kounye a men l deyou astire.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "soti lès"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "e Filistin"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "soti dèyè"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "e yo devore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "פה",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vire"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kòlè l"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "e menm kounye a"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "deyou astire"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:24.173116480Z",
+  "model": "glm-5.3"
+}

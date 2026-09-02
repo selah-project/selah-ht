@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 124,
+  "translation": "Nefech nou chape tankou yon zwazo andeyò pyèv moun ki kanpe pyèv yo; pyèv la kase, e nou chape.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefech nou"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "tankou yon zwazo"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "chape"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "andeyò pyèv"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "moun ki kanpe pyèv yo"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "pyèv la"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "kase"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "e nou"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "nou chape"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:35.454812690Z",
+  "model": "glm-5.3"
+}

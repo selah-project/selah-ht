@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi m ap rale ⟨את⟩ men m, epi m ap frape ⟨את⟩ Mitsrayim ak tout mirak mwen yo ke m ap fè nan mitan l; epi apre sa, l ap voye ⟨את⟩ nou ale.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "m ap rale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men m"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "m ap frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "mirak mwen yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ap fè"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nan mitan l"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "epi apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "l ap voye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou ale",
+      "marks": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:42:12.232571537Z",
+  "model": "glm-5.3"
+}

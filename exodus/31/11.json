@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "ak ⟨את⟩ lwil ansent lan ak ⟨את⟩ansans pwom ki bon pou kay ki sanktifye a — selon tout sa mwen kòmande ou, se sa yo ap fè",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lwil ansent lan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ansent lan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ansans pwom nan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ansans"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "pwom"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "pou kay ki sanktifye a"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "mwen kòmande ou"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "yo ap fè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:48.901217495Z",
+  "model": "glm-5.3"
+}

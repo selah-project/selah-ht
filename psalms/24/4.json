@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Moun ki gen men pwòp, ki gen kè san foule, ki pa fè nefech li mònme vanite, ki pa jire falwè.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "moun ki gen ... pwòp"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "men"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ak ... san foule"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "fè ... mònme"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "vanite"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ki pa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "jire"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "falwè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:16.643576347Z",
+  "model": "glm-5.3"
+}

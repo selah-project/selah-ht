@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Nan Yerouchalayim ⟨te⟩ rete ⟨de pitit⟩ gason Yehouda, de pitit gason Binyamin, de pitit gason Efrayim ak Menache.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "ak nan Yerouchalayim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "te rete"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ak de"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ak de"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ak Menache"
+    }
+  ],
+  "timestamp": "2026-09-02T21:17:21.028012695Z",
+  "model": "glm-5.3"
+}

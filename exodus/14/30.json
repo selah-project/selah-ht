@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi Yawe sove Yisrael jou a soti nan men Mitsrayim; Yisrael wè ⟨את⟩ Mitsrayim ⟨yo⟩ mouriannot nan bò lanmé a.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Epi (Yawe) sove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Epi (Yisrael) wè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mouriannot"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan bò"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "(bò) lanmé"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmé"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:13.577021395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "ak pou bèt ou yo, ak pou bèt sovaj yo ki nan peyi ou a — tout produi l ap fèt pou manje.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "ak pou bèt ou yo"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "ak pou bèt sovaj yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nan peyi ou"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap fèt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "produi l"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pou manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:03.523311702Z",
+  "model": "glm-5.3"
+}

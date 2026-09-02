@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Sou lyon ak kobra w ap pise; ti lyon ak krokodil w ap pize anba pye.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "שַׁחַל",
+      "gloss": "lyon"
+    },
+    {
+      "surface": "וָפֶתֶן",
+      "gloss": "ak kobra"
+    },
+    {
+      "surface": "תִּדְרֹךְ",
+      "gloss": "w ap pise"
+    },
+    {
+      "surface": "תִּרְמֹס",
+      "gloss": "w ap pize anba pye"
+    },
+    {
+      "surface": "כְּפִיר",
+      "gloss": "ti lyon"
+    },
+    {
+      "surface": "וְתַנִּין",
+      "gloss": "ak krokodil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:37.926448503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi Paro ap di sou pitit Yisrayèl yo : yo pa konnen kote pou yo ale, yo bloke nan peyi a, dezè a fèmen ⟨yo⟩ sou yo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Epi Paro ap di"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sou pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "yo pa konnen kote pou yo ale"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi a"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨yo⟩ sou yo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:57.630323466Z",
+  "model": "glm-5.3"
+}

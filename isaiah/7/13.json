@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E li di: Koute non, kay David! Èske sa twò piti pou nou fatigue moun, pou nou fatigue tou ⟨את⟩ Elohim mwen?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Li di"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "נא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "twò piti"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "fatigue"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "pral fatigue"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mwen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:05.925065849Z",
+  "model": "glm-5.3"
+}

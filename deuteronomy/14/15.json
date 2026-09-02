@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "ak ⟨את⟩ bat strom lan, ak ⟨את⟩ chouèt lannuit la, ak ⟨את⟩ mwèl la, ak ⟨את⟩ epènye a dapre espès li;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bat strom lan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "strom lan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "chouèt lannuit la"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "chouèt lannuit la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "mwèl la"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "mwèl la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "epènye a"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "epènye a"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "dapre espès li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:48:06.572546586Z",
+  "model": "glm-5.3"
+}

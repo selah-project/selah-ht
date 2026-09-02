@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Elohim nou an ap vini, e li pa prann rèl: dife devan l ap manje, toutotou l van tanpèt ap soufle fò.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "prann rèl"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "toutotou l"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "ap soufle fò"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:21.322651644Z",
+  "model": "glm-5.3"
+}

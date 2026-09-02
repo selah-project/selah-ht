@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "ke li koupe ⟨את⟩ Avraham, ak sèman l pou Yitshak.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כָּרַת",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אַבְרָהָם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וּשְׁבוּעָתוֹ",
+      "gloss": "ak sèman l"
+    },
+    {
+      "surface": "לְיִצְחָק",
+      "gloss": "pou Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:01.414639672Z",
+  "model": "glm-5.3"
+}

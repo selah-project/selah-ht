@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E mwen voye ⟨את⟩ mwèt-gayo a devan nou, e li chase yo depi devan nou — de wa Emori yo — se pa ak epe ou, e se pa ak flèch ou.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "epi mwen voye"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwèt-gayo a"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "mwèt-gayo a"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "epi li chase"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "depi devan nou"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "ak epe ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ak flèch ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:10:54.557289206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Men ou dwe sou nonm ki nan bò dwat ou a, sou pitit moun ou fè fò pou tèt ou.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "dwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ki nan bò dwat ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "fè fò"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou tèt ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:11.843123224Z",
+  "model": "glm-5.3"
+}

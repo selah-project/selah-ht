@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Men ki jan zèv ou yo anpil, Yawe — tout ou fè yo nan sajès; tè a plen ak kreyati ou.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ki jan"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "zèv ou yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "nan sajès"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "fè"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "kreyati ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:11.626197579Z",
+  "model": "glm-5.3"
+}

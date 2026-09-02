@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Nefech larèl la dezi e ⟨li⟩ pa gen anyen; men nefech moun travailè yo ap gra.",
+  "tokens": [
+    {
+      "surface": "מִתְאַוָּ֣ה",
+      "gloss": "dezi"
+    },
+    {
+      "surface": "וָ֭אַיִן",
+      "gloss": "e pa gen anyen"
+    },
+    {
+      "surface": "נַפְשׁ֣וֹ",
+      "gloss": "nefech"
+    },
+    {
+      "surface": "עָצֵ֑ל",
+      "gloss": "larèl la"
+    },
+    {
+      "surface": "וְנֶ֖פֶשׁ",
+      "gloss": "men nefech"
+    },
+    {
+      "surface": "חָרֻצִ֣ים",
+      "gloss": "moun travailè yo"
+    },
+    {
+      "surface": "תְּדֻשָּֽׁן",
+      "gloss": "ap gra"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:21.897590660Z",
+  "model": "glm-5.3"
+}

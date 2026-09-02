@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Y ap fè ⟨את⟩ epòd la — lò, blè, viyole, kouchon koulè wouj vif, ak lin fin tòde — travay òvraf.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Y ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epòd la"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "epòd la"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blè"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "viyole"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kouchon koulè"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wouj vif"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ak lin fin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tòde"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "òvraf"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:58.657112312Z",
+  "model": "glm-5.3"
+}

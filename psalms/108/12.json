@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Èske se pa ou, Elohim, ki fin rejte nou? Èske ou pa sòti, Elohim, ak lame nou?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "èské se pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ki fin rejte nou"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "sòti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "ak lame nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:42.768839617Z",
+  "model": "glm-5.3"
+}

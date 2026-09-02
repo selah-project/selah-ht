@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Yehochoua bay ⟨את⟩ ofisye pèp la lòd, li di:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Epi ... bay lòd"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofisye pèp la"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ofisye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    }
+  ],
+  "timestamp": "2026-09-02T16:59:47.504640979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Verite ap pouse soti nan tè a, e jistis ap gade desann soti nan syèl yo.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Verite"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan tè a"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ap pouse"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "e jistis"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "soti nan syèl yo"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "ap gade desann"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:54.551764379Z",
+  "model": "glm-5.3"
+}

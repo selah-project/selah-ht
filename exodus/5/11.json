@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Nou menm, ale, pran paj pou nou nan kote nou jwenn l, paske pa gen anyen ap diminye nan travay nou a.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "paj"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "nou jwenn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "ap diminye"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "travay nou a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anyen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:42.096698208Z",
+  "model": "glm-5.3"
+}

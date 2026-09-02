@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Mizmòr pou Asaf. Vrèman, Elohim bon pou Yisrael, pou moun k gen kè ki pir.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmòr"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pou Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Vrèman"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pou Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "pou moun k gen"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kè ki pir"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:37.404450868Z",
+  "model": "glm-5.3"
+}

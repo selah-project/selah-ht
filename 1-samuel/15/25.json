@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 15:25",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Kounye a, tanpri, pòte ⟨את⟩ pek mwen, epi tounen avèk mwen, e m ap prostenne devan Yawe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kounye a"
+    },
+    {
+      "surface": "שא",
+      "gloss": "pòte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pek mwen"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "pek mwen"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "epi tounen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "avèk mwen"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "e m ap prostenne"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "devan Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:30:33.321455322Z",
+  "model": "glm-5.3"
+}

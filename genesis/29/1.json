@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E Yaakov leve pye l, epi l ale nan peyi pitit Lès yo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "leve"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "pye l"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Lès"
+    }
+  ],
+  "timestamp": "2026-09-02T15:26:08.513718203Z",
+  "model": "glm-5.3"
+}

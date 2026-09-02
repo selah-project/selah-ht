@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Pitit m, kenbe pawòl m yo, epi kòmandman m yo, kache ⟨את⟩ yo avèk ou.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit m"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "pawòl m yo"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "epi kòmandman m yo"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "kache"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ avèk ou",
+      "marks": "kòmandman m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:12.515008386Z",
+  "model": "glm-5.3"
+}

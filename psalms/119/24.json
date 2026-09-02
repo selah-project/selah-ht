@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Menm temwayaj ou yo se jwa m; se yo menm konsèy m yo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "temwayaj ou yo"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "jwa m"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "konsèy m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:28.843147099Z",
+  "model": "glm-5.3"
+}

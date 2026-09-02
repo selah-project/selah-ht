@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 15:32",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Pitit Yisrayèl te ye nan dezè a, epi yo jwenn yon nonm k ap ramase moso bwa nan jou chabat la.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "epi yo jwenn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "k ap ramase"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "moso bwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "chabat la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:29:19.436349884Z",
+  "model": "glm-5.3"
+}

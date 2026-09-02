@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi ou renmen ⟨את⟩ Yawe, Elohim ou a, epi ou kenbe gadriyaj li a, ak lwa li yo, ak jijman li yo, ak kòmandman li yo, tout jou yo.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "gadriyaj li"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "lwa li yo"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "jijman li yo"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "kòmandman li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:59.742017577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi si l anile ⟨את⟩ yo nèt apre l tande a, se l menm k ap pote ⟨את⟩ fòt li a.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Epi si"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "anile"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "anile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (pwomès ak angajman yo)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "l tande a"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "epi l ap pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fòt li a"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "fòt li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:38:54.530955314Z",
+  "model": "glm-5.3"
+}

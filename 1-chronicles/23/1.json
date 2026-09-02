@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "David te fin vye e te fin satisfyè ak jou, e li fè Chelomo, pitit gason l, reigné sou Yisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "fin vye"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e te fin satisfyè"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ak jou"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e li fè … reigné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T21:22:15.571736540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Kijan kay ou yo ki renmen an, Yawe Tsvaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kijan"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "ki renmen"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "kay ou yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:51.171217585Z",
+  "model": "glm-5.3"
+}

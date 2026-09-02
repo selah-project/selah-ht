@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim di: Fè limyè yo parèt nan vout syèl yo, pou separe ant jou a ak ant nwit la; e pou yo siy, ak fèt, ak jou, ak lane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "limyè yo"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "nan vout"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "pou separe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nwit la"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e pou yo vin"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "siy"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "ak fèt"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "ak jou"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ak lane"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:14.685098996Z",
+  "model": "glm-5.3"
+}

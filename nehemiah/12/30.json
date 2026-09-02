@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E pretr yo ak Levi yo pifye tèt yo, e yo pifye ⟨את⟩ pèp la, ak ⟨את⟩ pòt yo, ak ⟨את⟩ mi a.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "pifye"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pretr yo"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ak Levi yo"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "pifye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pòt yo"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "pòt yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "mi a"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mi a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:11:53.805222904Z",
+  "model": "glm-5.3"
+}

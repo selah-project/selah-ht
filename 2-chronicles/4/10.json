@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E li mete ⟨את⟩ lanmè a nan epòl dwat la, kote lès, an fas sid la.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lanmè a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "nan epòl"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "dwat la"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kote lès"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "an fas"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "sid"
+    }
+  ],
+  "timestamp": "2026-09-02T21:25:22.971962393Z",
+  "model": "glm-5.3"
+}

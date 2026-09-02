@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Paske gade, Yawe ap soti nan kote li ye a, epi l ap desann, epi l ap mache sou bàmòt (kote ki wo) tè a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ap soti"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "nan kote li ye a"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "epi l ap desann"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "epi l ap mache"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "bàmòt (kote ki wo)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:59:05.348170424Z",
+  "model": "glm-5.3"
+}

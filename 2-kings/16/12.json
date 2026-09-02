@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Lè wa a vini soti nan Damachèk, wa a wè ⟨את⟩ otèy la; e wa a pwoche bò otèy la, e li ofri sou li.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "soti nan Damachèk"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otèy la"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otèy la"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "pwoche"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "על",
+      "gloss": "bò"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otèy la"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ofri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:34.670468885Z",
+  "model": "glm-5.3"
+}

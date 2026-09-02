@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "⟨Li⟩ jije pèp ou a nan jistis, ⟨li⟩ jije pòv ou yo nan jijman.",
+  "tokens": [
+    {
+      "surface": "יָדִין",
+      "gloss": "jije"
+    },
+    {
+      "surface": "עַמְּךָ",
+      "gloss": "pèp ou a"
+    },
+    {
+      "surface": "בְּצֶדֶק",
+      "gloss": "nan jistis"
+    },
+    {
+      "surface": "וַעֲנִיֶּיךָ",
+      "gloss": "ak pòv ou yo"
+    },
+    {
+      "surface": "בְּמִשְׁפָּט",
+      "gloss": "nan jijman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:38.549728844Z",
+  "model": "glm-5.3"
+}

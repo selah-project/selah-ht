@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 125,
+  "translation": "Chant mòn yo. Moun ki fè konfyans ⟨nan⟩ Yawe yo tankou mòn Tsiyòn: li pa kay tranble, pou touttan li rete.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ki fè konfyans"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "tankou mòn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "kay tranble"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "li rete"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:48.530966206Z",
+  "model": "glm-5.3"
+}

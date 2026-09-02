@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E l fè ⟨את⟩ ban yo ak bwa chitim, e l kouvri ⟨את⟩ yo ak lò.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e l fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ban yo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ban yo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ak bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "e l kouvri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ak lò"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:34.729646373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi w ap manje e w ap ravi, e w ap beni ⟨את⟩ Yawe Elohim ou an, pou tè a bon an ki ⟨li⟩ ban ou a.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "epi w ap manje"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "e w ap ravi"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "e w ap beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou an"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "bon an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:27.075202766Z",
+  "model": "glm-5.3"
+}

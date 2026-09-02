@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 13:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "epi siy la a ak miray la a rive, ke l te pale avèk nou, pou l di: An nou mache dapre lòt dye — dye ou pa te konnen — epi an nou sèvi yo;",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "epi ... rive"
+    },
+    {
+      "surface": "האות",
+      "gloss": "siy la a"
+    },
+    {
+      "surface": "והמופת",
+      "gloss": "ak miray la a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te pale"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "avèk nou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "An nou mache"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dapre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lòt dye"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ou te konnen"
+    },
+    {
+      "surface": "ונעבדם",
+      "gloss": "epi an nou sèvi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:15.676024079Z",
+  "model": "glm-5.3"
+}

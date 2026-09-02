@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 140,
+  "translation": "Pa bay, o Yawe, dezi moun ki pa bon yo; pa fè konplo l rive, pou yo pa monte tèt yo. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "dezi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moun ki pa bon yo"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "konplo l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "fè rive"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "pou yo pa monte tèt yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:48.085255315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 75,
+  "translation": "Paske Elohim se ⟨jij la⟩: ⟨li⟩ abese sa a, epi ⟨li⟩ leve sa a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "se jij"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "abese"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "epi sa a"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "leve"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:23.584933466Z",
+  "model": "glm-5.3"
+}

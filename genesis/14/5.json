@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 14:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E nan katriyèmzan katòz an Khedarlaomer vin, e wa yo ki te ⟨את⟩ avè l, e yo frape ⟨את⟩ Refaim yo nan Achterot-Karnayim, ak ⟨את⟩ Zouzim yo nan Ham, ak ⟨את⟩ Emim yo nan Chaveh Kiryatayim.",
+  "tokens": [
+    {
+      "surface": "ובארבע",
+      "gloss": "e nan katriyèmzan katòz"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "katòz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Khedarlaomer"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "e wa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ avè l"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e yo frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Refaim yo"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim yo"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "nan Achterot"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "Karnayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Zouzim yo"
+    },
+    {
+      "surface": "הזוזים",
+      "gloss": "Zouzim yo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Emim yo"
+    },
+    {
+      "surface": "האימים",
+      "gloss": "Emim yo"
+    },
+    {
+      "surface": "בשוה",
+      "gloss": "nan Chaveh"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryatayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:06.396164743Z",
+  "model": "glm-5.3"
+}

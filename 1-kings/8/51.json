@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "paske se pèp ou ak eritaj ou yo ye ⟨yo⟩, ki ou fè soti soti Mitsrayim, soti nan mitan fou fè a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ak eritaj ou"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "ou fè soti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti Mitsrayim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "soti nan mitan"
+    },
+    {
+      "surface": "כור",
+      "gloss": "fou"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "fè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:08.596952525Z",
+  "model": "glm-5.3"
+}

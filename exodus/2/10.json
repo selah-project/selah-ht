@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi timoun an grandi, epi li mennen l bay pitit fi Paro a, e li vin ⟨pou li⟩ pitit gason. Epi li rele non li Moche, epi li di: Paske se nan dlo a mwen rale l soti.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "epi … grandi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun an"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "epi … mennen l"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "bay pitit fi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "epi … vin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "epi … rele"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "epi … di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "mwen rale l soti"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:32.726236599Z",
+  "model": "glm-5.3"
+}

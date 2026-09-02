@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E fi Paro a di l: Ale. E jèn fi a ale, e l rele ⟨את⟩ manman timoun nan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "e fi Paro a di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "l"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "e jèn fi a ale"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "jèn fi a"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "e l rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manman timoun nan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manman"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:26.478638320Z",
+  "model": "glm-5.3"
+}

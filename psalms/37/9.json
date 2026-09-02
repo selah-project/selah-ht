@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Paske moun k ap fè mal ⟨ap⟩ koupe, men moun ki tann Yawe — se yo menm k ap eritye tè a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "moun k ap fè mal"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "men moun ki tann"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "se yo menm"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "k ap eritye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:14.703331826Z",
+  "model": "glm-5.3"
+}

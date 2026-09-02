@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 143,
+  "translation": "Pou non ou, Yawe, fè m viv; nan jastis ou, tire nanm m soti nan detrès.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "fè m viv"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nan jastis ou"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "tire soti"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "nan detrès"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:15.136820828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Nan mitan mò yo, mwen libere-fache konsa (chafchi), tankou moun pèse ki kouch nan tonm lan, yo ke ou pa sonje ⟨yon lòt fwa⟩; e ⟨yo⟩ koupe soti nan men ou.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "nan mitan mò yo"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "libere-fache"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "moun pèse"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "ki kouch"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "nan tonm lan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "ou sonje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yon lòt fwa"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "e ⟨yo⟩"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "soti nan men ou"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "koupe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:36.716661500Z",
+  "model": "glm-5.3"
+}

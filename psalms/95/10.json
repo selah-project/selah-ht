@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 95,
+  "translation": "Pandan karàn ane m te fouye avèk jenerasyon sa a, e m di: se yon pèp k ap egare nan kè ⟨yo⟩, e yo pa konnen chemen m.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "karàn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "m te fouye"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "avèk jenerasyon sa a"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e m di"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yon pèp"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "k ap egare"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "nan kè"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "e yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "chemen m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:19.867713799Z",
+  "model": "glm-5.3"
+}

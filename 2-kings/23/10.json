@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E li pwofane ⟨את⟩ Tofet ki nan val pitit Hinòn, pou ⟨pa⟩ yon nonm fè pase ⟨את⟩ pitit gason l ni ⟨את⟩ pitit fi l nan dife pou Molekh.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "E li pwofane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "nan val"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinòn"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pou ⟨pa⟩"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "fè pase"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason l"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "pitit fi l"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "pitit fi l"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou Molekh"
+    }
+  ],
+  "timestamp": "2026-09-02T18:20:36.598753913Z",
+  "model": "glm-5.3"
+}

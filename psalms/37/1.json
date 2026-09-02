@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Pou David. Pa chofe ak kòlè sou mechan yo, pa envye moun ki fè movèz.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pou David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "chofe ak kòlè"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "sou mechan yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "envye"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "movèz"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:33.402332945Z",
+  "model": "glm-5.3"
+}

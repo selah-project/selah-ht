@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Voye pen ou sou figi dlo yo, paske nan foule jou yo ou ap jwenn l.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Voye"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "pen ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nan foule"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ou ap jwenn l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:25.734100977Z",
+  "model": "glm-5.3"
+}

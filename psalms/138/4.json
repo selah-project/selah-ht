@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 138,
+  "translation": "Yawe, tout wa sou tè a ap rekonèt ou, paske yo tande pawòl bouch ou yo.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ap rekonèt ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "yo tande"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bouch ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:56.501752198Z",
+  "model": "glm-5.3"
+}

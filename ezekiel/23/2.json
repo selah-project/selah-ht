@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pitit moun, de fanm, pitit yon sèl manman, te ye.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "de"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manman"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:20:15.768447781Z",
+  "model": "glm-5.3"
+}

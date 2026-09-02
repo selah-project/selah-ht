@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Epi yo bay Yaakov ⟨את⟩ tout dye etranje yo ki nan men yo, ak ⟨את⟩ bag zòrèy yo ki nan zòrèy yo; epi Yaakov kache ⟨את⟩ yo anba pye chèn nan ki toupre Chekem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout dye etranje yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "etranje yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "nan men yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bag zòrèy yo"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "bag zòrèy yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "nan zòrèy yo"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "kache"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "dye yo ak bag zòrèy yo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "pye chèn nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "toupre"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekem"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:48.107416226Z",
+  "model": "glm-5.3"
+}

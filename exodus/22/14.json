@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si mèt li avè l, li pa dwe remeti; si se yon moun salaye li ye, li vin pou kont salè li.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "mèt li"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "remeti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "moun salaye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "pou kont salè li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:18.539645554Z",
+  "model": "glm-5.3"
+}

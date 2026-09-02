@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Tè a te toujou vid ak pa gen fòm, ak fenwa te sou figi fon sa a, ak souf Elohim te vole sou figi dlo yo.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ak tè a"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ak pa gen fòm"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ak fenwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "fon sa"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ak souf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "te vole"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:02.582762212Z",
+  "model": "glm-5.3"
+}

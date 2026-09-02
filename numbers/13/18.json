@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E nou gade ⟨את⟩ tè a, kilès li ye, ak ⟨את⟩ pèp la ki ap rete sou li — èske ⟨li⟩ fò, èske ⟨li⟩ fèb; èske ⟨li⟩ ti kras, oswa li anpil?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "e nou gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kilès"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ki ap rete"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "fò"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "fèb"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ti kras"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T16:27:44.812604452Z",
+  "model": "glm-5.3"
+}

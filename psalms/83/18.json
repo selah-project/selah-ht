@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Ke yo wont e ke yo pè pou tout tan, e ke yo dezorente e ke yo pèdi.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Ke yo wont"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "e ke yo pè"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "e ke yo dezorente"
+    },
+    {
+      "surface": "ואאבדו",
+      "gloss": "e ke yo pèdi"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:02.433358734Z",
+  "model": "glm-5.3"
+}

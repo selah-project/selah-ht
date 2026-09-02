@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Amìnadav fè ⟨את⟩ Nakhchòn, e Nakhchòn fè ⟨את⟩ Salma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "e Amìnadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhchòn"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhchòn"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "e Nakhchòn"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:41.183580503Z",
+  "model": "glm-5.3"
+}

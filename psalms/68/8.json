@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Elohim, lè w te soti devan pèp ou, lè w te mache nan dezè a — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "lè w te soti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "lè w te mache"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:30.924865603Z",
+  "model": "glm-5.3"
+}

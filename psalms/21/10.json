@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Nan tan figi w parèt, ou ap mete yo tankou yon fou dife; Yawe, nan kòlèt li, ap vale yo, e dife ap devore yo.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "ou ap mete yo"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "tankou yon fou dife"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi w parèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "nan kòlèt li"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "ap vale yo"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "e ap devore yo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:48.506786252Z",
+  "model": "glm-5.3"
+}

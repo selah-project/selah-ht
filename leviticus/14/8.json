@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi moun ki ap netwaye a ap lave ⟨את⟩ rad li yo, epi raze ⟨את⟩ tout cheve li, epi benyen nan dlo, epi l ap vin pwòp; apre sa l ap antre nan kan an, epi l ap rete deyò nan tant li pandan sèt jou.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "lave"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "moun ki ap netwaye a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad li yo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li yo"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "raze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout cheve li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "cheve li"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "benyen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "vin pwòp"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "apre sa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kan an"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rete"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "nan tant li"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:41.004973714Z",
+  "model": "glm-5.3"
+}

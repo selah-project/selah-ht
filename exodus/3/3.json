@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E Moche di: Ann gade, m ap vire pou m wè ⟨את⟩ gwo aparisyon sa a — poukisa sèvo a pa ap boule?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "m ap vire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ann gade"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "pou m wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gwo aparisyon sa a"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "aparisyon"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ap boule"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "sèvo a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:59.822497407Z",
+  "model": "glm-5.3"
+}

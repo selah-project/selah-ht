@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Yawe di Kayin: poukisa w fache, e poukisa figi w tonbe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "fache"
+    },
+    {
+      "surface": "לך",
+      "gloss": "w"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e poukisa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi w"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:23.901110210Z",
+  "model": "glm-5.3"
+}

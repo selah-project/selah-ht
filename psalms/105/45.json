@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Pou yo kenbe ⟨את⟩ lwa l yo e pou yo swiv règleman l yo. Louwe Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "yo kenbe"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "lwa l yo"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "e règleman l yo"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "yo swiv"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Louwe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:50.169443617Z",
+  "model": "glm-5.3"
+}

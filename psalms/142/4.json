@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 142,
+  "translation": "Lè lespri m ap fin vanyan sou m, se ⟨ou⟩ ki konnen chemen m; nan wout sa a m ap mache, yo kache yon pyèj pou m.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "lè ... ap fin vanyan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lespri m"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "se ⟨ou⟩ ki"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "chemen m"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "m ap mache"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "yo kache"
+    },
+    {
+      "surface": "פח",
+      "gloss": "yon pyèj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:10.819292058Z",
+  "model": "glm-5.3"
+}

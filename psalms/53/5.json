@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Èske yo pa konnen, moun ki pratike mechanste? Moun ki manje pèp mwen tankou yo manje pen — Elohim, yo pa rele l.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske... pa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yo konnen"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun ki pratike"
+    },
+    {
+      "surface": "און",
+      "gloss": "mechanste"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "moun ki manje"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yo manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "yo rele"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:28.977074378Z",
+  "model": "glm-5.3"
+}

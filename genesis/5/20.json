@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Tout jou Yered ye de ak swasant lane nèfsan lane, e ⟨li⟩ mouri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יָמֵי",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "de"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ak swasant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ak nèf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:19.826504804Z",
+  "model": "glm-5.3"
+}

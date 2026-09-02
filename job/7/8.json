@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Zye moun ki gade m ap pa gade m ankò; zye ou sou mwen — epi mwen pa la ankò.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "gade mwen"
+    },
+    {
+      "surface": "עין",
+      "gloss": "zye"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "moun ki gade mwen"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "zye ou"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "epi mwen pa la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:33:28.147324401Z",
+  "model": "glm-5.3"
+}

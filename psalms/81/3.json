@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Leve yon chant, bay tanbou an, kinnòr ki bèl, ak neval.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "yon chant"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "תף",
+      "gloss": "tanbou"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinnòr"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ki bèl"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "neval"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:50.536726134Z",
+  "model": "glm-5.3"
+}

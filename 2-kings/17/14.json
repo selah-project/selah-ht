@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E yo pa t koute, e yo fè ⟨את⟩ nòk yo vin di tankou nòk zansèt yo, ki pa t kwè nan Yawe Elohim yo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "koute"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "e fè vin di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nòk yo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "nòk yo"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "tankou nòk"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "zansèt yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "kwè"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:18:27.259967294Z",
+  "model": "glm-5.3"
+}

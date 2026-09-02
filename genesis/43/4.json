@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Si ou vle voye ⟨את⟩ frè nou ak ⟨את⟩ nou, n ap desann epi n ap achte manje pou ou.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ou vle"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè nou"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "frè nou"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ak nou"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "n ap desann"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "epi n ap achte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:05.118630793Z",
+  "model": "glm-5.3"
+}

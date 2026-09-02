@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Nan jou sa a Adònay ap retire ⟨את⟩ bèl ornement pyè sabriyèt ki tinte a, ak bonèt rezo yo, ak pyè ki sanble lalin yo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ap retire"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèl ornement pyè sabriyèt ki tinte a"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "bèl ornement"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "pyè sabriyèt ki tinte"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "ak bonèt rezo yo"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "ak pyè ki sanble lalin yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:23:08.580452908Z",
+  "model": "glm-5.3"
+}

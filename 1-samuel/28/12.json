@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi fanm nan wè ⟨את⟩ Chemouèl, e li rele ak yon gwo vwa; epi fanm nan di Chaoul pou l di: Poukisa ou twonpe m — e ou se Chaoul?",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Epi … wè"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chemouèl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "e li rele"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ak vwa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "epi … di"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "ou twonpe m"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:25.588910739Z",
+  "model": "glm-5.3"
+}

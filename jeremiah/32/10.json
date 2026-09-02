@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E mwen ekri nan liv la, e mwen siyen l, e mwen fè temwen temwaye, e mwen pese lajan an nan balans.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nan liv la"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "siyen"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "fè temwaye"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "temwen yo"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "pese"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lajan an"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "nan balans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:00:49.730916782Z",
+  "model": "glm-5.3"
+}

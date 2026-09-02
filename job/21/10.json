@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Bèf li akouche san rate, e li pa refize; jenn bèf li delivre pitit, e li pa pèdi pitit.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "Bèf li"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akouche"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "refize"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "delivre pitit"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "jenn bèf li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "pèdi pitit"
+    }
+  ],
+  "timestamp": "2026-09-02T20:37:49.241620077Z",
+  "model": "glm-5.3"
+}

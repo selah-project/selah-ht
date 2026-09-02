@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Moun kwo yo ap tann m pou yo dechwache m, men temwayaj ou yo, se yo m ap reflechi sou yo.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ap tann"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun kwo yo"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "pou yo dechwache m"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "temwayaj ou yo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "m ap refleksi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:40.090202252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Pawòl la ke Yechayahou, pitit Amots, te wè, sou Yehouda ak Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Pawòl la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "te wè"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yechayahou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ak Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:55.048816550Z",
+  "model": "glm-5.3"
+}

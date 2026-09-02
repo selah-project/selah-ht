@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Di a Hokhma: Ou se sè mwen; e rele Bina ± paran ou.",
+  "tokens": [
+    {
+      "surface": "אֱמֹר",
+      "gloss": "Di"
+    },
+    {
+      "surface": "לַחָכְמָה",
+      "gloss": "a Hokhma"
+    },
+    {
+      "surface": "אֲחֹתִי",
+      "gloss": "sè mwen"
+    },
+    {
+      "surface": "אַתְּ",
+      "gloss": "ou"
+    },
+    {
+      "surface": "וּמֹדָע",
+      "gloss": "e paran"
+    },
+    {
+      "surface": "לַבִּינָה",
+      "gloss": "a Bina"
+    },
+    {
+      "surface": "תִּקְרָא",
+      "gloss": "rele"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:17.872725791Z",
+  "model": "glm-5.3"
+}

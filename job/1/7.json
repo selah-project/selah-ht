@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yawe di bay Chatan: Ki kote w soti? Chatan reponn ⟨את⟩ Yawe epi li di: Soti ap vwayaje sou tè a, ap mache lwen ladan l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Chatan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ki kote"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "w soti"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Chatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "ap vwayaje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ap mache lwen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:52.252549183Z",
+  "model": "glm-5.3"
+}

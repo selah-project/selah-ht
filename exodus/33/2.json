@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Epi m ap voye yon mesanje devan ou, e m ap chase ⟨את⟩ Kenaànit la, ⟨את⟩ Emorit la, ⟨את⟩ Hetit la, ⟨את⟩ Perizit la, ⟨את⟩ Hivit la, ⟨את⟩ Yevusit la.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "m ap voye"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "yon mesanje"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "m ap chase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaànit la"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaànit la"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorit la"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ak Hetit la"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ak Perizit la"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivit la"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ak Yevusit la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:46.395304739Z",
+  "model": "glm-5.3"
+}

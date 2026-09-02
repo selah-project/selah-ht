@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Epi tout wa ap plobe devan ⟨l⟩, tout nasyon ap sèvi ⟨l⟩.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "Epi ... ap plobe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "devan ⟨l⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon"
+    },
+    {
+      "surface": "יעבדוהu",
+      "gloss": "ap sèvi ⟨l⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:48.710499993Z",
+  "model": "glm-5.3"
+}

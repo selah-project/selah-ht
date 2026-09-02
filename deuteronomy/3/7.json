@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E tout bèt yo ak butin vil yo a, nou pran pou nou menm.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "E tout"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ak butin"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "nou pran kòm butin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou menm"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:26.832984972Z",
+  "model": "glm-5.3"
+}

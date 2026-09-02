@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Ke yo wont ak ke yo konfonn, moun ki ap chèche lavi m; ke yo tounen an arye ak ke yo kouve figi, moun ki ap plane mal pou mwen.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ke yo wont"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ak ke yo konfonn"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "moun ki ap chèche"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lavi m"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ke yo tounen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "an arye"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ak ke yo kouve figi"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "moun ki ap plane"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mal pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:12.228371552Z",
+  "model": "glm-5.3"
+}

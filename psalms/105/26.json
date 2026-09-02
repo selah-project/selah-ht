@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li voye Moche, sèvitè li, ak Aharòn, menm li ki te chwazi ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sèvitè li"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "chwazi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:50.292247802Z",
+  "model": "glm-5.3"
+}

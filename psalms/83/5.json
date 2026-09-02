@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Yo di: Vini, epi ann fè yo disparèt kòm yon nasyon, pou non Yisrael pa sonje ankò.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Yo di"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "epi ann fè yo disparèt"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kòm yon nasyon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יזזכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:02.530564060Z",
+  "model": "glm-5.3"
+}

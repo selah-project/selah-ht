@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E lè prèt yo te soti nan kote sen la, nwaj la te ranpli ⟨את⟩ kay Yawe a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E lè sa rive"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "lè ... te soti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nan kote sen la"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ak nwaj la"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "te ranpli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yawe a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:37.504666642Z",
+  "model": "glm-5.3"
+}

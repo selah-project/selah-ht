@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E Yawe di sou m: Soti nan nò a movèz la ap louvri ⟨wout li⟩ sou tout moun ki abite tè a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sou m"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "soti nan nò a"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ap louvri"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "movèz la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun ki abite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:45:39.663305324Z",
+  "model": "glm-5.3"
+}

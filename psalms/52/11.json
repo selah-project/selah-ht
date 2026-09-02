@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "M ap rekonèt ou pou tout tan, paske ou fè ⟨li⟩; epi m ap tann Non ou, paske li bon devan moun ki devoue ou yo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "M ap rekonèt ou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè ⟨li⟩"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "epi m ap tann"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "li bon"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "moun ki devoue ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:46.294076601Z",
+  "model": "glm-5.3"
+}

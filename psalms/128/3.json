@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 128,
+  "translation": "Madanm ou ⟨se⟩ tankou yon pye rezen ki fwi, nan kòt kay ou; pitit ou yo ⟨se⟩ tankou ti pye oliv, toutotou tab ou.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Madanm ou"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "tankou pye rezen"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ki fwi"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "nan kòt"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "tankou ti pye"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "oliv"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "tab ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:08.605723310Z",
+  "model": "glm-5.3"
+}

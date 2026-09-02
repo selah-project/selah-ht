@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Kilè ki savan, l ap konprann sa yo; kilè ki gen konpreansyon, l ap konnen yo. Paske chemen Yawe yo dwat, epi moun jis yo ap mache nan yo, men rebèl yo ap toube nan yo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kilè ki"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "savan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ap konprann"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "gen konpreansyon"
+    },
+    {
+      "surface": "וידעם",
+      "gloss": "ap konnen yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "epi moun jis yo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "epi rebèl yo"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ap toube"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:33:48.661231361Z",
+  "model": "glm-5.3"
+}

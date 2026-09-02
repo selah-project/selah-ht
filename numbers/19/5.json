@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi y ap boule ⟨את⟩ bèf la devan je l — ⟨את⟩ pè li, ak ⟨את⟩ vyann li, ak ⟨את⟩ san li; sou fèteni l ap boule l.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "Epi boule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèf la"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "devan je l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pè li"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "pè li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "vyann li"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "vyann li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "san li"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "san li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "fèteni l"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ap boule l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:31:27.425762791Z",
+  "model": "glm-5.3"
+}

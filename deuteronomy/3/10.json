@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Tout vil plèn la, tout Gilad, ak tout Bachan, jouk Salkah ak Edrei, vil wayòm Og la nan Bachan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "plèn la"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bachan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ak Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "nan Bachan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:54.391567094Z",
+  "model": "glm-5.3"
+}

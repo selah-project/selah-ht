@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Sa yo se pitit gason Chem yo, dapre fanmi yo, dapre lang yo, nan tè yo, dapre nasyon yo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Sa yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "dapre lang yo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "nan tè yo"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "dapre nasyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:05.179398623Z",
+  "model": "glm-5.3"
+}

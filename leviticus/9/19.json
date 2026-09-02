@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Ak ⟨את⟩ grès yo, soti nan bèf la ak nan beli a: ke grès la, ak kouvèti anndan yo, ak ren yo, ak lob ki anlè fwa a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "grès yo"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "grès yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "השור",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ak nan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "beli a"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ke grès la"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "ak kouvèti anndan yo"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "ak ren yo"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "ak lob"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "fwa a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:00.866776403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Jiska tout tan m ap etabli pitit ou, e m ap bati pou jenerasyon ak jenerasyon tròn ou. Chela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jiska"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tout tan"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ap etabli"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pitit ou"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "e m ap bati"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou jenerasyon"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ak jenerasyon"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tròn ou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chela"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:06.086360623Z",
+  "model": "glm-5.3"
+}

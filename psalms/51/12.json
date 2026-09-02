@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Kreye nan mwen yon kè ki pur, Elohim, e renouvle yon lespri ki estab anndan mwen.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ki pur"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kreye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nan mwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e yon lespri"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ki estab"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "renouvle"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "anndan mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:00.905766105Z",
+  "model": "glm-5.3"
+}

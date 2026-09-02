@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Ké bonè pou moun nan ki met Yawe kòm konfyans li, e ki pa vire bò fanfaron yo, ni bò moun k ap glise nan manti.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ké bonè"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "pou moun nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "kòm konfyans li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "vire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "fanfaron yo"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ni bò moun k ap glise"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "nan manti"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:50.544638716Z",
+  "model": "glm-5.3"
+}

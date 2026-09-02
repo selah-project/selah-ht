@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Sou mwen kòlè w yo pase; pè w yo fin detwi mwen.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Sou mwen"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pase"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "kòlè w yo"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "pè w yo"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "fin detwi mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:39.354056126Z",
+  "model": "glm-5.3"
+}

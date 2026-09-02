@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Ki sisife ak bon bagay dezir ⟨ou⟩ — jènès ⟨ou⟩ ap renouvelye tankou vòltour la.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Ki sisife"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ak bon bagay"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "dezir ⟨ou⟩"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "renouvelye"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "tankou vòltour la"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "jènès ⟨ou⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:52.583108721Z",
+  "model": "glm-5.3"
+}

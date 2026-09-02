@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Li fè fènwa vin kache l, toutotou li se abri l — fènwa dlo, nwa epè nan syèl yo.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fènwa"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "kache l"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "toutotou li"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "abri l"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "fènwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "nwa epè"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:39.241165469Z",
+  "model": "glm-5.3"
+}

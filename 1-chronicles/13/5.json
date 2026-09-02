@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi David reyini ⟨את⟩ tout Yisrael, depi Chichor Mitsrayim jouk ou rive nan Hamat, pou pote ⟨את⟩ fatra HaElohim soti nan Kiryat Yearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depi"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Chichor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "pou pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fatra HaElohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fatra"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "soti nan Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:39.928637589Z",
+  "model": "glm-5.3"
+}

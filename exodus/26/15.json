@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E w ap fè ⟨את⟩ pano yo pou Mishkan nan, an bwa chita, kanpe",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e w ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pano yo"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "pano yo"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pou Mishkan nan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "an bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chita"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:26.675245700Z",
+  "model": "glm-5.3"
+}

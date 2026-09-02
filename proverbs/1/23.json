@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Retounen nan repriman mwen an! Gade, m ap fè lespri mwen koule ba ou, m ap fè ou konnen paròl mwen yo ⟨את⟩ ou.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Retounen"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "nan repriman mwen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "m ap fè koule"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lespri mwen"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "m ap fè konnen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "paròl mwen yo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:02.154441059Z",
+  "model": "glm-5.3"
+}

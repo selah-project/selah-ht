@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Menm pitit Adam, menm pitit gason, ansanm rich ak pòv.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Menm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gason"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rich"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ak pòv"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:59.514071175Z",
+  "model": "glm-5.3"
+}

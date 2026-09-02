@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Sovè la se pou Yawe; bènediksyon ou an sou pèp ou a. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "sovè la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou a"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "bènediksyon ou an"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:49:47.048322248Z",
+  "model": "glm-5.3"
+}

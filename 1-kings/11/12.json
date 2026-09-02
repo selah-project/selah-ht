@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Sepandan nan jou ou yo mwen pa fè l, pou David papa ou; nan men pitit ou m ap chire l.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sepandan"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "nan jou ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "mwen fè l"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa ou"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pitit ou"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "m ap chire l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:24.613176295Z",
+  "model": "glm-5.3"
+}

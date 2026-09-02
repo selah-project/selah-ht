@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Epi zo prèt yo li boule sou lotèl yo, e li netwaye ⟨את⟩ Yehouda ak ⟨את⟩ Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "ak zo"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "li boule"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "lotèl yo"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "e li netwaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehouda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:38:05.940491456Z",
+  "model": "glm-5.3"
+}

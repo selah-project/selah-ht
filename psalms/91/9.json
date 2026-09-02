@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Paske ou menm, Yawe, ⟨se⟩ abri m; Elyòn, ou mete ⟨li⟩ kòm demenaje ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "abri m"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "kòm demenaje ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:15.586150248Z",
+  "model": "glm-5.3"
+}

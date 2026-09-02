@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 95,
+  "translation": "Vini, ann prosterne nou, annjenou devan Yawe, ki fè nou an.",
+  "tokens": [
+    {
+      "surface": "בֹּאוּ",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "נִשְׁתַּחֲוֶה",
+      "gloss": "ann prosterne nou"
+    },
+    {
+      "surface": "וְנִכְרָעָה",
+      "gloss": "annjenou"
+    },
+    {
+      "surface": "נִבְרְכָה",
+      "gloss": "ann pran jenou"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יְהֹוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עֹשֵׂנוּ",
+      "gloss": "ki fè nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:15.238250706Z",
+  "model": "glm-5.3"
+}

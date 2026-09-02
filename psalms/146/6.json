@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 146,
+  "translation": "Moun ki fè syèl yo ak tè a, lanmè a, ak tout sa ki nan yo, moun ki kenbe verite pou toutan.",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֤ה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "שָׁ֘מַ֤יִם",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "וָאָ֗רֶץ",
+      "gloss": "ak tè a"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "lanmè a"
+    },
+    {
+      "surface": "הַיָּ֥ם",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout sa ki nan yo"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "הַשֹּׁמֵ֖ר",
+      "gloss": "ki kenbe"
+    },
+    {
+      "surface": "אֱמֶ֣ת",
+      "gloss": "verite"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "pou toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:43.634934598Z",
+  "model": "glm-5.3"
+}

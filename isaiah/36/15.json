@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E pa kite Hizkiyahou fè ⟨את⟩ nou mete konfyans nou nan Yawe, lè l ap di: Yawe ap delivre nou sètenman; Yawe pa p ap bay vil sa a nan men wa Achur la.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "E pa"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "fè … mete konfyans"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou (sijè konfyans Hizkiyahou ap gide)"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lè l ap di"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ap delivre"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "delivre nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "p ap bay"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achur"
+    }
+  ],
+  "timestamp": "2026-09-02T18:35:07.285775207Z",
+  "model": "glm-5.3"
+}

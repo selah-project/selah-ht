@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Si Adònay lave ⟨את⟩ salte fi Tsiyòn yo, e si ⟨li⟩ vann ⟨את⟩ san Yerouchalayim yo soti nan mitan l, ak yon lesprí jijman ak yon lesprí ki boule.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "lave"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salte fi Tsiyòn yo"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "salte"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "san Yerouchalayim yo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "san"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "vann"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "soti nan mitan l"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ak yon lesprí"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ak yon lesprí"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ki boule"
+    }
+  ],
+  "timestamp": "2026-09-02T18:23:36.040646868Z",
+  "model": "glm-5.3"
+}

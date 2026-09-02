@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E ou dwe konsakre ⟨l⟩, paske se ⟨את⟩ pen Elohim ou li ap pote ofri; li dwe sen pou ou, paske mwen sen — mwen se Yawe, ki konsakre nou.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "e ou dwe konsakre l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ap pote ofri"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ki konsakre nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:25.211337346Z",
+  "model": "glm-5.3"
+}

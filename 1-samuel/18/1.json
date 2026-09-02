@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E sa rive: lè ⟨li⟩ fin pale ak Chaoul, nefech Yehonatan mare ak nefech David, e Yehonatan renmen ⟨li⟩ konm nefech li.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e sa rive"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "lè li fin"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ak nefech"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nan nefech"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "e renmen"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "konm nefech li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:21.770591367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si papa l refize nèt bay li ba l, li dwe peye lajan selon dote jenn fi yo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refize"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "nèt"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "bay li"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ba l"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lajan"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "dwe peye"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "selon dote"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "jenn fi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:18.539987595Z",
+  "model": "glm-5.3"
+}

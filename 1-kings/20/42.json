@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E li di l: Konsa Yawe di: paske ou lage ⟨את⟩ nonm ki dedwi a kite nan men ou, lavi ou ap pran plas lavi l, e pèp ou ap pran plas pèp l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "lage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonm ki dedwi a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "ki dedwi a"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ap pran plas"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lavi ou"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nan plas"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lavi l"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nan plas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:53.174991123Z",
+  "model": "glm-5.3"
+}

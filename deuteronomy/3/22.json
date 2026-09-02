@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Pa pèye yo, paske se Yawe Elohim ou yo menm ki ap goumen pou ou yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "pèye yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "ki ap goumen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:24.782822535Z",
+  "model": "glm-5.3"
+}

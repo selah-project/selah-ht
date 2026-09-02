@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Konsa: «Ba ou, m ap bay ⟨את⟩ tè Kenaàn, kòm pòsyon eritaj nou an.»",
+  "tokens": [
+    {
+      "surface": "לֵאמֹ֗ר",
+      "gloss": "Konsa:"
+    },
+    {
+      "surface": "לְךָ֗",
+      "gloss": "Ba ou,"
+    },
+    {
+      "surface": "אֶתֵּ֥ן",
+      "gloss": "m ap bay"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tè Kenaàn"
+    },
+    {
+      "surface": "אֶֽרֶץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "כְּנָ֑עַן",
+      "gloss": "Kenaàn"
+    },
+    {
+      "surface": "חֶ֝֗בֶל",
+      "gloss": "kòm pòsyon"
+    },
+    {
+      "surface": "נַחֲלַתְכֶֽם",
+      "gloss": "eritaj nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:12.721912257Z",
+  "model": "glm-5.3"
+}

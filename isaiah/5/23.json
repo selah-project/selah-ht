@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "yo ki deklare moun ki mechàn la jis paske yo resevwa kado kòb, e yo ki retire jistis moun jis yo nan men yo.",
+  "tokens": [
+    {
+      "surface": "מצדיקי",
+      "gloss": "ki deklare ... jis"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moun ki mechàn la"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "kado kòb"
+    },
+    {
+      "surface": "וצדקת",
+      "gloss": "e jistis"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "yo retire"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nan men yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:06.958990898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 5:3",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Tout ansyen Yisrayèl vini jwenn wa a nan Hevron; wa David koupe yon alyans ak yo nan Hevron, devan Yawe; epi yo endwi ⟨את⟩ David ak lwil pou l wa sou Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "nan Hevron"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "yon alyans"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "nan Hevron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "epi yo endwi ak lwil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pou l wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:43:10.405155876Z",
+  "model": "glm-5.3"
+}

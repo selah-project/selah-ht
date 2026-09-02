@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 124,
+  "translation": "Chan asansyon, pou David. Si se pa Yawe ki te pou nou — koulye a, Yisrael di —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chan"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "asansyon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Si se pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ki te"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koulye a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:41.208013998Z",
+  "model": "glm-5.3"
+}

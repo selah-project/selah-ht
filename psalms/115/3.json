@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Elohim nou an ⟨se⟩ nan syèl yo — tout sa ⟨li⟩ vle ⟨li⟩ fè.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vle"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:25.264398964Z",
+  "model": "glm-5.3"
+}

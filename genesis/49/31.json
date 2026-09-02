@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "La a yo te antere ⟨את⟩ Avraham ak ⟨את⟩ Sara madanm li; la a yo te antere ⟨את⟩ Yitshak ak ⟨את⟩ Rivka madanm li; epi la a mwen te antere ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "la a"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "te antere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la a"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "te antere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "epi la a"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "mwen te antere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:50.229087742Z",
+  "model": "glm-5.3"
+}

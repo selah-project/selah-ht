@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 137,
+  "translation": "Paske la a kaptè nou yo te mande nou pawòl yon chante, e tòmentè nou yo ⟨te mande⟩ kè kontan, yo di: Chante pou nou youn nan chante Tsiyòn yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "yo te mande nou"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "kaptè nou yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "e tòmentè nou yo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kè kontan"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "yon chante nan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "chante Tsiyòn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:58.087614697Z",
+  "model": "glm-5.3"
+}

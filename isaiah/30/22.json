@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Ou ap polye ⟨את⟩ kòvèti gravur ajàn ou yo ak ⟨את⟩ revètman imaj fonde lò ou yo; ou ap voye jete yo kòm yon bagay ki pa pròp — 'Sòti!' ou ap di ba li.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "ap polye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòvèti gravur ajàn ou yo"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "kòvèti"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "gravur"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ajàn ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "revètman imaj fonde lò ou yo"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "revètman"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "imaj fonde"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "lò ou"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "ap voye jete"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kòm"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "yon bagay ki pa pròp"
+    },
+    {
+      "surface": "צא",
+      "gloss": "sòti"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ou ap di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ba li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:33:09.712398866Z",
+  "model": "glm-5.3"
+}

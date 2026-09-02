@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Tande, Yawe, vwa m lè m rele; fè m gras, e reponn m.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Tande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vwa m"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m rele"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e fè m gras"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "e reponn m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:40.639494094Z",
+  "model": "glm-5.3"
+}

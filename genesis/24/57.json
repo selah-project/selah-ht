@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Yo di: Ann rele jèn fi a, epi n pral mande ⟨את⟩ bouch li.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ann rele"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "jèn fi a"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "epi n pral mande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch li"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bouch li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:22:44.568592907Z",
+  "model": "glm-5.3"
+}

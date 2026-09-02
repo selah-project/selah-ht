@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi mete yon kouto nan gòj ou, si w se yon moun ki gen gwo apeti.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Epi ou mete"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "yon kouto"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "nan gòj ou"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "moun ki gen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gwo apeti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "w"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:33.410610531Z",
+  "model": "glm-5.3"
+}

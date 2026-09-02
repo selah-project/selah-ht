@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Pa bliye vwa enmi ou yo; bri moun k ap leve kont ou ap monte san rete.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "enmi ou yo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "bri"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "moun k ap leve kont ou"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ap monte"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "san rete"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:58.847591888Z",
+  "model": "glm-5.3"
+}

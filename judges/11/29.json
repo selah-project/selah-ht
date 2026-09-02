@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 11:29",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi lespri Yawe vini sou Yiftah, epi li travèse ⟨את⟩ Gilad ak ⟨את⟩ Menache, epi li travèse ⟨את⟩ Mitspe Gilad, epi soti nan Mitspe Gilad li pase ale nan mitan pitit Amòn yo.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "te vini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "travèse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Menache"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "travèse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitspe"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "Mitspe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וממצפה",
+      "gloss": "epi soti nan Mitspe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amòn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:19:10.615039725Z",
+  "model": "glm-5.3"
+}

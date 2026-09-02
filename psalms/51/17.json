@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Adònay, ⟨ou⟩ ouvri lèv mwen, epi bouch mwen ap anonse lwaj ou.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lèv mwen"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ouvri"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "epi bouch mwen"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lwaj ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:48.794053962Z",
+  "model": "glm-5.3"
+}

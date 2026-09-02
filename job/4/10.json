@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ryè lyon an, ak vwa lyon feròs la, ak dan jèn lyon yo — yo kase.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "Ryè"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lyon an"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ak vwa"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "lyon feròs la"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ak dan"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "jèn lyon yo"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "yo kase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:55.514317628Z",
+  "model": "glm-5.3"
+}

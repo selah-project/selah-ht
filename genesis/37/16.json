@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E l di: ⟨את⟩ frè m se m ap chèche. Di m tanpri, ki kote yo ap gadò bèt?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè m"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè m"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ap chèche"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "di"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ban m"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ki kote"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ap gadò bèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:31:04.288725559Z",
+  "model": "glm-5.3"
+}

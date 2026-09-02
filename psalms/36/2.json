@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Yon oracle pesha moun malvivan an nan kè m ⟨di⟩: pa gen pè Elohim devan je l.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "yon oracle"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pesha"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "moun malvivan an"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "je l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:24.863538643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E Modekhay ekri ⟨את⟩ pawòl sa yo, e li voye lèt bay tout Jwif yo ki nan tout pwovens wa Achachweroch la, k ap pre ak k ap lwen.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "E Modekhay ekri"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Modekhay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl sa yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e li voye"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "lèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jwif yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "pwovens"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achachweroch"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "k ap pre"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "ak k ap lwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:56:11.575157073Z",
+  "model": "glm-5.3"
+}

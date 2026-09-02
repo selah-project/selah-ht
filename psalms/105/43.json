@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li fè pèp li a soti ak kè kontan, ak chante ⟨את⟩ moun chwazi l yo.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "fè soti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li a"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ak kè kontan"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ak chante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun chwazi l yo"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "moun chwazi l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:19.004609297Z",
+  "model": "glm-5.3"
+}

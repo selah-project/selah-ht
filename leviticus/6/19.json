@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Prèt la ki ofri ⟨את⟩ l pou peche ap manje l; nan yon kote sen ⟨yo⟩ ap manje ⟨l⟩, nan lakou tant rankont an.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "ki ofri l pou peche"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (l)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "ap manje l"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yo manje l"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "nan lakou"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:08.765427236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Menm pye sèp yo fè kontan sou ou, epi sed Libanòn yo, yo di: Depi ou kouche, pyes bouchè pa moute kontre nou.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בְּרוֹשִׁ֛ים",
+      "gloss": "pye sèp yo"
+    },
+    {
+      "surface": "שָׂמְח֥וּ",
+      "gloss": "yo fè kontan"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "אַרְזֵ֣י",
+      "gloss": "sed"
+    },
+    {
+      "surface": "לְבָנ֑וֹן",
+      "gloss": "Libanòn yo"
+    },
+    {
+      "surface": "מֵאָ֣ז",
+      "gloss": "depi"
+    },
+    {
+      "surface": "שָׁכַ֔בְתָּ",
+      "gloss": "ou kouche"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יַעֲלֶ֥ה",
+      "gloss": "moute"
+    },
+    {
+      "surface": "הַכֹּרֵ֖ת",
+      "gloss": "bouchè a"
+    },
+    {
+      "surface": "עָלֵֽינוּ",
+      "gloss": "kontre nou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:34.479189595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi li tann ankò sèt lòt jou, epi li ajoute pou ⟨l⟩ voye ⟨את⟩ pijon an soti nan kòf la.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "tann"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ajoute pou (l)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pijon an"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pijon an"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "nan kòf la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:29.055684311Z",
+  "model": "glm-5.3"
+}

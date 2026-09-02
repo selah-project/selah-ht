@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Ki ta ban mwen ⟨ke⟩ mwen te konnen ⟨kote⟩ mwen ta jwenn li, pou mwen ta rive jiska pozisyon li!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ta ban"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "te konnen"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "epi ta jwenn li"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ta rive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "pozisyon li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:38:29.241502313Z",
+  "model": "glm-5.3"
+}

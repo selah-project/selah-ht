@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E Mikhayou anonce ⟨את⟩ tout pawòl yo ke li tande lè Baroukh te li nan liv la nan zòrèy pèp la.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anonce"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Mikhayou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "lè (Baroukh) te li"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baroukh"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nan liv la"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "nan zòrèy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:02:42.184846013Z",
+  "model": "glm-5.3"
+}

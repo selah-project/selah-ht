@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li koupe lanmè a, fè yo pase ladan l; li fè dlo yo kanpe tankou yon mon.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "fè yo pase"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "fè kanpe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "נד",
+      "gloss": "yon mon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:48.852788212Z",
+  "model": "glm-5.3"
+}

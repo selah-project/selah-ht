@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "ki anonse fen an depi kòmansman an, ak depi tan ansyen bagay ki poko fèt: mwen di, konsèy mwen ap kanpe, e tout sa mwen vle m ap fè.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "ki anonse"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "depi kòmansman an"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "fen an"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "ak depi tan ansyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bagay ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "poko"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "konsèy mwen"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "sa mwen vle"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ap fè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:11.566776554Z",
+  "model": "glm-5.3"
+}

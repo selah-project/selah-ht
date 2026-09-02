@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 95,
+  "translation": "Se pou li a, lanmè a, se li menm ki fè l, e tè sèch la, se menm li menm ki fè l ak de men l yo.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "Se pou"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "li"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "e se li menm ki"
+    },
+    {
+      "surface": "עָשָׂהוּ",
+      "gloss": "fè l"
+    },
+    {
+      "surface": "וְיַבֶּשֶׁת",
+      "gloss": "tè sèch la, se menm li menm ki fè l"
+    },
+    {
+      "surface": "יָדָיו",
+      "gloss": "de men l yo"
+    },
+    {
+      "surface": "יָצָרוּ",
+      "gloss": "fòme"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:15.237997999Z",
+  "model": "glm-5.3"
+}

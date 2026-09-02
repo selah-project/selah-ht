@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E nou kenbe ⟨את⟩ pawòl alyans sa a, e nou fè ⟨את⟩ yo, pou nou reyisi nan ⟨את⟩ tout sa nou fè.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "e nou kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "alyans la"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "e nou fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "nou reyisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ke"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "nou fè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:10.229065742Z",
+  "model": "glm-5.3"
+}

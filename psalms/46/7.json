@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Nasyon yo fè chay, wayòm yo chèche; ⟨l⟩ fè vwa l tande — tè a fonn.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "fè chay"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "chèche"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "wayòm yo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fè tande"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "vwa l"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "fonn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:57.366762346Z",
+  "model": "glm-5.3"
+}

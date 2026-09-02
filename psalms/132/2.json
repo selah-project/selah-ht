@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Kòm li sèmen an sèman pou Yawe, li fè vòy pou □ Avir Yaakov —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kòm"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sèmen an sèman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "fè vòy"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "pou ⟨Avir⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:12.657504064Z",
+  "model": "glm-5.3"
+}

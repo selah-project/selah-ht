@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Menm zanmi l menm, pòv la fè yo ren pa l; men moun ki ren rich la, yo anpil.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "zanwi l menm"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "yo ren pa l"
+    },
+    {
+      "surface": "רש",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "men moun ki ren"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rich la"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yo anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:52.868488565Z",
+  "model": "glm-5.3"
+}

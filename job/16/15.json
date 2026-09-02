@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Mwen koud sak INITIAL sou po m, e m mete kòn m an nan pousyè a.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "sak INITIAL"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "mwen koud"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "po m"
+    },
+    {
+      "surface": "ועוללתי",
+      "gloss": "e m mete...an"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "nan pousyè a"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "kòn m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:36:28.213997085Z",
+  "model": "glm-5.3"
+}

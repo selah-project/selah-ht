@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E Elohim di: Pou dlo yo abonde ak anpil ti kreyati kiyè vivan, e pou zwazo vole sou tè a sou fas vout syèl yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e … di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "pou … abonde"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "anpil ti kreyati"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kreyati ki gen lavi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "e zwazo"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "pou yo vole"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fas"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "vout"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:35.741345167Z",
+  "model": "glm-5.3"
+}

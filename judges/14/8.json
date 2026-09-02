@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 14:8",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Apre kèk jou li retounen pou l te pran l, e li detounen pou l wè ⟨את⟩ kadav lyon an; e menm, yon esis mouch myèl te nan kò a nan lyon an, ak myèl.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "li retounen"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "apre kèk jou"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "pou l te pran l"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "e li detounen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou l wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadav lyon an"
+    },
+    {
+      "surface": "מפלת",
+      "gloss": "kadav"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "lyon an"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "yon esis"
+    },
+    {
+      "surface": "דבורים",
+      "gloss": "mouch myèl"
+    },
+    {
+      "surface": "בגוית",
+      "gloss": "te nan kò"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "lyon an"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ak myèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:19:04.875555399Z",
+  "model": "glm-5.3"
+}

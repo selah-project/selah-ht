@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Paske yo vòlè m — vòlè de tout — nan peyi Ivrim yo, epi menm isit la mwen pa fè anyen, paske yo mete ⟨את⟩ mwen nan toub.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "vòlè"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "m te vòlè"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ivrim yo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "epi menm"
+    },
+    {
+      "surface": "פה",
+      "gloss": "isit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mwen fè"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anyen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "nan toub"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:00.386213214Z",
+  "model": "glm-5.3"
+}

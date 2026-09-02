@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Venin yo tankou anfòm venin yon sèpan, tankou yon kobra soud ki fèmen zòrèy li.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "venin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "tankou anfòm"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "venin"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "sèpan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "kobra"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "soud"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "zòrèy li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:38.748168225Z",
+  "model": "glm-5.3"
+}

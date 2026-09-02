@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Paròl bouch moun saj ⟨yo⟩ bon ⟨e gen⟩ gras; e lèv fou ap vale ⟨l⟩ ⟨tèt li⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "paròl"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moun saj"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gras\/favor"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "e lèv"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fou"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ap vale l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:27.029164139Z",
+  "model": "glm-5.3"
+}

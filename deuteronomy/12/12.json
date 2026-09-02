@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 12:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi nou ap rejwi devan Yawe Elohim nou an — nou, pitit gason nou yo ak pitit fi nou yo, esklav gason nou yo ak esklav fi nou yo, ak Levyit la ki nan pòtay nou yo, paske li pa gen ni pati ni eritaj ⟨את⟩ ak nou.",
+  "tokens": [
+    {
+      "surface": "וּשְׂמַחְתֶּם",
+      "gloss": "Epi nou ap rejwi"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "אַתֶּם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "וּבְנֵיכֶם",
+      "gloss": "pitit gason nou yo"
+    },
+    {
+      "surface": "וּבְנֹתֵיכֶם",
+      "gloss": "pitit fi nou yo"
+    },
+    {
+      "surface": "וְעַבְדֵיכֶם",
+      "gloss": "esklav gason nou yo"
+    },
+    {
+      "surface": "וְאַמְהֹתֵיכֶם",
+      "gloss": "esklav fi nou yo"
+    },
+    {
+      "surface": "וְהַלֵּוִי",
+      "gloss": "ak Levyit la"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בְּשַׁעֲרֵיכֶם",
+      "gloss": "nan pòtay nou yo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "li"
+    },
+    {
+      "surface": "חֵלֶק",
+      "gloss": "ni pati"
+    },
+    {
+      "surface": "וְנַחֲלָה",
+      "gloss": "ni eritaj"
+    },
+    {
+      "surface": "אִתְּכֶם",
+      "gloss": "⟨את⟩ ak nou",
+      "marks": "ak nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:50:05.414446092Z",
+  "model": "glm-5.3"
+}

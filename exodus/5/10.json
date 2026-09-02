@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Kontremèt pèp la ak ofisye yo soti, yo di pèp la konsa: Men sa Paro di: mwen pa ap ba ⟨nou⟩ paj.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "kontremèt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "ak ofisye yo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "men"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba nou"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "paj"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:42.096564870Z",
+  "model": "glm-5.3"
+}

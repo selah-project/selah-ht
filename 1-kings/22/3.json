@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E wa Yisrael la di ak sèvè l yo: Èske nou pa konnen se pou nou Ramot-Gilad? E nou kenbe silans, nou pa pran ⟨את⟩ li nan men wa Aram la.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvè l yo"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Èske nou pa konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "e nou"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "kenbe silans"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "pran"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (Ramot-Gilad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-02T18:08:35.454592473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 130,
+  "translation": "Kite Yisrael tann pou Yawe, paske ak Yawe gen hesed (lanmou fidèl), e anpil ak li delivrans.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Kite...tann"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "e anpil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "delivrans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:18.277664767Z",
+  "model": "glm-5.3"
+}

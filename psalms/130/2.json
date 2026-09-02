@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 130,
+  "translation": "Adònay, tande vwa mwen! Ann zòrèy ou pran atansyon pou vwa mwen soulaje ou!",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "tande"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "vwa mwen"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": " ⟨pran⟩ "
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "zòrèy ou"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "atansyon"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pou vwa"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mwen soulaje ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:58.024920940Z",
+  "model": "glm-5.3"
+}

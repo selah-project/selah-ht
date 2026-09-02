@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Pitit uit an fin vye Yochiyahu lè l vin wa, e trant ak yon ane li rete wa nan Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "uit"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ane"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yochiyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "lè l vin wa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e trant"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ak yon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "li rete wa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:12.021179906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Kalev di: Sa ki prale frappe ⟨את⟩ Kiryat-Sefèr epi pran l, se li m ap bay ⟨את⟩ Aksa, pitit fi m nan, kòm madanm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "prale frappe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefèr"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefèr"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "epi pran l"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "m ap bay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "pitit fi m nan"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kòm madanm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:07:33.322220779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Se poutèt sa m ap rekonèt ou nan mitan nasyon yo, Yawe, e m ap chante pou Non ou.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "m ap rekonèt ou"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "e pou Non ou"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ap chante"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:24.301838029Z",
+  "model": "glm-5.3"
+}

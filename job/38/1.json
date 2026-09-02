@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Lè sa a Yawe reponn ⟨את⟩ Iyòb depi nan van touwon an, e li di:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Iyòb"
+    },
+    {
+      "surface": "אִיּוֹב",
+      "gloss": "Iyòb"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "depi nan"
+    },
+    {
+      "surface": "הַסַּעַרָה",
+      "gloss": "van touwon an"
+    },
+    {
+      "surface": "וַיֹּאמַר",
+      "gloss": "e li di"
+    }
+  ],
+  "timestamp": "2026-09-02T22:03:40.191252612Z",
+  "model": "glm-5.3"
+}

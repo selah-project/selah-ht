@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Yo pran ⟨את⟩ poud fou a, yo kanpe devan Paro, Moche jete ⟨את⟩ l bò anlè nan syèl, e klèr vin — bul, ap pete — sou moun ak sou bèt.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "yo pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poud lan"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "poud (chwabon)"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "fou a"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "yo kanpe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "li jete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l (poud lan)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "bò anlè nan syèl"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e vin"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "klèr"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "bul"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ap pete"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sou moun"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ak sou bèt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:13.467033209Z",
+  "model": "glm-5.3"
+}

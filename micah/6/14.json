@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Ou pral manje men ou pa pral satre, e ⟨yin move fèb nan kò w⟩ ap rete nan anndan w; ou pral pran men ou pa pral sove, e sa w sove a, m ap bay ⟨l⟩ epe a.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "pral manje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "pral satre"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "e move fèb la"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "nan anndan w"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "pral pran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men pa"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "pral sove"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "w sove a"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "bay epe a"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ap bay"
+    }
+  ],
+  "timestamp": "2026-09-02T22:34:03.960274117Z",
+  "model": "fable-5-hand"
+}

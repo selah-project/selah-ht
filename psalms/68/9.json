@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Tè a tranble, menm syèl yo tonbe gout devan Elohim — se Sinai sa a, devan Elohim, Elohim Izrayèl la.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Tè a"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "tranble"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "tonbe gout"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se sa a"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:20.680979918Z",
+  "model": "glm-5.3"
+}

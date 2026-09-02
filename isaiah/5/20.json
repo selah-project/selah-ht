@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Malè pou yo ki di move se byen, e byen se move; ki mete fè nwa nan plas limyè, ak limyè nan plas fè nwa; ki mete anmè nan plas dous, ak dous nan plas anmè!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malè"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "pou yo ki di"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pou move"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se byen"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "e pou byen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "se move"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ki mete"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fè nwa"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "nan plas limyè"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ak limyè"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "nan plas fè nwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ki mete"
+    },
+    {
+      "surface": "מר",
+      "gloss": "anmè"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "nan plas dous"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "ak dous"
+    },
+    {
+      "surface": "למר",
+      "gloss": "nan plas anmè"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:10.613731411Z",
+  "model": "glm-5.3"
+}

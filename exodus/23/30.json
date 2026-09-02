@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Ti pa ti mwen ap chase yo devan ou, jiskaske ou fwi, e ou pran tè a kòm eritaj ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ti pa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "mwen ap chase"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskaske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "ou fwi"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "e ou pran kòm eritaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:47.341028964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Si bèf la bay kònen yon esklav oswa yon sèvant fi, trant sekel ajan li ap bay pou mèt ⟨esklav⟩ la, e bèf la ap lapide.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "esklav"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "bay kònen"
+    },
+    {
+      "surface": "השור",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sèvant fi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "sekel"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "li ap bay"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "pou mèt li"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "e bèf la"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "ap lapide"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:53.748724521Z",
+  "model": "glm-5.3"
+}

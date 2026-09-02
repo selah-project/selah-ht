@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Ou ap chèche yo, epi ou pa ap jwenn yo: moun ki gen kontesti ak ou yo ap vin tankou pa gen okenn, epi tankou koupa, moun ki fè lagè kont ou.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "ap chèche yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "ap jwenn yo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "ki gen kontesti ak ou"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "tankou pa gen okenn"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "epi tankou koupa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "ki fè lagè kont ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:44.442280635Z",
+  "model": "glm-5.3"
+}

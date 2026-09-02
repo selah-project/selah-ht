@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E depi ⟨laj⟩ senkant an, li ap tounen soti nan rejiman sèvis la, e l ap pa sèvi ankò.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "epi depi ⟨laj⟩"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "soti nan rejiman"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "sèvis la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T16:24:29.879689899Z",
+  "model": "glm-5.3"
+}

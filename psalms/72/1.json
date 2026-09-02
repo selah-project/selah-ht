@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "Pou Chelomo. Elohim, jijman ou yo ban wa a, ak jistis ou bay pitit wa a.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Pou Chelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jijman ou yo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "וָצִדְקָתְךָ",
+      "gloss": "ak jistis ou"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:38.549524402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Menm, nan kè nou, nèm inijistis nou fè; nan tè a vyolans men nou peze.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Menm"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "nan kè"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "inijistis"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "nou fè"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "nou peze"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:49.597644116Z",
+  "model": "glm-5.3"
+}

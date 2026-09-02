@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E Yawe di Moche: Menm ⟨את⟩ pawòl sa a ke ou pale a, m ap fè l; paske ou jwenn gras nan je m, e mwen konnen ou nan non ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gras"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je m"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "konnen ou"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan non ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:46.273050857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Mesi yo vin etranje depi nan vant; yo dechou depi nan vant, ap pale manti.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "vin etranje"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mesi yo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "depi nan vant"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "yo dechou"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "depi nan vant"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ap pale"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "manti"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:49.597793449Z",
+  "model": "glm-5.3"
+}

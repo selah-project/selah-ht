@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi anlè a, te gen wòch ki gen pri, dapre mizè wòch gazit, ak sèd.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "Epi anlè"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ki gen pri"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "dapre mizè"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "gazit"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "ak sèd"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:50.456987598Z",
+  "model": "glm-5.3"
+}

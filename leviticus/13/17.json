@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi prèt la gade l, e menm, maladi a chanje an blan; Lè sa a, prèt la deklare ⟨את⟩ maladi a pwòp — li pwòp.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "epi prèt la gade l"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "chanje"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "maladi a"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "an blan"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "epi deklare pwòp"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maladi a"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "maladi a"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pwòp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:52.440935255Z",
+  "model": "glm-5.3"
+}

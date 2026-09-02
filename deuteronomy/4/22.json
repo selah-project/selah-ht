@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Paske mwen ap mouri nan tè sa a, mwen pa pral pase ⟨את⟩ Yarden an; se ou yo k ap pase e k ap pran ⟨את⟩ tè a, tè bon sa a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ap mouri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pral pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden an"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e ou yo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "k ap pase"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "e k ap pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "bon"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:44:02.461715037Z",
+  "model": "glm-5.3"
+}

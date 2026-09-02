@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi yo di li: Nou fè yon rèv, e pa gen ⟨את⟩ moun ki ka entèprete l. Epi Yosèf di yo: Èske entèpretasyon yo pa pou Elohim? Rakonte yo ban m, souple.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "li"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "yon rèv"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "nou reve"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "e entèpretè"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "entèpretè a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "èske pa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "entèpretasyon yo"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "rakonte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "soupèl"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ban m"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:24.702258859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Lè sa a David ak pèp la ki ⟨את⟩ ⟨te⟩ avè ⟨l⟩ ⟨את⟩ vwa yo, epi yo plere, jouk nan pwen kote pa gen fòs kite nan yo pou plere.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Lè sa a … leve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ak pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨te⟩ avè ⟨l⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa yo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "vwa yo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "epi yo plere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan pwen kote"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "kite pou plere"
+    }
+  ],
+  "timestamp": "2026-09-02T17:38:26.000418681Z",
+  "model": "glm-5.3"
+}

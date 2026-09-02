@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Nan bouch ti timoun ak tibebe ou fonde fòs, pou enemis ou yo, pou fè silans ⟨a⟩ennem ak moun ki pran vanchans.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Nan bouch"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ti timoun"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "ak tibebe"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ou fonde"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "enemis ou yo"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "fè silans"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ennem"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "ak moun ki pran vanchans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:27.315287801Z",
+  "model": "glm-5.3"
+}

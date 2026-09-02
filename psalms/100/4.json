@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 100,
+  "translation": "Antre nan pòtay li yo ak rekonètans, nan lakou li yo ak louanj; fè rekonètans pou li, beni non li a.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Antre"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "nan pòtay li yo"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ak rekonètans"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "nan lakou li yo"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ak louanj"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "fè rekonètans"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "beni"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:06.050676485Z",
+  "model": "glm-5.3"
+}

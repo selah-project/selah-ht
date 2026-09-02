@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Pou tout peche Bacha, ak peche Ela pitit li, ke yo te peche, e ke yo te fè ⟨את⟩ Yisrael peche, pou fache ⟨את⟩ Yawe, Elohim Yisrael, ak vanite yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "peche"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "ak peche"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "yo peche"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ke"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "fè peche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "pou fache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ak vanite yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:34.377966869Z",
+  "model": "glm-5.3"
+}

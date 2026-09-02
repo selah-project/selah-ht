@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Jis la konnen kòz pòv yo; move la pa konprann konesans.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis la"
+    },
+    {
+      "surface": "דין",
+      "gloss": "kòz"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "pòv yo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "move la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konesans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:06.337497931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Pale ak tout kongregasyon Yisrael pou ⟨nou⟩ di: nan dizyèm ⟨jou⟩ mwa sa a, yo pran pou yo chak moun yon agnè, pou kay papa yo, yon agnè pou kay la.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kongregasyon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "nan dizyèm jou"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nan mwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "e pran"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "שה",
+      "gloss": "agnè"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pou kay"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "agnè"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pou kay la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:52.057492610Z",
+  "model": "glm-5.3"
+}

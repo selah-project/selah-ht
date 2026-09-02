@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Akòz vòlè yo fè sou pòv yo, akòz souf doulè moun ki pa gen anyen yo, kounye a m ap leve, Yawe di, m ap mete ⟨את⟩ moun sa a nan sekirite, li ki soufle pou li.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "akòz vòlè"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "pòv yo"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "akòz souf doulè"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "moun ki pa gen anyen yo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "m ap leve"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "m ap mete"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "nan sekirite"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "li ki soufle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:57.095979421Z",
+  "model": "glm-5.3"
+}

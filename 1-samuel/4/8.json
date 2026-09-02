@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Malè pou nou! K ap delivre nou nan men Elohim ki fò yo sa a? Se Elohim sa yo ki frape ⟨את⟩ Mitsrayim ak tout kalite koup nan dezè a.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Malè"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "K"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ap delivre nou"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "ki fò yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Se…sa yo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "se"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ki frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ak tout kalite"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "koup"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:03.758392474Z",
+  "model": "glm-5.3"
+}

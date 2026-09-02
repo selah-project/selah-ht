@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 56,
+  "translation": "Pou chèf mizisyen an — sou Yonat-Elem-Rehokim (pichon nan silans, nan lwen) — yon chante pou David, yon miktam, lè Filistyen yo te kenbe ⟨את⟩ li nan Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "yonat (pichon)"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "silans"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "lwen yo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "lè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "nan Gat"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:26.907627187Z",
+  "model": "glm-5.3"
+}

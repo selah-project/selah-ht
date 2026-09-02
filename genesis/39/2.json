@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "E Yawe te ak ⟨את⟩ Yosèf, e li te yon nonm ki reyisi, e l te nan kay mèt li a, la Mitsrayim an.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E ... te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ak Yosèf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e li te"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "ki reyisi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e l te"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mèt li"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsrayim la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:19.890602856Z",
+  "model": "glm-5.3"
+}

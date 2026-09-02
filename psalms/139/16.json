@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Jè sou fòm m sanje ou a, je ou yo te wè l; ak sou liv ou, tout yo te ekrite — jou yo te fòme, e pa youn nan yo te egziste.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "fòm m san fòm"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "te wè"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "je ou yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "liv ou"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tout yo"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "te ekrite"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "te fòme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:01.290322340Z",
+  "model": "glm-5.3"
+}

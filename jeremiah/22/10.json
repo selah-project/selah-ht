@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Pa plede pou mò a, pa deplore pou li; plede, plede fò pou moun k ap ale a, paske li p ap tounen ankò, epi li p ap wè ⟨את⟩ peyi kote li fèt la.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "plede"
+    },
+    {
+      "surface": "למת",
+      "gloss": "pou mò a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "deplore"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "plede"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "plede"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "pou moun k ap ale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "epi wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyi kote li fèt la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "kote li fèt"
+    }
+  ],
+  "timestamp": "2026-09-02T18:54:52.135115586Z",
+  "model": "glm-5.3"
+}

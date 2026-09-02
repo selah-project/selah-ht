@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li fè kouran dlo soti nan wòch la, fè dlo desann tankou rivyè.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "li fè soti"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "kouran dlo"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "soti nan wòch la"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "fè desann"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "tankou rivyè"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:48.853276932Z",
+  "model": "glm-5.3"
+}

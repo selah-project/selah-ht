@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E sajès Chelomo a vin depase sajès tout moun lavàn yo ak tout sajès Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויתרב",
+      "gloss": "vin depase"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "depase sajès"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בני",
+      "gloss": "moun"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "lavàn yo (Kedèm)"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:45.656357003Z",
+  "model": "glm-5.3"
+}

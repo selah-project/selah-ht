@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Evite l, pa pase sou li; vire lwen ak li, e pase pi lwen.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "evite l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "vire lwen"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "lwen ak li"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "e pase pi lwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:01.369444174Z",
+  "model": "glm-5.3"
+}

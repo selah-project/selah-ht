@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Èske pou toutan ⟨ou⟩ ap kòlè sou nou? Èske kòlè ou ap tire long pou yon jenerasyon ak yon lòt jenerasyon?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Èske pou toutan"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "⟨ou⟩ ap kòlè"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "ap tire long"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kòlè ou"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou yon jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ak yon lòt jenerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:46.266660787Z",
+  "model": "glm-5.3"
+}

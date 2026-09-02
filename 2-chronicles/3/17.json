@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E l kanpe ⟨את⟩ kolòn yo devan tanp lan, youn adwat, e youn agoch; e l rele non kolòn nan ki adwat Yakhin, e non kolòn nan ki agoch Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolòn yo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "kolòn yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "devan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tanp lan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "adwat"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "e youn"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "agoch"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ki adwat"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "ki agoch"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-02T21:24:56.395542224Z",
+  "model": "glm-5.3"
+}

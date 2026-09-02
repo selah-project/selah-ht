@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Granje nou yo plen, ki fè sòti sòt apre sòt; mouton nou yo ap bay mil ak dis mil nan ri nou yo.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "Granje nou yo"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "plen"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "ki fè sòti"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apre"
+    },
+    {
+      "surface": "זן",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "mouton nou yo"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "ap bay mil"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "dis mil"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "nan ri nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:18.120363184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Mwen tande wont Moav la, ak ranma pitit Amòn yo, kote yo fè ⟨את⟩ pèp mwen an wont, epi yo an grandi sou frontier yo.",
+  "tokens": [
+    {
+      "surface": "שָׁמַעְתִּי",
+      "gloss": "mwen tande"
+    },
+    {
+      "surface": "חֶרְפַּת",
+      "gloss": "wont"
+    },
+    {
+      "surface": "מוֹאָב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וְגִדּוּפֵי",
+      "gloss": "ak ranma"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עַמּוֹן",
+      "gloss": "Amòn"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "חֵרְפוּ",
+      "gloss": "yo fè wont"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "pèp mwen an"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "וַיַּגְדִּילוּ",
+      "gloss": "epi yo an grandi"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "גְּבוּלָם",
+      "gloss": "frontier yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:45:14.348880204Z",
+  "model": "glm-5.3"
+}

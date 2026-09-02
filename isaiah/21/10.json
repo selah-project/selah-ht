@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "O moun ki mwen fin bat mayi ou yo, pitit lawoun bat mayi mwen an — sa m tande soti nan ⟨את⟩ Yawe Tsavot, Elohim Izrayèl, se sa m anonse ba nou.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "O moun ki mwen fin bat mayi ou yo"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "lawoun bat mayi mwen an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "m tande"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "soti nan ⟨את⟩",
+      "marks": "Yawe Tsavot, Elohim Izrayèl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "m anonse"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba nou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:38.670237224Z",
+  "model": "glm-5.3"
+}

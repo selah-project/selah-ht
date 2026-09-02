@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi sèvitè wa Khizkiyaho vin jwenn Yechayaho.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vin jwenn"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyaho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwenn (al kay)"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yechayaho"
+    }
+  ],
+  "timestamp": "2026-09-02T18:18:06.108913404Z",
+  "model": "glm-5.3"
+}

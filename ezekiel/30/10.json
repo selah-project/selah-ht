@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Konsa Adònay Yawe di: M ap fè ⟨את⟩ foul Mitsrayim la sispann nan men Nevukhadretsar, wa Bavel la.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "M ap fè sispann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foul Mitsrayim la"
+    },
+    {
+      "surface": "המון",
+      "gloss": "foul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukhadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-09-02T19:21:58.991038842Z",
+  "model": "glm-5.3"
+}

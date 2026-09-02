@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E lapli a te sou tè a karann jou ak karann lannwit.",
+  "tokens": [
+    {
+      "surface": "וֽיְהִ֥י",
+      "gloss": "E te gen"
+    },
+    {
+      "surface": "הַגֶּ֖שֶׁם",
+      "gloss": "lapli a"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אַרְבָּעִ֣ים",
+      "gloss": "karann"
+    },
+    {
+      "surface": "י֔וֹם",
+      "gloss": "jou"
+    },
+    {
+      "surface": "וְאַרְבָּעִ֖ים",
+      "gloss": "ak karann"
+    },
+    {
+      "surface": "לָֽיְלָה",
+      "gloss": "lannwit"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:26.004037274Z",
+  "model": "glm-5.3"
+}

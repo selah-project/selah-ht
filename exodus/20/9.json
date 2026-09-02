@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Sis jou ou ap travay, e fè tout travay ou.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Sis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "travay"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e fè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "travay ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:26.703231633Z",
+  "model": "glm-5.3"
+}

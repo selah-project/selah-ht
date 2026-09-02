@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi pa gen travay pou Mitsrayim ke tèt, ni ke a, ni branch palmis, ni rozò, ka fè.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gen"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "pou Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ka fè"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ni ke a"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "branch palmis"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ni rozò"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:29.486628584Z",
+  "model": "glm-5.3"
+}

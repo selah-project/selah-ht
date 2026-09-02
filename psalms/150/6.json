@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 150,
+  "translation": "Tout sa ki gen souf, lap fè lwanj Yah. Fè lwanj Yah ⟨ou menm⟩!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "sa ki gen souf"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "lap fè lwanj"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Fè lwanj"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:28.745180397Z",
+  "model": "glm-5.3"
+}

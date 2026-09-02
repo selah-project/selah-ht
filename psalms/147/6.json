@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Yawe kenbe moun ki imèd yo; li rabese mechàn yo jouk nan tè a.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "moun ki imèd yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "rabese"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechàn yo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:40.378332183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi yo pa t koute m, ni pa t penche ⟨את⟩ zòrèy yo; yo fè ⟨את⟩ kou yo vin di, epi yo fè plis mal pase zansèt yo.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "Epi... pa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "koute"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni... pa"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "penche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zòrèy yo"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "zòrèy yo"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "fè... vin di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kou yo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "kou yo"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "fè plis mal"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "pase zansèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:49:43.068022052Z",
+  "model": "glm-5.3"
+}

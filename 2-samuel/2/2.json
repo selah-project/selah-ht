@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 2:2",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "David monte la, ansanm ak de fanm li yo: Ahinoam, Yizreelit la, ak Avigayil, fanm Naval la, Karmelit la.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "fanm li yo"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "Yizreelit la"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "ak Avigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "Karmelit la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:40:46.671131375Z",
+  "model": "glm-5.3"
+}

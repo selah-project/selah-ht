@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "⟨את⟩ chabat mwen yo nou kenbe, e senktyè mwen an nou respekte; mwen se Yawe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chabat mwen yo"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "chabat mwen yo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "e senktyè mwen an"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "respekte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:12.865039682Z",
+  "model": "glm-5.3"
+}

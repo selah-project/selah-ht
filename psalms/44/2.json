@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Elohim, nan zòrèy nou nou tande, zansèt nou yo konte pou nou ⟨⟨את⟩⟩ travay ou te travay nan jou yo, nan jou tan lontan an.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "nan zòrèy nou"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nou tande"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "zansèt nou yo"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "yo konte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "travay"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ou te travay"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "nan jou yo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tan lontan an"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:16.601926010Z",
+  "model": "glm-5.3"
+}

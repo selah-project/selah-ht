@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Di pou Elohim: “Kijan ⟨ou⟩ fè pè ak aksyon ⟨ou⟩ yo! Nan kantite fòs ⟨ou⟩, ènmi ⟨ou⟩ yo ap fèBLE pou ⟨ou⟩.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Di"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kijan"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "fè pè"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "aksyon ou yo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nan kantite"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "fòs ou"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ap fèBLE"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ènmi ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:29.649736699Z",
+  "model": "glm-5.3"
+}

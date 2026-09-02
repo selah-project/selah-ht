@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Mwen menm, mwen bay lòd moun konsakre m yo; mwen tou rele gason fò m yo pou kòlè m, moun ki kontan pou grandè m.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen menm"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "bay lòd"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "pou moun konsakre m yo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "rele"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "gason fò m yo"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "pou kòlè m"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "moun ki kontan"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "pou grandè m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:49.788325585Z",
+  "model": "glm-5.3"
+}

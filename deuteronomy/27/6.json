@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Ak pyè antye yo ou pral bati ⟨את⟩ lotèl Yawe, Elohim ou, epi ou pral fè monte sou li ofann boule pou Yawe, Elohim ou.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "pyè yo"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "antye yo"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotèl la"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lotèl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "epi fè monte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ofann boule"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:44.123806145Z",
+  "model": "glm-5.3"
+}

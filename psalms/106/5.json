@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Pou m gade byen moun ou chwazi yo, pou m kè kontan nan kè kontan nasyon ou a, pou m fè lwanj ansanm ak eritaj ou a.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "Pou m gade"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "nan byen"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "moun ou chwazi yo"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "pou m kè kontan"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "nan kè kontan"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "nasyon ou a"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "pou m fè lwanj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "eritaj ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:28.142804829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 12:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Men mwen la: reponn sou mwen devan Yawe ak devan Machiya l: ⟨את⟩ yon bèf, ki moun mwen pran l? ak ⟨את⟩ yon bourik, ki moun mwen pran l? ak ⟨את⟩ ki moun mwen fè move? ⟨את⟩ ki moun mwen ekrase? e nan men ki moun mwen pran yon ranson, pou mwen fèmen je m avè l? e mwen ap remèt l bay nou.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "men mwen la"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ak devan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Machiya l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yon bèf"
+    },
+    {
+      "surface": "שור",
+      "gloss": "yon bèf"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "mwen pran l"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ak yon bourik"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "mwen pran l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ki moun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "עשקתי",
+      "gloss": "mwen fè move"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ki moun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "רצותי",
+      "gloss": "mwen ekrase"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "e nan men"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "mwen pran"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "yon ranson"
+    },
+    {
+      "surface": "ואעלים",
+      "gloss": "pou mwen fèmen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "בו",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "e mwen ap remèt l"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bay nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:08.841146038Z",
+  "model": "glm-5.3"
+}

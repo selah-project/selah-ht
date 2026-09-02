@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Timoun ou yo ap fè vit; yo ki kraze ou ak yo ki te ravaje ou ap soti nan ou.",
+  "tokens": [
+    {
+      "surface": "מִֽהֲר֖וּ",
+      "gloss": "ap fè vit"
+    },
+    {
+      "surface": "בָּנָ֑יִךְ",
+      "gloss": "timoun ou yo"
+    },
+    {
+      "surface": "מְהָֽרְסַ֥יִךְ",
+      "gloss": "yo ki kraze ou"
+    },
+    {
+      "surface": "וּמַחֲרִבַ֖יִךְ",
+      "gloss": "ak yo ki te ravaje ou"
+    },
+    {
+      "surface": "מִמֵּ֥ךְ",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "יֵצֵֽאוּ",
+      "gloss": "ap soti"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:41.030689680Z",
+  "model": "glm-5.3"
+}

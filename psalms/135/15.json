@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Zidòl nasyon yo ⟨se⟩ ajàn ak lò, travay men moun.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Zidòl"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajàn"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ak lò"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:42.937629455Z",
+  "model": "glm-5.3"
+}

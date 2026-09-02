@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Epi moun ap di: sètman gen fwi pou moun jis la; sètman gen Elohim ki jij sou tè a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi l ap di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sètman"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pou moun jis la"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sètman"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ki jij"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:26.017483991Z",
+  "model": "glm-5.3"
+}

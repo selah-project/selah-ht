@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Paske yo bay li pou sa ki fè travay la, epi yo ranfòse ⟨את⟩ kay Yawe avèk li.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "pou sa ki fè"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "travay la"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "bay li"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "epi ranfòse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "avèk li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:03.646707823Z",
+  "model": "glm-5.3"
+}

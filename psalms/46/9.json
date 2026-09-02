@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Vini, gade zèv Yawe yo, kijan li mete ravaj sou tè a.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "zèv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kijan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ravaj"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:24.254182210Z",
+  "model": "glm-5.3"
+}

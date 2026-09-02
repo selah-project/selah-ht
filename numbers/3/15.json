@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Kontye ⟨את⟩ pitit Levi yo dapre kay papa yo, dapre fanmi yo: tout gason depi yon mwa gran ak plis, ou pral kontye yo.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "kontye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Levi yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dapre kay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "depi pitit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yon mwa"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ak plis"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "ou pral kontye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:07.455360126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pi bon yon pwen plen repo pase de men plen travay ak tourmant van.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Pi bon"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plen"
+    },
+    {
+      "surface": "כף",
+      "gloss": "pwen"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "repo"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "pase plen"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "de men"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "travay"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ak tourmant"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:46.095330886Z",
+  "model": "glm-5.3"
+}

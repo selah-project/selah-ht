@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi ou mache nan wout wa Yisrael yo, epi ou fè ⟨את⟩ Yehouda ak ⟨את⟩ moun ki rete Yerouchalayim fè pwostitisyon, jan kay Ahab te fè pwostitisyon, epi menm ⟨את⟩ frè ou, kay papa ou a, yo ki pi bon pase ou, ou masakre yo.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "epi ou mache"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "epi ou fè fè pwostitisyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehouda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "moun ki rete Yerouchalayim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun ki rete"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "jan pwostitisyon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "epi menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè ou, kay papa ou a"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa ou"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ki pi bon"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "pase ou"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "ou masakre"
+    }
+  ],
+  "timestamp": "2026-09-02T21:31:37.342096506Z",
+  "model": "glm-5.3"
+}

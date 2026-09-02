@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Moun k ap chita nan lonbraj l ap tounen; yo ap fè ble la vivan, yo ap flèri tankou pye rezin; souvni l ap tankou diven Levanòn.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "ap tounen"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun k ap chita"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "nan lonbraj l"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ap fè vivan"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ble"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "ap flèri"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "tankou pye rezin"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "souvni l"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "tankou diven"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanòn"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:40.812386346Z",
+  "model": "glm-5.3"
+}

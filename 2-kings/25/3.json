@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Nan nevyèm jou mwa a, grangou vin fò nan lavil la, e pa t gen pen pou pèp peyi a.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Nan nevyèm jou"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mwa a"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "e ... vin fò"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "grangou a"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan lavil la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te genyen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pou pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:41.887211437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Pou mèt mizisyen an; pou pitit Kora(ch) yo; yon powèm enstriktif.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou mèt mizisyen an"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kora(ch)"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yon powèm enstriktif"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:51.163358678Z",
+  "model": "glm-5.3"
+}

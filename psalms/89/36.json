@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Yon sèl fwa mwen jire nan sakrè mwen an, se sèten: pa gen manti pou David.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl fwa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mwen jire"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "nan sakrè mwen an"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se sèten"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "manti"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:18.256085288Z",
+  "model": "glm-5.3"
+}

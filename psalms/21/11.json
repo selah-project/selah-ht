@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Fwi yo ap disparèt soti nan tè a; pitit yo ap disparèt soti nan mitan pitit moun.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "fwi yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan tè a"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ap disparèt"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ak pitit yo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "soti nan mitan pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:48.507074232Z",
+  "model": "glm-5.3"
+}

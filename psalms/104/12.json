@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Sou yo zwazo syèl la rete; ant branch yo yo bay vwa.",
+  "tokens": [
+    {
+      "surface": "עֲ֭לֵיהֶם",
+      "gloss": "Sou yo"
+    },
+    {
+      "surface": "עוֹף",
+      "gloss": "zwazo"
+    },
+    {
+      "surface": "הַשָּׁמַ֣יִם",
+      "gloss": "syèl la"
+    },
+    {
+      "surface": "יִשְׁכּ֑וֹן",
+      "gloss": "rete"
+    },
+    {
+      "surface": "מִבֵּ֥ין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "עֳםָאיִ֗ם",
+      "gloss": "branch"
+    },
+    {
+      "surface": "יִתְּנ֖וּ",
+      "gloss": "bay"
+    },
+    {
+      "surface": "ק֑וֹל",
+      "gloss": "vwa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.838260054Z",
+  "model": "glm-5.3"
+}

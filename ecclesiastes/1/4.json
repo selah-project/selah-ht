@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yon jenerasyon ap pase, yon lòt jenerasyon ap vini, men tè a kanpe pou toutan.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Yon jenerasyon"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ap pase"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ak yon lòt jenerasyon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "men tè a"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:08.894478341Z",
+  "model": "glm-5.3"
+}

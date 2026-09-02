@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 8:11",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Gade, jou yo ap vini, orakil Adònay Yawe: m ap voye yon fam nan tè a — pa yon fam pou pen, ni yon swaf pou dlo, men yon fam pou tande ⟨את⟩ pawòl Yawe a.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orakil"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והשלחתי",
+      "gloss": "e m ap voye"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "fam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "fam"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "pou pen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "swaf"
+    },
+    {
+      "surface": "למים",
+      "gloss": "pou dlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pou tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl Yawe a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:39:22.019104333Z",
+  "model": "glm-5.3"
+}

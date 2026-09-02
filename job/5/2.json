@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Paske kòlèr ap touye sòt la, epi envi ap fè moun senp la mouri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "sòt la"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ap touye"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kòlèr"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "epi moun senp la"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "ap fè mouri"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "envi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:23.886956262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Sèlman awogans bay chèf; men ⟨את⟩ moun ki pran konsèy yo, gen sajès.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "awogans"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "men ⟨את⟩",
+      "marks": "moun ki pran konsèy yo"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "moun ki pran konsèy yo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:54.735433550Z",
+  "model": "glm-5.3"
+}

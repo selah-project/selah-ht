@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi pitit Yisrael yo tounen soti nan poursivite ⟨את⟩ Filistin yo, epi yo pilye ⟨את⟩ kan yo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "epi tounen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "poursivite"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "epi pilye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistin yo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:32:53.627747281Z",
+  "model": "glm-5.3"
+}

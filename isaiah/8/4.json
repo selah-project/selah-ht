@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Paske anvan timoun nan konnen rele 'papa m' ak 'manman m', richès Damasek ak buten Chomeron ap pote ⟨את⟩ ... ale devan wa Achou a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ak manman m"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ap pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "richès Damasek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "richès"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "buten Chomeron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "buten"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:34.647501968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "E pote ⟨את⟩ ti frè nou an ba mwen, pou pawòl nou yo koute chè e n pa mouri. E yo fè konsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "frè nou"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frè nou"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ti ... an"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba mwen"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "e verifye"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "pawòl nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:24.992784665Z",
+  "model": "glm-5.3"
+}

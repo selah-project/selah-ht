@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Mwen rayiasanble moun ki fè mal, epi ak moun ki mal fè mwen pa prale chita.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Mwen rayi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "moun ki fè mal"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "epi ak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun ki mal fè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "prale chita"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:27.775304199Z",
+  "model": "glm-5.3"
+}

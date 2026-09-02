@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi David leveye byen bonè, li menm ak gason li yo, pou yo mache nan maten an, pou yo tounen nan peyi Filistin yo; e Filistin yo monte Yizreèl.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "leveye byen bonè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ak gason li yo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou yo mache"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten an"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "pou yo tounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "e Filistin yo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "monte"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:24.761311964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E Yisrayèl renmen ⟨את⟩ Yosèf plis pase tout pitit li yo, paske se nan granmoun li ye li fè l; e li fè yon tunik ki gen pale ⟨pou l⟩.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "E Yisrayèl"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosèf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "plis pase tout"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nan granmoun"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "granmoun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou l"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "yon tunik"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "ki gen pale"
+    }
+  ],
+  "timestamp": "2026-09-02T15:31:12.648768725Z",
+  "model": "glm-5.3"
+}

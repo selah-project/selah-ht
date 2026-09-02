@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 130,
+  "translation": "Paske padon sèvi ak ou, pou n pè ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sèvi ak ou"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "padon"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "n pè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:58.025225542Z",
+  "model": "glm-5.3"
+}

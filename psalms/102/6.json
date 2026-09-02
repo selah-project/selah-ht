@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Sou vwa lamentasyon mwen an, zo mwen yo kole sou tèt vyann mwen.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Sou vwa"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "lamentasyon mwen"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "kole"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "zo mwen"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "sou vyann mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:34.862317451Z",
+  "model": "glm-5.3"
+}

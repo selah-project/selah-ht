@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E mwen di a malèk la ki te pale ⟨nan⟩ mwen an: kote ⟨ye⟩ ki ap mennen ⟨את⟩ maman an?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e mwen di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malèk la"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ki te pale"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nan mwen"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kote"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ye⟩"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ki ap mennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maman an"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "maman an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:45:54.705211150Z",
+  "model": "glm-5.3"
+}

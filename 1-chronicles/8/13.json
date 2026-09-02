@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "ak Bèriya ak Chema; se yo menm tèt fanmi papa yo pou moun ki te rete nan Ayalòn; se yo menm te fè moun ki te rete nan Gat ⟨את⟩ chèche refiz.",
+  "tokens": [
+    {
+      "surface": "ובריעה",
+      "gloss": "ak Bèriya"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ak Chema"
+    },
+    {
+      "surface": "המה",
+      "gloss": "se yo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "fanmi papa yo"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "pou moun ki te rete"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "nan Ayalòn"
+    },
+    {
+      "surface": "המה",
+      "gloss": "se yo menm"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "te fè chèche refiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki te rete"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "moun ki te rete"
+    },
+    {
+      "surface": "גת",
+      "gloss": "nan Gat"
+    }
+  ],
+  "timestamp": "2026-09-02T21:16:24.128591923Z",
+  "model": "glm-5.3"
+}

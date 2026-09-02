@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E li mete ⟨את⟩ ridè ⟨⟨antre a⟩⟩ pou tabènakil la.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ridè antre a"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ridè"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "antre a"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pou tabènakil la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:07.138349754Z",
+  "model": "glm-5.3"
+}

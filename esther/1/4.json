@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "pou l montre ⟨את⟩ richès klè wayòm li yo ak ⟨את⟩ presye bèl grandè li, pandan anpil jou — katreven ak san jou.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "pou l montre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "richès klè wayòm li yo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "richès"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "klè"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "wayòm li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "presye bèl grandè li"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "presye"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "grandè li"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "katreven"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:54:44.079460527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E pèp la pote ⟨את⟩ pat la li yo anvan li fèmntan, machwèt yo yo fin ranje nan rad yo sou zepòl yo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pat la li yo"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "pat la li yo"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "li fèmntan"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "machwèt yo"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "fin ranje"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "nan rad yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "zepòl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:03.093070942Z",
+  "model": "glm-5.3"
+}

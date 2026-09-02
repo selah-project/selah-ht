@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi ou fè ⟨את⟩ bar yo — bwa akasya — epi ou kouvwi ⟨את⟩ yo ak lò, epi ou pote ⟨את⟩ tab la ak yo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "epi ou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bar yo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bar yo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "epi ou kouvwi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "epi ou pote"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tab la"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tab la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:47.802556419Z",
+  "model": "glm-5.3"
+}

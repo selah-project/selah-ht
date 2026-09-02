@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Zabad fè ⟨את⟩ Efplal, e Efplal fè ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efplal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efplal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "e Efplal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:09.377978297Z",
+  "model": "glm-5.3"
+}

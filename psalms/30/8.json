@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Yawe, nan favè ⟨w⟩ ou te fè mòn mwen kanpe fòm; ou te kache figi ⟨w⟩ ou, e mwen te vin pè.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "nan favè ⟨w⟩ ou"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "ou te fè kanpe"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "mòn mwen"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "ou te kache"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ⟨w⟩ ou"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mwen te ye"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "pè e treme"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:36.109772303Z",
+  "model": "glm-5.3"
+}

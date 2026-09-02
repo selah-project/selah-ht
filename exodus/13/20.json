@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Yo fè vwayaj sòti nan Soukot, e yo kanpe kay nan Etam, nan limit dezè a.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "fè vwayaj"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Soukot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kanpe kay"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "nan Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "nan limit"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:31.826417949Z",
+  "model": "glm-5.3"
+}

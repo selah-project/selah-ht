@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 20:5",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Mesaje yo tounen epi yo di: Konsa Ben-Hadad di, lè l di: Mwen te voye ba ou pou m di ou: lajan ou, lò ou, fanm ou yo ak pitit ou yo, se pou mwen ou dwe bay.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "mesaje yo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "epi yo di"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lè l di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mwen te voye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou m di"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "lajan ou"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "ak lò ou"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "fanm ou yo"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ou dwe bay"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:59.303949264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Moun ki mache ak entegrite pral sove, e moun ki gen chemen kroke ap tonbe nan yon sèl fwa.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "moun k ap mache"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ak entegrite"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "pral sove"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "e kroke"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "chemen yo"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ap tonbe"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "nan yon sèl (fwa)"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:31.334375664Z",
+  "model": "glm-5.3"
+}

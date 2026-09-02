@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "E li fè ⟨את⟩ wob efòd la, yon travay tisè, tout an ble.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wob efòd la"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "wob"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efòd la"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "tisè"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tout an"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ble"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:59.189029764Z",
+  "model": "glm-5.3"
+}

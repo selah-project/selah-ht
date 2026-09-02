@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Li fè moun renmè yo mache nan jistis, epi li anseye moun renmè yo way ou li chwazi a.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "fè … mache"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "moun renmè yo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nan jistis"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "epi li anseye"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "moun renmè yo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "way li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:50.582170913Z",
+  "model": "glm-5.3"
+}

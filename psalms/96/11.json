@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Syèl yo ap rejwi, tè a ap fè lajwa; lanmè a ap fè yon gwo bri, ak tout plen l.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ap rejwi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ap fè lajwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ap fè yon gwo bri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ak tout plen l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:56.253898184Z",
+  "model": "glm-5.3"
+}

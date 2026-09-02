@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi li brike dan mwen ak gravye, li pile sou m nan sant.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "epi li brike"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "ak gravye"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dan mwen"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "li pile sou m"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "nan sant"
+    }
+  ],
+  "timestamp": "2026-09-02T20:48:00.265477440Z",
+  "model": "glm-5.3"
+}

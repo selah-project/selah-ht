@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi wa a retire ⟨את⟩ serè li, menm sèl la li te fè pase soti sou Haman, epi li bay Mordèkhay l. Epi Ester mete Mordèkhay an chaj sou kay Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "epi wa a retire"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serè li"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "serè li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm sèl la"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "te fè pase soti"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "sou Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "epi li bay"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "pou Mordèkhay"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "epi Ester mete"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordèkhay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordèkhay"
+    },
+    {
+      "surface": "על",
+      "gloss": "an chaj sou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:56:11.641754834Z",
+  "model": "glm-5.3"
+}

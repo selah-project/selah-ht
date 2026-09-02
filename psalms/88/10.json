@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Je m febli de mizè m; m rele ou, Yawe, tout jou; m estire men m bò ou.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "febli"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mizè m"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "m rele ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "m estire"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bò ou"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "men m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:42.928311899Z",
+  "model": "glm-5.3"
+}

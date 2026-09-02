@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "L menm ap rele m: «Ou se papa m, El m, ak wòch delivrans m.»",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "L menm"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "ap rele m"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El m"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ak wòch"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "delivrans m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:57.180362930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E Yawe di ak Moche: \"Men sa w ap di ak pitit Yisrayèl yo: 'Nou menm, nou wè ke depi nan syèl yo mwen te pale ak nou.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כה",
+      "gloss": "men sa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "w ap di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nou wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depi nan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mwen te pale"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ak nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:34.070665333Z",
+  "model": "glm-5.3"
+}

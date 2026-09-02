@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 120,
+  "translation": "Yawe, delivransh nefech mwen an soti nan levr manti, soti nan lang trechè!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "delivransh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech mwen"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "soti nan levr"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "manti"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "soti nan lang"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "trechè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:39.067768392Z",
+  "model": "glm-5.3"
+}

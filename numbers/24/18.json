@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Edom ap vin yon eritaj, e Seir ap vin yon eritaj pou enmi l yo, pandan Yisrael ap fè fòs.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "yon eritaj"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e ap vin"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "yon eritaj"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "pou enmi l yo"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "pandan Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "fòs"
+    }
+  ],
+  "timestamp": "2026-09-02T16:34:14.895034182Z",
+  "model": "glm-5.3"
+}

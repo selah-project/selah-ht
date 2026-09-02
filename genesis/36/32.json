@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Bela, pitit Beor, te regne nan Edom, e non vil li te Dinhaba.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "te regne"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "nan Edom"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "vil li"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Dinhaba"
+    }
+  ],
+  "timestamp": "2026-09-02T15:30:03.090178191Z",
+  "model": "glm-5.3"
+}

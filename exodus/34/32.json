@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Apre sa, tout pitit Yisrayèl yo te pwoche, e li te bay ⟨את⟩ tout sa ke Yawe te pale avèk ⟨את⟩ li sou mòn Sinay.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "yo te pwoche"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "e li te bay lòd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa ke Yawe te pale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avèk ⟨את⟩ li"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou mòn"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:56.403624700Z",
+  "model": "glm-5.3"
+}

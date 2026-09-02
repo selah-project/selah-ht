@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Se mwen menm ki te anonse, epi ki te delivre, epi ki te fè tande; epi pa gen dye etranje nan mitan nou; epi nou ye temwen m yo, sa Yawe deklare, epi mwen se El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mwen menm"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "te anonse"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "epi te delivre"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "epi te fè tande"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa gen"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "זר",
+      "gloss": "dye etranje"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "epi nou"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "temwen m yo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "epi mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:17.041134244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Menm si yon lame kanpe kont m, kè m pa ap pè; menm si lagè leve kont m, se nan sa mwen gen konfyans.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Menm si"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont m"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lame"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Menm si"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "leve"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont m"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "nan sa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "gen konfyans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:03.987173394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E ofann Yehouda ak Yerouchalayim ap dous pou Yawe, tankou jou tan lontan yo, ak tankou ane ansyen yo.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "ap dous"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ofann"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ak Yerouchalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "tankou jou"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tan lontan"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "ak tankou ane"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "ansyen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:25.733347872Z",
+  "model": "glm-5.3"
+}

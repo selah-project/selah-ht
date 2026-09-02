@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "E nonm lan fè jan Yosèf te di a, e nonm lan mennen ⟨את⟩ nonm yo ale nan kay Yosèf.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm lan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm lan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonm yo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nonm yo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:01.161167465Z",
+  "model": "glm-5.3"
+}

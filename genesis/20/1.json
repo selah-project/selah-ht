@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi Avraham deplase soti la, ale nan peyi Nègèv la, epi rete ant Kadesh ak ant Chour, epi viv kòm etranje nan Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "epi deplase"
+    },
+    {
+      "surface": "משם",
+      "gloss": "soti la"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Nègèv la"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "epi rete"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Chour"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "epi viv kòm etranje"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "nan Gerar"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:02.030332530Z",
+  "model": "glm-5.3"
+}

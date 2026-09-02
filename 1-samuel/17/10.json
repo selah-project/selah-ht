@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi Filistyen an di: Mwen fin meprize ⟨את⟩ ran batail Yisrayèl la jodi a; ban mwen yon gason, e ann nou batay ansanm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistyen an"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "fin meprize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ran batail Yisrayèl la"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ran batail"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon gason"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "e ann nou batay"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:51.274634418Z",
+  "model": "glm-5.3"
+}

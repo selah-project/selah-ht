@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "La yo pè yon pè, paske Elohim ⟨nan⟩ jenerasyon moun jis yo.",
+  "tokens": [
+    {
+      "surface": "שָׁ֝מָּ֗ה",
+      "gloss": "La"
+    },
+    {
+      "surface": "פָּ֣חֲדוּ",
+      "gloss": "yo pè"
+    },
+    {
+      "surface": "פָּ֑חַד",
+      "gloss": "yon pè"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּד֣וֹר",
+      "gloss": "nan jenerasyon"
+    },
+    {
+      "surface": "צַדִּֽיק",
+      "gloss": "moun jis yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:30.657916906Z",
+  "model": "glm-5.3"
+}

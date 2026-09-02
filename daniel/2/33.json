@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "janb li ⟨yo te⟩ fè, se fè; pye li, youn pati yo fè ak fè, youn pati yo fè ak ajil.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "janb li"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki fè ak"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "fè"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "pye li"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "youn pati"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki fè ak"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "fè"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "ak youn pati"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki fè ak"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "ajil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:57:27.693833046Z",
+  "model": "glm-5.3"
+}

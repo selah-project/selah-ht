@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "E Dinah, pitit fi Lea, pitit fi Lea te fè pou Yaakov, soti ⟨ pou⟩ gade pitit fi yo nan peyi a.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "pou Yaakov"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou gade"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "nan pitit fi yo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:58.141689262Z",
+  "model": "glm-5.3"
+}

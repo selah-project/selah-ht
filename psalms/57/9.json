@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "Revele, glwa mwen; revele, nèb la ak kìnòr la; mwen pral revele chwaj la.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Revele"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "glwa mwen"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "revele"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nèb la"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ak kìnòr la"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "mwen pral revele"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "chwaj la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:00.158920574Z",
+  "model": "glm-5.3"
+}

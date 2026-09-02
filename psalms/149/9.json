@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 149,
+  "translation": "Pou yo fè sou yo jijman ki ekri a; sa a se yon ⟨èste⟩ pou tout cheyi li yo. Louwe Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Pou yo fè"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "ki ekri"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "⟨èste⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sa a se"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "cheyi li yo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Louwe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:54.623556409Z",
+  "model": "glm-5.3"
+}

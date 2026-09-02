@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi lè Yoav ap gad sou vil la, li mete ⟨את⟩ Ourya nan kote a kote li te konnen ke gason ki gen valè te la.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi lè"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "ap gad"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ourya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ourya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "li te konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gason"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ki gen valè"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:22.328463948Z",
+  "model": "glm-5.3"
+}

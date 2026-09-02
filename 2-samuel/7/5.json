@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Ale, e ou di a sèvant mwen an, a David: Konsa Yawe di: Èske se ou ki pral bati pou mwen yon kay pou m abite?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ale"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e ou di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvant mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Èske se ou"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "pral bati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "pou m abite"
+    }
+  ],
+  "timestamp": "2026-09-02T17:43:19.204013104Z",
+  "model": "glm-5.3"
+}

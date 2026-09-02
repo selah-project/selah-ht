@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Anseynen mwen, Yawe, chemen òdonans ou yo, e m ap kenbe l jouk nan ⟨bout⟩.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Anseynen mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "òdonans ou yo"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "e m ap kenbe l"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "jouk nan bout"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:27.447290938Z",
+  "model": "glm-5.3"
+}

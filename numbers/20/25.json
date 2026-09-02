@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Pran ⟨את⟩ Aharòn ak ⟨את⟩ Elazar pitit gason l, epi moute ⟨את⟩ yo nan mòn Hòr la.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharòn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "epi moute"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "Aharòn ak Elazar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hòr"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:31:59.150333068Z",
+  "model": "glm-5.3"
+}

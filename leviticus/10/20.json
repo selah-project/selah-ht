@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Moche tande, e sa a te bon nan je l.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Epi … tande"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "e … te bon"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nan je l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:10.864325295Z",
+  "model": "glm-5.3"
+}

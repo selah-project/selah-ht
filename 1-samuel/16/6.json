@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi l te rive, lè yo te antre, li wè ⟨את⟩ Eliyav, epi li di: sètenman, devan Yawe Machiya li ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi l te rive"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "lè yo te antre"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "epi li wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sètenman"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Machiya li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:49:35.379559328Z",
+  "model": "glm-5.3"
+}

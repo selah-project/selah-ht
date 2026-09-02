@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi je ou pa dwe gen pitye: nefech pou nefech, je pou je, dan pou dan, men pou men, pye pou pye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "dwe gen pitye"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "je ou"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefech"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "pou nefech"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pou je"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "pou dan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pou men"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pye"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "pou pye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:50:15.630855742Z",
+  "model": "glm-5.3"
+}

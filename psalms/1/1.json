@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Ah, kontan se moun ki pa mache nan konsèy movan yo, ki pa kanpe nan chemen pechè yo, ki pa chita nan kote mokè yo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ah, kontan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "nan konsèy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "movan yo"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "e nan chemen"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "pechè yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "e nan kote"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "mokè yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "chita"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:19.154729436Z",
+  "model": "glm-5.3"
+}

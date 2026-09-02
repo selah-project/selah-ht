@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "E li rive yo, e li pale ⟨את⟩ pawòl sa yo ak yo.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "E li rive yo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "li pale"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl sa yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:27.155812379Z",
+  "model": "glm-5.3"
+}

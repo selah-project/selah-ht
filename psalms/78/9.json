@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Pitit Efrayim, yo ki tire ak zo, yo vire do nan jou konba a.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "yo ki tire"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "ak"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "zo"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "yo vire do"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "konba a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:31.316978659Z",
+  "model": "glm-5.3"
+}

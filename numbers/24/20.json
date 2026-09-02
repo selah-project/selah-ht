@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E li gade ⟨את⟩ Amalek, e li pran pawòl li a, e li di: premye nan nasyon yo ⟨se⟩ Amalek, e fen l ap vin destriksyon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e li gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "li pran"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "pawòl li a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "premye"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nan nasyon yo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "e fen l"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "destriksyon"
+    }
+  ],
+  "timestamp": "2026-09-02T16:34:14.895375664Z",
+  "model": "glm-5.3"
+}

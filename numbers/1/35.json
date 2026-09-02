@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Konte yo pou tribi Menachè: de ak trant mil ak de san.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "konte yo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pou tribi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menachè"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ak trant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ak de san"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:03.808161519Z",
+  "model": "glm-5.3"
+}

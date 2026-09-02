@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Èske nou pa menm jan ak pitit Kouchit yo pou mwen, pitit Yisrael yo? — sa Yawe di. Èske se pa ⟨את⟩ Yisrayèl mwen fè monte soti nan peyi Mitsrayim, ak Filisti yo soti nan Kaftòr, ak Aram soti nan Kir?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Èske... pa"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "menm jan ak pitit"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kouchit yo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sa... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Èske... pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "mwen fè monte"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "ak Filisti yo"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "soti nan Kaftòr"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ak Aram"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "soti nan Kir"
+    }
+  ],
+  "timestamp": "2026-09-02T19:39:31.071124106Z",
+  "model": "glm-5.3"
+}

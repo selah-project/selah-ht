@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi yo ap di: Se paske yo te kite ⟨את⟩ alyans Yawe, Elohim zansèt yo, menm alyans ke li te koupe ak yo, lè l te fè yo soti ⟨את⟩ nan peyi Mitsrayim",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Epi yo ap di"
+    },
+    {
+      "surface": "על",
+      "gloss": "Se paske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "yo te kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alyans Yawe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alyans"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "zansèt yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "te koupe"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "lè l te fè soti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo soti nan peyi Mitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:23.461494436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Se sèlman pou ranvèse l nan dizinite l yo konsèy; yo pran plezi nan manti, an bouch yo yo beni, men andedan kè yo yo maledi. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Se sèlman"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "dizinite l"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "yo konsèy"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "pou ranvèse"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "yo pran plezi"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "manti"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "an bouch yo"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "yo beni"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "andedan kè yo"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "yo maledi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:42.104015864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 10:18",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E l ap detwi glwa fòtè a ak jaden fwi l, depi nanm rive nan chè; e sa ap vin tankou yon moun ki ap fonn ak maladi.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "ak glwa"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "fòtè li"
+    },
+    {
+      "surface": "וכרמלו",
+      "gloss": "ak jaden fwi li"
+    },
+    {
+      "surface": "מנפש",
+      "gloss": "depi nanm"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "rive nan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chè"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "l ap fini detwi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sa ap vin"
+    },
+    {
+      "surface": "כמסס",
+      "gloss": "tankou yon moun ki ap fonn"
+    },
+    {
+      "surface": "נסס",
+      "gloss": "ki gen maladi"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:42.434569449Z",
+  "model": "glm-5.3"
+}

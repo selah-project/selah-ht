@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Dezi kè l, ou bay l ⟨li⟩, e demann lèv li ou pa refize ditou. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "dezi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ou bay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ak demann"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "lèv li"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa ditou"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "ou refize"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:30.562966733Z",
+  "model": "glm-5.3"
+}

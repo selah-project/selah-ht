@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Fè lèv manti yo vin pa pale ankò — lèv ⟨ki⟩ pale kont moun jis yo, mo ensolan, ak ògyèy ak mépri.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "vin pa pale ankò"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lèv"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "manti"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "ki pale"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "mo ensolan"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "ak ògyèy"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ak mépri"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:43.578557981Z",
+  "model": "glm-5.3"
+}

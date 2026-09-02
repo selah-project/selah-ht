@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "epi li konte ⟨את⟩ lane vann l te pase yo, epi li bay tounen ⟨את⟩ sa ki rete bay nonm ki te vann l li, epi li tounen nan pwopriyete l.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "epi konte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lane yo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "vann l"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "epi bay tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki rete"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "sa ki rete"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bay nonm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "vann"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "epi tounen"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "nan pwopriyete l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:53.697078106Z",
+  "model": "glm-5.3"
+}

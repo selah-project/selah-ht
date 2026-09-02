@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Yo devan m nan jou malè mwen an, e Yawe te vin yon apui pou mwen.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "yo devan m"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "malè mwen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e Li te vin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "yon apui"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:51.857343417Z",
+  "model": "glm-5.3"
+}

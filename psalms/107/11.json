@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Paske yo te rebèl kont pawòl El (El: fòs, non Bondye), e konsèy Elyòn yo te meprize.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "yo te rebèl kont"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "e konsèy"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "yo te meprize"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:01.653694405Z",
+  "model": "glm-5.3"
+}

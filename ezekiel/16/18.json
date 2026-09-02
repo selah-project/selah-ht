@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi ou pran ⟨את⟩ rad bwi ou yo pou kouvri ⟨yo⟩, epi òl mwen an ak ansan mwen an ou mete devan ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "epi ou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad bwi ou yo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "rad"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "bwi ou"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "pou kouvri yo"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "ak òl mwen an"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "ak ansan mwen an"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ou mete"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "devan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:15:45.604188571Z",
+  "model": "glm-5.3"
+}

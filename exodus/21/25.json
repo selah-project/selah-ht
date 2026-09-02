@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Mak brile an plas mak brile, blese an plas blese, bouyon an plas bouyon.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "mak brile"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "mak brile"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "blese"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "blese"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bouyon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bouyon"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:36.190926756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Lavi, l mande ou l — ou ban l li: longè jou yo, pou tout tan ak pou tout tan.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Lavi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "mande"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "longè"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ak pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:28.941042250Z",
+  "model": "glm-5.3"
+}

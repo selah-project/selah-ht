@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Yon pyè ⟨ak⟩ yon lòt pyè, yon èfa ⟨ak⟩ yon lòt èfa, de de yo se yon abominasyon pou Yawe.",
+  "tokens": [
+    {
+      "surface": "אֶבֶן",
+      "gloss": "yon pyè (pwa)"
+    },
+    {
+      "surface": "וָאֶבֶן",
+      "gloss": "ak yon lòt pyè"
+    },
+    {
+      "surface": "אֵיפָה",
+      "gloss": "yon èfa"
+    },
+    {
+      "surface": "וְאֵיפָה",
+      "gloss": "ak yon lòt èfa"
+    },
+    {
+      "surface": "תּוֹעֲבַת",
+      "gloss": "abominasyon"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "שְׁנֵיהֶם",
+      "gloss": "de de yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:02.317487405Z",
+  "model": "glm-5.3"
+}

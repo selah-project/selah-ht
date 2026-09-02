@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Yawe di ⟨a⟩ pwason an, e li vomè ⟨את⟩ Yonah sou tè sèch la.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "⟨a⟩ pwason an"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "e li vomè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tè sèch la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:03.357133002Z",
+  "model": "glm-5.3"
+}

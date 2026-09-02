@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Cheche ⟨את⟩ Yawe, epi nou pral viv, pou ⟨li⟩ pa pete kòm dife nan kay Yosef, epi ⟨dife a⟩ devore ⟨li⟩, epi pa gen moun ki etenn ⟨li⟩ nan kay Bet-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "cheche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "epi viv"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "pete"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kòm dife"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "epi devore"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa gen"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "moun ki etenn"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    }
+  ],
+  "timestamp": "2026-09-02T19:38:20.872807193Z",
+  "model": "glm-5.3"
+}

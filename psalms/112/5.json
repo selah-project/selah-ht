@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 112,
+  "translation": "Bon ⟨⟨se⟩⟩ yon nonm ki montre favor epi ki prete lajan: li kenbe zafè li yo nan jijman.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ki montre favor"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "epi ki prete lajan"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "li kenbe"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "zafè li yo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nan jijman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:40.532449748Z",
+  "model": "glm-5.3"
+}

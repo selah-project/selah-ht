@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 7:15",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Tankou jou ou te soti nan peyi Mitsrayim, m ap montre ⟨l⟩ bagay etonan.",
+  "tokens": [
+    {
+      "surface": "כימי",
+      "gloss": "Tankou jou"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ou te soti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "m ap montre l"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "bagay etonan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:42:06.809230832Z",
+  "model": "glm-5.3"
+}

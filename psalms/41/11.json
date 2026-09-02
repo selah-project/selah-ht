@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "E ou, Yawe, fè m gràs, e fè m kanpe, e m ap remèse yo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fè m gràs"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "e fè m kanpe"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "e m ap remèse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:10.843189256Z",
+  "model": "glm-5.3"
+}

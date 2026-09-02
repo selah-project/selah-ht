@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Modi moun ki pa kanpe ⟨את⟩ pawòl lwa sa a pou fè ⟨את⟩ yo, e tout pèp la ap di: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Modi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl lwa sa a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "lwa a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e ap di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:54:57.419405982Z",
+  "model": "glm-5.3"
+}

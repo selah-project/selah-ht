@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Gade, zye ⟨a⟩ Yawe sou moun ki pè l, sou moun ki tann hesed li.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "עין",
+      "gloss": "zye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "moun ki pè l"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "moun ki tann"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:50.673083860Z",
+  "model": "glm-5.3"
+}

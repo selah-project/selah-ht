@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Rakonte glwa l mitan nasyon yo, nan tout pèp yo bagèy etonan l yo.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Rakonte"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mitan nasyon yo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glwa l"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "bagèy etonan l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:35.893599705Z",
+  "model": "glm-5.3"
+}

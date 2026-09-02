@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Yo jete baton yo, chak moun baton pa l, e baton yo vin sèpan; men baton Aharòn an vale ⟨את⟩ baton yo yo.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Yo jete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "baton pa l"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "yo vin"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "sèpan"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "vale"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "baton"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baton yo yo"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "baton yo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:12.311070828Z",
+  "model": "glm-5.3"
+}

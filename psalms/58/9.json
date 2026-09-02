@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Menm jan ak yon limas k ap fonn, moun sa yo ap mache ⟨eksepte⟩; tankou pitit avòtman yon fanm — yo pa janm wè solèy la.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "menm jan ak"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "limas"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "fonn"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "mache"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "pitit avòtman"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soley la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:26.016640168Z",
+  "model": "glm-5.3"
+}

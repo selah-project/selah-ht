@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E wa a reponn ⟨את⟩ pèp la avèk duresè, epi li kite ⟨את⟩ konsèy ansyen yo te bay li a.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "avèk duresè"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "kite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konsèy la"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "konsèy"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ansyen yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "te bay li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:53.506266868Z",
+  "model": "glm-5.3"
+}

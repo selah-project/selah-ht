@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E yo moute ⟨את⟩ chès Yawe a, ak ⟨את⟩ tant rankont la, ak ⟨את⟩ tout zouti sen yo ki nan tant la — e prèt yo ak Levi yo moute yo.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "moute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chès Yawe a"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chès"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tant rankont la"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zouti sen yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zouti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nan tant la"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "moute"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Levi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:08.672214118Z",
+  "model": "glm-5.3"
+}

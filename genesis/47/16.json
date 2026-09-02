@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "E Yosèf di: Ban mwen bèt yo, e m ap ba nou ⟨pen⟩ an echanj pou bèt yo, si lajan fini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Ban"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "bèt yo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "e m ap ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "an echanj pou bèt yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "fini"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lajan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:37:08.836318217Z",
+  "model": "glm-5.3"
+}

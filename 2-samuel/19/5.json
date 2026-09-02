@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi wa a kouvri ⟨את⟩ figi l, e wa a kriye ak yon vwa ki gwo: Pitit mwen an, Avchalom! Avchalom, pitit mwen an, pitit mwen an!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Epi wa a"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi l"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "epi kriye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen an"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen an"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T17:51:07.766320506Z",
+  "model": "glm-5.3"
+}

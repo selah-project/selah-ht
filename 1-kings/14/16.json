@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi l ap abandone ⟨את⟩ Yisrael akò peche Yaravam yo, ke li peche ak li fè ⟨את⟩ Yisrael peche.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ap abandone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "akò"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "peche yo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "li peche"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ak ke"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "li fè peche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T18:02:51.814670133Z",
+  "model": "glm-5.3"
+}

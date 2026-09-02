@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E l ap vini la a, e y ap retire ⟨את⟩ tout idòl degoutan l yo ak ⟨את⟩ tout abominasyon l yo soti nan l.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "e l ap vini"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la a"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "e y ap retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout idòl degoutan l yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "idòl degoutan l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout abominasyon l yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "abominasyon l yo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "soti nan l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:14:38.004569345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yawe fache ak zansèt nou yo — fache!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "fache"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "zansèt nou yo"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "fache"
+    }
+  ],
+  "timestamp": "2026-09-02T19:45:46.967826962Z",
+  "model": "glm-5.3"
+}

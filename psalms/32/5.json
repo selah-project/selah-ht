@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Fòt mwen mwen fè ou konnen, ak inikite mwen mwen pa kache. Mwen di: mwen pran konnen sou rebelyon mwen bay Yawe; e ou, ou pote ⟨את⟩ inikite fòt mwen. Chela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "fòt mwen"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "mwen fè ou konnen"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "ak inikite mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "mwen kache"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "mwen pran konnen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "rebelyon mwen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bay Yawe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ou"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ou pote"
+    },
+    {
+      "surface": "עון",
+      "gloss": "inikite",
+      "marks": "inikite fòt mwen"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "fòt mwen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chela"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:53.236563031Z",
+  "model": "glm-5.3"
+}

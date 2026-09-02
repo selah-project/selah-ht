@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Èske pa jan m te fè a Chomeron ak dye fò l yo, konsa m ap fè Yerouchalayim ak zipè l yo?”",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske pa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m te fè"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "a Chomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "ak dye fò l"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ap fè"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "ak zipè l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:31.673307468Z",
+  "model": "glm-5.3"
+}

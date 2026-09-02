@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Moche ak Aharòn ale, e yo reyini ⟨את⟩ tout vyey moun yo, pitit gason Yisrael yo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ak Aharòn"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "yo reyini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout vyey moun yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vyey moun yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:56.785524133Z",
+  "model": "glm-5.3"
+}

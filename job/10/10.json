@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Èske se pa kòm lèt ⟨ou vide m⟩, epi kòm fwomaj ⟨ou fè m pran fòm⟩?",
+  "tokens": [
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "Èske se pa"
+    },
+    {
+      "surface": "כֶ֭חָלָב",
+      "gloss": "kòm lèt"
+    },
+    {
+      "surface": "תַּתִּיכֵ֑נִי",
+      "gloss": "ou vide m"
+    },
+    {
+      "surface": "וְ֝כַגְּבִנָּ֗ה",
+      "gloss": "epi kòm fwomaj"
+    },
+    {
+      "surface": "תַּקְפִּיאֵֽנִי",
+      "gloss": "ou fè m pran fòm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:47.911499055Z",
+  "model": "glm-5.3"
+}

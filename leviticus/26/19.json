@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E M ap kraze ⟨את⟩ fyèlte fòs nou an, e M ap fè ⟨את⟩ syèl nou yo tankou fè, ak ⟨את⟩ tè nou tankou kwiv.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "E M ap kraze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fyèlte fòs nou an"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "fyèlte"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "fòs nou"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e M ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syèl nou yo"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "syèl nou yo"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "tankou fè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè nou"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tè nou"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "tankou kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:54.952703731Z",
+  "model": "glm-5.3"
+}

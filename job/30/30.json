@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Po mwen vin nwa sou mwen, e zo mwen boule ak chalè.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "Po mwen"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "vin nwa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "e zo mwen"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "boule"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ak"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "chalè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:40:43.819389360Z",
+  "model": "glm-5.3"
+}

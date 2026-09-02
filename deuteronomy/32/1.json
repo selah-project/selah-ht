@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Ban zòrèy, syèl yo, e m ap pale; e koute, tè a, pawòl bouch mwen.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Ban zòrèy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ו אדברה",
+      "gloss": "e m ap pale"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "e koute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:15.554609267Z",
+  "model": "glm-5.3"
+}

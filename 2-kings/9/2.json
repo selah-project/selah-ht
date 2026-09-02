@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Lè w rive la, gade si Yehou pitit Yehochafat, pitit Nimchi, la; antre, fè l kanpe nan mitan frè l yo, epi mennen ⟨את⟩ li nan yon chanm andedan yon chanm.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "rive"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimchi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "antre"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "fè l kanpe"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "chanm"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "nan yon chanm"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:34.204313328Z",
+  "model": "glm-5.3"
+}

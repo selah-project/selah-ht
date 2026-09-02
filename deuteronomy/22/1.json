@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Pa wè ⟨את⟩ bèf frè ou oswa ⟨את⟩ mouton li ap chegayen, epi kache sou ou kont yo — retounen, ou fèt retounen yo bay frè ou.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèf"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mouton li"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "mouton li"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "ap chegayen"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "epi kache sou ou"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kont yo"
+    },
+    {
+      "surface": "השב",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "ou fèt retounen yo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "bay frè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:52:23.667352764Z",
+  "model": "glm-5.3"
+}

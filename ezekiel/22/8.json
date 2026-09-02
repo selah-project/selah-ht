@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Ou meprize santitye m yo, e ou profane ⟨את⟩ chabat m yo.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "santitye m yo"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "ou meprize"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "chabat m yo"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "chabat m yo"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ou profane"
+    }
+  ],
+  "timestamp": "2026-09-02T19:18:30.652294996Z",
+  "model": "glm-5.3"
+}

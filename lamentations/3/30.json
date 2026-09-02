@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Li bay jwenn li bay moun ki ap frape l, li konplè ak wont.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "bay moun ki ap frape l"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "konplè"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ak wont"
+    }
+  ],
+  "timestamp": "2026-09-02T20:47:56.060644329Z",
+  "model": "glm-5.3"
+}

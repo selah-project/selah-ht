@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E Moche monte sou montayn nan, e nwèl la kouvri ⟨את⟩ montayn nan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "E ... monte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "montayn nan"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "e ... kouvri"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nwèl la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "montayn nan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "montayn nan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:08.969270189Z",
+  "model": "glm-5.3"
+}

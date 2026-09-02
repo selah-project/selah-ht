@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 47:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "Kanpe non, ak majeri ou yo ak kantorite maji ou yo, kote ou fin fatige tèt ou depi jènnes ou — petèt ou kapab pwofite, petèt ou kapab fè pè.",
+  "tokens": [
+    {
+      "surface": "עמדי",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בחבריך",
+      "gloss": "ak majeri ou yo"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ak kantorite"
+    },
+    {
+      "surface": "כשפיך",
+      "gloss": "maji ou yo"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ou fin fatige tèt ou"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "depi jènnes ou"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "petèt"
+    },
+    {
+      "surface": "תוכלי",
+      "gloss": "ou kapab"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "pwofite"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "petèt"
+    },
+    {
+      "surface": "תערוצי",
+      "gloss": "fè pè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:32.534723519Z",
+  "model": "glm-5.3"
+}

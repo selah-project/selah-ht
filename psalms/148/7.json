@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "Fè lwanj ⟨את⟩ Yawe depi tè a, monstr marin yo ak tout fon dlo yo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "fè lwanj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "monstr marin yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "fon dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:41.793802088Z",
+  "model": "glm-5.3"
+}

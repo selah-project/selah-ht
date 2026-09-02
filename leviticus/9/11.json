@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E ⟨את⟩ vyann lan ak ⟨את⟩ po a li boule ak dife, deyò nan kan an.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "vyann lan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "vyann lan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "po a"
+    },
+    {
+      "surface": "העור",
+      "gloss": "po a"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "boule"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ak dife"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nan kan an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:23.166456087Z",
+  "model": "glm-5.3"
+}

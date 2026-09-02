@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 114,
+  "translation": "Nan moman Yisrayèl soti a depi Mitsrayim, kay Yaakov, depi nan yon pèp ki pale lang etranj,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Nan moman soti a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "depi Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "depi nan yon pèp"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "ki pale lang etranj"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.822375221Z",
+  "model": "glm-5.3"
+}

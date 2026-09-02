@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi l ap poze men l sou tèt kabrit la, epi l ap touye ⟨את⟩ li nan kote yo touye ⟨את⟩ sakrifis boule a, devan Yawe; se sakrifis pou peche li ye.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "epi poze"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kabrit la"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "epi touye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (kabrit la)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakrifis boule a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sakrifis boule a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sakrifis pou peche"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:28.351846746Z",
+  "model": "glm-5.3"
+}

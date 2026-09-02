@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "⟨Li⟩ ap voye depi syèl la epi ⟨li⟩ ap delivre m; ⟨lè⟩ moun k ap swaf pou m ap fè m wont. Sela. Elohim ap voye hesed ⟨li⟩ ak verite ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ap voye"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "depi syèl la"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "epi ap delivre m"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ap fè wont"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "moun k ap swaf pou m"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ap voye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ak verite li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:53.249334111Z",
+  "model": "glm-5.3"
+}

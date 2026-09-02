@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi pitit Yisrael yo ap kanpe, chak moun sou kanp li, e chak moun sou drapo li, dapre lame yo.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "Epi ... yo ap kanpe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kanp li"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e chak moun"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "drapo li"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "dapre lame yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:10.846932267Z",
+  "model": "glm-5.3"
+}

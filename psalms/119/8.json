@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "⟨את⟩ chwa ou yo m ap kenbe; pa abandone mwen totalman.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chwa ou yo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "chwa ou yo"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abandone mwen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "juska"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "totalman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:05.916229675Z",
+  "model": "glm-5.3"
+}

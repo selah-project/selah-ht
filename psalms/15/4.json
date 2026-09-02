@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Moun ki rezone nan je l se yon moun ki meprize, men li onore ⟨את⟩ moun ki pè Yawe; li fè sèman pou fè mal epi li pa chanje l.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "moun ki rezone"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nan je l"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "se yon moun ki meprize"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki pè Yawe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "moun ki pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "li onore"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "li fè sèman"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "pou fè mal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "li chanje l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:59.995942007Z",
+  "model": "glm-5.3"
+}

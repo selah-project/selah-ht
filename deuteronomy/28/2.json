@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi tout benediksyon sa yo ap vini sou ou, epi yo ap rive jwenn ou, paske ou ap tande nan vwa Yawe Elohim ou a.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Epi ... ap vini"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "benediksyon yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "epi yo ap rive jwenn ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ou ap tande"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nan vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:51.427007797Z",
+  "model": "glm-5.3"
+}

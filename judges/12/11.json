@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Apre li, Eylòn Zevoulonit la jije ⟨את⟩ Yisrael, e li jije ⟨את⟩ Yisrael dis lane.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "jije"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "apre li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eylòn"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "Zevoulonit la"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "jije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lane"
+    }
+  ],
+  "timestamp": "2026-09-02T17:17:59.514957144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi ou kanpe ⟨את⟩ tabènak la dapre règ li a, jan ou te wè ⟨li⟩ sou mòn nan.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "epi ou kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabènak la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènak la"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "dapre règ li a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "ou te wè"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou mòn nan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:56.797156335Z",
+  "model": "glm-5.3"
+}

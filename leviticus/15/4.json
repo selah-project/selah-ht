@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Tout kabann kote moun ki gen koulman an kouche ap vin cochonnèt, ak tout mobilje kote l chita ap vin cochonnèt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "kabann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "kouche"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "moun ki gen koulman an"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ap vin cochonnèt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "mobilje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ap vin cochonnèt"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:50.270933405Z",
+  "model": "glm-5.3"
+}

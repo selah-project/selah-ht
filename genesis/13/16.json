@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi m ap fè ⟨את⟩ desandans ⟨ou⟩ an tankou pousyè tè a: si yon moun ka konte ⟨את⟩ pousyè tè a, desandans ⟨ou⟩ tou ap ka konte.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Epi m ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "desandans ⟨ou⟩ an"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "desandans ⟨ou⟩"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "tankou pousyè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "konte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pousyè tè a"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "desandans ⟨ou⟩"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ap konte"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:50.324911183Z",
+  "model": "glm-5.3"
+}

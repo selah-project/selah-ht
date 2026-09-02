@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E David kenbe radura l, e li chire yo, e tout gason ki te ⟨את⟩ ak li a menm.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "e li kenbe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "radura l"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "e li chire yo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e tou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gason yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ak li",
+      "marks": "gason yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:53.144900725Z",
+  "model": "glm-5.3"
+}

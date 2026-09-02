@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "ak pousyè a tounen sou tè a jan l te ye a, ak lespri a tounen ban Elohim ki ban l.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ak tounen"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "pousyè a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "jan l te ye"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ak lespri a"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ban"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ban l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:30.707901498Z",
+  "model": "glm-5.3"
+}

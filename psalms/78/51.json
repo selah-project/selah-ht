@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Epi li frape tout pitit premye fè yo nan Mitsrayim, premye fwi fòs yo, nan tanchèt Cham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Epi li frape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pitit premye fè"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "premye fwi"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "fòs yo"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "nan tanchèt"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:08.152164227Z",
+  "model": "glm-5.3"
+}

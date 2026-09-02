@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi lannuit sa a yo fè ⟨את⟩ papa yo bwè diven, epi gran sè a antre e kouchye ⟨את⟩ papa l, e li pa konnen ni lè l kouchye ni lè l leve.",
+  "tokens": [
+    {
+      "surface": "וַתַּשְׁקֶיןָ",
+      "gloss": "yo fè bwè"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "papa yo"
+    },
+    {
+      "surface": "אֲבִיהֶן",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "יַיִן",
+      "gloss": "diven"
+    },
+    {
+      "surface": "בַּלַּיְלָה",
+      "gloss": "lannuit la"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "וַתָּבֹא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "הַבְּכִירָה",
+      "gloss": "gran sè a"
+    },
+    {
+      "surface": "וַתִּשְׁכַּב",
+      "gloss": "kouchye"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אָבִיהָ",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יָדַע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "בְּשִׁכְבָהּ",
+      "gloss": "lè l kouchye"
+    },
+    {
+      "surface": "וּבְקֻמָהּ",
+      "gloss": "lè l leve"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:34.372311474Z",
+  "model": "glm-5.3"
+}

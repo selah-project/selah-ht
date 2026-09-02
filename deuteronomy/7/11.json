@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi ou pral kenbe ⟨את⟩ kòmandman an, ak ⟨את⟩ lwa yo, ak ⟨את⟩ jijman yo, ke mwen menm kòmande ou jodi a, pou ou fè yo.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Epi kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman an"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "kòmandman an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lwa yo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lwa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jijman yo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "jijman yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kòmande ou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "pou fè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:55.158489159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Lwen de moun mechàn yo, delivràns ⟨genèl⟩: paske estatwa ou yo, yo pa chèche ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Lwen"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "de moun mechàn yo"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "delivràns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "estatwa ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "yo chèche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:49.211191757Z",
+  "model": "glm-5.3"
+}

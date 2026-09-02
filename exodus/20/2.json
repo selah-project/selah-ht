@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Mwen ⟨se⟩ Yawe, Elohim ⟨ou⟩, ki pote ⟨ou⟩ soti nan peyi Mitsrayim, soti nan kay sèvitid.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "pote ou soti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soti nan kay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sèvitid"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:06.549834501Z",
+  "model": "glm-5.3"
+}

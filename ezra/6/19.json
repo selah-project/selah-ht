@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E pitit egzil la yo fè ⟨את⟩ Pak la, nan katorzyèm ⟨jou⟩ nan premye mwa a.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "e yo fè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "egzil la yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pak la"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pak la"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "nan katorz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nan mwa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "premye"
+    }
+  ],
+  "timestamp": "2026-09-02T21:04:56.232907878Z",
+  "model": "glm-5.3"
+}

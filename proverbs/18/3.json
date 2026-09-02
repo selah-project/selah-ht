@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Lè mechan an antre, mépri vini ⟨tou⟩, ak wont vini ⟨tou⟩ dezònè.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Lè ... antre"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "mépri"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "epi ak"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "wont"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "dezònè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:26:20.932335339Z",
+  "model": "glm-5.3"
+}

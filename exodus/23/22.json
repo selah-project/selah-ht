@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Men si ou koute vrèman vwa li, epi ou fè tout sa m ap pale, m ap vin enmi pou enmi ou yo, e m ap pèsekite ⟨את⟩ moun ki ap pèsekite ou yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "vrèman"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "vwa li"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "epi ou fè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "m ap pale"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "m ap vin enmi pou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enmi ou yo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "enmi ou yo"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "e m ap pèsekite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki ap pèsekite ou yo"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "moun ki ap pèsekite ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:53.994206250Z",
+  "model": "glm-5.3"
+}

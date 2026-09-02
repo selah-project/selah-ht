@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Kilè jou sèvitè ou yo ap la? Kilè ou ap fè jijman sou moun k ap kache mwen?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "kilè"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvitè ou"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kilè"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou ap fè"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "sou moun k ap kache mwen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:57.397129839Z",
+  "model": "glm-5.3"
+}

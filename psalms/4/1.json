@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pou mèt mizik la, sou enstruman kòd — yon mizòr pou David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou mèt mizik la"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "sou enstruman kòd"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizòr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:51.978750737Z",
+  "model": "glm-5.3"
+}

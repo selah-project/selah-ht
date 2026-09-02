@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E li pran ⟨את⟩ Agag, wa Amalek, vivan; e ⟨את⟩ tout pèp la, li mete devwe ak bouch epe a.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout pèp la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "mete devwe"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ak bouch"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epe a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:04.880959227Z",
+  "model": "glm-5.3"
+}

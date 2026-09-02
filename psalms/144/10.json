@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Li ki bay delivrans bay wa yo, li ki delivre ⟨את⟩ David, sèvitè l, soupe ki move —",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Li ki bay"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "bay wa yo"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "li ki delivre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sèvitè l"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "soupe ki"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "move"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:11.347605293Z",
+  "model": "glm-5.3"
+}

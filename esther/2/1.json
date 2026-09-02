@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Apre bagay sa yo, lè kòlè wa a Achachveroch rive apese, li sonje ⟨את⟩ Vachti, ak ⟨את⟩ sa li fè, ak ⟨את⟩ sa ki dekrete kont li.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Apre"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "rive apese"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achachveroch"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vachti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vachti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa li fè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sa ki dekrete kont li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "dekrete"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kont li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:54:09.080974584Z",
+  "model": "glm-5.3"
+}

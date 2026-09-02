@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi Ahaz kouche ak papa l yo, epi yo antere l ak papa l yo nan vil David; epi Hizkiyahou, pitit gason l, wayite nan plas li.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kouche"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "antere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa l yo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nan vil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wayite"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahou"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason l"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:52.627523462Z",
+  "model": "glm-5.3"
+}

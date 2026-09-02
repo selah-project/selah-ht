@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Move pral touye mechant an, e moun k ap rayi moun jis yo pral kondane.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "pral touye"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechant an"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Move"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "e moun k ap rayi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "pral kondane"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:22.546938197Z",
+  "model": "glm-5.3"
+}

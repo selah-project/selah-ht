@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 142,
+  "translation": "Fè nanm mwen soti nan prizon, pou mwen ka rekonèt ⟨את⟩ Non ou; se sou mwen moun jis yo ap antoure ⟨mwen⟩, paske ou ap fè byen sou m.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Fè soti"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "nan prizon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "pou rekonèt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Non ou"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "ap antoure"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "ap fè byen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:29.397136339Z",
+  "model": "glm-5.3"
+}

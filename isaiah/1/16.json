@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lave ⟨nou⟩, fè ⟨nou⟩ klè; retire move zaktyo nou nan je mwen — sispann fè mal!",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "lave"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "fè klè"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "retire"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "zaktyo nou"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je mwen"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "sispann"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "fè mal"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:40.474060640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Vizaj ak vizaj Yawe pale ak nou sou mòn nan, nan mitan dife a.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Vizaj"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "ak vizaj"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ak nou"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou mòn nan"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dife a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:59.627804093Z",
+  "model": "glm-5.3"
+}

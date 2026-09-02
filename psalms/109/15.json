@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Ke yo dwe devan Yawe toutan, pou li koupe souvni yo {{sou}} tè a.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ke yo dwe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toutan"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "epi ke li koupe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sou tè"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "souvni yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:16.007593846Z",
+  "model": "glm-5.3"
+}

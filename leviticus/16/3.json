@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "A konsa Aharòn ap antre nan kote sen an: ak yon bèf, pitit bèf, pou ofrann peche a, e ak yon belè pou ofrann boule a.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "A konsa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ap antre"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kote sen an"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "ak yon bèf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pou ofrann peche a"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "e ak yon belè"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "pou ofrann boule a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:38.580424916Z",
+  "model": "glm-5.3"
+}

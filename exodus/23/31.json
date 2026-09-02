@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E mwen ap mete ⟨את⟩ limit ou yo soti nan Lanmè Rouch jiska lanmè Filistyen yo, e soti nan dezè jiska larivyè a, paske mwen ap bay moun k ap abite tè a ⟨את⟩ nan men nou, e nou ap chase yo soti devan nou.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "e mwen ap mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limit ou yo"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "limit ou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "lanmè"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Rouch"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e jiska"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "e soti nan dezè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "larivyè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mwen ap bay"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "nan men nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun k ap abite tè a"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun k ap abite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "e nou ap chase yo"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "soti devan nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:47.341227050Z",
+  "model": "glm-5.3"
+}

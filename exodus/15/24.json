@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi pèp la plen kont Moche, ⟨paske yo di⟩: Kisa n ap bwè?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "plen kont"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨paske yo di⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "n ap bwè"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:50.945064818Z",
+  "model": "glm-5.3"
+}

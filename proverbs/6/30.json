@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Yo pa meprize vòlè a lè l vòlè pou l satisfè nanm li, paske l grangou.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "meprize"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "vòlè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "vòlè"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "pou satisfè"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nanm li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "grangou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:56.654695900Z",
+  "model": "glm-5.3"
+}

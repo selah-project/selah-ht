@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 121,
+  "translation": "Chant pou montannen yo. Mwen leve je m sou montay yo — kote èd m ap soti?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "pou montannen yo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "m leve"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "montay yo"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ap soti"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "èd m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:39.868527662Z",
+  "model": "glm-5.3"
+}

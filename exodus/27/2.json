@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ou ap fè kòn yo sou kat kwen li yo; kòn yo ap soti an men li menm; e ou ap kòvri ⟨את⟩ li ak kwiv.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Epi ou ap fè"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "kòn yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "kwen li yo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "an men li menm"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ap soti"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "kòn yo"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "e ou ap kòvri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (lotè a)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ak kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:21.182744088Z",
+  "model": "glm-5.3"
+}

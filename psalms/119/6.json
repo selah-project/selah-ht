@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Lè sa a mwen p ap wont, lè m ap gade tout kòmandman ou yo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "wont"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "lè m ap gade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kòmandman ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:05.915975433Z",
+  "model": "glm-5.3"
+}

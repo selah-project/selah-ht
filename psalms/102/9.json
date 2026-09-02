@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Tout jou a, ennemi m yo ensulte m; moun ki fou kont m fè sèman ⟨sou⟩ m.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ensulte m"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ennemi m yo"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "moun ki fou kont m"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨sou⟩ m"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "fè sèman"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:38.724096712Z",
+  "model": "glm-5.3"
+}

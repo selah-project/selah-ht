@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 134,
+  "translation": "Chante Pamòn yo. Gade, beni ⟨את⟩ Yawe, tout sèvitè Yawe, moun ki kanpe nan kay Yawe a nan lannwi yo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chante"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Pamòn yo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "moun ki kanpe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe a"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "nan lannwi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:55.385486675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Pou tout bagay gen yon ⟨tan⟩, epi yon lè pou tout sa yon moun vle anba syèl yo.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Pou tout"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "epi yon lè"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sa yon moun vle"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:26:32.692363981Z",
+  "model": "glm-5.3"
+}

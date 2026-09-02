@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Sèlman vanite pitit adam yo, manti pitit gason nonm yo; nan balans yo pou yo monte, yo ansanm pi lejè pase vanite.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "manti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "nan balans"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "pou yo monte"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "pase vanite"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:25.858096346Z",
+  "model": "glm-5.3"
+}

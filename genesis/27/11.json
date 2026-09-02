@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi Yaakov di Rivka, manman l : Gade, Esav, frè m, se yon moun ki gen plen pèl, epi mwen se yon moun ki gen po lis.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè m"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ki gen plen pèl"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "epi mwen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ki gen po lis"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:15.748184442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi Chaoul voye ⟨את⟩ mesaje yo ankò pou yo gade ⟨את⟩ David, pou ⟨yo⟩ di: Pote ⟨את⟩ l monte ak kabann la ban m, pou m fè l mouri.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Epi voye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesaje yo"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "mesaje yo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou yo gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Pote l monte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "ak kabann la"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ban m"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "pou m fè l mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:41.569703025Z",
+  "model": "glm-5.3"
+}

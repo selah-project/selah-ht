@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E Chelomo bati ⟨את⟩ kay li pandan trèz lane, e li fin ⟨את⟩ tout kay li.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kay li"
+    },
+    {
+      "surface": "בֵּיתוֹ",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "בָּנָה",
+      "gloss": "bati"
+    },
+    {
+      "surface": "שְׁלֹמֹה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "שְׁלֹשׁ",
+      "gloss": "twa"
+    },
+    {
+      "surface": "עֶשְׂרֵה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "וַיְכַל",
+      "gloss": "e li fin"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tout kay li"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בֵּיתוֹ",
+      "gloss": "kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:45.892142015Z",
+  "model": "glm-5.3"
+}

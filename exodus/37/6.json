@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Li fè ⟨את⟩ kapporet la an lò pi : de amo ak demi longè l, e yon amo ak demi lajè l.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pi"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "de amo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak demi"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "longè l"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ak yon amo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak demi"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lajè l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:57.968419387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi nan jou sa a ⟨mwen⟩ kase ⟨את⟩ ak Yisrael nan vale Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "epi l ap pase"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "kase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ak Yisrael"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "nan vale"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-02T19:33:01.713824470Z",
+  "model": "glm-5.3"
+}

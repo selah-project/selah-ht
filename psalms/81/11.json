@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Se mwen menm Yawe, Elohim ou, ⟨ki⟩ fè ou monte soti nan peyi Mitsrayim; louvri bouch ou byen lèd, e m ap ranpli l.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Se mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "ki fè ou monte"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "louvri byen lèd"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bouch ou"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "e m ap ranpli l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:23.637344505Z",
+  "model": "glm-5.3"
+}

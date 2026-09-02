@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Mete konfyans ou nan Yawe epi fè byen; rete nan peyi a, epi kiltive fidelite.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Mete konfyans ou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "rete nan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "epi kiltive"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "fidelite"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:33.402908835Z",
+  "model": "glm-5.3"
+}

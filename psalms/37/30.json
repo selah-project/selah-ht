@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Bouch moun jis la pwononse sajès, ak lang li pale jistis.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun jis la"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "pwononse"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ak lang li"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jistis"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:39.268211060Z",
+  "model": "glm-5.3"
+}

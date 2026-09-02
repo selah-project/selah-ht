@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi prèt la ap souke ⟨את⟩ yo ansanm ak pen premye fwi yo, kòm yon ofrand souke devan Yawe, ansanm ak de ti mouton yo; y ap vin konsakre pou Yawe, pou prèt la.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ap souke"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (de ti mouton yo ak pen premye fwi yo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "premye fwi yo"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ofrand souke"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ti mouton"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pou prèt la"
+    }
+  ],
+  "timestamp": "2026-09-02T21:46:11.995583628Z",
+  "model": "glm-5.3"
+}

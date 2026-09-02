@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi Yawe di pou Moche : antre kay Paro, epi pale l konsa : men sa Yawe, Elohim Ebre yo, di : voye ⟨את⟩ pèp mwen ale, pou yo sèvi m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "epi pale"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "כה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ebre yo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye ... ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp mwen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "pou yo sèvi m"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:38.454273039Z",
+  "model": "glm-5.3"
+}

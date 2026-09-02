@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi ou pran farin fin, epi ou kwit ⟨את⟩ li — douz pen — de disyèm y ap genyen pou chak pen.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Epi ou pran"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "farin fin"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "epi ou kwit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (douz pen yo)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "pen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "disyèm"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "y ap genyen"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "pen a"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "sèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:16:36.544977151Z",
+  "model": "glm-5.3"
+}

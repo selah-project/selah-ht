@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi sou sa yo nou vin pa net: nenpòt moun k ap manyen kadav yo ap vin pa net jiska aswè a.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "epi sou sa yo"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "nou vin pa net"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nenpòt moun"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "k ap manyen"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "kadav yo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ap vin pa net"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aswè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:28.930344578Z",
+  "model": "glm-5.3"
+}

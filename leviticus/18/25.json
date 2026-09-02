@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi tè a vin sal, e mwen mete fòt li sou li, e tè a vomi ⟨את⟩ abitan li yo.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "vin sal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "e mwen mete"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "fòt li"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "vomi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abitan li yo"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "abitan li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:34.194414697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi w ap fè ⟨את⟩ bef la pwoche devan tant reyinyon an; epi Aharòn ak pitit li yo ap poze ⟨את⟩ men yo sou tèt bef la.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "fè pwoche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bef la"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bef la"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "epi ... ap poze"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ak pitit li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men yo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bef la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:52.793159211Z",
+  "model": "glm-5.3"
+}

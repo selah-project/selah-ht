@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Elohim parèt ankò devan Yaakov lè l t ap soti nan Padàn-Aram, e l beni ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "parèt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "lè l t ap soti"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "nan Padàn"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-09-02T15:30:01.546531813Z",
+  "model": "glm-5.3"
+}

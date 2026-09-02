@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi l te rive, paske fanm sante yo te pè Elohim, li fè ⟨את⟩ kay pou yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi l te rive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "te pè"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "fanm sante yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-02T15:37:45.238166405Z",
+  "model": "glm-5.3"
+}

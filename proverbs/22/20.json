@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Èske pa mwen menm ki ekri pou ou trwa fwa, nan konsèy ak konesans?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske pa"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "mwen ... ekri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "trwa fwa"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "nan konsèy"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ak konesans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:27.820358940Z",
+  "model": "glm-5.3"
+}

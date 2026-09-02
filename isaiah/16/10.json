@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Kontantman ak jwayi ap rale soti nan jaden fwi a; nan jaden rezen yo yo pa ap chante, yo pa ap rele jwayi; moun k ap pile a pa ap pile diven nan kavo yo; echèk jwayi a, mwen fè l sispann.",
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "ap rale"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kontantman"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ak jwayi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "jaden fwi a"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "nan jaden rezen yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "ap chante"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "ap rele jwayi"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diven"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "nan kavo yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ap pile"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "moun k ap pile a"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "echèk jwayi"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "mwen fè l sispann"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:35.901181021Z",
+  "model": "glm-5.3"
+}

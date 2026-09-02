@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 98,
+  "translation": "Ke rivyè yo bat men, ansanm mòn yo chante jwaye.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "rivyè yo"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "bat"
+    },
+    {
+      "surface": "כף",
+      "gloss": "men"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "chante jwaye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:06.313199436Z",
+  "model": "glm-5.3"
+}

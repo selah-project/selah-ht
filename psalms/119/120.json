@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Zanm m ap tranble devan pè ou, e m pè jijman ou yo.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "ap tranble"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "devan pè ou"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Zanm m"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "e jijman ou yo"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "m pè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:15.168840413Z",
+  "model": "glm-5.3"
+}

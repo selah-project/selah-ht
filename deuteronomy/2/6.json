@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Manje, achte nan men ⟨את⟩ yo ak lajan e nou manje; e tou dlo, achte nan men ⟨את⟩ yo ak lajan, e nou bwè.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Manje"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "achte"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "nan men ⟨את⟩ yo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ak lajan"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "e nou manje"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e tou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "achte"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "nan men ⟨את⟩ yo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ak lajan"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "e nou bwè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:24.638924888Z",
+  "model": "glm-5.3"
+}

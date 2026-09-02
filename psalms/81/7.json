@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "M retire zepòl ⟨li⟩ nan chay la; men ⟨li⟩ yo pase soti nan panyen an.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "M retire"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "nan chay"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "zepòl ⟨li⟩"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "men ⟨li⟩ yo"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "nan panyen"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "pase soti"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:01.737825222Z",
+  "model": "glm-5.3"
+}

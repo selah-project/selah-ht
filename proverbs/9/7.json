@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Moun ki disipline yon mocè ap pran wont pou tèt ⟨li⟩; epi moun ki reproche yon mechan, tach pou tèt ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "ki disipline"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "mocè"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ap pran"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou tèt"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "wont"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "epi ki reproche"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "mechan"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "tach li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:20.632104213Z",
+  "model": "glm-5.3"
+}

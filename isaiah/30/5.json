@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Tout ⟨yo⟩ vin wont ⟨à kòz⟩ yon pèp ki pa ka sèvi ⟨yo⟩ — ni pou sekou, ni pou profite — paske ⟨li se⟩ pou wont, e menm pou ougi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "vin wont"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨à kòz⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ka sèvi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "pou sekou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pou"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "profite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "pou wont"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "pou ougi"
+    }
+  ],
+  "timestamp": "2026-09-02T18:33:10.258810502Z",
+  "model": "glm-5.3"
+}

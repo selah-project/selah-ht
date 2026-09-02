@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Gade, y ap rasanble, men se pa ⟨את⟩ depi mwen; kèlkeswa moun ki rasanble ak ⟨את⟩ ou kont ou ap tonbe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "גור",
+      "gloss": "rasanble"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ap rasanble"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ depi mwen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גר",
+      "gloss": "rasanble"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ak ⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kont ou"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ap tonbe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:40:41.959865632Z",
+  "model": "glm-5.3"
+}

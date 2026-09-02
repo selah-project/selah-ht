@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 124,
+  "translation": "lè sa a, dlo yo ta submeje nou, toran an ta pase sou nanm nou,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ta submeje nou"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "toran an"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ta pase"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nanm nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:41.208561039Z",
+  "model": "glm-5.3"
+}

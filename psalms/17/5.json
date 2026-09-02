@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Pèm m yo kenbe fèm nan chemen ou yo, pye m yo pa glise.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "kenbe fèm"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "pèm m yo"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "nan chemen ou yo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "glise"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "pye m yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:36.662223780Z",
+  "model": "glm-5.3"
+}

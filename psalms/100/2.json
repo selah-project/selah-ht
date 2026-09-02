@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 100,
+  "translation": "Sèvi ⟨את⟩ Yawe ak kè kontan; antre devan l ak chante jwaye.",
+  "tokens": [
+    {
+      "surface": "עִבְדוּ",
+      "gloss": "Sèvi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בְּשִׂמְחָה",
+      "gloss": "ak kè kontan"
+    },
+    {
+      "surface": "בֹּאוּ",
+      "gloss": "antre"
+    },
+    {
+      "surface": "לְפָנָיו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "בְּרְנָנָה",
+      "gloss": "ak chante jwaye"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:11.001324608Z",
+  "model": "glm-5.3"
+}

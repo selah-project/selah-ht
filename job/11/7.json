@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Èske w ap jwenn limit Eloah pa chèche? Èske w ap rive jiska limit Chadday?",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "pa chèche"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "w ap jwenn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Èske"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "limit"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadday"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "w ap jwenn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:43.744512731Z",
+  "model": "glm-5.3"
+}

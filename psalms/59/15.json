@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "E yo ap tounen aswè a, yo ap jape kou chyen, e yo ap toune toutotou vil la.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "e yo ap tounen"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "aswè a"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "yo ap jape"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "kou chyen"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "e yo ap toune toutotou"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "vil la"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:39.225036509Z",
+  "model": "glm-5.3"
+}

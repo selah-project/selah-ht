@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi prèt yo konsanti pou yo pa pran lajan soti ⟨את⟩ pèp la, e pou yo pa repare ⟨את⟩ twou kay la.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "konsanti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "pran"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lajan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "soti ⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "e pou pa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "repare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twou kay la"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "twou"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:15:49.941953186Z",
+  "model": "glm-5.3"
+}

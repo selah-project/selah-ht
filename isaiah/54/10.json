@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 54,
+  "translation": "Paske montay yo ap deplase, ak ti mont yo ap tranble, men hesed mwen pa ap janm kite ⟨את⟩ ou, ak aliyans lapè mwen pa ap janm chite, sa a di Yawe, li ki gen konpasyon pou ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "montay yo"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "ap deplase"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "ak ti mont yo"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "ap tranble"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ak hesed mwen"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "de ⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "ap janm kite"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "ak aliyans"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "lapè mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ap janm chite"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sa a di"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "li ki gen konpasyon pou ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:04.442430029Z",
+  "model": "glm-5.3"
+}

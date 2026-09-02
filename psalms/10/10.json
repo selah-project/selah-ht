@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi li krabe, li bese tèt, epi malere yo tonbe nan fòs li.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "epi krabe"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "bese tèt"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "epi tonbe"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "nan fòs li"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "malere yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:14.966034589Z",
+  "model": "glm-5.3"
+}

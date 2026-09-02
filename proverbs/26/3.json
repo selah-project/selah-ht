@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Yon fwèt pou chval la, yon brid pou bourik la, ak yon baton pou do sòt yo.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "Yon fwèt"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "pou chval la"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "yon brid"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "pou bourik la"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ak yon baton"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "pou do"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sòt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:07.900529456Z",
+  "model": "glm-5.3"
+}

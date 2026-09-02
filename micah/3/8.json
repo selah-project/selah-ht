@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Men mwen, mwen plen ak fòs gras a ⟨את⟩ lespri Yawe, ak jistis ak pouvwa, pou m anonse ⟨את⟩ revòlt Yaakov ak peche Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "mwen plen ak"
+    },
+    {
+      "surface": "כח",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lespri"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ak jistis"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ak pouvwa"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "pou m anonse"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "revòlt li"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "peche l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:47.279150890Z",
+  "model": "glm-5.3"
+}

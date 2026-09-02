@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Epi Yawe di: Gade, yon kote bò kote ⟨את⟩ mwen, e ou pral kanpe sou wòch la.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi … di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yon kote"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bò kote ⟨את⟩ mwen"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "e ou pral kanpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "wòch la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:58.604105570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Pitit mwen, respèkte ⟨את⟩ Yawe ak ⟨את⟩ wa a; ak moun ki chaje chanjman, pa mèle.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "respèkte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ak wa a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "moun ki chaje chanjman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "mèle"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:32.088719266Z",
+  "model": "glm-5.3"
+}

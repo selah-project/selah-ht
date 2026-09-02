@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "An menm tan, pa bay kè w nan tout pawòl yo ⟨ki⟩ yo di, pou ⟨wè⟩ ou pa tande ⟨את⟩ sèvant ou ap malde ou.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "An menm tan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kè w"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvant ou"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "ap malde ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:03:32.218113544Z",
+  "model": "glm-5.3"
+}

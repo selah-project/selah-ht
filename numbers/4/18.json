@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pa koupe ⟨את⟩ tribi fanmi Kehat yo soti nan mitan Levit yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tribi fanmi Kehat yo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehat yo"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "soti nan mitan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:21:34.288488637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "ak ⟨את⟩ Bosmat, pitit fi Yichmael, se sè Nevayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yichmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "se sè"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayot"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:08.090058130Z",
+  "model": "glm-5.3"
+}

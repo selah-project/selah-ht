@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Mwen wè ⟨את⟩ tout moun vivan yo ki mache anba solèy la, ansanm ak timoun nan, dezyèm nan, ki ap kanpe nan plas li.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mwen wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout moun vivan yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "moun vivan yo"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "ki mache"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:04.807704412Z",
+  "model": "glm-5.3"
+}

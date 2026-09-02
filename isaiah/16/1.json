@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Voye ⟨yon⟩ agnò pou mèt la ⟨nan⟩ tè a, depi Sela nan dezè a, jouk mòn pitit fi Tsiyòn.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Voye"
+    },
+    {
+      "surface": "כר",
+      "gloss": "agnò"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mèt la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:38.877463955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Kay Aharòn, mete konfyans nou nan Yawe; se li menm èd yo ak bouclye yo.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "mete konfyans"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "èd yo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ak bouclye yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:32.238144013Z",
+  "model": "glm-5.3"
+}

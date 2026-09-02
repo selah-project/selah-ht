@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Nan ou, Yawe, m chache refij; pa kite m wont janm; nan jistis ou, delivre m.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Nan ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m chache refij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "kite m wont"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "janm"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nan jistis ou"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "delivre m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:34.993709173Z",
+  "model": "glm-5.3"
+}

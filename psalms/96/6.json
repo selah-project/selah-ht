@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Majeste ak splandè devan ⟨li⟩, fòs ak bote nan sanktyè li.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Majeste"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ak splandè"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan li"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ak bote"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "nan sanktyè li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:40.475613681Z",
+  "model": "glm-5.3"
+}

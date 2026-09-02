@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E Ahab, pitit Omri, fè mal nan zye Yawe, pi pase tout sa ki te ⟨te⟩ anvan l.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fè"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan zye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pi pase tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "anvan l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:53.110003663Z",
+  "model": "glm-5.3"
+}

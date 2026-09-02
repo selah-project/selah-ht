@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E wa a retire ⟨את⟩ sigè li sou men li, e li bay Haman, pitit Medata, Agagyen an, enmi Jwif yo.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "E wa a retire"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sigè li"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sigè li"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men li"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "e li bay"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagyen an"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "enmi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jwif yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:50.099760697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Ale, manje pen ou avèk lajwa, epi bèdèvi ou avèk yon kè bon, paske depi lontan HaElohim deja aksepte ⟨את⟩ travay ou yo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "avèk lajwa"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "pen ou"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "epi bèdèvi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "avèk kè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "bèdèvi ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "depi lontan"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "deja aksepte"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "travay ou yo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "travay ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:14.637746370Z",
+  "model": "glm-5.3"
+}

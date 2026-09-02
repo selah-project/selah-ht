@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 65:18",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Men non, fè kè kontan ak relejwi pou tout tan nan sa m ap kreye a, paske gade, m ap kreye ⟨את⟩ Yerouchalayim yon kè kontan, ak pèp li yon rèjouissans.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "non"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "fè kè kontan"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ak relejwi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tout tan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "ap kreye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "gade m"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "ap kreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "גילה",
+      "gloss": "yon kè kontan"
+    },
+    {
+      "surface": "ועמה",
+      "gloss": "ak pèp li"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "yon rèjouissans"
+    }
+  ],
+  "timestamp": "2026-09-02T22:47:29.452462821Z",
+  "model": "glm-5.3"
+}

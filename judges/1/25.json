@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Li montre yo ⟨את⟩ antre lavil la, e yo frape ⟨את⟩ lavil la nan bouch klech la; men ⟨את⟩ nonm lan ak ⟨את⟩ tout fanmi li, yo kite l ale.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "montre yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "antre lavil la"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavil la"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "nan bouch"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "klech"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "ak ⟨את⟩",
+      "marks": "nonm lan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm lan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout fanmi li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "fanmi li"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kite l ale"
+    }
+  ],
+  "timestamp": "2026-09-02T17:12:26.133587977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Si frè ou vin pòv, epi li vann yon pòsyon pwopriyete l, e redimè l, ki pre l, vini, epi li redim ⟨את⟩ sa frè l te vann an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "vin pòv"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "epi vann"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "pwopriyete l"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "epi vini"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "redimè l"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ki pre"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "epi redim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa frè l te vann an"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "vann"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:53.696559702Z",
+  "model": "glm-5.3"
+}

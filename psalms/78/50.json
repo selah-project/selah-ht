@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li nivèle yon chemen pou kòlèr li; li pa t kenbe nefech yo lwen lanmò, men li livre lavi yo bay epidemi an.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "nivèle"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "yon chemen"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "pou kòlèr li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "lwen lanmò"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefech yo"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "men lavi yo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "bay epidemi an"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "livre"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:08.152014056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Lè ou mache, demach ou pa ap sere, e si ou kouri, ou pa ap tonbe.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "lè ou mache"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "sere"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "demach ou"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "ou kouri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "tonbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:48.744236516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Y ap fè l ⟨את⟩ avèk yon talan lò pur, ⟨את⟩ tout zouti sa yo.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (chandèl la)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout zouti sa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "zouti yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:47.609632116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Men HaElohim di pou m: Ou pa ap bati kay pou Non mwen an, paske ou se yon nonm lagè, e ou fin vide san.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Men HaElohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ap bati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "pou Non mwen an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "lagè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "ou fin vide"
+    }
+  ],
+  "timestamp": "2026-09-02T21:24:46.648996384Z",
+  "model": "glm-5.3"
+}

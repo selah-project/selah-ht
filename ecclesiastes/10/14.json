@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E sòt la plime pawòl: moun nan pa konnen sa k ap pase, e sa k ap vini aprè l, ki moun ki ka di l?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "E sòt la"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "plime"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "k ap pase"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "k ap vini"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "apre l"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ka di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:36.516318628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "E mwen ap pète devan l advèsè li yo, e moun k ap rayi l yo mwen ap frape yo.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "e mwen ap pète"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "advèsè li yo"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "e moun k ap rayi l yo"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "mwen ap frape yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:46.569316607Z",
+  "model": "glm-5.3"
+}

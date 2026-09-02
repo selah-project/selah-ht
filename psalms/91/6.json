@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "ni pwàg ki mache nan fè nwa a, ni destriksyon k ap devaste nan midi a.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "pwàg"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "nan fè nwa a"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ki mache"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "destriksyon"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "k ap devaste"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "nan midi a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:04.672229892Z",
+  "model": "glm-5.3"
+}

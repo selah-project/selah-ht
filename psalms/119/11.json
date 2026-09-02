@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Nan kè mwen mwen kache pawòl ou, pou m pa peche ⟨kont⟩ ou.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "Nan kè mwen"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "mwen kache"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "m peche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kont⟩ ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:24.472119303Z",
+  "model": "glm-5.3"
+}

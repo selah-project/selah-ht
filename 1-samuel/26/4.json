@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi David voye espyon, e l konnen ke Chaoul vini vrèman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "espyon"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vrèman"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:52.931128637Z",
+  "model": "glm-5.3"
+}

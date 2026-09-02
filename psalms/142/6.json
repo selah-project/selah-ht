@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 142,
+  "translation": "Mwen rele bò ou, Yawe; mwen di: Ou se refij m, pat m nan peyi vivan yo.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Mwen rele"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bò ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mwen di"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "refij m"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "pat m"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vivan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:29.396800795Z",
+  "model": "glm-5.3"
+}

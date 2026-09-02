@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Fè figi ou klere sou sèvant ou a, e moutre m ⟨את⟩ dekre ou yo.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "האר",
+      "gloss": "fè klere"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "sou sèvant ou a"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "e moutre m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dekre ou yo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dekre ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:27.154722753Z",
+  "model": "glm-5.3"
+}

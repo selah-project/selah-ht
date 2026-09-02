@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "E li bay ⟨את⟩ vwa l nan plede; e Mitsrayim tande l, e kay Paro tande l.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e li bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa l"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "vwa l"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "nan plede"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "e yo tande"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e li tande"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:30.858680012Z",
+  "model": "glm-5.3"
+}

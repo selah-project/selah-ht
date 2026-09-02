@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "E menm mwen, mwen vin yon wont pou yo: lè yo wè m, yo sekouye tèt yo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "E menm mwen"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mwen vin"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "yon wont"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "lè yo wè m"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "yo sekouye"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "tèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:35.920832898Z",
+  "model": "glm-5.3"
+}

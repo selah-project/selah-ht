@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Se poutèt sa m konsidere tout preskripsyon ou yo jis sou tout bagay; tout chemen manti mwen rayi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "preskripsyon ou yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "m konsidere jis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "manti"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mwen rayi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:55.431111963Z",
+  "model": "glm-5.3"
+}

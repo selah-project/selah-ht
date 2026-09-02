@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Sepandan premye piti bèt, premye piti ki fèt pou Yawe nan bèt yo, pa gen moun ki ka konsakre ⟨את⟩ li: si se bèf, si se mouton, se pou Yawe li ye.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sepandan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "premye piti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "fèt premye piti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "nan bèt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "ka konsakre"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:19:24.704073919Z",
+  "model": "glm-5.3"
+}

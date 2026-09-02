@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Netwaye mwen ak ezov e mwen pral pwòp; lave mwen e mwen pral vin plis blan pase nèj.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "netwaye mwen"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "ak ezov"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "e mwen pral pwòp"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "lave mwen"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "plis pase nèj"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "pral vin blan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:00.905286186Z",
+  "model": "glm-5.3"
+}

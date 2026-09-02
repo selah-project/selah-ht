@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou mennen ⟨את⟩ Aharòn ak ⟨את⟩ pitit li yo nan pòtay tant reyinyon an, epi ou lave ⟨את⟩ yo ak dlo.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "epi ou mennen pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharòn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit li yo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "epi ou lave"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "Aharòn ak pitit li yo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ak dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:09.411612747Z",
+  "model": "glm-5.3"
+}

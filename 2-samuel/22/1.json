@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi David pale ak Yawe ⟨את⟩ mo chante sa a, nan jou Yawe delivre ⟨את⟩ l nan men tout enmi l yo ak nan men Chaoul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ak Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo chante sa a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "chante"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "mwen"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "enmi l yo"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "ak nan men"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    }
+  ],
+  "timestamp": "2026-09-02T17:50:49.536761804Z",
+  "model": "glm-5.3"
+}

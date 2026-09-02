@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E yo bay ⟨את⟩ pèp la lòd konsa: lè nou wè ⟨את⟩ arka alyans Yawe Elohim nou an, ak kohen yo, Levi yo, k ap pote ⟨את⟩ li, nou pran wout depi kote nou ye e nou mache dèyè li.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "yo bay lòd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "lè nou wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alyans"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ak kohen yo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "k ap pote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (arka a)"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e nou"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "pran wout"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "depi kote nou ye"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "e nou mache"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dèyè li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:00:48.679677011Z",
+  "model": "glm-5.3"
+}

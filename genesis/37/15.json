@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E yon nonm jwenn l, e men l ap egare nan chan an; nonm nan mande l pou l di: kisa w ap chèche?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e men"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "ap egare"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan chan an"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "mande"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm nan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ap chèche"
+    }
+  ],
+  "timestamp": "2026-09-02T15:31:04.288584049Z",
+  "model": "glm-5.3"
+}

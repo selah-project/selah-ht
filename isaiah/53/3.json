@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Yo méprize l, e yo kite l san moun: yon nonm ki plen doulè, abitye ak maladi; tankou yon moun kache vwa a de devan l — yo méprize l, e nou pa t konsidere l.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "yo méprize"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "e yo kite"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "san moun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "ki plen doulè"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "abitye ak"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "maladi"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "epi tankou yon moun kache"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "viso"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de devan l"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "yo méprize"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "t konsidere l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:04.178760930Z",
+  "model": "glm-5.3"
+}

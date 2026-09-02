@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "È mwen di ba nou: pa epèvante, e pa pè devan yo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "È mwen di"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ba nou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "epèvante"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "pè"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "devan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:52.208224903Z",
+  "model": "glm-5.3"
+}

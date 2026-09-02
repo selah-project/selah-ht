@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Adam viv san trant an, e li fè yon pitit gason nan resanblans li, dapre imaj li, e li rele non l ⟨את⟩ Chet.",
+  "tokens": [
+    {
+      "surface": "וַיְחִי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שְׁלֹשִׁים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "וּמְאַת",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "an"
+    },
+    {
+      "surface": "וַיּוֹלֶד",
+      "gloss": "e li fè yon pitit gason"
+    },
+    {
+      "surface": "בִּדְמוּתוֹ",
+      "gloss": "nan resanblans li"
+    },
+    {
+      "surface": "כְּצַלְמוֹ",
+      "gloss": "dapre imaj li"
+    },
+    {
+      "surface": "וַיִּקְרָא",
+      "gloss": "e li rele"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "non l"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "non l"
+    },
+    {
+      "surface": "שֵׁת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:54.051457481Z",
+  "model": "glm-5.3"
+}

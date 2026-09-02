@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Kouch fè ⟨את⟩ Nimwod; se li menm kòmanse vin yon gabò sou tè a.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Epi Kouch"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimwod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimwod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kòmanse"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "vin"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yon gabò"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:01.924728795Z",
+  "model": "glm-5.3"
+}

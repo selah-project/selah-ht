@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "E ou rayi disiplin, e ou jete pawòl mwen dèyè ou.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E ou"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "rayi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "disiplin"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "e ou jete"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl mwen"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "dèyè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:09.084655567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi yo soti nan midi ; Ben-Hadad te ap bwè, sou, nan abri yo — li ak wa yo, trant-de wa ki te ap ede ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "epi yo soti"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "nan midi"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "te ap bwè"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "sou"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "nan abri yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "ak wa yo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ak de"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "te ap ede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Ben-Hadad)"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:32.080128105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E Yawe ban pèp la favè devan zye Mitsrayim, e yo ba yo sa yo te mande a; konsa yo fin vole ⟨את⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "favè"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favè"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "devan zye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "yo ba yo sa yo te mande"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "yo fin vole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:03.093410538Z",
+  "model": "glm-5.3"
+}

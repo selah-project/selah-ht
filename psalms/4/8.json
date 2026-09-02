@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ou mete lajwa nan kè m, depi lè ble yo ak diven nouvo yo plen.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Ou mete"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "lajwa"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nan kè m"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "depi lè"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ble yo"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "ak diven nouvo yo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "plen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:39.053413197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Sèlman bò Elohim nanm mwen dwe silans; se de li sote delivrans mwen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "dwe silans"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "se de li"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "sote delivrans mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:46.516221437Z",
+  "model": "glm-5.3"
+}

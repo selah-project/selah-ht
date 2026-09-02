@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E kòmande ⟨את⟩ pèp la, pou nou di: N ap pase nan fwontyè frè nou yo, pitit Esav, yo ki rete nan Seïr; yo ap pè nou; kidonk pran gad anpil.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "צו",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ap pase"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "nan fwontyè"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frè nou yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ki rete"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "nan Seïr"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "yo ap pè"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "pran gad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:44.801641959Z",
+  "model": "glm-5.3"
+}

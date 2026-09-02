@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Konsa n ap manje ⟨את⟩ l: ren nou sèvi, sandal nou nan pye nou, epi baton nou nan men nou; n ap manje ⟨את⟩ l ak presipitasyon; se ⟨yon⟩ Pesach, l ap ba Yawe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "n ap manje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l (li a — sakrifis la a manje)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "ren nou"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "sandal nou"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "nan pye nou"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "epi baton nou"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "nan men nou"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "n ap manje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l (li a — sakrifis la a manje)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "ak presipitasyon"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ba Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:33:48.439359760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Yon Tora Moche kòmande pou nou — yon eritaj, asanble Yaakov pa l.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Yon Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "yon eritaj"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:36.069238562Z",
+  "model": "glm-5.3"
+}

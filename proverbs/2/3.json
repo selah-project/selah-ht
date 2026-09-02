@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "se vre, si ou kriye rele ⟨apre⟩ entelijans, epi si ou leve vwa ou pou konpreansyon,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se vre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "apre entelijans"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ou kriye rele"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "pou konpreansyon"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ou leve"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "vwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:10.150905306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 82,
+  "translation": "Leve, Elohim, jije ⟨את⟩ tè a, paske se ou ki pral eritye tout nasyon yo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "jije"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "pral eritye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:33.296475425Z",
+  "model": "glm-5.3"
+}

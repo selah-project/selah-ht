@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "pou wayòm nan te rete ba, pou l pa t leve tèt li, pou l kenbe ⟨את⟩ akò l, pou l kanpe.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "pou l te"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "wayòm nan"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "leve tèt li"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akò l"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "akò l"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "pou l kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:17:03.498568933Z",
+  "model": "glm-5.3"
+}

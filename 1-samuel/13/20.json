@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E tout Yisrayèl desann al òd Pelishtim yo pou chak moun fè chape ⟨את⟩ grato li, ak ⟨את⟩ èt li, ak ⟨את⟩ ache li, ak ⟨את⟩ piko li.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "desann"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelishtim yo"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "pou fè chape"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grato li"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "grato li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "èt li"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "èt li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ache li"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "ache li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "piko li"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "piko li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:07.154871288Z",
+  "model": "glm-5.3"
+}

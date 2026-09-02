@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Ak fanm konpayon w ou pa bay kouch w pou rezèd, pou polye avè l.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "konpayon w"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "kouch w"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "pou rezèd"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "pou polye"
+    },
+    {
+      "surface": "בה",
+      "gloss": "avè l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:46.993757695Z",
+  "model": "glm-5.3"
+}

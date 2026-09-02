@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "epi ansyen nan vil li a ap voye chèche yo, pran l ⟨את⟩ soti la a, epi remèt l ⟨את⟩ nan men goel san an, epi li mouri.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "epi … ap voye chèche"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansyen"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "nan vil li a"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l"
+    },
+    {
+      "surface": "משם",
+      "gloss": "soti la a"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "epi remèt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "san an"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "epi li mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T16:51:10.005663779Z",
+  "model": "glm-5.3"
+}

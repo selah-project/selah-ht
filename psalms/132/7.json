@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "N ap antre nan demèl li yo, n ap proknenen devan ban pye l.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "N ap antre"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "nan demèl li yo"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "n ap proknenen"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "devan ban pye"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:40.611009945Z",
+  "model": "glm-5.3"
+}

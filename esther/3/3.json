@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E sèvitè wa a ki nan pòt wa a la di a Modechai: Poukisa ou ap vyole ⟨את⟩ kòmandman wa a?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E yo di"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nan pòt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "a Modechai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ap vyole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman wa a"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:54:07.002460600Z",
+  "model": "glm-5.3"
+}

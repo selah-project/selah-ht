@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Yosèf antre nan kay la, epi yo pote ba li ⟨את⟩ prezantan an ki te nan men yo, nan kay la, epi yo mete tèt yo atè devan l.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "nan kay la"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "yo pote"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prezantan an"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "prezantan an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "nan men yo"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "nan kay la"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "yo mete tèt yo atè devan l"
+    },
+    {
+      "surface": "לו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:56.390693937Z",
+  "model": "glm-5.3"
+}

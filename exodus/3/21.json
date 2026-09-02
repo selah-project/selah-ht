@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E m ap ba ⟨את⟩ favè pèp sa a nan je Mitsrayim; e l ap rive, lè nou prale, nou pa prale vid.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "E m ap ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "favè"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favè"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e l ap rive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "nou prale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "prale"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "vid"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:30.877545085Z",
+  "model": "glm-5.3"
+}

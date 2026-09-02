@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Nou sonje ⟨את⟩ pwason an ke nou te manje an Mitsrayim gratis: ⟨את⟩ konkonm yo, ak ⟨את⟩ melon yo, ak ⟨את⟩ pòvè yo, ak ⟨את⟩ zonjon yo, ak ⟨את⟩ lay yo.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Nou sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pwason an"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "pwason an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "te manje"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "an Mitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "gratis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konkonm yo"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "konkonm yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "melon yo"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "melon yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pòvè yo"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "pòvè yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "zonjon yo"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "zonjon yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lay yo"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "lay yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:26:12.923393656Z",
+  "model": "glm-5.3"
+}

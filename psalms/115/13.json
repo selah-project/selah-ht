@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Yawe beni moun ki pè l: ti yo ansanm ak gwo yo.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "moun ki pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "ti yo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "gwo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:31.002423924Z",
+  "model": "glm-5.3"
+}

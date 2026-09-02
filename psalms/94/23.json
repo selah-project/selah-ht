@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "E ⟨li⟩ fè tounen sou yo ⟨את⟩ mechanste yo, nan move rete yo ⟨li⟩ ap efase yo — ap efase yo — Yawe, Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e fè tounen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mechanste yo"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "mechanste yo"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "nan move rete yo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ap efase yo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ap efase yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:10.650295713Z",
+  "model": "glm-5.3"
+}

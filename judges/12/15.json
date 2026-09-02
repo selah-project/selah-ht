@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 12:15",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Avdon, pitit Hillel, ⟨ki⟩ Piratònyen, mouri, epi yo antere l nan Piratòn, nan peyi Efrayim, nan mòn ⟨la⟩ Amalekit.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Piratònyen"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "epi yo antere l"
+    },
+    {
+      "surface": "בפרעתון",
+      "gloss": "nan Piratòn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Amalekit"
+    }
+  ],
+  "timestamp": "2026-09-02T17:18:10.571761275Z",
+  "model": "glm-5.3"
+}

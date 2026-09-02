@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "se yon moun ki gen tsaraat li ye, li pa pwòp; se pa pwòp prèt la dwe deklare l — mak la nan tèt li.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "ki gen tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "pa pwòp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "pa pwòp"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "ap deklare l pa pwòp"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "nan tèt li"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "mak li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:33.557923755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Men li sove yo pou non li, pou fè ⟨את⟩ fòs li konnen.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Men li sove yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "pou fè konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fòs li"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "fòs li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:28.143308217Z",
+  "model": "glm-5.3"
+}

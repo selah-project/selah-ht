@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "ki mennen ⟨את⟩ nou soti nan peyi Mitsrayim, pou m vin Elohim pou nou; se mwen menm ⟨ki⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "ki mennen soti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "peyi Mitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "pou vin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "se mwen menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:47.729585197Z",
+  "model": "glm-5.3"
+}

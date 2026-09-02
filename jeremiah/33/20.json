@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Konsa Yawe di: Si nou kapab anile ⟨את⟩ kontra mwen pou jou a ak ⟨את⟩ kontra mwen pou lannwit la, pou jou ak lannwit pa rive ankò nan tan pa yo —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "nou kapab anile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kontra mwen pou jou a"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontra mwen pou jou a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kontra mwen pou lannwit la"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontra mwen pou lannwit la"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "lannwit"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "pou ... pa ... ankò"
+    },
+    {
+      "surface": "היות",
+      "gloss": "rive"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ak lannwit"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "nan tan pa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:56:11.868107325Z",
+  "model": "glm-5.3"
+}

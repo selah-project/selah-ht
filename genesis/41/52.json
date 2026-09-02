@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "E ⟨את⟩ non dezyèm nan ⟨li⟩ rele Efraim, paske Elohim fè m fè pitit nan peyi mizè mwen an.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E ⟨את⟩",
+      "marks": "non dezyèm nan Efraim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm nan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "fè m fè pitit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mizè mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:00.011542970Z",
+  "model": "glm-5.3"
+}

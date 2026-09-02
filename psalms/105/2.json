@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Chante pou li, zanme pou li; pale sou tout mirak li yo.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "chante"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zanme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sou tout"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mirak li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:41.091841703Z",
+  "model": "glm-5.3"
+}

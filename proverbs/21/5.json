@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Plan moun ki dilijan yo mennen sèlman ⟨a⟩ plenririz, men chak moun k ap prese mennen sèlman ⟨a⟩ pèdi.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "Plan"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "moun ki dilijan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "mennen ⟨a⟩ plenririz"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "men chak"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "moun k ap prese"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "mennen ⟨a⟩ pèdi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:26:55.338505250Z",
+  "model": "glm-5.3"
+}

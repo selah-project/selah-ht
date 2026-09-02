@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Paske konsa Yawe di: pou pyès yo vann nou, e se pa ak lajan n ap rachte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "כה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pou pyès"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "yo vann nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ak lajan"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "n ap rachte"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:05.995126645Z",
+  "model": "glm-5.3"
+}

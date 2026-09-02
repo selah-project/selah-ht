@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Èske pa se respè ⟨ou pou Elohim⟩ ki se konfyans ou, espwa ou, ak entègrite nan wout ou?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske pa"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "respè ou"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "konfyans ou"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "espwa ou"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "ak entègrite"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "nan wout ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:01.856507802Z",
+  "model": "glm-5.3"
+}

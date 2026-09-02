@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Pyebwa Yawe yo sati, sedr Levanòn ki l plante.",
+  "tokens": [
+    {
+      "surface": "יִשְׂבְּעוּ",
+      "gloss": "sati"
+    },
+    {
+      "surface": "עֲצֵי",
+      "gloss": "pyebwa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אַרְזֵי",
+      "gloss": "sedr"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "Levanòn"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נָטָע",
+      "gloss": "plante"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:32.153998487Z",
+  "model": "glm-5.3"
+}

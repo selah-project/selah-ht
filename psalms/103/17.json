@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Men hesed Yawe (hesed: afeksyon fidèl) soti nan touttan pase jiska touttan ki vini sou moun ki gen respe pou li, ak jistis li pou pitit pitit yo —",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Men hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "soti nan touttan pase"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "touttan ki vini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "moun ki gen respe pou li"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ak jistis li"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:46.955786753Z",
+  "model": "glm-5.3"
+}

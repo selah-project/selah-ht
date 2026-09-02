@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi yo ramène Moche ⟨ak⟩ Aharòn anvan Paro, epi li di yo: Ale, sèvi ⟨את⟩ Yawe Elohim nou yo — kiyès ak kiyès moun ki prale?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "yo ramène"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Aharòn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ale"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou yo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ak kiyès"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "moun ki prale"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:17.506312210Z",
+  "model": "glm-5.3"
+}

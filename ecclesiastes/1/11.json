@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pa gen souvni pou premye yo; menm pou dènye yo k ap vin yo, yo pa pral gen souvni ansanm ak moun k ap vini apre yo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "souvni"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "pou premye yo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "pou dènye yo"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "k ap vin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "pral gen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "souvni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "k ap vini"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "apre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:36.023070270Z",
+  "model": "glm-5.3"
+}

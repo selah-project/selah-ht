@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim di: Ke yon rakia vin ⟨gen⟩ nan mitan dlo yo, e ke l separe ant dlo yo ak dlo yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ke … vin gen"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakia"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ke l"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "separe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ak dlo yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:02.972058574Z",
+  "model": "glm-5.3"
+}

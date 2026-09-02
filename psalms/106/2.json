@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Kiyès kapab pale zak fòs Yawe yo? Kiyès kapab fè tout louwanj li tande?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "pale"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "zak fòs yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "fè tande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "louwanj li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:37.664934471Z",
+  "model": "glm-5.3"
+}

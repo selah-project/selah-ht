@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi gade byen pou ou menm anpil, pou ou renmen ⟨את⟩ Yawe Elohim ou a.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "epi gade byen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "pou lavi ou"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "pou renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim ou a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:11:06.131658083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Si m sonje ou sou kabann m, nan vey lannwit yo m ap medite sou ⟨ou⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "m sonje ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "kabann m"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "nan vey lannwit yo"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "m ap medite"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sou ⟨ou⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:06.942878468Z",
+  "model": "glm-5.3"
+}

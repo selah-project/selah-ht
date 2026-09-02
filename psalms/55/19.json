@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Li delivre nan lapè nefech mwen, lwen de mwen, paske anpil ⟨te⟩ kanpe ak mwen.",
+  "tokens": [
+    {
+      "surface": "פָּ֘דָ֤ה",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "בְׁשָׁל֣וֹם",
+      "gloss": "nan lapè"
+    },
+    {
+      "surface": "נַ֭פְׁשִׁי",
+      "gloss": "nefech mwen"
+    },
+    {
+      "surface": "מִקֲּרָב",
+      "gloss": "lwen de"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בְׁ֝רַבִּ֗ים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "הָי֥וּ",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "עִמָּדִֽי",
+      "gloss": "ak mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:34:05.014690289Z",
+  "model": "glm-5.3"
+}

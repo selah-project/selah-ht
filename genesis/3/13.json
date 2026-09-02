@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E Yawe Elohim di a fanm la: Ki sa sa a ou fè? A fanm la a di: Koulèv la twonpe m, e m manje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לָאִשָּׁה",
+      "gloss": "a fanm la"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "ki sa"
+    },
+    {
+      "surface": "זֹּאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עָשִׂית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "הָאִשָּׁה",
+      "gloss": "fanm la"
+    },
+    {
+      "surface": "הַנָּחָשׁ",
+      "gloss": "koulèv la"
+    },
+    {
+      "surface": "הִשִּׁיאַנִי",
+      "gloss": "twonpe m"
+    },
+    {
+      "surface": "וָאֹכֵל",
+      "gloss": "e m manje"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:05.115461894Z",
+  "model": "glm-5.3"
+}

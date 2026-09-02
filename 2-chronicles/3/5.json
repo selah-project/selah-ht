@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Ak ⟨את⟩ kay la, kay gwo a, ⟨yo⟩ kouvri ak bwa chip, e ⟨yo⟩ kouvri l ak lò ki bon, e fè monte sou li palmis ak chèn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kay la"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "gwo a"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "chip yo"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "e kouvri l"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e fè monte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "palmis"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "ak chèn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:05:30.579629137Z",
+  "model": "glm-5.3"
+}

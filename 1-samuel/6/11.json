@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi yo mete ⟨את⟩ twa Yawe sou charyo a, ak ⟨את⟩ bwat la, ak ⟨את⟩ rat lò yo, ak ⟨את⟩ imaj boulon yo.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Epi yo mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twa Yawe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "twa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "charyo a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bwat la"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "bwat la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "rat lò yo"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "rat yo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "imaj boulon yo"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "imaj"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "boulon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:31.112667669Z",
+  "model": "glm-5.3"
+}

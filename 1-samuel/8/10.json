@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi Chemouèl di ⟨את⟩ tout pawòl Yawe bay pèp la ki t ap mande ⟨את⟩ de li yon wa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi l di"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "ki t ap mande"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ de li"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-09-02T17:25:46.771944318Z",
+  "model": "glm-5.3"
+}

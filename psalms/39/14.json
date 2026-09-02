@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Vire je ou sot sou mwen, pou m ka rekonfòte ⟨tèt mwen⟩, anvan m ale, e m pa la ⟨ankò⟩.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Vire je ou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sot sou mwen"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "pou m ka rekonfòte"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m ale"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "e m pa la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:52.254743197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Yo mete lannuit pou vin jou, limyè a pre devan fènwa a.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "lannuit"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pou vin jou"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "אור",
+      "gloss": "limyè"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "pre"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fènwa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:36:09.485280451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li di: Beni se Yawe, Elohim Yisrael, ki pale ak bouch li ⟨את⟩ David papa m, e ki ak men l konplete l, konsa:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ak bouch li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David papa m"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "e ak men l"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "konplete l"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "konsa"
+    }
+  ],
+  "timestamp": "2026-09-02T17:59:31.781989457Z",
+  "model": "glm-5.3"
+}

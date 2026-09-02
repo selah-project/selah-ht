@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "epi yo kenbe ⟨את⟩ gad tant rankont la, ak ⟨את⟩ gad sakre a, ak gad pitit Aharòn, frè yo, pou sèvis kay Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "epi yo kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gad tant rankont la"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gad"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rankont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "gad sakre a"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gad"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sakre a"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "ak gad"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "frè yo"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "pou sèvis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T21:22:44.553379944Z",
+  "model": "glm-5.3"
+}

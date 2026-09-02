@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi Ebre yo pase ⟨את⟩ Yarden, nan peyi Gad ak Gilad; epi Chaoul poko nan Gilgal, epi tout pèp la ap tranble dèyè li.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Epi Ebre"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ak Gilad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "epi Chaoul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "poko"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "nan Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "epi tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "ap tranble"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dèyè li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:01.106619743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Paske ou pa ap kite nefech m pou Cheol, ou pa ap kite machiya ou wè trou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ap kite"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech m"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "pou Cheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ap kite"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "machiya ou"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "wè"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "trou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:06.086632301Z",
+  "model": "glm-5.3"
+}

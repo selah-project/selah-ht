@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "⟨את⟩ ridò kout la, ⟨את⟩ poto l yo, ak ⟨את⟩ baz yo, ak ⟨את⟩ ridò pòtay kout la.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ridò kout la"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ridè yo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kout la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poto l yo"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "poto l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "baz yo"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "baz yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ridò pòtay kout la"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ridò"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kout la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:26.350587580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E m ap beni moun ki beni ou yo, e moun ki malevi ou yo, m ap maledi yo; e tout fanmi tè a pral beni nan ou.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "e m ap beni"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "moun ki beni ou yo"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "e moun ki malevi ou yo"
+    },
+    {
+      "surface": "אאור",
+      "gloss": "m ap maledi yo"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "e yo pral beni"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nan ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:05.750795755Z",
+  "model": "glm-5.3"
+}

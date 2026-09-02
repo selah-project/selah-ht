@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 122,
+  "translation": "Kote tribu yo monte, tribu Yah yo, yon temwayaj pou Yisrayèl, pou remesye Non Yawe a.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Kote"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "monte"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "tribu yo"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "yon temwayaj"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pou Yisrayèl"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "pou remesye"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "pou Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:38.802020194Z",
+  "model": "glm-5.3"
+}

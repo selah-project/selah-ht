@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi kohen nan gade ⟨את⟩ neg la nan sèvyèm jou a, epi gade, netek la pa gaye, e pa gen cheve jòn nan li, e aparans netek la pa pi fonse pase po a.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "epi kohen nan gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neg la"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "neg la"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sèvyèm la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "genyen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "jòn"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "epi aparans"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek la"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "fonse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pase"
+    },
+    {
+      "surface": "העור",
+      "gloss": "po a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:04.902211089Z",
+  "model": "glm-5.3"
+}

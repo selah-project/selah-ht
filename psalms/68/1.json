@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Pou chèf mizisyen an. Yon mizmo, yon chante David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:22.637705418Z",
+  "model": "glm-5.3"
+}

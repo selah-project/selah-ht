@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "E ou, Yisrael, sèvant mwen, Yaakov, mwen chwazi ou, desandan Avraham, mwen renmen an —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "e ou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvant mwen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "chwazi ou"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "desandan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "mwen renmen an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:38.288487865Z",
+  "model": "glm-5.3"
+}

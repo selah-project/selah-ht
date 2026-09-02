@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "David monte soti la a, epi li rete nan fò yo nan Èn-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "monte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "soti la"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rete"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "nan fò yo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Èn"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:37.681800513Z",
+  "model": "glm-5.3"
+}

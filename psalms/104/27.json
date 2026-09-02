@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Tout yo tann ou, pou ou bay yo manje yo nan tan ki bon pou sa.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tout yo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "tann"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pou bay"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "manje yo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "nan tan li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:36.649145798Z",
+  "model": "glm-5.3"
+}

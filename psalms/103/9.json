@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Pa pou toutan ⟨li⟩ dispit, e pa pou toutan ⟨li⟩ kenbe kòlè ⟨a⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "dispit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "kenbe kòlè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.131644970Z",
+  "model": "glm-5.3"
+}

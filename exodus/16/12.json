@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Mwen tande ⟨את⟩ pleny pitit Yisrayèl yo. Pale ak yo, di: Ant de aswè yo nou pral manje vyann, e nan maten an nou pral fè satye ak pen; e nou pral konnen ke se mwen ki se Yawe, Elohim ou yo.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "mwen tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pleny pitit Yisrayèl yo"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "pleny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de aswè yo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou pral manje"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "e nan maten an"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "nou pral fè satye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "e nou pral konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:42.325270986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 138,
+  "translation": "Nan jou mwen te rele a, ou reponn mwen; ou fè mwen kouraj nan nanm mwen ak fòs.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mwen te rele"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "ou reponn mwen"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "ou fè mwen kouraj"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "nan nanm mwen"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ak fòs"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:56.501647638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Konsèy pò a ou mete ⟨l⟩ an wont, paske Yawe ⟨se⟩ refij li.",
+  "tokens": [
+    {
+      "surface": "עֲצַ֤ת",
+      "gloss": "Konsèy"
+    },
+    {
+      "surface": "עָנִ֥י",
+      "gloss": "pò a"
+    },
+    {
+      "surface": "תָבִ֑ישׁוּ",
+      "gloss": "ou mete an wont"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מַחְסֵֽהוּ",
+      "gloss": "refij li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:30.658245118Z",
+  "model": "glm-5.3"
+}

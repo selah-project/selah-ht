@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Ak flèch ak ak pana moun ap antre la, paske epeng ak raj tout tè a ap vin.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "ak flèch"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "ak pana"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ap antre"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "epeng"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "ak raj"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:07.959302399Z",
+  "model": "glm-5.3"
+}

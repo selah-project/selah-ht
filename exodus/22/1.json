@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si vòlè a jwenn nan trouch li fè, epi yo frape l epi li mouri, pa gen san pou li.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "nan trouch li fè"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "vòlè a"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "epi yo frape"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "epi li mouri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:44.658341260Z",
+  "model": "glm-5.3"
+}

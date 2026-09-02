@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E kounye a, leveye ta byen bonè nan maten — ou ak sèvitè mèt ou yo ki te vini ⟨את⟩ avèk ou — e lè jou ka klere pou nou, ale.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e kounye a"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "leveye ta byen bonè"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ak sèvitè"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mèt ou yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באו",
+      "gloss": "te vini"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ avèk ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "e lè n leveye"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "e lè jou ka klere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ale"
+    }
+  ],
+  "timestamp": "2026-09-02T17:37:24.761140489Z",
+  "model": "glm-5.3"
+}

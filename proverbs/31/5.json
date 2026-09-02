@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Pou yo pa bwè epi yo pa bliye sa ki dekrete, epi yo pa chanje jijman tout timoun malere yo.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "pou … pa"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "bwè"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "epi yo pa bliye"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "sa ki dekrete"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "epi yo pa chanje"
+    },
+    {
+      "surface": "דין",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בני",
+      "gloss": "timoun"
+    },
+    {
+      "surface": "עני",
+      "gloss": "malere yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:31:35.378752124Z",
+  "model": "glm-5.3"
+}

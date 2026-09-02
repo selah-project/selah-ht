@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Pandan tout jou dezolasyon an, li ap chòme ⟨את⟩ sa li pa t chòme nan sabat nou yo, pandan nou t abite sou li.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "dezolasyon an"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ap chòme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa li pa t chòme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "t chòme"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "nan sabat nou yo"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "pandan nou t abite"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:34.963882846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "E beni se non glwa l pou touttan, e ke glwa l ranpli ⟨את⟩ tout tè a, A men, e A men.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "E beni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glwa l"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "e ke … ranpli"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glwa l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout tè a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "A men"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "e A men"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:29.559440401Z",
+  "model": "glm-5.3"
+}

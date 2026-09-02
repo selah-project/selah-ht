@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Sou pale ⟨men⟩ yo, yo ap pote ou angadre, pou pye ou pa frape sou yon wòch.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "pale men yo"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "yo ap pote ou angadre"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pou…pa"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "frape"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "sou yon wòch"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "pye ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:15.586695545Z",
+  "model": "glm-5.3"
+}

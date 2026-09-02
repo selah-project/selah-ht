@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Tout sèvitè imaj grave yo pran wont, tout moun ki fè glwa sou zidòl yo — penbe devan l, tout dye yo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "pran wont"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "imaj grave"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "ki fè glwa sou"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "zidòl yo"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "penbe devan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:06.397283384Z",
+  "model": "glm-5.3"
+}

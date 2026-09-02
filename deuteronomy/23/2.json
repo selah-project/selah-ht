@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Yon moun ki blesi-kraze, oswa ki gen penchi koupe, pa antre nan asanble Yawe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "blesi"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "oswa koupe"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "penchi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nan asanble"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:37.993231995Z",
+  "model": "glm-5.3"
+}

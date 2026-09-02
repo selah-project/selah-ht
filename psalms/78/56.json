@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "E yo temte e reyòlte kont ⟨את⟩ Elohim Elyòn, e temwayaj li yo, yo pa kenbe yo.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "temte"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "reyòlte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyòn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "e temwayaj li yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:28.692728915Z",
+  "model": "glm-5.3"
+}

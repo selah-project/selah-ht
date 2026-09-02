@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Mwen tonbe san fòs epi yo kraze m jiska twòp; mwen gwonde sou gemisman kè m.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "mwen tonbe san fòs"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "epi yo kraze m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "twòp"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mwen gwonde"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "sou gemisman"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:07.286743635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Kimoun ki ta fè nou tchenbe silans nèt, e sa a ta vini pou nou kòm sages!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kimoun"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "ta fè"
+    },
+    {
+      "surface": "הַחֲרֵשׁ",
+      "gloss": "silans nèt"
+    },
+    {
+      "surface": "תַּחֲרִישׁוּן",
+      "gloss": "nou tchenbe silans"
+    },
+    {
+      "surface": "וּתְהִי",
+      "gloss": "e sa a ta vini"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "לְחָכְמָה",
+      "gloss": "kòm sages"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:20.533512631Z",
+  "model": "glm-5.3"
+}

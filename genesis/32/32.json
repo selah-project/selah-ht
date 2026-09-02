@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E solèy la leve pou li lè li pase ⟨את⟩ Penuel, e li te boite sou kwis ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "leve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "E solèy la"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "li pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "te boite"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "kwis ⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T15:28:43.323444578Z",
+  "model": "glm-5.3"
+}

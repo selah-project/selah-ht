@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 40:14",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Se lè sa a mwen menm ap rekonèt ou ⟨kòm jistifye⟩, paske se menm dwa ou menm ki kap sove ou.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ap rekonèt ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "kap sove"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "menm dwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:43:14.793199622Z",
+  "model": "glm-5.3"
+}

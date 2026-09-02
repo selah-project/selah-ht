@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 107:38",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Epi ⟨li⟩ beni yo, epi yo miltiplye anpil anpil, epi bèt yo pa diminye.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "epi li beni yo"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "epi yo miltiplye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil anpil"
+    },
+    {
+      "surface": "ובהמתם",
+      "gloss": "epi bèt yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "diminye"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:24.982658850Z",
+  "model": "glm-5.3"
+}

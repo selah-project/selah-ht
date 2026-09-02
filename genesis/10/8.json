@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Kouch fèt papa ⟨את⟩ Nimwòd; li kòmanse vin yon gason fò nan tè a.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Epi Kouch"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fèt papa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimwòd"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimwòd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kòmanse"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "vin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gason fò"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:47.406287362Z",
+  "model": "glm-5.3"
+}

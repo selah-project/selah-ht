@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Pitit mwen, si ou pran pawòl mwen, epi si ou kache kòmandman mwen ⟨avèk ou⟩,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit mwen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ou pran"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "pawòl mwen"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "epi kòmandman mwen"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ou kache"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:10.150522684Z",
+  "model": "glm-5.3"
+}

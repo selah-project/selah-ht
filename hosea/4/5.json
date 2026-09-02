@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ou pran bwa nan jou a, e profèt la menm pran bwa avèk ou nan lannwit — e m ap detwi manman ou.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "pran bwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "pran bwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profèt la"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lannwit"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "detwi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "manman ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:35.708332162Z",
+  "model": "glm-5.3"
+}

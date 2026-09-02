@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Paske vivan yo konnen yo pral mouri, men mò yo pa konnen anyen, epi pa gen pyès lòt salè pou yo, paske souvnans yo fin bliye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vivan yo"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "yo pral mouri"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "men mò yo"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anyen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa gen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pyès lòt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "salè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "fin bliye"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "souvnans yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:14.637293762Z",
+  "model": "glm-5.3"
+}

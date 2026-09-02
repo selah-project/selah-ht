@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Lè sa a li bati ⟨את⟩ kay la epi li fini l, epi li kouvri ⟨את⟩ kay la ak pout ak ranje sedr.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay la"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "fini l"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay la"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "pout"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "ranje"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "sedr"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:47.478534971Z",
+  "model": "glm-5.3"
+}

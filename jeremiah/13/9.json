@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Konsa Yawe di: menm jan sa a m ap fè pouri ⟨את⟩ fyète Yehouda ak ⟨את⟩ fyète Yerouchalayim ki gran anpil.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "menm jan sa"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "m ap fè pouri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fyète Yehouda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "fyète"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "fyète Yerouchalayim"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "fyète"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "ki gran anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T18:52:23.968773391Z",
+  "model": "glm-5.3"
+}

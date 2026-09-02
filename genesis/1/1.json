@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Nan kòmansman Elohim kreye ⟨את⟩ syèl yo ak ⟨את⟩ tè a.",
+  "tokens": [
+    {
+      "surface": "בְּרֵאשִׁית",
+      "gloss": "Nan kòmansman"
+    },
+    {
+      "surface": "בָּרָא",
+      "gloss": "kreye"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "syèl yo"
+    },
+    {
+      "surface": "הַשָּׁמַיִם",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:10:21.589265469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Yo ap jwenn plen satisfaksyon nan grès kay ou a, epi ak kouran plezi ou yo w ap fè yo bwè.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "yo ap jwenn plen satisfaksyon"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "nan grès"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou a"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "epi ak kouran"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "plezi ou yo"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "w ap fè yo bwè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:44.014844624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Tout kòmandman ou yo se ⟨fidelite⟩; avèk foli ⟨yo⟩ pouse mwen — ede mwen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kòmandman ou yo"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "fidelite"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "avèk foli"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "pouse mwen"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ede mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:14.510077337Z",
+  "model": "glm-5.3"
+}

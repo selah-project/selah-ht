@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E yo voye di Izèbèl: Navo touye ak wòch, e li mouri.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "yo voye di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izèbèl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "touye ak wòch"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e li mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:42.957038652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "David di ba Chaoul: Poukisa ou koute ⟨את⟩ pawòl moun ki di: Gade, David ap chache move kont ou?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ba Chaoul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl moun"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ki di"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ap chache"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "move kont ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:13.302621590Z",
+  "model": "glm-5.3"
+}

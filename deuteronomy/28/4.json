@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Beni fwi vant ou a, ak fwi tè ou a, ak fwi bèt ou yo — piti bèf ou yo ak piti mouton ou yo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "vant ou a"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ak fwi"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tè ou a"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ak fwi"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "bèt ou yo"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "piti"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "bèf ou yo"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ak piti"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "mouton ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:51.427239270Z",
+  "model": "glm-5.3"
+}

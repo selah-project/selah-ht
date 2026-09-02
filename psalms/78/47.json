@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li touye pye rezen yo ak grel, ak pye fik sykomò yo ak jevlè.",
+  "tokens": [
+    {
+      "surface": "יַהֲרֹ֣ג",
+      "gloss": "li touye"
+    },
+    {
+      "surface": "בַּבָּרָ֣ד",
+      "gloss": "ak grel"
+    },
+    {
+      "surface": "גַּפְנָ֑ם",
+      "gloss": "pye rezen yo"
+    },
+    {
+      "surface": "וְ֝שִׁקְמוֹתָ֗ם",
+      "gloss": "ak pye fik sykomò yo"
+    },
+    {
+      "surface": "בַּֽחֲנָמַֽל",
+      "gloss": "ak jevlè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:28.294318448Z",
+  "model": "glm-5.3"
+}

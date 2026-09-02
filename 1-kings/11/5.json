@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Chelomo swiv Ashtoret, dye Tsidonyen yo, e swiv Milkòm, abominasyon Amonit yo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Epi … swiv"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "swiv"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Tsidonyen yo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e swiv"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkòm"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "abominasyon"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Amonit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:51:08.978817588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Lè w chita pou manje avèk ⟨את⟩ yon moun ki gen otorite, fè atansyon pou w byen konprann ⟨את⟩ sa ki devan w.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "w chita"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "pou manje"
+    },
+    {
+      "surface": "את",
+      "gloss": "avèk ⟨את⟩",
+      "marks": "yon moun ki gen otorite"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "yon moun ki gen otorite"
+    },
+    {
+      "surface": "בין",
+      "gloss": "byen konprann"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "w konprann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki devan w"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan w"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:33.410421455Z",
+  "model": "glm-5.3"
+}

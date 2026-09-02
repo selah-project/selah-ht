@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Lè Chadday (Bondye ki gen tout pouvwa) gaye wa yo ladann, nèj tonbe sou Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Lè ... gaye"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadday (Bondye ki gen tout pouvwa)"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladann"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "nèj tonbe"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "sou Tsalmon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:51.299177360Z",
+  "model": "glm-5.3"
+}

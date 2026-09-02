@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Enkline zòrèy ou, Yawe, epi tande; louvri je ou, Yawe, epi gade; epi tande ⟨את⟩ pawòl Sanjerib yo, ke li voye l pou l vin insulte Elohim vivan an.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "enkline"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "zòrèy ou"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "epi tande"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "je ou"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "epi tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl Sanjerib yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanjerib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "li voye l"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "pou l vin insulte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:52:51.858259060Z",
+  "model": "glm-5.3"
+}

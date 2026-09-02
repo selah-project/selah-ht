@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Mwen p ap pè anpil dizèn milyon moun ki mete tèt yo kont mwen toutotou.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "p ap"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "anpil dizèn milyon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "mete tèt yo kont"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:31.061543391Z",
+  "model": "glm-5.3"
+}

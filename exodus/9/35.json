@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E kè Paro a vin fò, e li pa voye ⟨את⟩ pitit yo Yisrayèl ale, jan Yawe te pale a nan men Moche.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "e vin fò"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye... ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit yo Yisrayèl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:01.792267104Z",
+  "model": "glm-5.3"
+}

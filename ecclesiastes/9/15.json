@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E yo te jwenn ladan l yon moun pòv ki gen sajès, e se li menm ki delivre ⟨את⟩ vil la nan sajès li; men pa gen yon moun ki sonje ⟨את⟩ moun pòv sa a.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "e yo te jwenn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ki gen sajès"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "e ... delivre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vil la"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "nan sajès li"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "men ... moun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun pòv sa a"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:54.701862420Z",
+  "model": "glm-5.3"
+}

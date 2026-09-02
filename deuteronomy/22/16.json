@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "epi papa ti fi a di ansyen yo: ⟨את⟩ pitit fi mwen menm, se mwen ki bay nonm sa a li, kòm madanm, epi li fin rayi l —",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "epi ... di"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti fi a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan direksyon"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ansenk yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit fi mwen"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "pitit fi mwen"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen bay"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bay nonm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kòm madanm"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "epi li fin rayi l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:08.632608745Z",
+  "model": "glm-5.3"
+}

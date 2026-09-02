@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 2:25",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E pitit Binyamin reyini tèt yo dèyè Avnè, e yo vin ⟨yon⟩ sèl gwoup, e yo kanpe sou tèt ⟨yon⟩ sèl ti mon.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "reyini tèt yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnè"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לאגדה",
+      "gloss": "gwoup"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sèl"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "ti mon"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:04.640213782Z",
+  "model": "glm-5.3"
+}

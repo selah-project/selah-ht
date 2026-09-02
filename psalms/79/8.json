@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 79,
+  "translation": "Pa sonje pou nou fot ansyen yo; vit, se pitie ou ki pran devan nou, paske nou fin vin trè pòv.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "fot"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ansyen yo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vit"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "pran devan nou"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "pitie ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "vin pòv"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "trè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:13.849421717Z",
+  "model": "glm-5.3"
+}

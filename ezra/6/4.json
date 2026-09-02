@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "ak twa ranje gwo wòch, ak yon ranje bwa nèf; e depans yo dwe bay soti nan kay wa a.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "ranje"
+    },
+    {
+      "surface": "די",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "ak yon ranje"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "אע",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "e depans yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "dwe bay"
+    }
+  ],
+  "timestamp": "2026-09-02T21:05:13.015693912Z",
+  "model": "glm-5.3"
+}

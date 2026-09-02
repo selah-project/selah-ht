@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "«Sa a se repou m, pou touttan touttan; isit la m ap chita, paske mwen te lwenvi l.»",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Sa a"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "repou m"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "touttan"
+    },
+    {
+      "surface": "פה",
+      "gloss": "isit la"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "m ap chita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "te lwenvi l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:23.688854982Z",
+  "model": "glm-5.3"
+}

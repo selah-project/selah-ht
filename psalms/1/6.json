@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Paske Yawe konnen chemen moun jis yo, men chemen kadoz yo ap pèdi.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "יוֹדֵעַ",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "צַדִּיקִים",
+      "gloss": "moun jis yo"
+    },
+    {
+      "surface": "וְדֶרֶךְ",
+      "gloss": "men chemen"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "kadoz yo"
+    },
+    {
+      "surface": "תֹּאבֵד",
+      "gloss": "ap pèdi"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:02.885268565Z",
+  "model": "glm-5.3"
+}

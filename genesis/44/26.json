@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 44:26",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "E nou te di: Nou pa ka desann. Si frè nou, ti piti a, ⟨⟨את⟩⟩ ap̀ avèk nou, n ap desann; paske nou pa ka wè figi nonm la si frè nou, ti piti a, pa la ⟨⟨את⟩⟩ avèk nou.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "nou te di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "desann"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨gen⟩"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "frè nou"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ti piti a"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ avèk nou",
+      "marks": "avèk nou (את prepozisyon, pa mak objè)"
+    },
+    {
+      "surface": "וירדנו",
+      "gloss": "n ap desann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "wè"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm la"
+    },
+    {
+      "surface": "ואחינו",
+      "gloss": "frè nou"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ti piti a"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa la"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ avèk nou",
+      "marks": "avèk nou (את prepozisyon, pa mak objè)"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:59.820290484Z",
+  "model": "glm-5.3"
+}

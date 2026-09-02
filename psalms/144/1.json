@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Psalom David. Beni Yawe, wòch mwen an, mèt ki ansemen men m yo pou lagè, dwèt m yo pou batay la.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Psalom David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "wòch mwen an"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "mèt ki ansemen"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m yo"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "pou lagè"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "dwèt m yo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pou batay la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:33.428073744Z",
+  "model": "glm-5.3"
+}

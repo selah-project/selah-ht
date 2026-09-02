@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Paske mil ane nan je ou yo ⟨se⟩ tankou yon jou yè lè l pase, ⟨se⟩ tankou yon veye nan lannwi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ane"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nan je ou"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "tankou yon jou"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "yè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "l pase"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "ak yon veye"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nan lannwi"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:31.591579830Z",
+  "model": "glm-5.3"
+}

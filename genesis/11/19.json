@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E Peleg viv de san nèf an apre li fè ⟨את⟩ Reou, e li fè pitit gason ak pitit fi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "E ... viv"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reou"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reou"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nèf"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "an"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ak de san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e li fè"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ak pitit fi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:36.897429883Z",
+  "model": "glm-5.3"
+}

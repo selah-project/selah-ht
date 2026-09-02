@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 12:17",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Li mennen konseye yo ⟨dezabiye⟩, e li fè jij yo vin fou.",
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "konseye yo"
+    },
+    {
+      "surface": "שולל",
+      "gloss": "dezabiye"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "e jij yo"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "fè vin fou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:07.859657882Z",
+  "model": "glm-5.3"
+}

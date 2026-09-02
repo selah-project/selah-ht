@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "David kontinye ankò epi li rasanble ⟨את⟩ tout moun ki chwazi nan Yisrael, trant mil.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "kontinye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout moun ki chwazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "moun ki chwazi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trant"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    }
+  ],
+  "timestamp": "2026-09-02T17:43:40.026845323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi pitit Yisrael sèvi ⟨את⟩ Eglon, wa Moav, dizuit ane.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "uit"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    }
+  ],
+  "timestamp": "2026-09-02T17:14:31.277782885Z",
+  "model": "glm-5.3"
+}

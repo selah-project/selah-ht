@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Sòmay la leve, yo rasanble, epi nan kav yo yo kouche.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "leve"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sòmay la"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "rasanble"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "epi nan"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "kav yo"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "kouche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:11.625870485Z",
+  "model": "glm-5.3"
+}

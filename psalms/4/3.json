@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Ti gason moun yo, jiski ki lè glwa mwen pou wont? Nou renmen vid, nou chache manti. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ti gason"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiski"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ki lè"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "glwa mwen"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "pou wont"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "nou renmen"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "vid"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "nou chache"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "manti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:51.979245186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Pa ale lwen de mwen, paske tribilasyon an pre, paske pa gen moun ki edè.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ale lwen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tribilasyon"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "pre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "moun ki edè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:45.469257869Z",
+  "model": "glm-5.3"
+}

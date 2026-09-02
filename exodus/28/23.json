@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi ou fè sou panchè a de anchàn lò, epi ou mete ⟨את⟩ de anchàn yo sou de bout panchè a.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "epi ou fè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "panchè a"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "anchàn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de anchàn yo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "anchàn yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "bout"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "panchè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:54:29.917062527Z",
+  "model": "glm-5.3"
+}

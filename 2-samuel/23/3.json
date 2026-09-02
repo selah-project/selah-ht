@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Elohim Yisrael an di, Wòch Yisrael la pale avèk mwen: moun ki gouvènen sou moun, se moun jis li ye, li gouvènen nan krentif devan Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לי",
+      "gloss": "avèk mwen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Wòch"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ki gouvènen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sou moun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "gouvènen"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "nan krentif"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "devan Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T17:52:18.826257393Z",
+  "model": "glm-5.3"
+}

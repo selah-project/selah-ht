@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Yon nonm saj jije ⟨את⟩ yon nonm sòt; ⟨li⟩ kòlèrè epi ⟨li⟩ ri, e pa gen repo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saj"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "jije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yon nonm sòt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "kòlèrè"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "ri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa gen"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "repo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:08.107901863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Tout sa ki touche vyann l ap vin sen; epi si yo chote san l sou yon rad, se la kote yo chote l sou ⟨ou⟩ ap lave ⟨l⟩, nan yon kote sen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "touche"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "vyann l"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ap vin sen"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "epi sa ki"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "chote"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "san l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "rad la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "chote l"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sou l"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "ou ap lave"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:08.765600177Z",
+  "model": "glm-5.3"
+}

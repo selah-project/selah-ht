@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Moun ⟨ki⟩ chita nan fènwa ak lonbraj lanmò, prizonye nan mizè ak fè.",
+  "tokens": [
+    {
+      "surface": "יושבי",
+      "gloss": "chita"
+    },
+    {
+      "surface": "חושך",
+      "gloss": "nan fènwa"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ak lonbraj lanmò"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "prizonye nan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mizè"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "ak fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:01.653568750Z",
+  "model": "glm-5.3"
+}

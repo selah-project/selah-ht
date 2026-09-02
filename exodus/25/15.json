@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Nan èste yo ⟨nan⟩ bwat la bad yo ye — yo pap retire l pou yo pa soti ladan l.",
+  "tokens": [
+    {
+      "surface": "בְּטַבְּעֹת",
+      "gloss": "Nan èste yo"
+    },
+    {
+      "surface": "הָאָרֹן",
+      "gloss": "bwat la"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "yo ye"
+    },
+    {
+      "surface": "הַבַּדִּים",
+      "gloss": "bad yo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יָסֻרוּ",
+      "gloss": "retire"
+    },
+    {
+      "surface": "מִמֶּנּוּ",
+      "gloss": "ladan l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:24.126394982Z",
+  "model": "glm-5.3"
+}

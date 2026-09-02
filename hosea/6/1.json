@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Vini, ann tounen lakay Yawe, paske se li menm ki te dechire ⟨nou⟩, e l ap geri ⟨nou⟩; li te frape ⟨nou⟩, e l ap bese ⟨nou⟩.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ann tounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm ki"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "dechire"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "e l ap geri ⟨nou⟩"
+    },
+    {
+      "surface": "יך",
+      "gloss": "li te frape"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "e l ap bese ⟨nou⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T22:12:04.063166783Z",
+  "model": "glm-5.3"
+}

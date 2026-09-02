@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Bouch li lis pase bè, men kè a se lagè; pawòl li yo dous pase lwil, epi yo se kle chire.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "lis"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "pase bè"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bouch li"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "men"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè a"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "dous"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "pawòl li yo"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "pase lwil"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "epi yo"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "kle chire"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:15.795843842Z",
+  "model": "glm-5.3"
+}

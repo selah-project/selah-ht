@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi jistis ap ye senti ⟨nan⟩ ren li, epi lafwa senti ⟨nan⟩ vant li.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Epi … ap ye"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "senti"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ren li"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "epi lafwa"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "senti"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "vant li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:59.191816731Z",
+  "model": "glm-5.3"
+}

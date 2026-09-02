@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Li mennen ⟨את⟩ baw yo antre nan anèl yo sou kote lotèl la, pou yo ka pote ⟨את⟩ l ak yo; li fè ⟨את⟩ l an fòm kre ak plank.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mennen antre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baw yo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "baw yo"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "nan anèl yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "kote yo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pou pote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "kre"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ak plank"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:43.492858100Z",
+  "model": "glm-5.3"
+}

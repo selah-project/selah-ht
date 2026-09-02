@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 113,
+  "translation": "Depi kote solèy la leve jouk li kouche, Non Yawe a gen lwanj.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "depi kote"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solèy la leve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "li kouche"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "gen lwanj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:38.115728494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Yawe fè volonte moun ki pè l, e ⟨את⟩ kri yo tande, e sove yo.",
+  "tokens": [
+    {
+      "surface": "רְצוֹן",
+      "gloss": "volonte"
+    },
+    {
+      "surface": "יְרֵאָיו",
+      "gloss": "moun ki pè l"
+    },
+    {
+      "surface": "יַעֲשֶׂה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kri yo"
+    },
+    {
+      "surface": "שַׁוְעָתָם",
+      "gloss": "kri yo"
+    },
+    {
+      "surface": "יִשְׁמַע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "וְיוֹשִׁיעֵם",
+      "gloss": "e sove yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:25.374842328Z",
+  "model": "glm-5.3"
+}

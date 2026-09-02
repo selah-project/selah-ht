@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E li di: Kisa m peche a, paske se ou k ap bay ⟨את⟩ sèvitè ou nan men Ahab pou yo touye m?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "m peche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvitè ou"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sèvitè ou"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "pou yo touye m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:20.021579030Z",
+  "model": "glm-5.3"
+}

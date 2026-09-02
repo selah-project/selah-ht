@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E mwen menm te tande epi pa t konprann; e mwen te di: «O Adònay mwen, kisa fen bag sa yo ap ye?»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "E mwen menm"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "te tande"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "e mwen di"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "O Adònay mwen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "fen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bag sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:03:21.974781121Z",
+  "model": "glm-5.3"
+}

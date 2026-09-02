@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi pitit fi yon kòwonan, lè l vin pou yon nonm etranje, li menm, nan truma bagay konsakre yo pa dwe manje.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "epi pitit fi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kòwonan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pou yon nonm"
+    },
+    {
+      "surface": "זר",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "nan truma"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "bagay konsakre yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dwe manje"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:49.085269833Z",
+  "model": "glm-5.3"
+}

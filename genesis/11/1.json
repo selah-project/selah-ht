@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi tout tè a te gen yon sèl lang, ak pawòl ki te yon sèl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi te genyen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lang"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ak pawòl"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "yon sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:17.189496365Z",
+  "model": "glm-5.3"
+}

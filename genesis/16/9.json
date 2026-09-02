@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi mesaje Yawe a di li : Retounen madanm k'ap sèvi ou an, epi fè tèt ou ba anba men li.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "li"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mesaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "Retounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "madanm k'ap sèvi ou an"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "fè tèt ou ba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "men li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:39:27.800934119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E l ap fè ⟨soti⟩ jistis ou a tankou limyè, ak jijman ou a tankou midi.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "e l ap fè ⟨soti⟩"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "tankou limyè"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "jistis ou a"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ak jijman ou a"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "tankou midi"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:19.109358238Z",
+  "model": "glm-5.3"
+}

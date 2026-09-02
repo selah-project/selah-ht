@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi ansyen yo nan vil sa a ap pran ⟨את⟩ nonm lan, epi yo ap pini ⟨את⟩ l.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Epi yo ap pran"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansyen yo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nan vil"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonm lan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm lan"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "epi yo ap pini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (nonm lan)"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:13.937112913Z",
+  "model": "glm-5.3"
+}

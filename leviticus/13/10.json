@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E kohen la ap gade, e gade, si gen yon anflur blanch nan po a, e li fin vire cheve yo blanch, e gen yon pòsyon vi klere nan anflur a.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "anflur"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "blanch"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nan po a"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "fin vire"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cheve yo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "blanch"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "yon pòsyon"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "klere"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "nan anflur a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:45.530867504Z",
+  "model": "glm-5.3"
+}

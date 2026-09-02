@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Po ak chè ⟨ou abiye m⟩, epi ak zo ak tendou ⟨ou kouvri m⟩.",
+  "tokens": [
+    {
+      "surface": "ע֣וֹר",
+      "gloss": "po"
+    },
+    {
+      "surface": "וּ֭בָשָׂר",
+      "gloss": "ak chè"
+    },
+    {
+      "surface": "תַּלְבִּישֵׁ֑נִי",
+      "gloss": "ou abiye m"
+    },
+    {
+      "surface": "וּֽבַעֲצָמ֥וֹת",
+      "gloss": "epi ak zo"
+    },
+    {
+      "surface": "וְ֝גִידִ֗ים",
+      "gloss": "ak tendou"
+    },
+    {
+      "surface": "תְּסֹכְכֵֽנִי",
+      "gloss": "ou kouvri m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:47.911644128Z",
+  "model": "glm-5.3"
+}

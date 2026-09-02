@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi Moche tounen kote Yawe, epi ⟨li⟩ di: Adònay, poukisa ⟨ou⟩ fè mal pèp sa a? Poukisa sa — ⟨se⟩ poukisa ⟨ou⟩ voye m?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "epi li tounen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "ou fè mal"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "ou voye m"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:39.004112035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Se sou rebelyon Yaakov tout sa a, e sou peche kay Yisrael. Ki se rebelyon Yaakov? Èske pa Chomeron? E ki se kote idòl yo Yehouda? Èske pa Yerouchalayim?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "Sou rebelyon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "e sou peche"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rebelyon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "èseke pa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e ki"
+    },
+    {
+      "surface": "במות",
+      "gloss": "kote idòl yo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "èseke pa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:41:09.301108925Z",
+  "model": "glm-5.3"
+}

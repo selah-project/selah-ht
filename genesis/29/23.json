@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E lè swa rive, li pran ⟨את⟩ Lea, pitit fi l, e li pote ⟨את⟩ li ba l, e li antre kay li.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rive"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "nan swa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "pitit fi l"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba l"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:05.020630545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi li ekri nan lèt yo, pou l di: Reyte yon jèn, epi fè ⟨את⟩ Navot chita an tèt pèp la.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Epi li ekri"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "nan lèt yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Reyte"
+    },
+    {
+      "surface": "צום",
+      "gloss": "yon jèn"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "fè chita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "an tèt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:16.476306379Z",
+  "model": "glm-5.3"
+}

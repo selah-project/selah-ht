@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Tande vwa suplikasyon m yo lè m ap kriye baw, lè m leve men m yo vè kote ki pi sen ou a.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Tande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "suplikasyon m yo"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "lè m ap kriye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "baw"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "lè m leve"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vè"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "kote ki pi sen"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sen ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:00.457136898Z",
+  "model": "glm-5.3"
+}

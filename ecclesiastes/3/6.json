@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Yon tan pou chèche, e yon tan pou pèdi; yon tan pou kenbe, e yon tan pou jete.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yon tan"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pou chèche"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "pou pèdi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yon tan"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "pou kenbe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e yon tan"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "pou jete"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:46.025093891Z",
+  "model": "glm-5.3"
+}

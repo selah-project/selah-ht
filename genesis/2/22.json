@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E Yawe Elohim bati ⟨את⟩ kòt la ke ⟨li⟩ te pran nan moun nan, fè l vin yon fanm, e l mennen l ba moun nan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "bati"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòt la"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "kòt la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "te pran"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pou l vin yon fanm"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "e l mennen l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:11.985211514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Enstriksyon se move ⟨pou⟩ moun ki kite chemen an; moun ki rayi koreksyon ap mouri.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "enstriksyon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "move"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "pou moun ki kite"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ki rayi"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "koreksyon"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ap mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:21.266145081Z",
+  "model": "glm-5.3"
+}

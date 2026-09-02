@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Paske nan bouch yo pa gen anyen ki dwat; kè yo ⟨se⟩ reyin; gòj yo ⟨se⟩ ⟨yon⟩ tomb louvri; lang yo fè lis.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "nan bouch yo"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "anyen ki dwat"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "kè yo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "reyin"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "tomb"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "gòj yo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lang yo"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "fè lis"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:12.218512665Z",
+  "model": "glm-5.3"
+}

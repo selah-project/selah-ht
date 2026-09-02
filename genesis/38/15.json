@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Lè Yehouda wè l, li panse l se yon fèmad, paske li te kouvri figi l.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "lè ... wè"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "li panse"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "yon fèmad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "li te kouvri"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "figi l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:38.310929018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "E li ajoute ankò e li fè yon pitit gason, e li rele non l ⟨את⟩ Chela; e ⟨li⟩ te nan Khezib lè li fè ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "e li ajoute"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e li fè yon pitit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "e li rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l (Chela)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Chela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e ⟨li⟩ te"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "nan Khezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "lè li fè pitit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (Chela)"
+    }
+  ],
+  "timestamp": "2026-09-02T15:31:39.336497744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi Yosèf vini jwenn yo nan maten an, e li gade ⟨את⟩ yo, e menm yo te fache.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jwenn yo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nan maten an"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "e menm"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "fache"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:24.701975071Z",
+  "model": "glm-5.3"
+}

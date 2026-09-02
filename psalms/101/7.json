@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 101,
+  "translation": "Moun ki fè twonpèt pa ap rete andedan kay mwen; moun ki pale manti pa ap kanpe devan je mwen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ap rete"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "andedan"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kay mwen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "twonpèt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ki pale"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "manti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:43.209493551Z",
+  "model": "glm-5.3"
+}

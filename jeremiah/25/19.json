@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "⟨את⟩ Paro wa Mitsrayim, ak ⟨את⟩ sèvitè l yo, ak ⟨את⟩ chèf l yo, ak ⟨את⟩ tout pèp li a.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "sèvitè l yo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "chèf l yo"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "chèf l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout pèp li a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:57:15.911686445Z",
+  "model": "glm-5.3"
+}

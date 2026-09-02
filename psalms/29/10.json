@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Yawe te chita sou delij la, e Yawe ap rete wa pou touttan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "sou delij la"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "te chita"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e li chita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:52.572387767Z",
+  "model": "glm-5.3"
+}

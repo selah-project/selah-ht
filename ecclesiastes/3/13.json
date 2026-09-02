@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi menm, tout moun ki manje ak bwè e ki wè bon nan tout travay li — se yon kado Elohim ye.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Epi menm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ki manje"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ak bwè"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e ki wè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "travay li"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "kado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:17.132288876Z",
+  "model": "glm-5.3"
+}

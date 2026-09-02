@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Lèv mwen ap dekoule laj, paske ou anseigne m lwa ou.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "ap dekoule"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lèv mwen"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "laj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "anseigne m"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "lwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:05.120977689Z",
+  "model": "glm-5.3"
+}

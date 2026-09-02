@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Avèk reprimann pou fòt, ou disipline nonm; ou fè sa l renmen an fonbe kou yon vè. Vreman, tout nonm se vanite. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "avèk reprimann"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fòt"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ou disipline"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "fè fonbe"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kou yon vè"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "sa l renmen an"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vreman"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:18.693938030Z",
+  "model": "glm-5.3"
+}

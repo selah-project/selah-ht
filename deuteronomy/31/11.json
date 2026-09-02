@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "nan jou lè tout Yisrayèl ap vini pou l parèt devan ⟨את⟩ figi Yawe Elohim ou a, nan kote l ap chwazi a, ou pral li ⟨את⟩ Lwa sa a devan tout Yisrayèl, nan zòrèy yo.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "nan jou lè...ap vini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou l parèt devan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi Yawe Elohim ou a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "l ap chwazi"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ou pral li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lwa sa a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Lwa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "nan zòrèy yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:57:34.186029943Z",
+  "model": "glm-5.3"
+}

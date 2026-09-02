@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Pa pè lè yon moun vin rich, lè glwa kay li ap ogmante.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "vin rich"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ap ogmante"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:45.280053644Z",
+  "model": "glm-5.3"
+}

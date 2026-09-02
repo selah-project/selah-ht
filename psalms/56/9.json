@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 56,
+  "translation": "Egzil mwen an Ou konte l; Ou menm, mete dlo je m yo nan boutèy Ou la; èske yo pa ⟨yo⟩ nan liv Ou la?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "Egzil mwen an"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "Ou konte l"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ou menm"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "mete"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "dlo je m yo"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "nan boutèy Ou la"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "èske...pa"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "nan liv Ou la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:55.910611713Z",
+  "model": "glm-5.3"
+}

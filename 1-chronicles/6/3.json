@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Pitit Kehat yo: Amram, Yitshar, Khevron, ak Ouziel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Pitit"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat yo"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "ak Yitshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ak Khevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ak Ouziel"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:59.133626627Z",
+  "model": "glm-5.3"
+}

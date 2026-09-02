@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi je moun ki wè yo p ap vlèt, ak zòrèy moun ki tande yo ap tande atansyon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Epi pa"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ap vlèt"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "je"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "moun ki wè yo"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ak zòrèy"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "moun ki tande yo"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ap tande atansyon"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:29.745712122Z",
+  "model": "glm-5.3"
+}

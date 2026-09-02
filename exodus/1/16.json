@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi li di: lè nou ap fè ⟨את⟩ ebrey yo akouche, e nou wè yo sou chèz akouchman an — si se yon gason, nou touye ⟨את⟩ li; men si se yon fi, kite l viv.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "nan akouchman nou fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebrey yo"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "ebrey yo"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "e nou wè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "chèz akouchman an"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gason"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "e nou touye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "e li viv"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:26.700255312Z",
+  "model": "glm-5.3"
+}

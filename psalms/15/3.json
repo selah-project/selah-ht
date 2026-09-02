@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Li pa kouri dèyey ak lang li, li pa fè mal bay pwochen li, li pa pote wont sou moun ki pre l.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kouri dèyey"
+    },
+    {
+      "surface": "על",
+      "gloss": "ak"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "lang li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "bay pwochen li"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "epi wont"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "moun ki pre l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:59.995620989Z",
+  "model": "glm-5.3"
+}

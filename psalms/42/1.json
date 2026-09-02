@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Pou chèf mizisyen nan. Yon machkil (chante enstriksyon), pou pitit Korach yo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen nan"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Yon machkil (chante enstriksyon)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:51.402694924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lòt bò Yarden an, nan peyi Moav la, Moche pran tèt li klere ⟨את⟩ lalwa sa a, li di:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "Lòt bò"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "pran tèt li"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "באר",
+      "gloss": "klere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalwa sa a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "lalwa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:03.313852843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "E yo kriye vin jwenn Yawe nan detres yo, e soti nan angois yo li fè yo soti.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "E yo kriye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vin jwenn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nan detres"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "e soti nan angois yo"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "li fè yo soti"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:18.190486162Z",
+  "model": "glm-5.3"
+}

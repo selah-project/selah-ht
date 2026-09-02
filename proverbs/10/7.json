@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Souvni moun ki jis ⟨se⟩ pou benediksyon men non moun ki mechàn ap pouri.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souvni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moun ki jis"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "pou benediksyon"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "men non"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moun ki mechàn"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "ap pouri"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:29.449409534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 108,
+  "translation": "Kè mwen kanpe dwat, Elohim; m ap chante, m ap fè mizmo, menm glwa mwen.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "kanpe dwat"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ap chante"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ak m ap fè mizmo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "glwa mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:56.564339731Z",
+  "model": "glm-5.3"
+}

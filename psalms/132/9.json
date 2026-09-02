@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Kohènik yo ap abiye ak jistis, ak hasidik ou yo ap fè kanti.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "Kohènik yo"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ap abiye ak"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ak hasidik ou yo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ap fè kanti"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:09.168552732Z",
+  "model": "glm-5.3"
+}

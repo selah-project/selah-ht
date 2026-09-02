@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E yo di: Ou pa fè move nou, ou pa ekrase nou, e ou pa pran anyen nan men yon moun.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e yo di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "ou fè move nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ou pa"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "ekrase nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ou pa"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "pran"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anyen"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:08.841290761Z",
+  "model": "glm-5.3"
+}

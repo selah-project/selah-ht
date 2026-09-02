@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi l mete ⟨את⟩ youn nan Bet-El, epi ⟨את⟩ lòt la l mete nan Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "youn nan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn nan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "lòt la"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "lòt la"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mete"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "nan Dan"
+    }
+  ],
+  "timestamp": "2026-09-02T18:01:22.761803235Z",
+  "model": "glm-5.3"
+}

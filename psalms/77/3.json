@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Nan jou détres mwen an, mwen chèche Adònay; men mwen te degouline lannwitsanz li pa kanpe; nanm mwen refize ⟨pou⟩ l konsowe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nan jou"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "détres mwen an"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "mwen chèche"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men mwen"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lannwit"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "te degouline"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "san li pa"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "refize"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "konsowe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:38.001402919Z",
+  "model": "glm-5.3"
+}

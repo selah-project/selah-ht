@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "ak moun ki lanse chanm, ak moun ki mande yon ob (lespri), ak moun ki gen konesans lespri, ak moun ki chèche ⟨nan men⟩ mò yo.",
+  "tokens": [
+    {
+      "surface": "וְחֹבֵר",
+      "gloss": "ak moun ki lanse"
+    },
+    {
+      "surface": "חָבֶר",
+      "gloss": "chanm"
+    },
+    {
+      "surface": "וְשֹׁאֵל",
+      "gloss": "ak moun ki mande"
+    },
+    {
+      "surface": "אוֹב",
+      "gloss": "ob (lespri)"
+    },
+    {
+      "surface": "וְיִדְּעֹנִי",
+      "gloss": "ak moun ki gen konesans lespri"
+    },
+    {
+      "surface": "וְדֹרֵשׁ",
+      "gloss": "ak moun ki chèche"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "הַמֵּתִים",
+      "gloss": "mò yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:47:36.309634544Z",
+  "model": "glm-5.3"
+}

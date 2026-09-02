@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Ép mens yo vale ⟨את⟩ sèt ép bèl yo. E mwen di sa bay chèf devinen yo, e pa gen moun ki ka eksplike l ba mwen.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "yo vale"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ép"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "mens yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèt ép bèl yo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ép"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "bèl yo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e mwen di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "chèf devinen yo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "moun ki ka eksplike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:22.507059673Z",
+  "model": "glm-5.3"
+}

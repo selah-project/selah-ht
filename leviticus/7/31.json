@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Pwèt la ap fime ⟨את⟩ grès la sou lotèl la, e pwatrin nan ap fèt pou Aharòn ak pitit li yo.",
+  "tokens": [
+    {
+      "surface": "ו הקטיר",
+      "gloss": "ap fime"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Pwèt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grès la"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grès la"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sou lotèl la"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ap fèt pou"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "pwatrin nan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ak pitit li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:38.499877018Z",
+  "model": "glm-5.3"
+}

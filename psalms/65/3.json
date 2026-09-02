@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "⟨Ou⟩ k ap tande lapriyè — jiska ou tout chè ap vini.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "k ap tande"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lapriyè"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "jiska ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chè"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ap vini"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:53.633151974Z",
+  "model": "glm-5.3"
+}

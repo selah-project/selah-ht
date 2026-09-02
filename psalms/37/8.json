@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Sispann kòlè, e kite fouri; pa chaje kòlè — sa mennen sèlman nan fè move.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Sispann"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "e kite"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "fouri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "chaje kòlè"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "nan fè move"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:24.479542828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E David reyini ⟨את⟩ tout Yisrael nan Yerouchalayim pou monte ⟨את⟩ kès Yawe a nan plas li, plas li te prepare pou li a.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "pou monte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kès Yawe a"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kès"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "plas li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:00.013875224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Mòn Elohim se mòn Bachan; mòn ki gen anpil pik se mòn Bachan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bachan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ki gen anpil pik"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bachan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:51.299397029Z",
+  "model": "glm-5.3"
+}

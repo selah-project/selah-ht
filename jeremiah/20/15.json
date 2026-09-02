@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Maledi nonm nan ki te pote ⟨את⟩ nov la bay papa m, lè l di: Yon ti gason fèt pou ou — nonm lan fè l kontan anpil!",
+  "tokens": [
+    {
+      "surface": "אָרוּר",
+      "gloss": "Maledi"
+    },
+    {
+      "surface": "הָאִישׁ",
+      "gloss": "nonm nan"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בִּשַּׂר",
+      "gloss": "te pote nov la"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nov la"
+    },
+    {
+      "surface": "אָבִי",
+      "gloss": "bay papa m"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "lè l di"
+    },
+    {
+      "surface": "יֻלַּד",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "ti gason"
+    },
+    {
+      "surface": "זָכָר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "שִׂמֵּחַ",
+      "gloss": "fè l kontan"
+    },
+    {
+      "surface": "שִׂמְחָהוּ",
+      "gloss": "kontan anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T18:53:57.091249736Z",
+  "model": "glm-5.3"
+}

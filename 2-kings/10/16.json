@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E li di: Vini ⟨את⟩ ak m, e gade nan jalouzi m pou Yawe. E yo fè l chita ⟨את⟩ l sou charyo l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Vini"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ak m"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "nan jalouzi m"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "E yo fè l chita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "sou charyo l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:13:09.948457685Z",
+  "model": "glm-5.3"
+}

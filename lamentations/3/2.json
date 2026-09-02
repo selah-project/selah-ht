@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "⟨את⟩ mwen li mennen ale nan fènwa, e pa nan limyè.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "mwen"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fènwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "limyè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:48:11.675617459Z",
+  "model": "glm-5.3"
+}

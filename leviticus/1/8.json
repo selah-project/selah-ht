@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi pitit Aharòn, kòwonèt yo, ap ranje ⟨את⟩ moso yo, ⟨את⟩ tèt la ak ⟨את⟩ grès la, sou bwa yo ki sou dife a ki sou lotèl la.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "ranje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kòwonèt yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moso yo"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "moso yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt la"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tèt la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "grès la"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "grès la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "bwa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dife a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:45.145105006Z",
+  "model": "glm-5.3"
+}

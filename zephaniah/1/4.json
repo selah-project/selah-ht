@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "M ap lonje men m sou Youda ak sou tout moun ki rete Yerouchalayim; m ap koupe soti nan kote sa a ⟨את⟩ rès Baal la, ⟨את⟩ non kemarim yo ansanm ak prèt yo.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "M ap lonje"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Youda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "moun ki rete"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "e m ap koupe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rès Baal la"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "rès"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non kemarim yo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "kemarim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:45:25.939036796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 70,
+  "translation": "Ke yo wont, ke yo kouvri figi, yo ki ap chèche nefech m; ke yo tounen dakò e ke yo konfonn, yo ki plezi move bagay kont m.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ke yo wont"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ke yo kouvri figi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "yo ki ap chèche"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech m"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ke yo tounen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "dakò"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ke yo konfonn"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "yo ki plezi"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "move bagay kont m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:44.912101525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi kont twa zanmi l yo kòlerya l cho, paske yo pa t jwenn repons, e yo te kondane ⟨את⟩ Iyov.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "kont twa"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "zanmi l yo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "cho"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kòlè l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "repons"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "kondane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    }
+  ],
+  "timestamp": "2026-09-02T20:41:08.887425437Z",
+  "model": "glm-5.3"
+}

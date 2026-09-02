@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Nan men tout moun li mèt ⟨so⟩, pou tout moun ki fè travay ⟨li⟩ konnen travay li.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "li mèt so"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pou konnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moun ki fè travay"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "travay li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:42:30.121064851Z",
+  "model": "glm-5.3"
+}

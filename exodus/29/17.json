@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi ⟨את⟩ belè la, ou koupe l an moso; ou lave anndan l ak janb l yo, epi ou mete yo sou moso l yo ak sou tèt li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "belè la"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "belè la"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "koupe an moso"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "an moso l yo"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ou lave"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "anndan l"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "janb l yo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "moso l yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tèt li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:07.866433964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Pou ou ⟨⟨bra a⟩⟩ avèk fòs; men ou la ki gen fòs, men kote ou a ki nan bò dwat ap leve.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Pou ou"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "bra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avèk"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ki gen fòs"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou la"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "men kote ou a ki nan bò dwat"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:18.216730632Z",
+  "model": "glm-5.3"
+}

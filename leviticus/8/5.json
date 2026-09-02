@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi Moche di bay asanble a: Se menm pawòl la ke Yawe kòmande pou ⟨yo⟩ fè.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi ... di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Se menm"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou ⟨yo⟩ fè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:43.900915077Z",
+  "model": "glm-5.3"
+}

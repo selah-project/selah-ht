@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Delivere mwen nan tout rebelyon m yo; pa fè m vin wont devan sòt yo.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "rebelyon m yo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "delivere mwen"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "wont"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sòt yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "fè m vin"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:18.693140515Z",
+  "model": "glm-5.3"
+}

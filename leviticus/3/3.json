@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "L ap ofri nan zèbache chelamim yo yon ofrann dife pou Yawe: ⟨את⟩ grès ki kouvri ⟨את⟩ trip yo, epi ⟨את⟩ tout grès ki sou trip yo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "L ap ofri"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "nan zèbache"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "chelamim yo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yon ofrann dife"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grès ki kouvri trip yo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grès la"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ki kouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trip yo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "trip yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "tout grès ki sou trip yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grès la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "trip yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:30.288846429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E li voye ⟨את⟩ jèn gason pitit Yisrael yo, e yo fè monte ofran boulè, e yo zabèt ofran chèlèm pou Yawe — bèf.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e li voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jèn gason pitit Yisrael yo"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e yo fè monte"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofran boulè"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "e yo zabèt"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "zabèt"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "chèlèm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "bèf"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:55.942933593Z",
+  "model": "glm-5.3"
+}

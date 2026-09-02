@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Ak nan Horev nou fè ⟨את⟩ Yawe fache, e Yawe vyolaman kòlè kont nou pou detwi ⟨את⟩ nou.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "ak nan Horev"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "nou fè fache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "e vyolaman kòlè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kont nou"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "pou detwi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:11.784009906Z",
+  "model": "glm-5.3"
+}

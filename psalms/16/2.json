@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Mwen di bay Yawe: Adònay, se ou; byen mwen pa genyen ⟨apa⟩ de ou.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Mwen di"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bay Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "byen mwen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa genyen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "de ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:44.663406187Z",
+  "model": "glm-5.3"
+}

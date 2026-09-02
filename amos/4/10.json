@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 4:10",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Mwen voye nan mitan nou yon epidemi, jan nan Mitsrayim; mwen touye ak epe jèn gason nou yo, ansanm ak prizonye chval ou yo; mwen fè sant kampa ou yo monte jiskanm nen ou — epi nou pa t retounen vin jwenn mwen, di Yawe a.",
+  "tokens": [
+    {
+      "surface": "שלחתי",
+      "gloss": "Mwen voye"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon epidemi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "mwen touye"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ak epe"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "jèn gason nou yo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "prizonye"
+    },
+    {
+      "surface": "סוסיכם",
+      "gloss": "chval ou yo"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "mwen fè monte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sant kampa"
+    },
+    {
+      "surface": "מחניכם",
+      "gloss": "ou yo"
+    },
+    {
+      "surface": "ובאפכם",
+      "gloss": "jiskanm nen ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "nou t retounen"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "jwenn mwen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:38:12.995137806Z",
+  "model": "glm-5.3"
+}

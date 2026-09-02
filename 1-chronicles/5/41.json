@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi Yehotsadak ale ⟨an egzil⟩ lè Yawe depòte ⟨את⟩ Yehouda ak ⟨את⟩ Yerouchalayim, nan men Nevukhadnetsar a.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Epi Yehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "⟨an egzil⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehouda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ak Yerouchalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetsar a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.589292500Z",
+  "model": "glm-5.3"
+}

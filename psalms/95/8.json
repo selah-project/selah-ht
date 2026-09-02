@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 95,
+  "translation": "Pa fè kè nou an di tankou nan Meriva, tankou nan jou Massa a, nan dezè a.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תַּקְשׁוּ",
+      "gloss": "fè ... di"
+    },
+    {
+      "surface": "לְבַבְכֶם",
+      "gloss": "kè nou an"
+    },
+    {
+      "surface": "כִּמְרִיבָה",
+      "gloss": "tankou nan Meriva"
+    },
+    {
+      "surface": "כְּיוֹם",
+      "gloss": "tankou nan jou"
+    },
+    {
+      "surface": "מַסָּה",
+      "gloss": "Massa a"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "nan dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:15.238544064Z",
+  "model": "glm-5.3"
+}

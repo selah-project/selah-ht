@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Pa vin jis twòp, e pa vin saj twòp — poukisa w ap twouble tèt ou?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "vin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "twòp"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "vin saj"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "twòp"
+    },
+    {
+      "surface": "למה",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "twouble tèt ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:36.524475074Z",
+  "model": "glm-5.3"
+}

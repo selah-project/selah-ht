@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 31:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Ranfòke ou yo e kenbe fèm, pa pè, e pa tremble devan yo, paske se Yawe Elohim ⟨ou⟩ a, se li menm ki ap mache ak ou; li pap lage ou, li pap kite ou.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Ranfòke ou yo"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "e kenbe fèm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pè"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "tremble"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "devan yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ki ap mache"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pap"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "lage ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "li pap"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "kite ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:38.489766737Z",
+  "model": "glm-5.3"
+}

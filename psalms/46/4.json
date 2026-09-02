@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 46,
+  "translation": "Dlo yo ap fè gwo bri, yo ap bouyi, mòn yo ap tranble nan fòs kè l an. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ap fè gwo bri"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "yo ap bouyi"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ap tranble"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "nan fòs kè l an"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:32.424767285Z",
+  "model": "glm-5.3"
+}

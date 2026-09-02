@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Geval ak Amon ak Amalek, Peleshet ansanm ak moun ki rete nan Tzor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Geval"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ak Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ak Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun ki rete nan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tzor"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:02.531142254Z",
+  "model": "glm-5.3"
+}

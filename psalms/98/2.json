@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 98,
+  "translation": "Yawe fè delivrans li konnen; devan je nasyon yo li dekouvri jistis li.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "delivrans li"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "devan je"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "dekouvri"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "jistis li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:13.018437205Z",
+  "model": "glm-5.3"
+}

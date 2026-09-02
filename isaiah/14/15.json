@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Men ou pral desann ⟨nan⟩ Cheol, nan fon twou san fon an.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨nan⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ou pral desann"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨nan⟩"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "nan fon"
+    },
+    {
+      "surface": "בור",
+      "gloss": "twou san fon an"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:07.883487417Z",
+  "model": "glm-5.3"
+}

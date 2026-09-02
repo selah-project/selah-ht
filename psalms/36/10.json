@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Paske avèk ou ⟨la⟩ sous lavi, epi nan limyè w la n ap wè limyè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "sous"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "nan limyè w"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "n ap wè"
+    },
+    {
+      "surface": "אור",
+      "gloss": "limyè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:44.015178703Z",
+  "model": "glm-5.3"
+}

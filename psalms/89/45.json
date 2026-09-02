@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Ou fè klètè l fini, epi ou jete chèz l atè.",
+  "tokens": [
+    {
+      "surface": "הִשְׁבַּ֥תָּ",
+      "gloss": "fè fini"
+    },
+    {
+      "surface": "מִטְּהָר֑וֹ",
+      "gloss": "klètè l"
+    },
+    {
+      "surface": "וְ֝כִסְא֗וֹ",
+      "gloss": "ak chèz l"
+    },
+    {
+      "surface": "לָאָ֥רֶץ",
+      "gloss": "atè"
+    },
+    {
+      "surface": "מִגַּֽרְתָּה",
+      "gloss": "ou jete"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:17.588831228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 61,
+  "translation": "Depi bout tè a m ap rele ba ou, lè kè m anmèdan; sou yon wòk ki pi wo pase mwen, gide m.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Depi bout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ap rele"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "anmèdan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sou yon wòk"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ki pi wo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pase mwen"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "gide m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:44.332223071Z",
+  "model": "glm-5.3"
+}

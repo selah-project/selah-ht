@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Pa fè pou ou idòl skulte ni okenn fòm nan tout sa ki nan syèl yo anlè, ni sa ki nan tè a anba, ni sa ki nan dlo yo anba tè a.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "idòl skulte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni tout"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "fòm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ni sa ki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ni sa ki"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo yo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "nan tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:06.550206576Z",
+  "model": "glm-5.3"
+}

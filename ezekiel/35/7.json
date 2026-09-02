@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "M ap fè ⟨את⟩ mòn Sechèyè vin dezè, yon dezè total, e m ap koupe sou li moun ki pase ak moun ki tounen.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "M ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mòn Sechèyè"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Sechèyè"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "vin dezè"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "yon dezè total"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "epi m ap koupe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "moun ki pase"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ak moun ki tounen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:25:48.583240615Z",
+  "model": "glm-5.3"
+}

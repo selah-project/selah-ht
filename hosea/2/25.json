@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E m ap simen l pou mwen nan tè a, e m ap gen konpasyon pou ⟨את⟩ Lo-Roukhama (moun ki pa t te jwenn konpasyon), e m ap di a Lo-Ami (pèp ki pa t pa mwen): Ou ⟨se⟩ pèp mwen, e l ap di: Ou ⟨se⟩ Elohim mwen.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "e m ap simen l"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "e m ap gen konpasyon pou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Roukhama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "jwenn konpasyon"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "e m ap di"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "a pa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e l"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:31:26.084122148Z",
+  "model": "glm-5.3"
+}

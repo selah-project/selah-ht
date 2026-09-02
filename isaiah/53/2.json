@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Li moute devan l tankou yon ti pye sèkile, e tankou yon rasin ki soti nan yon tè sèch: pa gen fòm pou li, ni majeste; nou wè l, e pa gen aparans pou nou dezire l.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "moute"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "tankou yon ti pye sèkile"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "e tankou yon rasin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ki soti nan tè"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "sèch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "fòm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "majeste"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "nou wè l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "aparans"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "pou nou dezire l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:41:04.178610200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Ansanm, kont mwen tout kè rayi m ap marmay; kont mwen yo ap trame move ⟨bagay⟩ pou mwen.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Ansanm"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont mwen"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ap marmay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kè rayi m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kont mwen"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "yo ap trame"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "move"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:35.692353358Z",
+  "model": "glm-5.3"
+}

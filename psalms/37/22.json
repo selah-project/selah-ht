@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Paske moun l beni yo ap eritye tè a, e moun l makonnen yo ap koupe ⟨de⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "moun l beni yo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ap eritye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "e moun l makonnen yo"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ap koupe ⟨de⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:40.191258875Z",
+  "model": "glm-5.3"
+}

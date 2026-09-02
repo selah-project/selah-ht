@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi l fè nan kay sensyen sente yo de kerubim, travay skilti, epi yo rèkouvri ⟨את⟩ yo ak lò.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Epi l fè"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sensyen"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sente yo"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "travay"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "skilti"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "epi yo rèkouvri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (de kerubim yo)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ak lò"
+    }
+  ],
+  "timestamp": "2026-09-02T22:27:34.380746816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Mizmor pou David. Bay Yawe, pitit dye yo, bay Yawe glwa ak fòs.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Bay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "dye yo"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ak fòs"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:36.168475864Z",
+  "model": "glm-5.3"
+}

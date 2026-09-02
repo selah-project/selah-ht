@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Yo pote ⟨את⟩ tabènak la ba Moche, ⟨את⟩ tant la ak ⟨את⟩ tout zouti li yo, kròk li yo, planch li yo, baw li yo, ak baz yo koule sou li yo.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabènak la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènak la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant la"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zouti li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti li yo"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "kròk li yo"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "planch li yo"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "baw li yo"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "ak kolòn li yo"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "ak baz li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:54.150696650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E souf Yawe ap vin sou ou, e w ap profetize avèk yo, e w ap chanje vin yon lòt moun.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "ap vin sou"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "souf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "e w ap profetize"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "avèk yo"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "e w ap chanje"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vin yon moun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lòt"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:00.820077959Z",
+  "model": "glm-5.3"
+}

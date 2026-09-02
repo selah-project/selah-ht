@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Li fè zèb pouse pou bèt yo, ak plant pou sèvis moun nan, pou fè pen soti depi tè a.",
+  "tokens": [
+    {
+      "surface": "מַצְמִיחַ",
+      "gloss": "fè pouse"
+    },
+    {
+      "surface": "חָצִיר",
+      "gloss": "zèb"
+    },
+    {
+      "surface": "לַבְּהֵמָה",
+      "gloss": "pou bèt yo"
+    },
+    {
+      "surface": "וְעֵשֶׂב",
+      "gloss": "ak plant"
+    },
+    {
+      "surface": "לַעֲבֹדַת",
+      "gloss": "pou sèvis"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "לְהוֹצִיא",
+      "gloss": "pou fè soti"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "depi"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:32.153685991Z",
+  "model": "glm-5.3"
+}

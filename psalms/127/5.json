@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 127,
+  "translation": "Ké fèlisite nonm ki fin ranpli ⟨את⟩ kadre flèch li ak yo — yo p ap wont paske yo pale ak ⟨את⟩ enmi yo nan pòtay la.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Ké fèlisite"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "nonm la"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kadre flèch li"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "kadre flèch li"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "ap wont"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יְדַבְּרוּ",
+      "gloss": "yo pale"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "enmi yo"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "enmi yo"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "nan pòtay la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:52.574951658Z",
+  "model": "glm-5.3"
+}

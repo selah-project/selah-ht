@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E renmen ⟨את⟩ etranje a, paske nou te ye etranje nan peyi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "E renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etranje a"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "etranje a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "nou te ye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:43.910466467Z",
+  "model": "glm-5.3"
+}

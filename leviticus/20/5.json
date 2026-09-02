@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "M ap toune figi m kont nonm sa a, ak fanmi l, e m ap koupe ⟨את⟩ ⟨li⟩, ak ⟨את⟩ tout moun k ap fè zonaj apre li, pou fè zonaj apre Molèkh, nan mitan pèp yo a.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "M ap toune"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi m"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi m"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kont nonm"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "ak fanmi l"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "e m ap koupe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨li⟩",
+      "marks": "nonm sa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout moun k ap fè zonaj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "moun k ap fè zonaj"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "apre li"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "pou fè zonaj"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molèkh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "pèp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:39.744859948Z",
+  "model": "glm-5.3"
+}

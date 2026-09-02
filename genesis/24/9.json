@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi sèvant la mete ⟨את⟩ men li anba kwis Avraham, mèt li a, epi li sèmante pou li sou pawòl sa a.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "epi li mete"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "sèvant la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men li an"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men li"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kwis"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mèt li a"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "epi li sèmante"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:43.374320237Z",
+  "model": "glm-5.3"
+}

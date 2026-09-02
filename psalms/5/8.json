@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Men mwen, nan labondans hesed ou (lanmou fidèl ou), m ap antre nan kay ou, m ap jenou devan tanp sen ou, nan respè pou ou.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nan labondans"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ou"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "m ap antre"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nan kay ou"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "m ap jenou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tanp"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sen ou"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "nan respè pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:14.435336909Z",
+  "model": "glm-5.3"
+}

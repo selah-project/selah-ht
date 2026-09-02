@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Adònay reveye tankou yon moun k ap domi, tankou yon gason fò ki ap fè bwi soti nan diven an.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "reveye"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "tankou yon moun k ap domi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "tankou yon gason fò"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "ki ap fè bwi"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "soti nan diven an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:09.130746443Z",
+  "model": "glm-5.3"
+}

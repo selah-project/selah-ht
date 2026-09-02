@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Se poutèt sa mwen rejte ⟨tèt mwen⟩ e mwen repanti sou pousyè ak san.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Se poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "mwen rejte"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "e mwen repanti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ak san"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:59.955822592Z",
+  "model": "glm-5.3"
+}

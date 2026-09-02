@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi pèp la diskite ak Moche, epi yo di konsa: Och, si nou te mouri lè frè nou yo te mouri devan Yawe!",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "diskite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "di"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "och si"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "lè mouri"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "frè nou yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:32:09.019038218Z",
+  "model": "glm-5.3"
+}

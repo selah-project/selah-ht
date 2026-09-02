@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi li ale ⟨את⟩ yo, epi yo antre nan Yardèn, epi yo koupe bwa yo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Epi li ale"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "epi yo antre"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "nan Yardèn"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "epi yo koupe"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "bwa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:10:54.110127557Z",
+  "model": "glm-5.3"
+}

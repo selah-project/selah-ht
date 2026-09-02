@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Se konsa Yocèf te rekonèt ⟨את⟩ frè l yo, men yo pa t rekonèt li.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "e li rekonèt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocèf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè l yo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "e yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "t rekonèt li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:34:34.073567517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 29:14",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi m ap fè ⟨את⟩ kaptivite Mitsrayim tounen, e m ap fè ⟨את⟩ yo tounen nan tè Pattros, sou tè kote yo soti a, e yo ap la kòm yon wayòm ki ba.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Epi m ap fè ... tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaptivite Mitsrayim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kaptivite"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "e m ap fè ... tounen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "tè Pattros"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Pattros"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מכורתם",
+      "gloss": "kote yo soti a"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e yo ap la"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "ki ba"
+    }
+  ],
+  "timestamp": "2026-09-02T19:22:35.550752351Z",
+  "model": "glm-5.3"
+}

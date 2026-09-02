@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 44:8",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Epi nou pa te kenbe gad sa ki sen pou m yo; men nou mete lòt moun kòm gadyen pou gad m nan sanktywè m, pou nou menm.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Epi pa"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "nou te kenbe"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gad"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sa ki sen pou m yo"
+    },
+    {
+      "surface": "ותשימון",
+      "gloss": "men nou mete"
+    },
+    {
+      "surface": "לשמרי",
+      "gloss": "lòt moun kòm gadyen pou gad m"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "gad m"
+    },
+    {
+      "surface": "במקדשי",
+      "gloss": "nan sanktywè m"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou menm"
+    }
+  ],
+  "timestamp": "2026-09-02T19:30:38.955246872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Yawe, Elohim Tsavaot, fè nou tounen; fè figè ou klere, epi nou pral sove.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "fè nou tounen"
+    },
+    {
+      "surface": "האר",
+      "gloss": "fè ... klere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figè ou"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "epi nou pral sove"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:11.843438584Z",
+  "model": "glm-5.3"
+}

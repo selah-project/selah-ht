@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Èske se konsa n ap peye Yawe, o pèp sòt ki pa gen lajwa? Èske se pa li menm papa w, li menm ki pran w pou li? Li fè w, li etabli w.",
+  "tokens": [
+    {
+      "surface": "הֲ",
+      "gloss": "Èske"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "תִּגְמְלוּ",
+      "gloss": "n ap peye"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "נָבָל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "ki pa"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "gen lajwa"
+    },
+    {
+      "surface": "הֲלוֹא",
+      "gloss": "Èske se pa"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "אָבִיךָ",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "קָּנֶךָ",
+      "gloss": "ki pran w pou li"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "עָשְׂךָ",
+      "gloss": "fè w"
+    },
+    {
+      "surface": "וַיְכֹנְנֶךָ",
+      "gloss": "li etabli w"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:08.099358024Z",
+  "model": "glm-5.3"
+}

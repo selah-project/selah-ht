@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Lè yo jije l, ke l soti koupab, e ke lapriyè l vin peche.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "lè yo jije l"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "koupab (mechan)"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "e lapriyè l"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "peche"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:41.423521051Z",
+  "model": "glm-5.3"
+}

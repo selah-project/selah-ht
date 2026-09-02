@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Sonje ⟨את⟩ jou Chabat la, pou ou konsekre l.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou Chabat la"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Chabat la"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "pou ou konsekre l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:53.861128207Z",
+  "model": "glm-5.3"
+}

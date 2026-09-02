@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Ou pral fè twal pè kabrit pou yon tantan sou tabènakle la; onz twal ou pral fè ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ou pral fè"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "twal"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "pè kabrit"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "pou yon tantan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènakle la"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "onz"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "twal"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou pral fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (onz twal yo)"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:19.159437401Z",
+  "model": "glm-5.3"
+}

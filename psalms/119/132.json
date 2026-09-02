@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Vire w' vè mwen, e montre mwen gras, jan ⟨ou⟩ fè pou moun ki renmen Non ou.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "vire w'"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vè mwen"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e montre mwen gras"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "jan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "pou moun ki renmen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Non ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:07.129278159Z",
+  "model": "glm-5.3"
+}

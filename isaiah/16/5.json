@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Yon tròn ap kanpe nan hesed (fidelite), e yon moun ap chita sou li an verite, nan tant Davit — ap jije, ap chèche jistis, e vit nan dwa.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "nan hesed"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tròn"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e chita"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "an verite"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nan tant"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davit"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ap jije"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "e ap chèche"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "e vit"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dwa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:22.373142003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Jiska mwen jwenn yon kote pou Yawe, demèl yo pou Abir Yaakov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jiska"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mwen jwenn"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yon kote"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "demèl yo"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "pou Abir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:40.610635147Z",
+  "model": "glm-5.3"
+}

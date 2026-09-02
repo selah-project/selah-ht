@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "E ⟨li⟩ sove yo nan men sila ki rayi yo, e ⟨li⟩ delivre yo nan men lènmi a.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "e sove yo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "sila ki rayi yo"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "e delivre yo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lènmi a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:22.589513136Z",
+  "model": "glm-5.3"
+}

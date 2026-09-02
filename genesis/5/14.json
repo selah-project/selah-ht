@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Tout jou yo Kènàn te la te dis an ak nèfsan ane, epi li mouri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "te la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kènàn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "an"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ak nèfsan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(san)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "epi li mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T22:17:31.898552139Z",
+  "model": "glm-5.3"
+}

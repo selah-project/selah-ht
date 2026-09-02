@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "L vire ⟨את⟩ vizoaj li vè mi a, e l priye Yawe, pou l di:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "L vire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vizoaj li"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "vizoaj li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vè"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "mi a"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "e l priye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yawe (vè)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    }
+  ],
+  "timestamp": "2026-09-02T18:19:40.512992894Z",
+  "model": "glm-5.3"
+}

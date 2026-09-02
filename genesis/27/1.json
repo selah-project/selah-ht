@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "L te vin fèt lè Yitshak te vye, e je l yo te fè nwa pou wè, e li rele ⟨את⟩ Esav, pitit gason li ki gran an, e li di l: Pitit mwen. E li di l: Men mwen la.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "l te vin fèt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vye"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "te fè nwa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "je l yo"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason li"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ki gran an"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "li"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "li"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "men mwen la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:24:24.049058374Z",
+  "model": "glm-5.3"
+}

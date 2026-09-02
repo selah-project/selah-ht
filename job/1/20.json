@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Iyòb kanpe, li chire ⟨את⟩ manto li, li raze ⟨את⟩ tèt li, li tonbe atè, epi li prosterne l.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyòb"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "chire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manto li"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "manto li"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "raze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt li"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tèt li"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "atè"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "prosterne l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:26:06.902124882Z",
+  "model": "glm-5.3"
+}

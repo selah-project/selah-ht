@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Fòs m seche tankou tès tè, lang m kole ak machwè m, e ou mèt m nan pousyè lamò.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "seche"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "tankou tès tè"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Fòs m"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "lang m"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "kole"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "ak machwè m"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "e nan pousyè"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lamò"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "ou mèt m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:06.953192710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Hadad ak Tema, Yetur, Napich, ak Kedema.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ak Tema"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Yetur"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Napich"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ak Kedema"
+    }
+  ],
+  "timestamp": "2026-09-02T21:41:28.734355456Z",
+  "model": "glm-5.3"
+}

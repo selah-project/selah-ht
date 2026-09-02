@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Yo te rele yo, men yo te ale kache kache yo dwanmen yo; yo te sakrifye pou Baal yo, e pou zidòl yo yo te bay ensans.",
+  "tokens": [
+    {
+      "surface": "קָרְאוּ",
+      "gloss": "yo te rele"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "men (konsa)"
+    },
+    {
+      "surface": "הָלְכוּ",
+      "gloss": "yo te ale"
+    },
+    {
+      "surface": "מִפְּנֵיהֶם",
+      "gloss": "kite dwanmen yo"
+    },
+    {
+      "surface": "לַבְּעָלִים",
+      "gloss": "pou Baal yo"
+    },
+    {
+      "surface": "יִזְבְּחוּ",
+      "gloss": "yo te sakrifye"
+    },
+    {
+      "surface": "וְלַפְּסִילִים",
+      "gloss": "e pou zidòl yo"
+    },
+    {
+      "surface": "יְקַטֵּרוּן",
+      "gloss": "yo te bay ensans"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:45.570146067Z",
+  "model": "glm-5.3"
+}

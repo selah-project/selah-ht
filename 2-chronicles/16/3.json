@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Yon pakt ⟨gen⟩ ant mwen ak ou, ak ant papa m ak papa w — gade, mwen voye ajan ak lò ba ou — ale, kraze pakt ou ⟨את⟩ Bacha, wa Izrayèl la, pou l monte ale soti sou mwen.",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "pakt"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ant mwen"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ak ou"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak ant"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa w"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mwen voye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ak lò"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "pakt ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bacha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "epi l monte ale"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "soti sou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T21:30:49.503115261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Li bay yo tè nasyon yo, epi travay pèp yo yo pran an posesion.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Li bay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "tè"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "ויעמל",
+      "gloss": "epi travay"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "yo pran an posesion"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:19.004752903Z",
+  "model": "glm-5.3"
+}

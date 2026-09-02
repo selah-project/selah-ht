@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 24:17",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi l te pase, lè David fin pale ⟨את⟩ pawòl sa yo ba Chaoul, Chaoul di: Èske se vwa w sa a, pitit mwen David? Epi Chaoul monte vwa l, epi l plere.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "epi l te pase"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "lè ... fin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl sa yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi ... di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "הקלך",
+      "gloss": "se vwa w"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "epi ... monte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "vwa l"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "epi l plere"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:47.214745003Z",
+  "model": "glm-5.3"
+}

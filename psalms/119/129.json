@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Temwayaj ou yo se bagay etonan; se poutèt sa nanm mwen kenbe yo.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "bagay etonan"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "temwayaj ou yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "se poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:07.128762270Z",
+  "model": "glm-5.3"
+}

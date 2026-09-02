@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E ⟨li⟩ voye ⟨pa men⟩ Natan pwofèt la, e ⟨li⟩ rele ⟨את⟩ non li Yedidyah, pou Yawe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e voye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pa men"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non li"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:29.668202792Z",
+  "model": "glm-5.3"
+}

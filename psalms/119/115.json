@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Retire de sou mwen, moun k ap fè mal yo, pou mwen ka gade kòmandman Elohim mwen yo.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Retire"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de sou mwen"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "moun k ap fè mal yo"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "pou mwen ka gade"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:20.639481144Z",
+  "model": "glm-5.3"
+}

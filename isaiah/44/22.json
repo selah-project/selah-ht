@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 44:22",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Mwen efase, kòm yon nwaj epè, rebelyon ou yo, e kòm yon nwaj, peche ou yo; tounen vin jwenn mwen, paske mwen delivre ou.",
+  "tokens": [
+    {
+      "surface": "מחיתי",
+      "gloss": "Mwen efase"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "kòm yon nwaj epè"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "rebelyon ou yo"
+    },
+    {
+      "surface": "וכענן",
+      "gloss": "e kòm yon nwaj"
+    },
+    {
+      "surface": "חטאותיך",
+      "gloss": "peche ou yo"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vin jwenn mwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "mwen delivre ou"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:25.878787872Z",
+  "model": "glm-5.3"
+}

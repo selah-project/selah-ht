@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 110,
+  "translation": "Adònay nan bò dwat ou a, kraze wa yo nan jou kòlè ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "bò dwat ou"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kòlè li"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:16.249213021Z",
+  "model": "glm-5.3"
+}

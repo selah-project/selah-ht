@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E Elohim rankontre Bilam, e li di a li: ⟨את⟩ sèt otèl yo mwen ranje, e mwen fè moute yon bèf ak yon belè sou otèl la.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "rankontre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèt otèl yo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "otèl yo"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "mwen ranje"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "e mwen fè moute"
+    },
+    {
+      "surface": "פר",
+      "gloss": "yon bèf"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ak yon belè"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sou otèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:34:05.393222364Z",
+  "model": "glm-5.3"
+}

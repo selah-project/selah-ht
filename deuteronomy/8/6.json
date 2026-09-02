@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi ou pral gad ⟨את⟩ kòmandman Yawe Elohim ou, pou ou mache nan wout li, epi pou ou respèkte ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "וושמרת",
+      "gloss": "Epi ou pral gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòmandman yo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kòmandman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou mache"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "nan wout li"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "epi pou r espèkte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:52.049763883Z",
+  "model": "glm-5.3"
+}

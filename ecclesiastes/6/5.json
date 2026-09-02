@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Menm solèy la li pa ⟨te⟩ wè, epi li pa ⟨te⟩ konnen ⟨l⟩; repo pi gran pou sa a pase sa a.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "repo"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "pou sa a"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "pase sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:12:04.574932355Z",
+  "model": "glm-5.3"
+}

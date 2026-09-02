@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Ak lame l, ak moun ki konte l: sis ak karàn mil, ak senkkant.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ak lame l"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ak moun ki konte l"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sis"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ak karàn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ak senk"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T16:20:35.282370528Z",
+  "model": "glm-5.3"
+}

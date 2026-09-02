@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi moun ki fè lwanj pèp sa a ap mennen yo ale nan kwochi chemen, epi moun ki swiv yo ap vale yo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "epi yo vin"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "moun ki fè lwanj"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ap fè yo ale nan kwochi chemen"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "epi moun ki swiv yo"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "ap vale yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:43.545783138Z",
+  "model": "glm-5.3"
+}

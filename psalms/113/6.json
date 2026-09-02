@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 113,
+  "translation": "ki bese tèt ⟨li⟩ pou gade ⟨nan⟩ syèl yo ak ⟨nan⟩ tè a.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ki bese tèt"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou gade"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ak tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:36.400258503Z",
+  "model": "glm-5.3"
+}

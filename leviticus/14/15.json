@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi kohen nan pran nan log lwil la, e li vide ⟨l⟩ sou palme men kohen nan, men gòch la.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "epi pran"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "nan log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lwil la"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "epi vide"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "gòch la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:05.328598129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi kay Yisrayèl la rele non li ⟨את⟩ Man. Li te tankou grenn koryand, blan, e gou li te tankou biscuits fenmi ak siro myèl.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Epi ... rele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Man"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Epi li"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "tankou grenn"
+    },
+    {
+      "surface": "גד",
+      "gloss": "koryand"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "blan"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "e gou li"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "tankou biscuits fenmi"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "ak siro myèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:39.369083541Z",
+  "model": "glm-5.3"
+}

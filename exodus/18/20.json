@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi ou avèti ⟨את⟩ yo: ⟨את⟩ estati yo ak ⟨את⟩ regleman yo; epi ou fè yo konnen ⟨את⟩ chimen an pou yo mache ladan l, ak ⟨את⟩ travay la ke yo gen pou fè.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Epi ou avèti"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "estati yo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "estati yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "regleman yo"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "regleman yo"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "epi ou fè konnen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chimen an"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "chimen an"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yo mache"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ladan l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "travay la"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "travay la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "yo ap fè"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:34.872714956Z",
+  "model": "glm-5.3"
+}

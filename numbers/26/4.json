@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "soti nan lane ventyen an e plis, jan Yawe kòmande ⟨את⟩ Moche e ⟨את⟩ pitit Yisrael — ⟨se⟩ moun ki soti nan peyi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "soti nan lane"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ventyen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e plis"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ki soti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T16:34:35.015641178Z",
+  "model": "glm-5.3"
+}

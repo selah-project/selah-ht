@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Pa selon peche nou ⟨li⟩ fè ⟨sou nou⟩, e pa selon_fo nou ⟨li⟩ retribye sou nou.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "selon peche nou"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "selon_fo nou"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "retribye"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.131864919Z",
+  "model": "glm-5.3"
+}

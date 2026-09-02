@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Vwa Yawe a kase sedrès yo; wi, Yawe Kraze ⟨את⟩ sedrès Labnòn yo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kase"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedrès yo"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "wi, Kraze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedrès Labnòn yo"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedrès Labnòn yo"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Labnòn"
+    }
+  ],
+  "timestamp": "2026-09-02T22:24:48.443739547Z",
+  "model": "glm-5.3"
+}

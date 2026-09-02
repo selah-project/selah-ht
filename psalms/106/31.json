@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "E sa konte pou li kòm jistis, pou jenerasyon ak jenerasyon, jiska touttan.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "konte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pou jenerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "touttan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:01.612759734Z",
+  "model": "glm-5.3"
+}

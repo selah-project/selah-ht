@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Laksans pa apwopriye pou yon sòt, ni plis pou yon esklav ki ap gouvène prens.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נָאוֶה",
+      "gloss": "apwopriye"
+    },
+    {
+      "surface": "לִכְסִיל",
+      "gloss": "pou yon sòt"
+    },
+    {
+      "surface": "תַּעֲנוּג",
+      "gloss": "laksans"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "ni plis"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "⟨pou⟩"
+    },
+    {
+      "surface": "לְעֶבֶד",
+      "gloss": "pou yon esklav"
+    },
+    {
+      "surface": "מְשֹׁל",
+      "gloss": "ki ap gouvène"
+    },
+    {
+      "surface": "בְּשָׂרִים",
+      "gloss": "prens"
+    }
+  ],
+  "timestamp": "2026-09-02T20:26:52.919919402Z",
+  "model": "glm-5.3"
+}

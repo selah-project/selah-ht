@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Ki men m ap kanpe fèm avèk l, menm bra m ap fèm l.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ap kanpe fèm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avèk l"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "bra m"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ap fèm l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:46.569003552Z",
+  "model": "glm-5.3"
+}

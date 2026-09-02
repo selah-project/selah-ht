@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Pou pa (konsa) anmwen mwen an di mwen genyen l; karan mwen yo apyèsite lè mwen ap toupize.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Pou pa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "anmwen mwen an"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "mwen genyen l"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "karan mwen yo"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "apyèsite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mwen ap toupize"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:05.704240779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 17:16",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Kounye a, voye vit, e anonse bay David, pou yo di: pa pase nwit la nan plenn dezè a; e wi, pase de lòt bò, otman yo vale wa a ak tout pèp ki ⟨את⟩ avè l.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kounye a"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "voye"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "e anonse"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bay David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "pase"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nwit la"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "nan plenn"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dezè a"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e wi"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "pase"
+    },
+    {
+      "surface": "תעבור",
+      "gloss": "pase"
+    },
+    {
+      "surface": "פן",
+      "gloss": "otman"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "vale"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ avè l",
+      "marks": "wa a ak pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:48:46.842739970Z",
+  "model": "glm-5.3"
+}

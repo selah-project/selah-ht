@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Lè Bacha tande sa, li sispann konstwi ⟨את⟩ Rama a, e li rete nan Tirtsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "sispann"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "nan konstriksyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama a"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama a"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rete"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "nan Tirtsa"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:01.679932505Z",
+  "model": "glm-5.3"
+}

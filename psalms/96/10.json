@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Di nan mitan nasyon yo: «Yawe ⟨se⟩ wa»; wi, mond la kanpe solid, li pa ka sekouye; ⟨li⟩ ap jije pèp yo nan dvwatè.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Di"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "kanpe solid"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mond la"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ka sekouye"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ap jije"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "nan dvwatè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:56.253762820Z",
+  "model": "glm-5.3"
+}

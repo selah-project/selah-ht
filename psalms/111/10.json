@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 111,
+  "translation": "Kòmansman lasajès ⟨se⟩ respè Yawe; tout moun ki pratike ⟨yo⟩ gen bon konprann; lutèl li kanpe pou tout tan.",
+  "tokens": [
+    {
+      "surface": "רֵאשִׁית",
+      "gloss": "Kòmansman"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "lasajès"
+    },
+    {
+      "surface": "יִרְאַת",
+      "gloss": "respè"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שֵׂכֶל",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "pou tout moun"
+    },
+    {
+      "surface": "עֹשֵׂיהֶם",
+      "gloss": "ki pratike yo"
+    },
+    {
+      "surface": "תְּהִלָּתוֹ",
+      "gloss": "lutèl li"
+    },
+    {
+      "surface": "עֹמֶדֶת",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:24.437472526Z",
+  "model": "glm-5.3"
+}

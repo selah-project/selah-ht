@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E li di : Yo dwe ban ⟨את⟩ Avichag Chounamit la bay Adoniyahou, frè ou la, pou l vin madanm.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yo dwe ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avichag Chounamit la"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avichag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Chounamit la"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "bay Adoniyahou"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frè ou la"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pou l vin madanm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:47.875207389Z",
+  "model": "glm-5.3"
+}

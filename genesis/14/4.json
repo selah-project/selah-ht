@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Douz an ⟨yo⟩ sèvi ⟨את⟩ Kedarlaomèr, e trèzyèm an yo rebèl.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "diz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomèr"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomèr"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ak twa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "diz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "rebèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:31.490740841Z",
+  "model": "glm-5.3"
+}

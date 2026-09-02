@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "Avèk plim li ⟨li⟩ pral kouvri ⟨ou⟩, ak anba zèl li ou pral kache; longè ak bouklie se leyalte l.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "avèk plim li"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "pral kouvri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ou⟩"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ak anba"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "zèl li"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "ou pral kache"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "longè"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ak bouklie"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "se leyalte l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:16.036773975Z",
+  "model": "glm-5.3"
+}

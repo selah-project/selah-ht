@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Yawe, Elohim Tsavot, ki moun ki fò tankou ou, ou ki gen tout fòs, ou Yah? E fidelite ou an antoure ou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tankou ou"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "ki gen tout fòs"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ak fidelite ou"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "antoure ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:28.580793756Z",
+  "model": "glm-5.3"
+}

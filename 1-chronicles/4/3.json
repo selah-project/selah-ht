@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E sa yo ⟨se⟩ pitit papa Etam: Yizreel, Yichma, ak Yidbach; e non sè yo a ⟨se⟩ Tselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E sa yo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "ak Yichma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "ak Yidbach"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "sè yo"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Tselelponi"
+    }
+  ],
+  "timestamp": "2026-09-02T21:14:56.875526047Z",
+  "model": "glm-5.3"
+}

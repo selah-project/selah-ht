@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Mouton ak bèf, tout yo menm, menm bèt savann yo ⟨tou⟩.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ak bèf"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tout yo menm"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "savann"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:01.140080786Z",
+  "model": "glm-5.3"
+}

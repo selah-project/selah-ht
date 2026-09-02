@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Paske ki moun ⟨se⟩ El deyò de Yawe? E ki moun ⟨se⟩ wòch deyò de Elohim nou an?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "deyò de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e ki moun"
+    },
+    {
+      "surface": "צור",
+      "gloss": "wòch"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "deyò de"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:51:38.966562907Z",
+  "model": "glm-5.3"
+}

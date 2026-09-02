@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E Barak di l: Si ou ale avè m, m ap ale; men si ou pa ale avè m, m pa prale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Barak di"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "l"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ou ale"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "avè m"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "m ap ale"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ou ale"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "avè m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m prale"
+    }
+  ],
+  "timestamp": "2026-09-02T17:14:37.873612228Z",
+  "model": "glm-5.3"
+}

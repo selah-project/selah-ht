@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E li bè ven an, e li vin iv, e li dekouvri tèt li nan mitan tant li a.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "e li bè"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ven an"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "e li vin iv"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "e li dekouvri tèt li"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "tant li a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:26.220852879Z",
+  "model": "glm-5.3"
+}

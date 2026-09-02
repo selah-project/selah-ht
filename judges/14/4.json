@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi papa l ak manman l pa te konnen ke sa a soti nan Yawe, paske li te chèche yon okazyon kontre Pelishtim yo; epi nan tan sa a, Pelishtim yo te ap gouvènen sou Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "epi papa l"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ak manman l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "te konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "soti nan Yawe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "yon okazyon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "te chèche"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "kontre Pelishtim yo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "epi nan tan"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim yo"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "te ap gouvènen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sou Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T17:19:47.678003450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Sa a vin fè mal pou Yona — yon mal ki gran — e kòlèt monte nan li.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "vin fè mal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ki gran"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "e kòlèt monte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nan li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:25.265662381Z",
+  "model": "glm-5.3"
+}

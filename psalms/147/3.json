@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Nonm ki geri yo ki gen kè kwaze, e ki fè ban kont rèn yo.",
+  "tokens": [
+    {
+      "surface": "הָרֹפֵא",
+      "gloss": "ki geri"
+    },
+    {
+      "surface": "לִשְׁבוּרֵי",
+      "gloss": "yo ki gen kè kwaze"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "וּמְחַבֵּשׁ",
+      "gloss": "e ki fè ban kont"
+    },
+    {
+      "surface": "לְעַצְּבוֹתָם",
+      "gloss": "rèn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:34:08.043422271Z",
+  "model": "glm-5.3"
+}

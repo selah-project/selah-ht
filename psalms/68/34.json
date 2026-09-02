@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Pou moun ki monte nan syèl ki wo pase syèl depi lontan; gade, li bay nan vwa l yon vwa ki gen fòs.",
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "pou moun ki monte"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "nan syèl"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "syèl"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "depi lontan"
+    },
+    {
+      "surface": "הן",
+      "gloss": "gade"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "nan vwa l"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:34.322181666Z",
+  "model": "glm-5.3"
+}

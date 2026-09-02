@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "⟨את⟩ tabènak la, ⟨את⟩ tant li ak ⟨את⟩ kouvèti li, ⟨את⟩ kròk li yo ak ⟨את⟩ pann li yo, ⟨את⟩ ba li yo, ⟨את⟩ kolòn li yo, ak ⟨את⟩ baz li yo",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabènak la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabènak la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant li"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tant li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kouvèti li"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "kouvèti li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kròk li yo"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "kròk li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pann li yo"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "pann li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba li yo"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "ba li yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolòn li yo"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "kolòn li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "baz li yo"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "baz li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:10.866183161Z",
+  "model": "glm-5.3"
+}

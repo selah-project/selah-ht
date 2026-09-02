@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "Èske se mwen ki fè akouchman an kòmanse, epi ki pa fè l fèt? se sa Yawe di — èske se mwen ki fè l fèt, epi ki fè matris fèmen? se sa Elohim ou a di.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "Èske se mwen"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "fè akouchman an kòmanse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "fè l fèt"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "èske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "ki fè l fèt"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "epi mwen fè matris fèmen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:44:56.187659692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Epi Yisrael ak Filistin yo ranje yo an fòmasyon batay, fòmasyon an f Fas a fòmasyon.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "ranje yo an fòmasyon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ak Filistin yo"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "fòmasyon batay"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "an f Fas a"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "fòmasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:59.221534299Z",
+  "model": "glm-5.3"
+}

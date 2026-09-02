@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E li di: Tanpri, Adònay, voye, tanpri, pa men moun ou pral voye a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Tanpri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pa men"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "pral voye"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:16.195135396Z",
+  "model": "glm-5.3"
+}

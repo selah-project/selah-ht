@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E li di: Ki kote — ki sa, wout la, n ap moute? E li reponn: Wout dezè Edom nan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Ki kote"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ki sa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "wout la"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "n ap moute"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E li reponn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Wout"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dezè"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:12.371615025Z",
+  "model": "glm-5.3"
+}

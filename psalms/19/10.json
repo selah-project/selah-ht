@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Krentif pou Yawe ⟨a⟩ pi, li kanpe pou tout tan; jijman Yawe yo se verite, yo dwat tout ansanm.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Krentif"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "pi"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verite"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "yo dwat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tout ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:28.694820703Z",
+  "model": "glm-5.3"
+}

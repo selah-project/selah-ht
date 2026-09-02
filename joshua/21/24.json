@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon ak ⟨את⟩ dejde l, ⟨את⟩ Gat Rimmon ak ⟨את⟩ dejde l — kat vil.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dejde l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dejde l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dejde l"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dejde l"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "vil"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:01.888169440Z",
+  "model": "glm-5.3"
+}

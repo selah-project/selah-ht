@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Moun ki travay tè li ap vin satisfè ak pen, men moun ki kouri dèyè bagaj vid yo sèk kè.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "ki travay"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tè li"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ap vin satisfè"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ak pen"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "men moun ki kouri dèyè"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "bagaj vid"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "sèk"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:21.966930105Z",
+  "model": "glm-5.3"
+}

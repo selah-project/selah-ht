@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Koman moun ki abite kay ou byen bèni — yo ap toujou fè lobaj pou ou. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "koman moun ... byen bèni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ki abite"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "fè lobaj pou ou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:47.211663106Z",
+  "model": "glm-5.3"
+}

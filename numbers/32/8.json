@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Se konsa zansèt nou yo te fè lè mwen te voye yo depi Kadesh-Barnea pou yo gade ⟨את⟩ tè a.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "zansèt nou yo"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "lè mwen te voye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "depi Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou yo gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:37:04.757518252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E nou bay ⟨את⟩ li bay Elazar prèt la, e l ap pote ⟨את⟩ li ale deyò, deyò kan la, e y ap egiye ⟨את⟩ li devan l.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "e nou bay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (bèf famèl la)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "e pote l soti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kan la"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "e egiye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devan l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:32:15.116864021Z",
+  "model": "glm-5.3"
+}

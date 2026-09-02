@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi David pas revizyon ⟨את⟩ pèp la ki te ⟨את⟩ ak li, epi li mete sou yo chèf mil ak chèf san.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "pas revizyon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ak li"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "epi li mete"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ak chèf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-09-02T17:48:31.508582733Z",
+  "model": "glm-5.3"
+}

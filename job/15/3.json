@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Pou diskite ak yon pawòl ki pa gen okenn valè, ak diskou ki pa itil pèsonn?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Pou diskite"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ak yon pawòl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "ki pa gen okenn valè"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "ak diskou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "itil"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pèsonn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:36:40.821390245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Epi li abandone bèt sovaj yo bay grel, ak bèt kay yo bay zegwi dife.",
+  "tokens": [
+    {
+      "surface": "וַיַּסְגֵּ֣ר",
+      "gloss": "epi li abandone"
+    },
+    {
+      "surface": "לַבָּרָ֣ד",
+      "gloss": "bay grel"
+    },
+    {
+      "surface": "בְּעִירָ֑ם",
+      "gloss": "bèt sovaj yo"
+    },
+    {
+      "surface": "וּמִקְנֵיהֶ֗ם",
+      "gloss": "ak bèt kay yo"
+    },
+    {
+      "surface": "לָרְשָׁפִֽים",
+      "gloss": "bay zegwi dife"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:28.294427479Z",
+  "model": "glm-5.3"
+}

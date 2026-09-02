@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi Yehochoua fè yo soti_nan — li fin bat yo soti nan Kadesh-Barnea rive jiska Aza, ak ⟨את⟩ tout peyi a Goshen, rive jiska Givòn.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "bat"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochoua"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "soti nan Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "rive jiska"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout peyi a Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "rive jiska"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givòn"
+    }
+  ],
+  "timestamp": "2026-09-02T17:04:54.184613871Z",
+  "model": "glm-5.3"
+}

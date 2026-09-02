@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Yo antoure mwen ak pawòl rayi, epi yo te goumen kont mwen san rezon.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "ak pawòl"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "rayi"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "yo antoure mwen"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "epi yo te goumen kont mwen"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "san rezon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:14.675516892Z",
+  "model": "glm-5.3"
+}

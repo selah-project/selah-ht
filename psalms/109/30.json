@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "M ap rekonèt Yawe anpil avèk bouch m, e nan mitan anpil moun m ap fè lwanj ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "m ap rekonèt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "avèk bouch m"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "e nan mitan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil moun"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "m ap fè lwanj"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:56.816950765Z",
+  "model": "glm-5.3"
+}

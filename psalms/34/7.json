@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Pov sa a te rele, e Yawe tande l', e li sove l' nan tout trèboulasyon li yo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pov"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "te rele"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "trèboulasyon li yo"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "li sove l'"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:17.990552772Z",
+  "model": "glm-5.3"
+}

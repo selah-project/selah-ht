@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi li touye ⟨את⟩ youn nan zwazo yo nan yon veso tè, sou dlo vivan.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "li touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "youn nan zwazo yo"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "zwazo a"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "youn nan yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "veso"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:28.098432765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Doulè ⟨moun k ap kouri dèy⟩ lòt ⟨dye⟩ ap miltipliye; m pa pouri libasyon san yo, e m p ap pote ⟨את⟩ non yo sou lèv mwen.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "ap miltipliye"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "doulè yo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dèy lòt"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "yo kouri"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "m pouri"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "libasyon yo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "san"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "m pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non yo"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "non yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lèv mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:44.664112273Z",
+  "model": "glm-5.3"
+}

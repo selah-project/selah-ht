@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "⟨את⟩ Tab la, ⟨את⟩ tout zouti li yo, ak ⟨את⟩ pen devan yo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tab la"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Tab la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout zouti li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pen devan yo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "devan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:01:54.151380662Z",
+  "model": "glm-5.3"
+}

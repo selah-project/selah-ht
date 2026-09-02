@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "N ap pèdi nan mitan nasyon yo, e tè a enmi nou yo ap manje ⟨את⟩ nou an.",
+  "tokens": [
+    {
+      "surface": "וַאֲבַדְתֶּם",
+      "gloss": "epi n ap pèdi"
+    },
+    {
+      "surface": "בַּגּוֹיִם",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "וְאָכְלָה",
+      "gloss": "epi ... ap manje"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אֹיְבֵיכֶם",
+      "gloss": "enmi nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:55.769994562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li ekri la, sou devè yo, ⟨את⟩ yon kopi Lwa Moche a, ke li te ekri devan pitit Izrayèl yo.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "E li ekri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "devè yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopi Lwa Moche a"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "yon kopi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Lwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "te ekri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:03:26.272186548Z",
+  "model": "glm-5.3"
+}

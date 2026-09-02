@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 75,
+  "translation": "Epi mwen, m ap anonse ⟨pou⟩ toutan; m ap chante pou Elohim Yaakov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Epi mwen"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "m ap anonse"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ap chante"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:40.794321194Z",
+  "model": "glm-5.3"
+}

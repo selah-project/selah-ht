@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 91,
+  "translation": "L ap rele m, e m ap reponn l; mwen pral avè l nan tribilasyon; m ap delivre l, e m ap onore l.",
+  "tokens": [
+    {
+      "surface": "יִקְרָאֵנִי",
+      "gloss": "L ap rele m"
+    },
+    {
+      "surface": "וְאֶעֱנֵהוּ",
+      "gloss": "e m ap reponn l"
+    },
+    {
+      "surface": "עִמּוֹ",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "בְּצָרָה",
+      "gloss": "nan tribilasyon"
+    },
+    {
+      "surface": "אֲחַלְּצֵהוּ",
+      "gloss": "m ap delivre l"
+    },
+    {
+      "surface": "וַאֲכַבְּדֵהוּ",
+      "gloss": "e m ap onore l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:37.926855432Z",
+  "model": "glm-5.3"
+}

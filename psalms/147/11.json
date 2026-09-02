@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Yawe pran plezi ⟨את⟩ moun ki pè l, ⟨את⟩ moun ki tann hesed (lanmou fidel) l.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "pran plezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki pè l"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "moun ki pè l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki tann hesed l"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "moun ki tann"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesed l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:18.854865644Z",
+  "model": "glm-5.3"
+}

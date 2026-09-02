@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Poukisa rad ou wouj, epi abit ou tankou yon moun k ap pile nan kavo ⟨la⟩ diven?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wouj"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "rad ou"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "epi abit ou"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "tankou yon moun k ap pile"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "nan kavo diven"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:49.469049658Z",
+  "model": "glm-5.3"
+}

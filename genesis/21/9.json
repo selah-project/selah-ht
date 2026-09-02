@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E Sarah wè ⟨את⟩ pitit Hagar la, Mitsrayit la, ki te fèt pou Avraham, ap fè laspò.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "E ... wè"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit la"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar la"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mitsrayit la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "te fèt"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "pou Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "ap fè laspò"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:33.474224465Z",
+  "model": "glm-5.3"
+}

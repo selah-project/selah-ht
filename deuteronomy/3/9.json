@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Tsidonit yo rele Chermòn Siryòn, ak Amorit yo rele l Chenir.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Tsidonit yo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "rele"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Chermòn"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Siryòn"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ak Amorit yo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "rele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Chenir"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:54.391307263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi ⟨li⟩ timachèt l, e Moche chote san an sou lotè a tout toutou.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "epi ⟨li⟩ timachèt l"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "epi chote"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san an"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "san an"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotè a"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout toutou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:40.539419199Z",
+  "model": "glm-5.3"
+}

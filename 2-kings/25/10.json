@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Tout fòs lame Kasdim yo ki te ak chèf toutouyè yo demoli ⟨את⟩ mi Yerouchalayim yo toutou.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutou"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "demoli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "fòs lame"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "toutouyè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:22:01.793227407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E li rele non l ⟨את⟩ Yosèf, lè l di: Yawe ajoute pou m yon lòt pitit gason.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "E li rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lè l di"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yon lòt"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:11.002088393Z",
+  "model": "glm-5.3"
+}

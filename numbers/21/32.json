@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Moche voye espye pou yo ale ware ⟨את⟩ Yaezer, e yo pran vilaj li yo, e yo fòbe ⟨את⟩ Emorit yo ki te la a.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e voye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "pou espye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "e yo pran"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "vilaj li yo"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "e yo fòbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorit yo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorit yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "te la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:31:37.503736294Z",
+  "model": "glm-5.3"
+}

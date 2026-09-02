@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi Balak sakrifye bèf ak mouton, epi li voye pou Bilam ak prens yo ki te ⟨את⟩ ak li.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "sakrifye"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ak mouton"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "li voye"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "pou Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ak prens yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:32:50.873314354Z",
+  "model": "glm-5.3"
+}

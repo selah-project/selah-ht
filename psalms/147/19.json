@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Li anonse pawòl li bay Yaakov, lwa li ak jijman li bay Yisrael.",
+  "tokens": [
+    {
+      "surface": "מַגִּיד",
+      "gloss": "Li anonse"
+    },
+    {
+      "surface": "דְּבָרוֹ",
+      "gloss": "pawòl li"
+    },
+    {
+      "surface": "לְיַעֲקֹב",
+      "gloss": "bay Yaakov"
+    },
+    {
+      "surface": "חֻקָּיו",
+      "gloss": "lwa li"
+    },
+    {
+      "surface": "וּמִשְׁפָּטָיו",
+      "gloss": "ak jijman li"
+    },
+    {
+      "surface": "לְיִשְׂרָאֵל",
+      "gloss": "bay Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:17.358749650Z",
+  "model": "glm-5.3"
+}

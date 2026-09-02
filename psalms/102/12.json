@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Jou m yo tankou yon lonbraj ki longi, epi mwen tankou zèb ki fin seke.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Jou m yo"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "tankou lonbraj"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ki longi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "epi mwen"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "tankou zèb"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ki fin seke"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:38.724565526Z",
+  "model": "glm-5.3"
+}

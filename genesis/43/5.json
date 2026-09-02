@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Men si ou pa voye ⟨li⟩, nou p ap desann; paske nonm lan di pou nou: Nou p ap wè figi m si pa gen frè nou an ⟨את⟩ avèk nou.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men si"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ou pa"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nonm lan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "si pa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frè nou an"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ avèk nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:35:38.004563894Z",
+  "model": "glm-5.3"
+}

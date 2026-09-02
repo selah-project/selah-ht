@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Lè l wè ke li detèmine pou ale ak ⟨את⟩ li, l sispann pale ba li.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "e l wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "detèmine"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou ale"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ak ⟨את⟩ li",
+      "marks": "li (Rut)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "e l sispann"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pou pale"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ba li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:47:26.165628276Z",
+  "model": "glm-5.3"
+}

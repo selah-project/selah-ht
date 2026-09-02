@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E li fonde pou li kat anèl ò, e li mete ⟨את⟩ anèl yo sou kat kwen ki nan kat pye li yo.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "fonde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "anèl"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ò"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e li mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anèl yo"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "anèl yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "kwen yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "nan kat"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "pye li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:36.916393955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E yo mete nan cherèm ⟨את⟩ tout sa ki te nan lavil la, de gason jiska fanm, de jèn jiska granmoun, jiska bèf, mouton ak bourik — tout ⟨sa⟩ nan bouch epè a.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "yo mete nan cherèm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa ki te nan lavil la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "te nan lavil la"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de gason"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "de jèn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "granmoun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ak mouton"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ak bourik"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "nan bouch"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:03:14.341295085Z",
+  "model": "glm-5.3"
+}

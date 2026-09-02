@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 123,
+  "translation": "Gen pitije pou nou, Yawe, gen pitije pou nou, paske nou satisfè anpil ak mepriz.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "gen pitije pou nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "gen pitije pou nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "satisfè ak"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "mepriz"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:11.717783950Z",
+  "model": "glm-5.3"
+}

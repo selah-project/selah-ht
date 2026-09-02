@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Yon jenerasyon dan yo se epè, ak dènye dan yo se kouto, pou yo manje pòv yo soti nan tè a, ak moun ki bezouken yo soti nan mitan moun.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "jenerasyon"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "epè"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dan yo"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "ak kouto"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "dènye dan yo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pou manje"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "pòv yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan tè a"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "ak moun ki bezouken"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "soti nan mitan moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:35.166044431Z",
+  "model": "glm-5.3"
+}

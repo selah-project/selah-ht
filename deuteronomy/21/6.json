@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi tout ansyen vil sa a, moun ki pi pwòch ⟨⟨את⟩⟩ moun k ap mouri a, ap lave ⟨את⟩ men yo sou jenn bèf la, È sa a ki kou tèt li koupe, nan pye rivyè a.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "epi tout"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansyen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "ki pi pwòch"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou rive"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "moun k ap mouri a"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ap lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men yo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "jenn bèf la"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "ki kou tèt li koupe"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "nan pye rivyè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:50:55.368304329Z",
+  "model": "glm-5.3"
+}

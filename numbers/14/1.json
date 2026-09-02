@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E tout asanble a leve, bay ⟨את⟩ vwa yo, e pèp la plen tout nan nwit sa a.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "E ... leve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa yo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "vwa yo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "e ... plen tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nan nwit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:27:09.381903301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Moche antre nan mitan nyaj la, epi li moute sou mòn nan; epi Moche te rete sou mòn nan katreven jou ak katreven nwit.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "epi … antre"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nyaj la"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "epi … moute"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sou⟩"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn nan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "epi … te rete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sou mòn nan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "katreven"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ak katreven"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nwit"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:10.576085334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 67,
+  "translation": "Pou chèf mizisyen an, ak enstruman kòd yo — mizmor, yon chante.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ak enstruman kòd yo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yon chante"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:49.880667410Z",
+  "model": "glm-5.3"
+}

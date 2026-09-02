@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi m ap bay lapli nou yo tan yo a, tè a ap bay rekòt li, ak pyebwa jaden an ap bay fwi li.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Epi m ap bay"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "lapli nou yo"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "tan yo a"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "rekòt li"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ak pyebwa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "jaden an"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "fwi li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:00.493766696Z",
+  "model": "glm-5.3"
+}

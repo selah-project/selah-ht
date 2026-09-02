@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 3:28",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E tout Yisrael tande ⟨את⟩ jijman wa a te jije a, e yo te pè devan wa a, paske yo te wè ke sajès Elohim te nan mitan l pou fè jijman.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "E ... tande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jijman an"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "jijman an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "te jije"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "e yo te pè"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yo te wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nan mitan l"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:08.933112985Z",
+  "model": "glm-5.3"
+}

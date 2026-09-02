@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi gason Yavan yo: Elicha, Tarchich, Kitim ak Dodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Epi gason"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yavan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elicha"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ak Tarchich"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "ak Dodanim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:03.338003970Z",
+  "model": "glm-5.3"
+}

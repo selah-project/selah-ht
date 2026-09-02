@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "E li fè ⟨li⟩ manje nan chelev ble a, e ak siwo myèl soti nan wòch la mwen fè w satisfè.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "e li fè ⟨li⟩ manje"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "nan chelev"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ble"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "e nan wòch"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "siwo myèl"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "mwen fè w satisfè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:17.792576803Z",
+  "model": "glm-5.3"
+}

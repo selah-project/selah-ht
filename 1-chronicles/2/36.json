@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Atay fè ⟨את⟩ Natan papa, e Natan fè ⟨את⟩ Zabad papa.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Epi Atay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "fè papa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè papa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabad"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:14.615208572Z",
+  "model": "glm-5.3"
+}

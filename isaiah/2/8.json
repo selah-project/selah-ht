@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Tè a vin plen zidò, devan travay men ⟨li⟩ yo ⟨moun nan⟩ beni tèt anba, sa dwèt ⟨li⟩ yo te fè.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "vin plen"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "zidò"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "devan travay"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "men li yo"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "beni tèt anba"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "dwèt li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:27.917308371Z",
+  "model": "glm-5.3"
+}

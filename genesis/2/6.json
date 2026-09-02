@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E yon vapè monte soti nan latè, e li dloze ⟨את⟩ tout sifas tè a.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "e yon vapè"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "latè"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "e dloze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sifas tè a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sifas"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:45.635059398Z",
+  "model": "glm-5.3"
+}

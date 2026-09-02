@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Wa Yisrayèl la reponn epi di: Dapre pawòl ou la, Adònay ⟨wa a⟩, mwen se pou ou, mwen ak tout sa ki pa mwen.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "dapre pawòl ou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pa mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:49.985719777Z",
+  "model": "glm-5.3"
+}

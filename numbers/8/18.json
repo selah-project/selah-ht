@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Epi m pran ⟨את⟩ Levi yo an plas tout premye-pou nan pitit Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Epi m pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi yo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anplas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "premye-pou"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "nan pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T16:25:43.098941072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "E Yawe desann nan nwèl la, e li kanpe ak li la a, e li rele nan non ⟨a⟩ Yawe a.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "nan nwèl la"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nan non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:58:08.313728536Z",
+  "model": "glm-5.3"
+}

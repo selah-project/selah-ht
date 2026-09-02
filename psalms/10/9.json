@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "L ap tann kache nan kachèt, koum yon lyon nan repè l; l ap tann kache pou sezi pòv la; l sezi pòv la lè l rale l nan filè li.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "tann kache"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "nan kachèt"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "koum yon lyon"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "nan repè l"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "tann kache"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "pou sezi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "sezi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "nan rale l"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "nan filè li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:14.965681302Z",
+  "model": "glm-5.3"
+}

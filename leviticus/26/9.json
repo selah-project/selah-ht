@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "M ap vire kote nou, e M ap fè ⟨את⟩nou fètil, e M ap fè ⟨את⟩nou miltipliye, e M ap kanpe ⟨את⟩ alyans mwen an ⟨את⟩ ak nou.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "M ap vire"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kote nou"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "fè fètil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "fè miltipliye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alyans mwen an"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alyans mwen an"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ak nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:56.433496555Z",
+  "model": "glm-5.3"
+}

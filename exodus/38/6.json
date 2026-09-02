@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Li fè ⟨את⟩ baw yo an bwa akasya, epi li kouvri ⟨את⟩ yo ak kwiv.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baw yo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "baw yo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "baw yo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:43.492662668Z",
+  "model": "glm-5.3"
+}

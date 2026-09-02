@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Ak manje l ap pote faut li, paske li profane ⟨את⟩ kado sanktifye Yawe a, e nefech sa a ap koupe nan mitan pèp li.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Ak manje l"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "faut li"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ap pote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kado sanktifye Yawe a"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kado sanktifye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "li profane"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "e … ap koupe"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefech"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "nan mitan pèp li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:02.185881441Z",
+  "model": "glm-5.3"
+}

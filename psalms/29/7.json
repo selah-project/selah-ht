@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Vwa Yawe koupe flàn yo nan dife.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "flàn yo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:05.939589915Z",
+  "model": "glm-5.3"
+}

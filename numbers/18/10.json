@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Nan pi sen an nan sen yo ou ap manje l; tout gason ap manje ⟨את⟩ l; sen l ap ye pou ou.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "Nan pi sen an nan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sen yo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ou ap manje l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (ofann sen an)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:29:41.408499132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 121,
+  "translation": "Pandan jounen an, solèy la pa ap frape ou, ni lalin nan pandan lannuit.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "pandan jounen an"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "frape ou"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ak lalin nan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pandan lannuit"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:52.271753806Z",
+  "model": "glm-5.3"
+}

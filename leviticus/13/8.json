@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi prèt la ap gade, e gade, gratèl la fin gaye nan po a, e prèt la ap deklare l enpè — lepra se sa.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "fin gaye"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "gratèl la"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nan po"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ap deklare l enpè"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "lepra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se sa"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:14.903712978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 7:9",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Kòlè Yawe m ap pote, paske m fè peche devan l, jiskaske ⟨li⟩ defann kòz mwen epi ⟨li⟩ fè jijman mwen; ⟨li⟩ pote m deyò nan limyè a, m ap wè nan kèk jitès li a.",
+  "tokens": [
+    {
+      "surface": "זעף",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "m ap pote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "m fè peche"
+    },
+    {
+      "surface": "לו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskaske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יריב",
+      "gloss": "defann kòz"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "kòz mwen"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman mwen"
+    },
+    {
+      "surface": "יוציאני",
+      "gloss": "pote m deyò"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "nan limyè a"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "m ap wè"
+    },
+    {
+      "surface": "בצדקתו",
+      "gloss": "nan jitès li a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:41:56.224991554Z",
+  "model": "glm-5.3"
+}

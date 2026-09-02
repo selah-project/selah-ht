@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 114,
+  "translation": "Mòn yo sote kou belè, kolìn yo kou ti mouton.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Mòn yo"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "sote"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "kou belè"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "kolìn yo"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "kou pitit"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.822899979Z",
+  "model": "glm-5.3"
+}

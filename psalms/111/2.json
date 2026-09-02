@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 111,
+  "translation": "Zèv Yawe yo gwo, yo chèche pou tout moun ki delekte nan yo.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "zèv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "yo chèche"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout moun"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "ki delekte nan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:00.432705508Z",
+  "model": "glm-5.3"
+}

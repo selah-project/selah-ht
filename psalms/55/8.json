@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Gade, m ale lwen, m ap fè nèt dezè a. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "m ale lwen"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "m ap deplase"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "m ap pase nwit"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:42.168327664Z",
+  "model": "glm-5.3"
+}

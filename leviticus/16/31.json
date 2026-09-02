@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Yon jou repò, yon repò total — se li ye pou nou, e nou ap afli ⟨את⟩ nanm nou: yon lwa pou touttan.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "jou repò"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "repò total"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li ye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "e nou ap afli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanm nou"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nanm nou"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "touttan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:24.313562630Z",
+  "model": "glm-5.3"
+}

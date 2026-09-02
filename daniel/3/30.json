@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Lè sa a wa a fè Chadrakh, Meichakh ak Aved-Nego moute nan pwovens Bavel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "fè moute"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Chadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meichakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ak Aved"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "nan pwovens"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-09-02T20:58:04.146016974Z",
+  "model": "glm-5.3"
+}

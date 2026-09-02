@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi kòt la ap monte ⟨את⟩ ofrann boule a ak ⟨את⟩ ofrann manje a sou lotè a, epi kòt la ap fè ekspiyasyon pou li, epi li vin pròp.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Epi monte"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann boule a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrann boule a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ofrann manje a"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofrann manje a"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sou lotè a"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "epi fè ekspiyasyon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòt la"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "epi li vin pròp"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:30.978950563Z",
+  "model": "glm-5.3"
+}

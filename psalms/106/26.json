@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Li leve men l sou yo, pou fè ⟨את⟩ yo tonbe nan dezè a.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "li leve"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "pou fè tonbe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:55.204172340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E Yaakov di: Vann m kòm jodi a ⟨את⟩ dwa premye ne ou la pou mwen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Vann"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kòm jodi a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwa premye ne ou la"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "dwa premye ne ou la"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:22.465126597Z",
+  "model": "glm-5.3"
+}

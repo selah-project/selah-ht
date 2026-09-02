@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 65,
+  "translation": "Pou ou, silans ⟨se⟩ louanj, Elohim, nan Tsiyòn; e pou ou vò ⟨ap akonpli⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Pou ou"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "silans"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "louanj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "nan Tsiyòn"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e pou ou"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "⟨ap akonpli⟩"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "vò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:53.632977286Z",
+  "model": "glm-5.3"
+}

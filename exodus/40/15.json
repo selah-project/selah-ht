@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Ou onnen ⟨את⟩ yo menm jan ou onnen ⟨את⟩ papa yo, e yo sèvi kòm prèt pou mwen; e onksyon yo ap ye pou yo kòm yon sèvis prè pou tout tan, pou desandan yo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "onnen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "menm jan"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "onnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa yo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "yo sèvi kòm prèt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e li ap ye"
+    },
+    {
+      "surface": "להית",
+      "gloss": "pou ye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "onksyon yo"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "kòm sèvis prè"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "pou desandan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:41.917733721Z",
+  "model": "glm-5.3"
+}

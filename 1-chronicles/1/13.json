@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Kenaàn fè ⟨את⟩ Tsidòn premye pitit li a, ak ⟨את⟩ Khet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Epi Kenaàn"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidòn"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidòn"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "premye pitit li a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Khet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:59.391543523Z",
+  "model": "glm-5.3"
+}

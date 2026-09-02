@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi Uriya vini jwenn li, epi David mande sou byenèt Yoav, sou byenèt pèp la, e sou byenèt lagè a.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jwenn li"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "mande"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "sou byenèt"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "epi sou byenèt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "epi sou byenèt"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "lagè a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:33.770519830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E n ap sèvi ⟨את⟩ Yawe Elohim nou an, e li ap beni ⟨את⟩ pen ou a ak ⟨את⟩ dlo ou a; e m ap retire maladi nan mitan ou.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "e n ap sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim nou an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "e li ap beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pen ou a"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "pen ou a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dlo ou a"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "dlo ou a"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "e m ap retire"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "maladi"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "nan mitan ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:38.780227333Z",
+  "model": "glm-5.3"
+}

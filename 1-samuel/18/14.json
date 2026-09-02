@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "David te reyisi nan tout wout li, e Yawe te avè l.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "wout li"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "te reyisi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "te avè l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:24.655730851Z",
+  "model": "glm-5.3"
+}

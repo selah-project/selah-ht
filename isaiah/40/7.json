@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Zèb sèch, flè tonbe, paske souf Yawe a soufle sou li — wi, pèp la ⟨se⟩ zèb.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "sèch"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Zèb"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "flè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "souf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "soufle"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "wi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "zèb"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:35:58.278605228Z",
+  "model": "glm-5.3"
+}

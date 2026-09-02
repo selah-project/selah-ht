@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Pa vin zanmi ak ⟨את⟩ moun ki gen kòlè, epi ak ⟨את⟩ moun ki gen fyèl pa mache.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "vin zanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki gen kòlè"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "moun ki gen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun ki gen"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "fyèl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:57.577484008Z",
+  "model": "glm-5.3"
+}

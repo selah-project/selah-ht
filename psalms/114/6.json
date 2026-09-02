@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 114,
+  "translation": "Mòn yo, kisa ki fè nou danse kou kabrit yo? Kolinen yo, kou pitit mouton?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "nou danse"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "kou kabrit yo"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "kolinen yo"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "kou pitit"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:03.374399941Z",
+  "model": "glm-5.3"
+}

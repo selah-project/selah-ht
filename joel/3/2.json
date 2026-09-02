@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Menm tou, sou sèvant yo ak sou sèvant fi yo, nan jou sa yo, m ap vide ⟨את⟩ lespri m.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Menm tou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "sèvant yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "sèvant fi yo"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "m ap vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lespri m"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lespri m"
+    }
+  ],
+  "timestamp": "2026-09-02T21:58:51.040851481Z",
+  "model": "glm-5.3"
+}

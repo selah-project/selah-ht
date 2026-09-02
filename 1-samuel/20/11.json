@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Yehonatan di a David: Vin, ann soti al nan chan an. E de yo soti al nan chan an.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Vin"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "ann soti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nan chan an"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de yo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nan chan an"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:07.901744765Z",
+  "model": "glm-5.3"
+}

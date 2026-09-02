@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 47,
+  "translation": "E Yosef nouri ⟨את⟩ papa l, ak ⟨את⟩ frè l yo, ak ⟨את⟩ tout kay papa l, ak pen, dapre bouch ti piti yo.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "nouri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dapre bouch"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ti piti yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:37:02.842981812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Yon moun ki renmen sajès fè papa l kontan; men moun ki kenbe konpay bòdlèz ap fè richès vole.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Yon moun"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ki renmen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "fè kontan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "men moun ki kenbe konpay"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "bòdlèz"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ap fè vole"
+    },
+    {
+      "surface": "הון",
+      "gloss": "richès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:11.304030376Z",
+  "model": "glm-5.3"
+}

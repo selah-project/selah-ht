@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 68,
+  "translation": "Beni Adònay — chak jou l chaje pòde pou nou — HaEl, delivrans nou. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "chaje pòde"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "האל",
+      "gloss": "HaEl"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "delivrans nou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:49.428171751Z",
+  "model": "glm-5.3"
+}

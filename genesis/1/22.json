@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Elohim beni yo, li di: Fwi, miltipliye, ak ranpli ⟨את⟩ dlo yo nan lanmè yo; e zwazo yo miltiplye sou tè a.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Fwi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "miltipliye"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dlo yo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dlo yo"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nan lanmè yo"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "e zwazo yo"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "miltipliye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:01.487374520Z",
+  "model": "glm-5.3"
+}

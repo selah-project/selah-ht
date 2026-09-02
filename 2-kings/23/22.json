@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Paske yon Paka tankou Paka sa a pa janm fèt depi jou jij yo ki te jije ⟨את⟩ Yisrael la, ni pandan tout jou wa Yisrael la yo, ak wa Yehouda yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "yon Paka tankou Paka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "depi jou"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "jij yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "te jije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni pandan tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "ak wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T18:20:08.114746079Z",
+  "model": "glm-5.3"
+}

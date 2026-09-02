@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Se ou menm ki se HaEl ki fè miray; ou fè konnen fòs ou nan pami pèp yo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "האל",
+      "gloss": "HaEl"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "miray"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ou fè konnen"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "nan pami pèp yo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "fòs ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:19.079974045Z",
+  "model": "glm-5.3"
+}

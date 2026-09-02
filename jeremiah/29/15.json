@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Paske ⟨nou⟩ te di: Yawe feleve pwofèt pou nou nan Babilòn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "te di"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "feleve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "pwofèt"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "nan Babilòn"
+    }
+  ],
+  "timestamp": "2026-09-02T19:00:06.956328382Z",
+  "model": "glm-5.3"
+}

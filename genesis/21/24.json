@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E Avraham di: Se mwen menm, m ap jire.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Se mwen menm"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "m ap jire"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:34.830285685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "E li mete ⟨את⟩ basen an ant tan k reyinyon an ak lotèl la, e li mete dlo la pou l lave ak li.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "e li mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basen an"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "basen an"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tan k"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon an"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e li mete"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "pou lave ak li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:13.940422393Z",
+  "model": "glm-5.3"
+}

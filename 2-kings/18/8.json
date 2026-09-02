@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Li menm frape ⟨את⟩ Filistyen yo jouk Aza ak ⟨את⟩ fwontyè li yo, soti nan tout gadyen jouk vil fòtifye.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistyen yo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "fwontyè li yo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "fwontyè li yo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "soti nan tout"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "gadyen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "vil"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fòtifye"
+    }
+  ],
+  "timestamp": "2026-09-02T18:16:56.109243294Z",
+  "model": "glm-5.3"
+}

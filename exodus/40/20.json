@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Li pran li mete ⟨את⟩ temwayaj la nan kèt la, li mete ⟨את⟩ baton yo sou kèt la, li mete ⟨את⟩ kaporet la sou kèt la anlè.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "li pran"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temwayaj la"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "temwayaj la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kèt la"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baton yo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "baton yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kèt la"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporet la"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kèt la"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "anlè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:03:05.157008379Z",
+  "model": "glm-5.3"
+}

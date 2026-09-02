@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E Azarya fè ⟨את⟩ Amarya, e Amarya fè ⟨את⟩ Achitouv.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarya"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarya"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "e Amarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitouv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitouv"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:54.131517046Z",
+  "model": "glm-5.3"
+}

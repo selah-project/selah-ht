@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Ki moun kapab fè yon bagay pran soti nan yon bagay ki pa pran? Pa gen youn.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kapab fè"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pran"
+    },
+    {
+      "surface": "mטמא",
+      "gloss": "soti nan ki pa pran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "youn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:49.221158412Z",
+  "model": "glm-5.3"
+}

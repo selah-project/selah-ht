@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E mwen te ⟨ès⟩ san bleme avèk li, e mwen te garde mwen kont peche mwen an.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "e mwen te"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "san bleme"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avèk li"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "e mwen te garde mwen"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "kont peche mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:23.734071333Z",
+  "model": "glm-5.3"
+}

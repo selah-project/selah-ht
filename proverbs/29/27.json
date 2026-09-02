@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Moun ki fè malonèt se ⟨yon⟩ abominasyon pou jis yo, e moun ki dwat nan wout li se ⟨yon⟩ abominasyon pou mechàn yo.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "abominasyon"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "jis yo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ki fè malonèt"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "e abominasyon"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechàn yo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ki dwat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nan wout li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:01.096012647Z",
+  "model": "glm-5.3"
+}

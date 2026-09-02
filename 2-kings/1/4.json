@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 1:4",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pou sa konsa Yawe di: kabann la w moute la a, ou pa pral desann sou li, paske mouri, wi, ou pral mouri. E Eliya ale.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "Pou sa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "kabann la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "w moute"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "pral desann"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ou pral mouri"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliya"
+    }
+  ],
+  "timestamp": "2026-09-02T18:09:16.155057310Z",
+  "model": "glm-5.3"
+}

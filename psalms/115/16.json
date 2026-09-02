@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Syèl yo — syèl yo se pou Yawe — men tè a, li bay l bay pitit moun.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Syèl yo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "men tè a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "li bay"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bay pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:31.002873108Z",
+  "model": "glm-5.3"
+}

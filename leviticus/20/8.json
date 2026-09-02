@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E nou pral kenbe ⟨את⟩ lwa m yo, e nou pral fè ⟨את⟩ yo; se mwen Yawe, ki ap sanifye nou.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "E nou pral kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwa m yo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "lwa m yo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "e nou pral fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "lwa m yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ki ap sanifye nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:39.745674434Z",
+  "model": "glm-5.3"
+}

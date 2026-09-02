@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Avraham te vyeux, li antre nan jou yo, e Yawe te beni ⟨את⟩ Avraham nan tout bagay.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vyeux"
+    },
+    {
+      "surface": "בא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nan jou yo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout bagay"
+    }
+  ],
+  "timestamp": "2026-09-02T15:22:08.046489164Z",
+  "model": "glm-5.3"
+}

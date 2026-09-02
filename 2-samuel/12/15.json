@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E Natan ale lakay li. E Yawe frape ⟨את⟩ timoun nan ke madanm Ouriya a fè bay David, e li tonbe malad grav.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E li ale"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "li"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "E frape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timoun nan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "timoun nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fè bay"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "madanm"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ouriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bay David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "e li tonbe malad grav"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:12.199306228Z",
+  "model": "glm-5.3"
+}

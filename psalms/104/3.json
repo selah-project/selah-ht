@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Ki mete trave chanm wo li yo sou ⟨dlo a⟩, ki fè nwaj yo charyo l, ki mache sou zèl ⟨van⟩ an.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "ki mete trave"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sou dlo a"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "chanm wo li yo"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ki fè"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "nwaj yo"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "charyo l"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "ki mache"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "zèl"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:31.600918738Z",
+  "model": "glm-5.3"
+}

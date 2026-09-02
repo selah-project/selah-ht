@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Glwa Elohim se kache yon bagay, e glwa wa yo se foure yon bagay al fòn.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Glwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "kache"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon bagay"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "e glwa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "foure al fòn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon bagay"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:49.183060377Z",
+  "model": "glm-5.3"
+}

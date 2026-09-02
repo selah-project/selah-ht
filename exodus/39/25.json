@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Yo fè klokèt lò pi, e yo mete ⟨את⟩ klokèt yo nan mitan grenad yo, sou bò rad la touttoutou, nan mitan grenad yo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "yo fè"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "klokèt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klokèt yo"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "klokèt yo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "grenad yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "bò"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "rad la"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "touttoutou"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "grenad yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:34.091586226Z",
+  "model": "glm-5.3"
+}

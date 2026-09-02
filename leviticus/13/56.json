@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi si kòhen an gade, e gade, maladi a vin pâle apre yo fin lave ⟨את⟩ l, lè sa a yo ap chire ⟨את⟩ l soti nan rad la, oswa soti nan po a, oswa soti nan chèn long la, oswa soti nan chèn transvès la.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Epi si"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhen an"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "vin pâle"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "maladi a"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "yo fin lave"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "maladi a"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "lè sa a yo ap chire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "kote maladi a ye a"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "nan rad la"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "העור",
+      "gloss": "nan po a"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "nan chèn long la"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nan chèn transvès la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:16.208985527Z",
+  "model": "glm-5.3"
+}

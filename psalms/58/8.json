@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Kite yo disparèt tankou dlo ki koule; yon flèch ap transperye; kite yo kase an mòso.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "Kite yo disparèt"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ki koule"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ap transperye"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "flèch li"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tankou"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "kase an mòso"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:38.748807815Z",
+  "model": "glm-5.3"
+}

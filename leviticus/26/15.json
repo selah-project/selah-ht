@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E si nou rejte estati mwen yo, e si nanm nou degoize ⟨את⟩ jijman mwen yo, pou nou pa fè ⟨את⟩ tout kòmandman mwen yo, pou nou pèdi kontra mwen an —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "estati mwen yo"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "rejte"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jijman mwen yo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman mwen yo"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "degoize"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nanm nou"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pou nou pa"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout kòmandman mwen yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kòmandman mwen yo"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "pou nou pèdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kontra mwen an"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontra mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:07.854239777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 148,
+  "translation": "Fè lwanj li, syèl ki nan syèl yo, ak dlo ki anlè syèl yo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Fè lwanj li"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "syèl"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "anlè"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:20.559173347Z",
+  "model": "glm-5.3"
+}

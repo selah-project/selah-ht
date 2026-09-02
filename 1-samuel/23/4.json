@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E David ajoute ankò pou mande Yawe, e Yawe reponn ⟨li⟩, e ⟨li⟩ di : Kanpe, desann Keila, paske se mwen menm k ap bay ⟨את⟩ Filisityen yo nan men w.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "pou mande"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "e ⟨li⟩ reponn ⟨li⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e ⟨li⟩ di"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "רד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filisityen yo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisityen yo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nan men w"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:07.681530241Z",
+  "model": "glm-5.3"
+}

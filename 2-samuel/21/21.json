@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E l te fè mespray Yisrael, e Yehonatan, pitit gason Chimeya, frè David, frape l.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "fè mespray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "frape l"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Chimeya"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:48:38.632563136Z",
+  "model": "glm-5.3"
+}

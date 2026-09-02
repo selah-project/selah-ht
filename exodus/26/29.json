@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 26:29",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi ou kouvri ⟨את⟩ planch yo ak lò, epi ou fè ⟨את⟩ ane yo an lò — kay pou bar yo — epi ou kouvri ⟨את⟩ bar yo ak lò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "planch yo"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "planch yo"
+    },
+    {
+      "surface": "תצפה",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "ane yo"
+    },
+    {
+      "surface": "טבעתיהם",
+      "gloss": "ane yo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "pou bar yo"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "epi ou kouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bar yo"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "bar yo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    }
+  ],
+  "timestamp": "2026-09-02T21:43:56.796283107Z",
+  "model": "glm-5.3"
+}

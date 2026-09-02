@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Lè sa a w ap vle sakrifis jistis, olè-a ak sakrifis toutou; lè sa a yo ap monte toro yo sou lotèl ou a.",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "תֶּחְפֹּץ",
+      "gloss": "ap vle"
+    },
+    {
+      "surface": "זִבְחֵי",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "צֶדֶק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "עֹלָה",
+      "gloss": "olè-a"
+    },
+    {
+      "surface": "וְכָלִיל",
+      "gloss": "ak sakrifis toutou"
+    },
+    {
+      "surface": "אָז",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "יַעֲלוּ",
+      "gloss": "ap monte"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מִזְבַּחֲךָ",
+      "gloss": "lotèl ou a"
+    },
+    {
+      "surface": "פָרִים",
+      "gloss": "toro yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:35.300256705Z",
+  "model": "glm-5.3"
+}

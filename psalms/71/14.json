@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Men mwen, mwen tann espwa toujou, e mwen ajoute ⟨sou⟩ tout lov ou.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujou"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "tann espwa"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "e mwen ajoute"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lov ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:09.788854589Z",
+  "model": "glm-5.3"
+}

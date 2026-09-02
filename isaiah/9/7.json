@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Yon pawòl Adònay voye nan Yaakov, e li tonbe nan Yisrael.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "yon pawòl"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "nan Yaakov"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "e tonbe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:14.820424288Z",
+  "model": "glm-5.3"
+}

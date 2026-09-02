@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Syèl yo ak tè a, lwe l; lanmè yo ak tout kreyè ki kime nan yo.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "lwe l"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ak tè a"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lanmè yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kreyè"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:37.275081882Z",
+  "model": "glm-5.3"
+}

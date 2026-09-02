@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 40:24",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Menm pa plante, menm pa se, menm rabarè yo pa gen rasin nan tè; epi koute souf sou yo, e yo seche, e yon van toufè pran yo kou pèsi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "plante"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "gen rasin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè"
+    },
+    {
+      "surface": "גזעם",
+      "gloss": "rabarè yo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "epi tou"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "souf sou"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "e yo seche"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "e yon van toufè"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kou pèsi"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "pran yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:46.067358481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Jis Yawe ⟨se⟩ nan tout chemen l yo, e fidèl ⟨se⟩ nan tout zèv l yo.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Jis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "chemen l yo"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "e fidèl"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zèv l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:02:01.749496921Z",
+  "model": "glm-5.3"
+}

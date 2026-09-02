@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E wa a di yo: Yon rev mwen rev, e lespri m pezante pou m konnen ⟨את⟩ rev la.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E … di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Yon rev"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "mwen rev"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "e … pezante"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lespri m"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pou m konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rev la"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "rev la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:56:58.661581786Z",
+  "model": "glm-5.3"
+}

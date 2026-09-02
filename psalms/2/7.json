@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Mwen anonse dekrè a: Yawe di ak mwen: 'Ou se pitit mwen; jodi a mwen fè ou fèt.'",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Mwen anonse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨la⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "dekrè a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ak mwen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "fè ou fèt"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:41.119099500Z",
+  "model": "glm-5.3"
+}

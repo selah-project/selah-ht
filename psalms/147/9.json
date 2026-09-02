@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Li bay bèt yo manje l, bay pitit kòkow yo ki ap rele.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "bèt yo"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "manje l"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kòkow yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ap rele"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:18.854486934Z",
+  "model": "glm-5.3"
+}

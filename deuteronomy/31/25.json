@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Epi Moche bay lòd ⟨את⟩ Levi yo, moun ki pote chèz kontra a Yawe a, pou yo di:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "bay lòd"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi yo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pote"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chèz"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    }
+  ],
+  "timestamp": "2026-09-02T22:20:18.812518662Z",
+  "model": "glm-5.3"
+}

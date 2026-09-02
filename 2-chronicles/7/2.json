@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Kòhen yo pa t ka antre nan kay Yawe, paske glwa Yawe te ranpli ⟨את⟩ kay Yawe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "t ka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kòhen yo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T21:26:45.185714776Z",
+  "model": "glm-5.3"
+}

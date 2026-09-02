@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 73,
+  "translation": "Ki moun pou mwen nan syèl yo? Epi, ak ou, mwen pa dezire ⟨anyen⟩ sou tè a.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "epi, ak ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mwen dezire"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:57.811391951Z",
+  "model": "glm-5.3"
+}

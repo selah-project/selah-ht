@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 70,
+  "translation": "Men mwen se yon pòv ak yon ebiyon; Elohim, fè vit pou mwen! Ou se sekou m ak moun k ap delivre mwen — Yawe, pa retande!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men mwen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ak ebiyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "fè vit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "sekou m"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ak moun k ap delivre mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "retande"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:22.315106592Z",
+  "model": "glm-5.3"
+}

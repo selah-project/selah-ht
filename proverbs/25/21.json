@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Si enmi ki rayi w lan grangou, ba l manje; e si l swaf, fè l bwe dlo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "grangou"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ki rayi w"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "ba l manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "swaf"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "fè l bwe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:24.770466021Z",
+  "model": "glm-5.3"
+}

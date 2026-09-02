@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Montre m graspou mwen, Elohim, dapre hesed ou (lanmou ou ki fidèl), dapre gwo resi ou an, efase rebelyon mwen yo.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Montre m graspou mwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "dapre hesed ou (lanmou ou ki fidèl)"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "dapre gwo resi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ou an"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "efase"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "rebelyon mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:41.282761350Z",
+  "model": "glm-5.3"
+}

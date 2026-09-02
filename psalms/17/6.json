@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Mwen, m rele ou, paske ou reponn m, El; panch zòrèy ou vè m, tande pawòl m.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "m rele ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ou reponn m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "panch"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "zòrèy ou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vè m"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "pawòl m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:36.662531387Z",
+  "model": "glm-5.3"
+}

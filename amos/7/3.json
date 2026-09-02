@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Yawe chanje lide sou sa a: sa a pa pral rive, di Yawe.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "chanje lide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "pral rive"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T19:39:04.111330620Z",
+  "model": "glm-5.3"
+}

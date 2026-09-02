@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Paske ⟨את⟩ otèl yo nou pral raze, ⟨את⟩ pilye yo nou pral kraze, ⟨את⟩ Achera yo nou pral koupe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otèl yo"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "otèl yo"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "raze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "pilye yo"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "pilye yo"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "Achera yo"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Achera yo"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "koupe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:51.262120297Z",
+  "model": "glm-5.3"
+}

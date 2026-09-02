@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi Yawe retounen pou mwen dapre jitis mwen an, dapre pityè mwen an devan je l yo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "epi retounen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "dapre jitis mwen an"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "dapre pityè mwen an"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "je l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:51:46.015261909Z",
+  "model": "glm-5.3"
+}

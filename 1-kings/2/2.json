@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Mwen ap pran wout tout tè a: kenbe kouraj ou, epi vin yon gason.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pran wout"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nan wout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "kenbe kouraj ou"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "epi vin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "yon gason"
+    }
+  ],
+  "timestamp": "2026-09-02T17:55:18.486512908Z",
+  "model": "glm-5.3"
+}

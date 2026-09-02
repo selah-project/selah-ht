@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Lè Efrajim pale, ⟨te gen⟩ tranbleman; li te kanpe tèt an Yisrael; men lè li vin koupab avèk Baal, li mouri.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Lè"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "pale, ⟨te gen⟩ tranbleman"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "te kanpe tèt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "an Yisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "men lè li vin koupab"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "avèk Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "li mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:29.055649545Z",
+  "model": "glm-5.3"
+}

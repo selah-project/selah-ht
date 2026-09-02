@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Yisrael di ba Yofèf: Mwen pa t panse m t ap wè figi w ankò, e gade, Elohim fè m wè ⟨את⟩ m menm ⟨את⟩ pitit pitit ou yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yofèf"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gade wè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi w"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "panse"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "fè wè"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit pitit ou yo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pitit pitit ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:36:52.027944716Z",
+  "model": "glm-5.3"
+}

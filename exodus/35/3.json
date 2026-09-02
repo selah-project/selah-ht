@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Pa limen dife nan okenn nan kote nou rete yo, jou chouvat la.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "limen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "kote nou rete yo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "chouvat la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:10.548366006Z",
+  "model": "glm-5.3"
+}

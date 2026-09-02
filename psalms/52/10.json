@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Men mwen, mwen tankou yon pye oliv vèdan nan kay Elohim; mwen mete konfyans nan hesed Elohim, pou tout tan ak tout tan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "tankou yon pye oliv"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "vèdan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mwen mete konfyans"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "nan hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ak tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:46.293823684Z",
+  "model": "glm-5.3"
+}

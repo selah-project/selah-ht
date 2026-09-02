@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Avchalom voye espion yo nan tout tribu Yisrayèl, pou yo di: Lè nou tande ⟨את⟩ son chòfar la, nou ap di: Avchalom ap waye nan Hevron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "espion yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "lè nou tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son chòfar la"
+    },
+    {
+      "surface": "קול",
+      "gloss": "son"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "chòfar la"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "e nou ap di"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ap waye"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "nan Hevron"
+    }
+  ],
+  "timestamp": "2026-09-02T21:49:53.670439550Z",
+  "model": "glm-5.3"
+}

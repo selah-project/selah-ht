@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "Kè mwen kanpe fèm, o Elohim, kè mwen kanpe fèm; m ap chante, m ap fè mizik.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "kanpe fèm"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kanpe fèm"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ap chante"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "m ap fè mizik"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:58.858483599Z",
+  "model": "glm-5.3"
+}

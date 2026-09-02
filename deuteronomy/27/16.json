@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Move moun ki meprize papa l ak manman l — epi tout pèp la ap di: Amèn.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Move moun ki ... (maledi)"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "ki meprize"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ak manman l"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "epi ... ap di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amèn"
+    }
+  ],
+  "timestamp": "2026-09-02T16:54:17.106204602Z",
+  "model": "glm-5.3"
+}

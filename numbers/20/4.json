@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi poukisa nou pote ⟨את⟩ asanble Yawe a nan dezè sa a, pou mouri la, nou ak bèt nou yo?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "epi poukisa"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "nou pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asanble Yawe a"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dezè a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pou mouri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "ak bèt nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:32:09.019276396Z",
+  "model": "glm-5.3"
+}

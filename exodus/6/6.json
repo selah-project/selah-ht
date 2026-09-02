@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Se poutèt sa di bay pitit Yisrayèl yo: mwen se Yawe, e m ap fè ⟨את⟩ nou soti anba chay Mitsrayim yo, e m ap delivre ⟨את⟩ nou soti nan esklavaj yo, e m ap ranmwaye ⟨את⟩ nou ak bra long outire, ak jijman ki gran.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "se poutèt sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bay pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "e fè soti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "soti anba chay Mitsrayim yo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "chay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "e delivre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "soti nan esklavaj yo"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "esklavaj yo"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "e ranmwaye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "ranmwaye"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ak bra"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "long outire"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "ak jijman"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ki gran"
+    }
+  ],
+  "timestamp": "2026-09-02T15:41:49.125451790Z",
+  "model": "glm-5.3"
+}

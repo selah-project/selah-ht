@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Paske li fè nanm ki gen swaf ranti, e li fè nanm ki gen grangou plen ak byen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "li fè ranti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nanm"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "ki gen swaf"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "e nanm"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ki gen grangou"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "li fè plen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ak byen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:01.653294460Z",
+  "model": "glm-5.3"
+}

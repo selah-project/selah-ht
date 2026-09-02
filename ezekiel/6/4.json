@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 6:4",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E otèl sou wòch nou yo ap vin dezèt, pye solèy nou yo ap kase; e m ap fè moun ki mouri nou yo tonbe devan zidòl nou yo.",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "e ... ap vin dezèt"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "otèl sou wòch nou yo"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "e ... ap kase"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "pye solèy nou yo"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "e m ap fè tonbe"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "moun ki mouri nou yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "zidòl nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:12:38.319754821Z",
+  "model": "glm-5.3"
+}

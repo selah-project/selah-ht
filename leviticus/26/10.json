@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Nou pral manje ansyen ki gen lontan, e ansyen an, pou fè plas pou nouvo a, nou pral jete deyò.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "nou pral manje"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ansyen"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "ki gen lontan"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "e ansyen an"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pou fè plas pou"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouvo a"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "nou pral jete deyò"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:56.433768329Z",
+  "model": "glm-5.3"
+}

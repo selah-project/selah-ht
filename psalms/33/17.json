@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Yon manti se cheval la pou delivrans, e nan abondans fòs li li pa sove.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "yon manti"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "cheval la"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "pou delivrans"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "e nan abondans"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "fòs li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "li sove"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:50.672808173Z",
+  "model": "glm-5.3"
+}

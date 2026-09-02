@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Si ou ta touye, Eloah, mechan an — epi moun san yo, aleman de mwen!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "ou ta touye"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechan an"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "epi moun"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "aleman"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:53.327626599Z",
+  "model": "glm-5.3"
+}

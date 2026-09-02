@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Nou pap kache yo pou timoun yo; pou jenerasyon ki vin apre a nou ap rakonte lobaj Yawe, fòs l, ak miray li yo, tout sa l fè.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "kache"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "pou timoun yo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pou jenerasyon"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ki vin apre a"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "nou ap rakonte"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "lobaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ak fòs l"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ak miray li yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "l fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:01.009297189Z",
+  "model": "glm-5.3"
+}

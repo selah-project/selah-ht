@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "epi w pran kèk nan pitit fi yo pou pitit gason ou, epi pitit fi yo kouri dèyè dye yo, epi yo fè ⟨את⟩ pitit gason ou kouri dèyè dye yo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "epi w pran"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "kèk nan pitit fi yo"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "pou pitit gason ou"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "epi ... kouri dèyè"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "pitit fi yo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "dye yo"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "epi yo fè ... kouri dèyè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit gason ou"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit gason ou"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "dye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:51.262805776Z",
+  "model": "glm-5.3"
+}

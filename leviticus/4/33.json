@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E l ap mete ⟨את⟩ men l sou tèt ofann fòt la, e l ap touye ⟨את⟩ l pou ofann fòt nan kote yo touye ⟨את⟩ ofann boule a.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ap mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofann fòt la"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ap touye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ l",
+      "marks": "li (ofann fòt la)"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pou ofann fòt"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "yo touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofann boule a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofann boule a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:04:57.094469308Z",
+  "model": "glm-5.3"
+}

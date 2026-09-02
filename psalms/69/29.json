@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Ke yo efase nan liv vivan yo, epi ak jis yo pa ⟨janm⟩ ekri yo.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "efase"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nan liv"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivan yo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "epi ak"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "jis yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ekri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:12.422694279Z",
+  "model": "glm-5.3"
+}

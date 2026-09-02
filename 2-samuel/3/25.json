@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Ou konnen ⟨את⟩ Avnè, pitit Nè — ki pou twonpe ou li vini, e pou konnen ⟨את⟩ soti ou ak ⟨את⟩ antre ou, e pou konnen ⟨את⟩ tout sa w ap fè.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ou konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnè"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "pou twonpe ou"
+    },
+    {
+      "surface": "בא",
+      "gloss": "li vini"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "e pou konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soti ou"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "soti ou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "antre ou"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "antre ou"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "e pou konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa w ap fè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "w"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ap fè"
+    }
+  ],
+  "timestamp": "2026-09-02T17:41:19.088723690Z",
+  "model": "glm-5.3"
+}

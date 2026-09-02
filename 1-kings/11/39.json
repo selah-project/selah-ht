@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi m ap afli ⟨את⟩ desandan David pou rezon sa a; men, pa pou tout jou yo.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Epi m ap afli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "desandan David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "desandan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou rezon"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אך",
+      "gloss": "men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:00:54.182699915Z",
+  "model": "glm-5.3"
+}

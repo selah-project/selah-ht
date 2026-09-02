@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Èske yon bagay san gou manje san sel? Èske gen gou nan jis malmwa?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "san gou"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "san"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "sel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Èske"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "gou"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "jis"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "malmwa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:33:18.883658043Z",
+  "model": "glm-5.3"
+}

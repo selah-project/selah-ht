@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E Chaoul frape ⟨את⟩ Amalek depi Havila, lè w ap antre Chour, kote ki devan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "depi Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "lè w ap antre"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Chour"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T17:31:04.880748847Z",
+  "model": "glm-5.3"
+}

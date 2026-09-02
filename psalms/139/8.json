@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Si m moute nan syèl yo, ou la; e si m etann kabann mwen nan Cheol, gade, ou la.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "m moute"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "e si m etann"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kabann mwen nan Cheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "gade, ou la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:46.258061658Z",
+  "model": "glm-5.3"
+}

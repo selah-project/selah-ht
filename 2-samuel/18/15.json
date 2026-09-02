@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E dis (2) ti gason ki te pote zam Yoav la antoure, e yo frape ⟨את⟩ Avchalom, e yo fè l mouri.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "antoure"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ti gason"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ki te pote"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zam"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "yo frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avchalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "yo fè l mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:06.698625445Z",
+  "model": "glm-5.3"
+}

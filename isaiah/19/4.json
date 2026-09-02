@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E m ap livre ⟨את⟩ Mitsrayim nan men mèt ki move, e yon wa ki gen fòs ap gouvènen sou yo — deklarasyon Adònay, Yawe Tsvaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "ap livre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "mèt"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ki move"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e yon wa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ki gen fòs"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ap gouvènen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklarasyon"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:47.583365329Z",
+  "model": "glm-5.3"
+}

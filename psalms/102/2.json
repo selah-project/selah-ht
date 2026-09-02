@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Yawe, koute pri mwen; e kri mwen vini jiskou ou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "koute"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pri mwen"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "e kri mwen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "jiskou ou"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vini"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:26.829533107Z",
+  "model": "glm-5.3"
+}

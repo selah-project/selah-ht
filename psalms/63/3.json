@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 63,
+  "translation": "Konsa, nan ⟨kadoch⟩ la, mwen te gade ou, pou wè fòs ou ak glwa ou.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nan kadoch la"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "mwen te gade ou"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "fòs ou"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "ak glwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:54.306679343Z",
+  "model": "glm-5.3"
+}

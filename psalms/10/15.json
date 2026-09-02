@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Kase bra mechàn an ak move moun nan; fè rechèch sou mechanste l jouk ⟨li⟩ pa jwenn anmen.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Kase"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "bra"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechàn an"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ak move moun nan"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "fè rechèch sou"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "mechanste l"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa … anmen"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "jwenn"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:38.436727639Z",
+  "model": "glm-5.3"
+}

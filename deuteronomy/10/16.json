@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Sirkonsi ⟨את⟩ po kè nou an, e pa fè kou nou yo di ankò.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Sirkonsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "po kè nou an"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "po"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "kè nou an"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "kou nou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "fè di"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:35.892235822Z",
+  "model": "glm-5.3"
+}

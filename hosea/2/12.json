@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epou kounye a m ap dekouvri ⟨את⟩ kachevant l devan zye moun ki renmen l yo, e pa gen okenn nonm k ap sove l nan men m.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "epou kounye a"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "m ap dekouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kachevant l"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "kachevant l"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "devan zye"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "moun ki renmen l yo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e pa gen okenn nonm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "k ap sove l"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nan men m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:32:10.755738351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "Paske Yawe pa ap pèdi pèp li a, e eritans li a pa ap kite l.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "e eritans li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "kite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:45.659068165Z",
+  "model": "glm-5.3"
+}

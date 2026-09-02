@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E pèp la kanpe lwen, e Moche rive jiskon nwa epè la kote Elohim te ye.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "lwen"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "e Moche"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "rive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jiskon"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "nwa epè la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:34.070322733Z",
+  "model": "glm-5.3"
+}

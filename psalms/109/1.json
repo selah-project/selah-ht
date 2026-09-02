@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Pou chèf mizisyen an. Yon mizmo pa David. Elohim lavè mwen an, pa rete an silans.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pa David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "yon mizmo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lavè mwen an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "rete an silans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:14.675057649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi kohen nan plonje ⟨את⟩ dwèt dwat li nan lwil la ki sou palme gòch li, epi li fè kèk nan lwil la tonbe an gout ak dwèt li, sèt fwa, devan Yawe.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "epi plonje"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwèt dwat li"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "dwèt li"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "dwat la"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lwil la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "palme l"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "gòch la"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "epi fè tonbe an gout"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kèk nan"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lwil la"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ak dwèt li"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:11:05.328753469Z",
+  "model": "glm-5.3"
+}

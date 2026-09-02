@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Yawe Elohim nou ban li devan nou, e nou frape ⟨את⟩ li, ak ⟨את⟩ pitit li, ak ⟨את⟩ tout pèp li.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "ban li devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "devan nou"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "e nou frape"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit li"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout pèp li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:47:25.661047971Z",
+  "model": "glm-5.3"
+}

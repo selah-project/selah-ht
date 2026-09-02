@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Twa fwa pa lane, tout gason ou yo ap parèt devan ⟨את⟩ figi Adòn Yawe, Elohim Izrayèl.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Twa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pa lane"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ap parèt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "gason ou yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi Adòn Yawe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adòn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:54.284035023Z",
+  "model": "glm-5.3"
+}

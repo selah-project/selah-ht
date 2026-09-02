@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E anko, mwen wè anba solèy la: nan kote jistis la, se mechanste ki la; e nan kote kè kont la, se mechanste ki la.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "E anko"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mwen wè"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solèy la"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "jistis la"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mechanste"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "e kote"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "kè kont la"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "la"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mechanste"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:17.132989092Z",
+  "model": "glm-5.3"
+}

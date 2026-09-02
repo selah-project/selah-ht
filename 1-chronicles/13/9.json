@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi yo rive jous ka gwenn Kidòn, e Ouzà voye ⟨את⟩ men l pou l kenbe ⟨את⟩ lakès la, paske bèf yo te derape.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "rive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jous"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ka gwenn"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidòn"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Ouzà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men l"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "pou kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakès la"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "lakès la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "derape"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bèf yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:14.943095003Z",
+  "model": "glm-5.3"
+}

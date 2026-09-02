@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Avèk lèv mwen mwen konte tout jijman bouch ou yo.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "Avèk lèv mwen"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "konte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bouch ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:06.788141087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Kè kontan ⟨pou⟩ moun ki jwenn sajès, e moun ki ranmine konesans!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kè kontan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "e moun"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ranmine"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "konesans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:51.756475071Z",
+  "model": "glm-5.3"
+}

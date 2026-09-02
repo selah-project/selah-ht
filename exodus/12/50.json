@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi tout pitit Yisrael fè jan Yawe kòmande ⟨את⟩ Moche ak ⟨את⟩ Aharòn — konsa yo fè l.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲשׂוּ",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Aharòn"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "עָשׂוּ",
+      "gloss": "fè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:56.433696936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Avraham priye pou ⟨את⟩ HaElohim, e Elohim geri ⟨את⟩ Avimelekh, ak ⟨את⟩ madanm li, ak sèvant fi yo — e yo fè pitit.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "priye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "geri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "madanm li"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ak sèvant fi yo"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "e yo fè pitit"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:03.094541697Z",
+  "model": "glm-5.3"
+}

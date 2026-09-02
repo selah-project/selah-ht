@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi ou se ⟨moun ki⟩ sen, ki chita sou louwanj Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Epi ou"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ki chita"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "sou louwanj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:20.591545461Z",
+  "model": "glm-5.3"
+}

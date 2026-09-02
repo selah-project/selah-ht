@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Li renmen madichon, e li vini sou li; li pa renmen benediksyon, e li rete lwen lwen li.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "madichon"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "li vini sou li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "benediksyon"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "li rete lwen lwen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:59.311123500Z",
+  "model": "glm-5.3"
+}

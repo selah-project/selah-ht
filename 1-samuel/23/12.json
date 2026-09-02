@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E David di: Èske moun ki gen Keyila a pral livre ⟨את⟩ mwen ak ⟨את⟩ gason m yo nan men Chaoul? E Yawe di: Yo pral livre yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Èske yo pral livre"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "moun ki gen"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keyila a"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "gason m yo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gason m yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Yo pral livre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:34:57.368255605Z",
+  "model": "glm-5.3"
+}

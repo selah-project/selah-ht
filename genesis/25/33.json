@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E Yaakov di: Chere m jimen jodi a. E ⟨li⟩ jimen pou li, e li vann ⟨את⟩ dwa premye pitit li a bay Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "chere m jimen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jodi a"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "e jimen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "e vann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwa premye pitit li a"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "dwa premye pitit"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "bay Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T15:22:27.966140537Z",
+  "model": "glm-5.3"
+}

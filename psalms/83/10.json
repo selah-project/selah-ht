@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "Fè pou yo tankou Midyan, tankou Sisra, tankou Yavin, nan rivyè Kichon —",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fè"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "tankou Midyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "tankou Sisra"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "tankou Yavin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "nan rivyè"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kichon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:47.190583777Z",
+  "model": "glm-5.3"
+}

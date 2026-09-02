@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Nan peyi sa a Achour soti, e li bati ⟨את⟩ Ninivè ak ⟨את⟩ Rehobot-Ìr ak ⟨את⟩ Kalakh.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achour"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "li bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninivè"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninivè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Rehobot-Ìr"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ìr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Kalakh"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:56.747271441Z",
+  "model": "glm-5.3"
+}

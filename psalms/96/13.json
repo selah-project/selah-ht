@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 96,
+  "translation": "Devan Yawe, paske l ap vini, paske l ap vini pou l jije tè a: l ap jije monn nan avèk jistis, e pèp yo avèk lafwa l.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Devan"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בָּא",
+      "gloss": "l ap vini"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "בָּא",
+      "gloss": "l ap vini"
+    },
+    {
+      "surface": "לִשְׁפֹּט",
+      "gloss": "pou l jije"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "יִשְׁפֹּט",
+      "gloss": "l ap jije"
+    },
+    {
+      "surface": "תֵּבֵל",
+      "gloss": "monn nan"
+    },
+    {
+      "surface": "בְּצֶדֶק",
+      "gloss": "avèk jistis"
+    },
+    {
+      "surface": "וְעַמִּים",
+      "gloss": "e pèp yo"
+    },
+    {
+      "surface": "בֶּאֱמוּנָתוֹ",
+      "gloss": "avèk lafwa l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:59.783414839Z",
+  "model": "glm-5.3"
+}

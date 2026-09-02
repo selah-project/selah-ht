@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 10:6",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E lè nou sonen yon tèt son yon dezyèm fwa, kan yo ki kanpe bò sid ap leve ale; y ap sonen tèt son pou chak etap yo.",
+  "tokens": [
+    {
+      "surface": "וּתְקַעְתֶּם",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "תְּרוּעָה",
+      "gloss": "yon tèt son"
+    },
+    {
+      "surface": "שֵׁנִית",
+      "gloss": "yon dezyèm fwa"
+    },
+    {
+      "surface": "וְנָסְעוּ",
+      "gloss": "ap leve ale"
+    },
+    {
+      "surface": "הַמַּחֲנוֹת",
+      "gloss": "kan yo"
+    },
+    {
+      "surface": "הַחֹנִים",
+      "gloss": "ki kanpe"
+    },
+    {
+      "surface": "תֵּימָנָה",
+      "gloss": "bò sid"
+    },
+    {
+      "surface": "תְּרוּעָה",
+      "gloss": "tèt son"
+    },
+    {
+      "surface": "יִתְקְעוּ",
+      "gloss": "y ap sonen"
+    },
+    {
+      "surface": "לְמַסְעֵיהֶם",
+      "gloss": "pou chak etap yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:25:17.680130420Z",
+  "model": "glm-5.3"
+}

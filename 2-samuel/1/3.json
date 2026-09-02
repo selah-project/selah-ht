@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E David di l: Ki kote w soti? E l di l: Mwen chape soti nan kan Izrayèl la.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ki kote"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "soti"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "w vini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "soti nan kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "mwen chape"
+    }
+  ],
+  "timestamp": "2026-09-02T17:41:35.528277334Z",
+  "model": "glm-5.3"
+}

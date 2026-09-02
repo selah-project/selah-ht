@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Yawe wo, paske ⟨li⟩ rete nan wotè; li ranpli Tsiyòn ak jijman ak jistis.",
+  "tokens": [
+    {
+      "surface": "נִשְׂגָּב",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שֹׁכֵן",
+      "gloss": "rete"
+    },
+    {
+      "surface": "מָרוֹם",
+      "gloss": "nan wotè"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "וּצְדָקָה",
+      "gloss": "ak jistis"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:45.282832005Z",
+  "model": "glm-5.3"
+}

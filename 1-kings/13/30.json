@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi l mete ⟨את⟩ kadav li nan tonm li, epi yo fè pletri sou li ⟨yo di⟩: Owo, frè m!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadav li"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "kadav li"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "nan tonm li"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "epi yo fè pletri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Owo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:02:02.242935958Z",
+  "model": "glm-5.3"
+}

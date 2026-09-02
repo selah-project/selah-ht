@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E Achitouv fè ⟨את⟩ Tsadok, e Tsadok fè ⟨את⟩ Chaloum.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "e Achitouv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "e Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaloum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Chaloum"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:54.131748030Z",
+  "model": "glm-5.3"
+}

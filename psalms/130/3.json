@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 130,
+  "translation": "Si ou gade fout akò, Yah, kiyès kapab kanpe, Adònay?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "fout akò"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ou gade"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kapab kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:58.025092135Z",
+  "model": "glm-5.3"
+}

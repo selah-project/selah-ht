@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Epi tout moun ki gen kè sajè pami nou — kite l vini, epi fè tout ⟨את⟩ tout sa Yawe kòmande",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Epi tout"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sajè"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pami nou"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kite l vini"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:10.866023072Z",
+  "model": "glm-5.3"
+}

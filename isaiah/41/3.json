@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Li pouse yo dèyè, li pase an sekirite — yon wout ak pye li pa menm antre nan l.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Li pouse yo dèyè"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "li pase"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "an sekirite"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yon wout"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ak pye li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "antre"
+    }
+  ],
+  "timestamp": "2026-09-02T18:37:31.061723691Z",
+  "model": "glm-5.3"
+}

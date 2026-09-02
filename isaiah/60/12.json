@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Paske nasyon an ak wayòm nan ki pa ap sèvi ou pral pèdi; e nasyon yo pral ravaje totalman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "nasyon an"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "ak wayòm nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "ap sèvi ou"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "pral pèdi"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "e nasyon yo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ravaje"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "pral ravaje totalman"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:59.580133718Z",
+  "model": "glm-5.3"
+}

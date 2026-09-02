@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Malè! Nasyon pecè, pèp chaje ak inikite, pitit pitit malfektè, timoun k'ap detwi! Yo abandone ⟨את⟩ Yawe, yo meprize ⟨את⟩ Sen Yisrayèl, yo vire do bay li.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malè!"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "Nasyon"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "pecè"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "chaje"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ak inikite"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pitit pitit"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "malfektè"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "timoun"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "k'ap detwi"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Yo abandone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "yo meprize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sen Yisrayèl"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "yo vire do"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bay li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:53.276803882Z",
+  "model": "glm-5.3"
+}

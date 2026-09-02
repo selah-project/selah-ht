@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Wou fin debòde yo kòm yon gadò dlo; yo vin tankou dòmi; nan maten yo tankou zèb ki pase.",
+  "tokens": [
+    {
+      "surface": "זְרַמְתָּם",
+      "gloss": "fin debòde yo"
+    },
+    {
+      "surface": "שֵׁנָה",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "yo vin"
+    },
+    {
+      "surface": "בַּבֹּקֶר",
+      "gloss": "nan maten"
+    },
+    {
+      "surface": "כֶּחָצִיר",
+      "gloss": "tankou zèb"
+    },
+    {
+      "surface": "יַחֲלֹף",
+      "gloss": "pase"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:09.113919463Z",
+  "model": "glm-5.3"
+}

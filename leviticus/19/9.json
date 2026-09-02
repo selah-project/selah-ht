@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Epi lè zòt rekòlte ⟨את⟩ rekòt tè zòt an, ou pa dwe fin konkwen kwen jaden w pou rekòlte, epi griyay rekòt ou a, ou pa dwe ramase l.",
+  "tokens": [
+    {
+      "surface": "וּֽבְקֻצְרְכֶם",
+      "gloss": "epi lè zòt rekòlte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rekòt"
+    },
+    {
+      "surface": "קְצִ֣יר",
+      "gloss": "rekòt"
+    },
+    {
+      "surface": "אַרְצְכֶם",
+      "gloss": "tè zòt an"
+    },
+    {
+      "surface": "לֹ֧א",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תְכַלֶּ֛ה",
+      "gloss": "fin konkwen"
+    },
+    {
+      "surface": "פְּאַ֥ת",
+      "gloss": "kwen"
+    },
+    {
+      "surface": "שւָדְךָ֖",
+      "gloss": "jaden w"
+    },
+    {
+      "surface": "לִקְצֹ֑ר",
+      "gloss": "pou rekòlte"
+    },
+    {
+      "surface": "וְלֶ֥קֶט",
+      "gloss": "epi griyay"
+    },
+    {
+      "surface": "קְצִֽירְךָ֖",
+      "gloss": "rekòt ou a"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תְלַקֵּֽט",
+      "gloss": "ramase"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:11.887851745Z",
+  "model": "glm-5.3"
+}

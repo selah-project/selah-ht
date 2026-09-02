@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Mwen wè ⟨את⟩ travay la ke Elohim bay pitit gason moun yo pou yo okipe yo ak li.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mwen wè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "travay la"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "travay la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pou pitit gason"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun yo"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "pou yo okipe yo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ak li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:59.955556541Z",
+  "model": "glm-5.3"
+}

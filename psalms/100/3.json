@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 100,
+  "translation": "Konnen pou nou konnen ke Yawe, se li menm ki Elohim; se li menm ki fè nou, e se pa nou menm ⟨ki fè nou⟩; nou se pèp li a, ak mouton pastè li yo.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ki Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ki fè nou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e se pa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li a"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ak mouton"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "pastè li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:06.050449134Z",
+  "model": "glm-5.3"
+}

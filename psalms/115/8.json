@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 115,
+  "translation": "Moun k fè yo ap vin menm jan ak yo; tout moun k ap mete konfyans sou yo menm jan tou.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "menm jan ak yo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "moun k fè yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "k"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "mete konfyans"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:17.039426064Z",
+  "model": "glm-5.3"
+}

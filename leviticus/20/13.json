@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Epi yon nonm ki dòmi ak ⟨את⟩ yon gason, jan moun dòmi ak ⟨את⟩ yon fanm — toèvba de yo fè a; mòt, yo ap mouri; san yo ap sou yo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi yon nonm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yon gason"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yon gason"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "jan moun dòmi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yon fanm"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "toèvba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de yo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mòt"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "yo ap mouri"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "san yo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:41.841256096Z",
+  "model": "glm-5.3"
+}

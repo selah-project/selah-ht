@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Konsa ⟨li te fè sa⟩ ane apre ane; chak fwa li te moute kay Yawe a, konsa l te pwovoke l, e Hana te plere e li pa t ap kapab manje.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨li te fè sa⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "apre ane"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "chak fwa"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "li te moute"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "l te pwovoke l"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "e Hana te plere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e li pa t ap"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kapab manje"
+    }
+  ],
+  "timestamp": "2026-09-02T17:24:06.825713576Z",
+  "model": "glm-5.3"
+}

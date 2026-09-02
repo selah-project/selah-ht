@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Men tou, se sanch Tèrach yo: Tèrach fè ⟨את⟩ Avram, ⟨את⟩ Nakhor, ak ⟨את⟩ Haran; e Haran fè ⟨את⟩ Lo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Men tou"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "sanch yo"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Tèrach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Tèrach"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè (pitit)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "e Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè (pitit)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:17:49.248464157Z",
+  "model": "glm-5.3"
+}

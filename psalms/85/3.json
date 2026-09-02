@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 85,
+  "translation": "Ou pote ⟨את⟩ fay pèp ou a; ou kouvri tout peche yo. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "ou pote"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou a"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "ou kouvri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "peche yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:35.723409487Z",
+  "model": "glm-5.3"
+}

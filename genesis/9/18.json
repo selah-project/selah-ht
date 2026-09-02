@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Pitit Noach yo, yo menm ki te soti nan bato a: Chem, ak Kham, ak Yefèt; e Kham, li menm, se papa Kenaàn.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ki soti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bato a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ak Kham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ak Yefèt"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "e Kham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:30.638734101Z",
+  "model": "glm-5.3"
+}

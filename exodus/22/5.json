@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si dife soti epi li jwenn epèn, e (li) manje pile epis la oswa ble ki kanpe a oswa chan an — moun ki m dife a dwe remèt ⟨את⟩ domaj la.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dife"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "epi li jwenn"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "epèn"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "epi (li) manje"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "pile epis la"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ble ki kanpe a"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chan an"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "dwe remèt"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "remèt"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "moun ki m dife a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domaj la"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "domaj la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:31.652356840Z",
+  "model": "glm-5.3"
+}

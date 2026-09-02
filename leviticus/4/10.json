@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "jan yo retire l nan bèf sakrifis chalom yo, e prèt la ap fimen yo sou otè a nan ofrand ki boule a.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "yo retire l"
+    },
+    {
+      "surface": "משור",
+      "gloss": "nan bèf"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "chalom yo"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "e ap fimen yo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otè a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrand ki boule a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:37.687445220Z",
+  "model": "glm-5.3"
+}

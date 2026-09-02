@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E Avraham bese tèt devan pèp tè a.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "e l bese tèt"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:36.523296403Z",
+  "model": "glm-5.3"
+}

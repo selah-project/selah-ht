@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "alò w ap mennen l andedan kay ou a, e li ap raze tèt ⟨את⟩ li, e li ap fè ⟨את⟩ zong li yo",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "alò w ap mennen l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "annedan"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "… andedan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kay ou a"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "e li ap raze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt li"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "tèt li"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "e li ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zong li yo"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "zong li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:50:42.264397231Z",
+  "model": "glm-5.3"
+}

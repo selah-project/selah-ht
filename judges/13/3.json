@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E mesaje Yawe a parèt bay madanm nan, e li di li: Gade, tanpri, ou esteril e ou pa fè pitit, w ap ansent e w ap fè yon gason.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "parèt"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mesaje"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "madanm nan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "li"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "את",
+      "gloss": "ou",
+      "marks": "ou (pwonon, H859 — se pa mak objè dirèk)"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "esteril"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "w ap ansent"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "w ap fè pitit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yon gason"
+    }
+  ],
+  "timestamp": "2026-09-02T17:18:48.360938388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Ki rekòt li yon grangou manje, e yo pran l jouk nan epèn yo, e sa k gen swaf ap vale richès yo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "rekòt li"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "yon grangou"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jouk nan"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "epèn yo"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "pran l"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "ap vale"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "sa k gen swaf"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "richès yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:05.094706431Z",
+  "model": "glm-5.3"
+}

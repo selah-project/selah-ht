@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E repo tè a ap fèt pou nou pou manje — pou ou, ak pou sèvitè ou, ak pou sèvant fi ou, ak pou salaye ou, ak pou moun k ap viv kòm etranje avèk ou a.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ap fèt"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "repo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "pou manje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "ak pou sèvitè ou"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "ak pou sèvant fi ou"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "ak pou salaye ou"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "ak pou moun ki rete ou"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "k ap viv kòm etranje"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:03.523111312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Lè sa a, tout ansyen yo nan Yisrael reyini ansanm, e yo vini ⟨auprè⟩ Chemouèl nan Rama.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "reyini ansanm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ansyen yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "yo vini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auprè"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "nan Rama"
+    }
+  ],
+  "timestamp": "2026-09-02T21:49:17.590960567Z",
+  "model": "glm-5.3"
+}

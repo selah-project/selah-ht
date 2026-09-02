@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E yon souchèt prann soti nan soucho Yishay, e yon branch kreyse soti nan rasinen li prann fwi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e prann soti"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "yon souchèt"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "nan soucho"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "e yon branch"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "nan rasinen li"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "prann fwi"
+    }
+  ],
+  "timestamp": "2026-09-02T18:26:37.305198716Z",
+  "model": "glm-5.3"
+}

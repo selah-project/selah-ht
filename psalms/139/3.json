@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Chimen m ak kouche m, ou vanjen; epi ak tout chemen m yo, ou abitye.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Chimen m"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "ak kouche m"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "ou vanjen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "epi ak tout"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "chemen m yo"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ou abitye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:49.084317140Z",
+  "model": "glm-5.3"
+}

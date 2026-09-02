@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "epi yo ap rele non l nan Yisrayèl: Kay moun ki sandale l te retire.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "epi yo ap rele"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nan Yisrayèl"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "moun ki sandale l retire"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sandale la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:09.208942391Z",
+  "model": "glm-5.3"
+}

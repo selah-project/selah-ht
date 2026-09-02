@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Kime nan tout dye peyi sa yo ki te delivre ⟨את⟩ peyi yo nan men m, pou Yawe ta ka delivre ⟨את⟩ Yerouchalayim nan men m?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kime"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "te delivre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyi yo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "peyi yo"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nan men m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ta ka delivre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nan men m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:34:46.881285133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E li depòte ⟨את⟩ Yehoyachin ale Babilòn, ak ⟨את⟩ manman wa a, ak ⟨את⟩ fanm wa yo, ak ⟨את⟩ saris li yo, ak ⟨את⟩ gason pwisan peyi a — li mennen yo an depòtasyon depi Yerouchalayim rive Babilòn.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "e li depòte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyachin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyachin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ale Babilòn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "manman wa a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "fanm wa yo"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "saris li yo"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "saris li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "gason pwisan peyi a"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "gason pwisan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "li mennen"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "an depòtasyon"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "depi Yerouchalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "rive Babilòn"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:54.905292347Z",
+  "model": "glm-5.3"
+}

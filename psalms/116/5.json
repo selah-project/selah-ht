@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Grasye e jis ⟨se⟩ Yawe, e Elohim nou an yon moun ki gen konpasyon.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Grasye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "epi jis"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ak Elohim nou an"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ki gen konpasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:56.933745446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Nou pral konte pou nou, soti nan demen chabat la, soti nan jou nou pote ⟨את⟩ omer ofann sekou a: sèt chabat konplè yo pral ye.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "konte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "demen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "chabat la"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "soti nan jou"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ofann sekou a"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "chabat"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "konplè"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "yo pral ye"
+    }
+  ],
+  "timestamp": "2026-09-02T16:16:56.735733803Z",
+  "model": "glm-5.3"
+}

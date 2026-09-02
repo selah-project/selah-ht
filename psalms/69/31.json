@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "M ap fè lwanj Non Elohim ak yon chant, e m ap fè l gro nan rekonesans.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "m ap fè lwanj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Non"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "ak yon chant"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "e m ap fè l gro"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "nan rekonesans"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:12.423127680Z",
+  "model": "glm-5.3"
+}

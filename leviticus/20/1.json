@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E Yawe pale ak Moche, li di:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li di"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:37.338368543Z",
+  "model": "glm-5.3"
+}

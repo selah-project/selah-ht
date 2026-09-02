@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E mwen menm, mwen te anseye Efrayim mache, mwen te pran yo sou bra m; men yo pa t konnen se mwen te geri yo.",
+  "tokens": [
+    {
+      "surface": "וְאָנֹכִי",
+      "gloss": "e mwen menm"
+    },
+    {
+      "surface": "תִּרְגַּלְתִּי",
+      "gloss": "mwen te anseye mache"
+    },
+    {
+      "surface": "לְאֶפְרַיִם",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קָחָם",
+      "gloss": "mwen te pran yo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "זְרֹעֹתָיו",
+      "gloss": "bra m"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "men yo pa t"
+    },
+    {
+      "surface": "יָדְעוּ",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "רְפָאתִים",
+      "gloss": "mwen te geri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:45.570578559Z",
+  "model": "glm-5.3"
+}

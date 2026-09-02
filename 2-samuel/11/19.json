@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E li bay ⟨את⟩ mesaj la lòd, pou li di: lè w fin pale bay wa a ⟨את⟩ tout pawòl lagè a —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e li bay lòd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesaj la"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mesaj la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou li di"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "lè w fin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pawòl lagè a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "lagè a"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pou w pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:23.699810408Z",
+  "model": "glm-5.3"
+}

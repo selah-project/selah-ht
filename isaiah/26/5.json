@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Paske li abese moun k ap rete anwo nan wotè a, vil ki kanpe wo a li fè l bese, li fè l bese jiskanm tè a, li fè l desann jiskanm pousyè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "השח",
+      "gloss": "abese"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun k ap rete"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "anwo nan wotè a"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "vil"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ki kanpe wo"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "li fè l bese"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "li fè l bese"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskanm"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "li fè l desann"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiskanm"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pousyè"
+    }
+  ],
+  "timestamp": "2026-09-02T18:29:26.224465478Z",
+  "model": "glm-5.3"
+}

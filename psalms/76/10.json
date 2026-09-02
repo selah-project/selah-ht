@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "Sou levè Elohim kanpe pou jijman, pou sove tout moun ògmante ki sou tè a. Selach.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Sou levè"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "pou jijman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "pou sove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "moun ògmante"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ki sou tè a"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selach"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:04.725005499Z",
+  "model": "glm-5.3"
+}

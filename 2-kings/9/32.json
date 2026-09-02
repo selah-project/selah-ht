@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Li leve je l vè fenèt la, epi li di: Kiyès ⟨את⟩ ak mwen? Kiyès? E de oswa twa saris (nòb) gade desann vè li.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "li leve"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "je l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vè"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fenèt la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ak mwen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kiyès"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "e ... gade desann"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vè li"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "oswa twa"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "saris (nòb)"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:01.242227439Z",
+  "model": "glm-5.3"
+}

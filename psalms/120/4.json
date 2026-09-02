@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 120,
+  "translation": "Flech ak pwen ki fèt pou gason kemayan, ansanm ak chabon retam yo.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Flech"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gason kemayan"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ak pwen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "chabon"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "retam yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:39.068075019Z",
+  "model": "glm-5.3"
+}

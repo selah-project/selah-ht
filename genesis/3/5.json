@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Paske Elohim konnen paske nan jou a lè n ap manje l, je n ap louvri, epi n ap vin tankou Elohim, konesan bon ak movè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "l"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "louvri"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "je nou"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "vin"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "tankou Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "konesan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ak movè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:14.346670076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Ou elimine tankou kokenn tout mechan yo sou tè a; se poutèt sa m renmen temwayaj ou yo.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "tankou kokenn"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Ou elimine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "se poutèt sa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "m renmen"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "temwayaj ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:15.168718111Z",
+  "model": "glm-5.3"
+}

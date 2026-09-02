@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E mwen menm mwen fè lwanj pou ⟨את⟩ moun ki mouri yo ki deja mouri, plis pase moun k ap viv yo, k ap viv koulye a.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "e fè lwanj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki mouri yo"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "moun ki mouri yo"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "deja"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pase"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "moun k ap viv yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "k ap viv"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "koulye a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:55.715001876Z",
+  "model": "glm-5.3"
+}

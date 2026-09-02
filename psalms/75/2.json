@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 75,
+  "translation": "Nou rekonèt ou, Elohim, nou rekonèt ou, paske non ou tou pre; yo rakonte mèvèy ou yo.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Nou rekonèt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "nou rekonèt"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "tou pre"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "non ou"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "yo rakonte"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "mèvèy ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:32.495557378Z",
+  "model": "glm-5.3"
+}

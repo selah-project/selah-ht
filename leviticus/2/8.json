@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E pote ⟨את⟩ ofrann nan ki fèt ak youn nan bagay sa yo ba Yawe, epi pote l toupre kòhan an, e mennen l bò altè a.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "E pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann nan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofrann nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ak youn nan bagay sa yo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ba Yawe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "epi pote l toupre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kòhan an"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "epi mennen l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:51.486437445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Pran ⟨את⟩ nan mitan nou yon terouma pou Yawe: tout moun kè l lib ap pote ⟨את⟩ terouma Yawe a: lò, ak ajan, ak kwiv.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Pran"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ nan mitan nou"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "yon terouma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "lib"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "ap pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terouma Yawe a"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terouma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ak ajan"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ak kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:09.416741147Z",
+  "model": "glm-5.3"
+}

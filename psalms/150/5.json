@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 150,
+  "translation": "Fè lwanj pou l ak sèk sanbou ki fè son: fè lwanj pou l ak sèk sanbou ki fè yon gwo Cri de tronpe.",
+  "tokens": [
+    {
+      "surface": "הַלְלוּהוּ",
+      "gloss": "Fè lwanj pou l"
+    },
+    {
+      "surface": "בְצִלְצְלֵי",
+      "gloss": "ak sèk sanbou"
+    },
+    {
+      "surface": "שָׁמַע",
+      "gloss": "ki fè son"
+    },
+    {
+      "surface": "הַלְלוּהוּ",
+      "gloss": "fè lwanj pou l"
+    },
+    {
+      "surface": "בְצִלְצְלֵי",
+      "gloss": "ak sèk sanbou"
+    },
+    {
+      "surface": "תְרוּעָה",
+      "gloss": "ki fè yon gwo Cri de tronpe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:29.068284638Z",
+  "model": "glm-5.3"
+}

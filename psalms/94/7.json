@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 94,
+  "translation": "E yo di: «Yah pa wè, e Elohim Yaakov pa konprann.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E yo di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wè"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:13.481263422Z",
+  "model": "glm-5.3"
+}

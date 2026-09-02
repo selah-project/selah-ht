@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Ki moun ki pa konnen nan tout bagay sa yo, ke se men Yawe ki fè sa a?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bagay sa yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יד",
+      "gloss": "men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:48.499694181Z",
+  "model": "glm-5.3"
+}

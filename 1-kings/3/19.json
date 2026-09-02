@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi pitit gason fanm sa a mouri pandan lannwit la, paske li kouchye sou li.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lannwit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "kouchye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:39.241804922Z",
+  "model": "glm-5.3"
+}

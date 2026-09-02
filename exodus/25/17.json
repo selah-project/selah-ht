@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E ou fè ⟨yon⟩ kaporet an lò pir: de kou ak mwatye longè li, e yon kou ak mwatye lajè li.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pir"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "de kou"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak mwatye"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "longè li"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e yon kou"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ak mwatye"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lajè li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:37.903075144Z",
+  "model": "glm-5.3"
+}

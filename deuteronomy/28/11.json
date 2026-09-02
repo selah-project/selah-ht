@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 28:11",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi Yawe ap fè ou rich ak byen — nan fwi vant ou, nan fwi bèt ou yo, ak nan fwi tè ou — sou tè a ke Yawe te jire pou zansèt ou yo pou l ban ou.",
+  "tokens": [
+    {
+      "surface": "והותרך",
+      "gloss": "epi ap fè ou rich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ak byen"
+    },
+    {
+      "surface": "בפרי",
+      "gloss": "nan fwi"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "vant ou"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "ak nan fwi"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "bèt ou"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "ak nan fwi"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tè ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "te jire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "pou zansèt ou"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pou bay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:55:17.097073449Z",
+  "model": "glm-5.3"
+}

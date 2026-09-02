@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Paske moun sa ⟨ou⟩ frape a, yo pouse l pi devan; e sou doulè moun ou blese yo, yo konte istwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ... a"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "frape"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "yo pouse l pi devan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e sou"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "doulè"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "moun ou blese yo"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "yo konte istwa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:56.772306084Z",
+  "model": "glm-5.3"
+}

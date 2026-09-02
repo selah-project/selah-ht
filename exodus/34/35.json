@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 34:35",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Epi pitit Yisrael yo wè ⟨את⟩ figi Moche, paske po figi Moche te klere; epi Moche remete ⟨את⟩ vwal la sou figi l jouk l antre pou l pale avèk li ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi Moche"
+    },
+    {
+      "surface": "пני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "klere"
+    },
+    {
+      "surface": "עור",
+      "gloss": "po"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "remete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwal la"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "vwal la"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "באו",
+      "gloss": "antre l"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pou pale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avèk li ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:57.773806653Z",
+  "model": "glm-5.3"
+}

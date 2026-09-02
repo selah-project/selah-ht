@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Blesi kout yo santi move epi yo pouri, a kòz sòtès mwen.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "santi move"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "epi yo pouri"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "Blesi kout m yo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "a kòz"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "sòtès mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:05.869556634Z",
+  "model": "glm-5.3"
+}

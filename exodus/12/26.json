@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E l ap rive ⟨ke⟩ lè pitit yo nou yo di ⟨a⟩ nou: Ki sa sèvis sa a ye pou nou?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E l ap rive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ke⟩ lè"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨a⟩ nou"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pitit yo nou yo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ki sa"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "sèvis"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:32.662601811Z",
+  "model": "glm-5.3"
+}

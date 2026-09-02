@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Ou se yon kachèt pou mwen; nan tanzantan ou ap garde mwen; ou ap antoure mwen ak kriyo delivrans. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "kachèt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "nan tanzantan"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "ou ap garde mwen"
+    },
+    {
+      "surface": "רני",
+      "gloss": "kriyo"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "ou ap antoure mwen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:31.705347809Z",
+  "model": "glm-5.3"
+}

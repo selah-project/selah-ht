@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Pitit sèvant ou yo ap rete (ap viv an sekirite), ak desandan yo ap kanpe fèm devan ou.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvant ou yo"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "ap rete"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ak desandan yo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ap kanpe fèm"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:24.537087558Z",
+  "model": "glm-5.3"
+}

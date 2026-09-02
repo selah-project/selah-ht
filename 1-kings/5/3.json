@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "dis bèf gra, e ven bèf nan patiraj la, ak san mouton, san konte zèb (ayal), gazèl, dè (yahmour), e zwazo yo te nouri an kaz.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "gra"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e ven"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "nan patiraj la"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ak san"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "san konte"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "zèb (ayal)"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "gazèl"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "dè (yahmour)"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "zwazo"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "nouri an kaz"
+    }
+  ],
+  "timestamp": "2026-09-02T17:57:21.877777790Z",
+  "model": "glm-5.3"
+}

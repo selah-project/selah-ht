@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "E Chaoul mande Yawe konsèy, men Yawe pa reponn l — ni nan rév yo, ni nan Ourim yo, ni nan pwofèt yo.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "mande"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "reponn l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "nan rév yo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "nan Ourim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "nan pwofèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:05.227602905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "E Vetouèl fè ⟨את⟩ Rivka; uit se sa yo Milka fè pou Nakhor, frè Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "E Vetouèl"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "uit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "pou Nakhor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frè"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:48.917459677Z",
+  "model": "glm-5.3"
+}

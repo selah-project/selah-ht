@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E yo mete sou yo chèf travay fòse, pou yo tiye yo anba chay yo. E li bati vil depo pou Paro: ⟨את⟩ Pitom ak ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "E yo mete"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "travay fòse"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "yo tiye yo"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "anba chay yo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "E li bati"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "depo"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "pou Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:25.328112128Z",
+  "model": "glm-5.3"
+}

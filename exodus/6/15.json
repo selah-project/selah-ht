@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E pitit Chimòn yo: Yemouèl, Yamìn, Ohad, Yakìn, Tsohar, ak Chaoul, pitit gason fanm Kenaàn a — se famiy Chimòn yo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E pitit"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimòn"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemouèl"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ak Yamìn"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "ak Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ak Yakìn"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "ak Tsohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ak Chaoul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "fanm Kenaàn a"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "famiy"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimòn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:47.563780606Z",
+  "model": "glm-5.3"
+}

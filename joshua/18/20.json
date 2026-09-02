@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E Yarden an trase ⟨את⟩ li kòm limit sou bò lès. Se sa eritaj pitit Benyamen yo, limit li toupatou alantou, dapre fanmi yo.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "E Yarden an"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "trase ... kòm limit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (eritaj la)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sou bò"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "lès"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Se sa"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "eritaj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit ... yo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamen"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "limit li"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toupatou alantou"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:07:47.311932215Z",
+  "model": "glm-5.3"
+}

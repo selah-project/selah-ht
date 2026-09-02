@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "E sa a se benediksyon ⟨ke⟩ Moche, nonm HaElohim, beni ⟨את⟩ pitit Yisrayèl yo devan mò li.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "E sa a"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "benediksyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrayèl yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "mò li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:36.068657924Z",
+  "model": "glm-5.3"
+}

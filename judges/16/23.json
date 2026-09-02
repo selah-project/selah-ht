@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 16:23",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi chèf Pelichtim yo reyini pou yo ofri yon gwo sakrifis Dagòn, dye yo a, epi pou fè fèt, epi yo di: dye nou an ban nou nan men nou ⟨את⟩ Chimchon, ennmi nou an.",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "epi chèf"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelichtim yo"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "pou yo ofri"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "לדגון",
+      "gloss": "Dagòn"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dye yo"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "epi pou fè fèt"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "epi yo di"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "dye nou"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "nan men nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chimchon"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Chimchon"
+    },
+    {
+      "surface": "אויבינו",
+      "gloss": "ennmi nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:21:00.591722649Z",
+  "model": "glm-5.3"
+}

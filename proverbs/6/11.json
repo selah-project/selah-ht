@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi laviè ou ap vini tankou yon vwayajè, epi mank ou tankou yon gason ki pote ⟨bouclier⟩.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "epi ap vini"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "tankou yon vwayajè"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "laviè ou"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "epi mank ou"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "tankou yon gason"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ki pote bouclier"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:28.980982322Z",
+  "model": "glm-5.3"
+}

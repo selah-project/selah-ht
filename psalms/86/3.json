@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Fè mwen gràs, Adònay, paske se ban ou mwen ap rele tout jou a.",
+  "tokens": [
+    {
+      "surface": "חננí",
+      "gloss": "Fè mwen gràs"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ban ou"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mwen ap rele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:44.890850888Z",
+  "model": "glm-5.3"
+}

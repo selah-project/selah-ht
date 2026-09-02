@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Yo lewe nan fen nwit ⟨nan lòd⟩ pou yo ale nan kan Aram, e yo rive jis nan bò kan Aram, e gade, pa gen yon moun la.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "lewe"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "nan fen nwit"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pou yo ale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "yo rive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jis"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "bò"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:36.365283510Z",
+  "model": "glm-5.3"
+}

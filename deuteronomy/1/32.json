@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "E nan bagay sa a, nou pa kwaye nan Yawe Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "E nan bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "nou pa"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "kwaye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:41:52.210485153Z",
+  "model": "glm-5.3"
+}

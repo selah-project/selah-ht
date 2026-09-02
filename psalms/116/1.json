@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 116,
+  "translation": "Mwen renmen ⟨pou⟩, paske Yawe tande ⟨את⟩ vwa mwen, pri mwen.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Mwen renmen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa mwen"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vwa mwen"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pri mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:56.342823930Z",
+  "model": "glm-5.3"
+}

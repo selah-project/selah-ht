@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Lang moun saj yo fè konesans vin bon, men bouch sòt yo koule fòly deyò.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "Lang"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "moun saj yo"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "fè ... vin bon"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konesans"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men bouch"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sòt yo"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "koule deyò"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "fòly"
+    }
+  ],
+  "timestamp": "2026-09-02T20:26:04.975643905Z",
+  "model": "glm-5.3"
+}

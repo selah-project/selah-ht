@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Yawe Elohim pran ⟨את⟩ moun nan, e li fè l kanpe nan jaden Edèn pou l sèvi l ak pou l garde l.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun nan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "fè l kanpe"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nan jaden"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edèn"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "pou l sèvi l"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ak pou l garde l"
+    }
+  ],
+  "timestamp": "2026-09-02T22:17:34.339359943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "E wa Izrayèl la reponn e l di: Pale — pa fè lwanj moun ki kwense sentiwon an jan moun ki ap retire l fè.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "E ... reponn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "fè lwanj"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "moun ki kwense (sentiwon)"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "jan moun ki ap retire l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:05:15.288468939Z",
+  "model": "glm-5.3"
+}

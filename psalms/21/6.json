@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Gwo glwa l nan delivrans ou; majeste ak splandè ou mete sou li.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Gwo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glwa l"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "nan delivrans ou"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "majeste"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ak splandè"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "mete"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:28.941528736Z",
+  "model": "glm-5.3"
+}

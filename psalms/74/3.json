@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Leve pye ou yo ale nan rwen pèmanàn yo — tout sa ⟨ke⟩ enmi a fè mal nan sanktywè a.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "pye ou yo"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ale nan rwen"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "pèmanàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "fè mal"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enmi a"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nan sanktywè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:41.743939465Z",
+  "model": "glm-5.3"
+}

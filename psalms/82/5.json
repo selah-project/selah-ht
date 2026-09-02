@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 82,
+  "translation": "Yo pa konnen, epi yo pa konprann; nan fènwa yo ap mache; tout fondaman tè a ap tranble.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "nan fènwa"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ap tranble"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "fondaman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:33.295551907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Kouran rivyè yo — kouran siwo myèl ak bè — l ap pa wè ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "kouran"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "rivyè yo"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "kouran"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "siwo myèl"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "ak bè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:38:05.365501306Z",
+  "model": "glm-5.3"
+}

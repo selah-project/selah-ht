@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Nan kote yo touye ⟨את⟩ ofrann boule a, yo ap touye ⟨את⟩ achòf la; e ⟨את⟩ san l yo ap gaye sou lotèl la toutotou.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Nan kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "yo touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann boule a"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrann boule a"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "yo ap touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "achòf la"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "achòf la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "san l"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san l"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "toutotou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:06:07.674317222Z",
+  "model": "glm-5.3"
+}

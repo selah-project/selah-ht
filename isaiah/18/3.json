@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Tout moun ki abite sou latè a ak moun k'ap rete sou tè a: lè ⟨y ap⟩ leve yon siy sou mòn yo — gade; lè ⟨y ap⟩ sonnen kònen an — tande.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "moun ki abite"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sou latè a"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "ak moun k'ap rete"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "lè y ap leve"
+    },
+    {
+      "surface": "נס",
+      "gloss": "yon siy"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sou mòn yo"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "gade"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "ak lè y ap sonnen"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "kònen an"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "tande"
+    }
+  ],
+  "timestamp": "2026-09-02T18:29:02.478127919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Gen yon bagay ke yon moun ka di: Gade, sa a se nouvo? Li te deja ye depi lontan, nan syèk yo ki te ye devan nou.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yon bagay"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "ke yon moun ka di"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouvo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "te deja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "nan syèk yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "devan nou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:49:36.022913185Z",
+  "model": "glm-5.3"
+}

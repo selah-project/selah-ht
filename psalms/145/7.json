@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 145,
+  "translation": "Yo ap fè memwa bonjte w gran ou a jaire, e jistis ou a yo ap chante l.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "memwa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gran"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "bonjte ou a"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "yo ap fè jaire"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "e jistis ou a"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "yo ap chante"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:27.558144742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Menm jan toua, El ap detwi ou pou toutan; l ap pran ⟨ou⟩, l ap rale ou soti nan tant ⟨ou⟩, epi l ap rale rasin ⟨ou⟩ soti nan tè kote vivan yo ye. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "menm jan toua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "ap detwi ou"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "l ap pran ou"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "l ap rale ou"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "soti nan tant"
+    },
+    {
+      "surface": "וירשך",
+      "gloss": "epi rasin ou"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan tè"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kote vivan yo ye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:30.497470173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E ⟨li⟩ fè yo konsa, e ⟨li⟩ delivre yo ⟨את⟩ sou men pitit Yisrayèl yo, e yo pa touye yo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E fè"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "e delivre"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (Givonyen yo)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sou men"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "touye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:02:27.010873157Z",
+  "model": "glm-5.3"
+}

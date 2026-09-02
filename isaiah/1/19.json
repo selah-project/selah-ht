@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Si nou vle e si nou koute, byen tè a nou pral manje.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "nou vle"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "e si nou koute"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou pral manje"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:40.461157653Z",
+  "model": "glm-5.3"
+}

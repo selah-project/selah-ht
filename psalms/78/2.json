@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "M ap louvri bouch mwen nan yon parab; m ap fè devinèt yo soti, soti depi lontan an.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "m ap louvri"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "nan yon parab"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch mwen"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "m ap fè soti"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "devinèt yo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "soti"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "depi lontan an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:01.008999361Z",
+  "model": "glm-5.3"
+}

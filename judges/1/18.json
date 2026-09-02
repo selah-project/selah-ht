@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Yehouda pran ⟨את⟩ Aza ak ⟨את⟩ teritwa l, ak ⟨את⟩ Achkelon ak ⟨את⟩ teritwa l, ak ⟨את⟩ Ekron ak ⟨את⟩ teritwa l.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "pran"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "teritwa l"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "teritwa l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Achkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Achkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "teritwa l"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "teritwa l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "teritwa l"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "teritwa l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:12:15.005407081Z",
+  "model": "glm-5.3"
+}

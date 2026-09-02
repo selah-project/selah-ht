@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Se sèvant ou mwen ye; ban m konpreansyon, pou m ka konnen temwayaj ou yo.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "sèvant ou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ban m konpreansyon"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "pou m konnen"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "temwayaj ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:55.430595446Z",
+  "model": "glm-5.3"
+}

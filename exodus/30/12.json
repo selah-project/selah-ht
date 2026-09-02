@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 30:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Lè ⟨ou⟩ pran ⟨את⟩ tèt pitit Yisrayèl yo pou konte yo, chak moun ap bay yon rançon pou lavi ⟨li⟩ pou Yawe lè yo konte ⟨את⟩ yo; konsa pa ap gen okenn frape nan mitan yo lè yo konte ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ou pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tèt pitit Yisrayèl yo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "pou konte yo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "epi yo ap bay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "rançon"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lavi l"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "lè konte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap gen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan mitan yo"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "frape"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "lè konte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:03.426654972Z",
+  "model": "glm-5.3"
+}

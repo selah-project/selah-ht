@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi Achdodyen yo levanjou jou apre a, e gade: Dagon tonbe fas sou tè a, devan kès Yawe a; epi yo pran ⟨את⟩ Dagon, epi yo mete ⟨את⟩ l tounen nan plas li.",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "epi yo levanjou"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "Achdodyen yo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "jou apre a"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fas devan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kès"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "epi yo pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dagon"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "epi yo mete tounen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "Dagon"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:59.592378600Z",
+  "model": "glm-5.3"
+}

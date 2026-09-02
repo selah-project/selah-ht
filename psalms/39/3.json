@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Mwen t ap louvri san pale, an silans; mwen tken bouch m, menm sou bagay ki bon; e doulè m vin pwofon.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Mwen t ap louvri san pale"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "an silans"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "mwen tken bouch m"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "menm sou bagay ki bon"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "e doulè m"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "vin pwofon"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:21.360434289Z",
+  "model": "glm-5.3"
+}

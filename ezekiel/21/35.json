@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Retounen nan gway ou! Nan kote ou te kreye, nan peyi orijin ou ye a, se la m ap jije ⟨את⟩ ou.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "gway ou"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "ou te kreye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "orijin ou"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "m ap jije"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:18:15.746784336Z",
+  "model": "glm-5.3"
+}

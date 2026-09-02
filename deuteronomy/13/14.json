@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 13:14",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Gason, pitit Beliyal, soti nan mitan w, epi yo tounen abitan ⟨את⟩ vil yo ven, yo di: Ann ale, ann sèvi lòt dye, ke nou pa konnen.",
+  "tokens": [
+    {
+      "surface": "יצאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "gason"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyal"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "nan mitan ou"
+    },
+    {
+      "surface": "וידיחו",
+      "gloss": "epi yo tounen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abitant vil yo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abitant"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "vil yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "ann ale"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "epi ann sèvi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lòt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "nou konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T21:46:57.611827842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Li refize tant Yosèf la, e li pa chwazi tribi Efrayim la.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "li refize"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "epi nan tribi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "chwazi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:09.131175514Z",
+  "model": "glm-5.3"
+}

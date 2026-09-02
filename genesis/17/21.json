@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Men ⟨את⟩ alyans mwen an, m ap kanpe l avèk ⟨את⟩ Yitshak, ke Sarah ap fè pou ou, nan tan fiks sa a, nan lane ki apre a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "avèk ⟨את⟩",
+      "marks": "alyans mwen an"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alyans mwen an"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "nan tan fiks"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nan lane"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "ki apre a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:15.710144209Z",
+  "model": "glm-5.3"
+}

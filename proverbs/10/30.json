@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Moun jis la ap kanpe pou tout tan, li pap janm chancelé; men mechàn yo ap jamais ka rete sou tè a.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Moun jis"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pwe toupatou (pap janm)"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "chancelé"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "men mechàn yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ka rete"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sou tè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:45.926542856Z",
+  "model": "glm-5.3"
+}

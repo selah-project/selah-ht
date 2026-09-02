@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi sand Yawe a rete kay Oved-Edòm nan, Gityit la, twa mwa; epi Yawe beni ⟨את⟩ Oved-Edòm ak ⟨את⟩ tout kay li.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "epi rete"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edòm"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gityit la"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "epi beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edòm"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edòm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout kay li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:42:26.773238544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi nan abondans majeste ou, ou ranvèse moun ki leve kont ou; ou voye kòlè ou a, li devore yo menm ak pay.",
+  "tokens": [
+    {
+      "surface": "וּבְרֹב",
+      "gloss": "epi nan abondans"
+    },
+    {
+      "surface": "גְּאוֹנְךָ",
+      "gloss": "majeste ou"
+    },
+    {
+      "surface": "תַּהֲרֹס",
+      "gloss": "ou ranvèse"
+    },
+    {
+      "surface": "קָמֶיךָ",
+      "gloss": "moun ki leve kont ou"
+    },
+    {
+      "surface": "תְּשַׁלַּח",
+      "gloss": "ou voye"
+    },
+    {
+      "surface": "חֲרֹנְךָ",
+      "gloss": "kòlè ou"
+    },
+    {
+      "surface": "יֹאכְלֵמוֹ",
+      "gloss": "li devore yo"
+    },
+    {
+      "surface": "כַּקַּשׁ",
+      "gloss": "menm ak pay"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:31.877026739Z",
+  "model": "glm-5.3"
+}

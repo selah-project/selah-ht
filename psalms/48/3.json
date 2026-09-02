@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Bèl nan elèvasyon li, kè kontan tout tè a ⟨ye⟩: mòn Tsiyòn, kanti nò a, vil yon gwo wa.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Bèl"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "elèvasyon"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kè kontan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "kanti"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nò"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "vil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gwo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:05.224875937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Li pa pral yon chodyè pou nou, e nou pa pral vyann andedan l; nan fwontyè Yisrael m ap jije ⟨את⟩ nou.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "pral ye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "yon chodyè"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e nou"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "pral ye"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "andedan l"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fwontyè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "m ap jije"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:13:27.828069768Z",
+  "model": "glm-5.3"
+}

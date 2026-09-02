@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E li reponn li: Mwen pa prale; men se nan peyi m ak nan kote fèt mwen m ap ale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E … reponn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "prale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "men (se)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "peyi m"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak nan"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "kote fèt mwen"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m ap ale"
+    }
+  ],
+  "timestamp": "2026-09-02T16:25:55.327141780Z",
+  "model": "glm-5.3"
+}

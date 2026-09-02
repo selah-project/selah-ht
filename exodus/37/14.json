@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Anfas bò kouwòn nan ⟨את⟩ anèl yo te ye, kòm pizwè pou bar yo, pou pote ⟨את⟩ tab la.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "anfas"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "bò kouwòn nan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "anèl yo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kòm pizwè"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "pou bar yo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pou pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tab la"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tab la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:36.916685008Z",
+  "model": "glm-5.3"
+}

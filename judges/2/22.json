@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 2:22",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Pou ⟨pou⟩ teste ⟨את⟩ Yisrael avèk yo: èske yo ap kenbe ⟨את⟩ chemen Yawe la, pou mache nan li, jan papa zansèt yo te kenbe l, wi ou non?",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "teste"
+    },
+    {
+      "surface": "בם",
+      "gloss": "avèk yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "èske yo ap kenbe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chemen Yawe la"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou mache"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "te kenbe"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "papa zansèt yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wi ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-09-02T17:10:48.579710095Z",
+  "model": "glm-5.3"
+}

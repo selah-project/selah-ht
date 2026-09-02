@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Sod Yawe ⟨ap⟩ pou moun ki gen pè l, ak kontra l pou fè yo konnen l.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "Sod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "pou moun ki gen pè l"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "ak kontra l"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "pou fè yo konnen l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:06.363192425Z",
+  "model": "glm-5.3"
+}

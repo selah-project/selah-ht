@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Mwen mete yon bag nan nen ou, zanno nan zòrèy ou, ak yon bèl kouròn sou tèt ou.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "mwen mete"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "yon bag"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nen ou"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "zanno"
+    },
+    {
+      "surface": "על",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "zòrèy ou"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "ak yon kouròn"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "sou tèt ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:15:41.599589859Z",
+  "model": "glm-5.3"
+}

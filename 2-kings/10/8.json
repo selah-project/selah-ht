@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi mesaj la vini, e li anonse ⟨l⟩, pou l di: Yo pote tèt pitit wa a vin. E li di: Mete ⟨את⟩ yo sou de tas, devan pòtay la, jouk nan maten.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mesaj la"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "yo pote"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tèt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo (tèt yo)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "tas"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "devan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pòtay la"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nan maten"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:09.564001730Z",
+  "model": "glm-5.3"
+}

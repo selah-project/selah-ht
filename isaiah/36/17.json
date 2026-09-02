@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Jouk m vini e m pran ⟨את⟩ nou al nan yon tè tankou tè pa nou, yon tè ble ak dlo diven, yon tè pen ak vay.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jouk"
+    },
+    {
+      "surface": "באי",
+      "gloss": "m vini"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "e m pran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou",
+      "marks": "nou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al nan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yon tè"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "tankou tè pa nou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yon tè"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ble"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ak dlo diven"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yon tè"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "ak vay"
+    }
+  ],
+  "timestamp": "2026-09-02T18:34:46.880396614Z",
+  "model": "glm-5.3"
+}

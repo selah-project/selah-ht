@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 20:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Elohim vini jwen Avimelek nan yon rèv nan lannui a, epi li di li: Gade, ou ap mouri a ⟨pou⟩ fanm ⟨ou⟩ pran an, paske li ⟨se⟩ yon fanm ki gen yon mari.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jwen"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "nan yon rèv"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nan lannui a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "epi li di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ou ap mouri"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨pou⟩"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ou pran"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "epi li"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "gen yon mari"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mari"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:44.772793944Z",
+  "model": "glm-5.3"
+}

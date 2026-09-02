@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi gason Yisrael wè yo te nan yon pozisyon sere, paske pèp la te sere, epi pèp la kache tèt yo antran kav, antran rònch, antran wòch, antran kote wo, ak antran fou.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nan pozisyon sere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "te sere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "epi yo kache tèt yo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "antran kav"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "antran rònch"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "antran wòch"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "antran kote wo"
+    },
+    {
+      "surface": "ובבורות",
+      "gloss": "antran fou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:01.106461818Z",
+  "model": "glm-5.3"
+}

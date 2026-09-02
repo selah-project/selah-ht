@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 70,
+  "translation": "Pou chèf mizisyen an, yon psòm Davit, pou fè sonven.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davit"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "pou fè sonven"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:44.911712197Z",
+  "model": "glm-5.3"
+}

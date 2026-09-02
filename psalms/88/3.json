@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Priyè mwen an fè vini devan ⟨ou⟩, penche zòrèy ⟨ou⟩ lan sou kriy mwen an",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "fè vini"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ⟨ou⟩"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "priyè mwen an"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "penche"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "zòrèy ⟨ou⟩ lan"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "sou kriy mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:58.661381253Z",
+  "model": "glm-5.3"
+}

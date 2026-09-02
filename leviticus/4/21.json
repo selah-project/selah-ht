@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi li ap pote ⟨את⟩ bèf la deyò nan kan an, epi li ap boule ⟨את⟩ li jan li te boule ⟨את⟩ bèf la premye a; se sakrifis pou peche nanasanbl la a li ye.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "epi pote deyò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèf la"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "deyò"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kan an"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "epi boule"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (bèf la)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "boule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèf la"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "premye a"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sakrifis pou peche"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nanasanbl la"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:28.351278261Z",
+  "model": "glm-5.3"
+}

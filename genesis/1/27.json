@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi Elohim kreye ⟨את⟩ adam nan imaj li; nan imaj Elohim ⟨li⟩ kreye ⟨את⟩ li; gason ak fi ⟨li⟩ kreye ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "kreye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "nan imaj li"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "nan imaj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kreye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ak fi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kreye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:11:51.628975238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 1:37",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Tankou Yawe te ye avèk mèt wa mwen an, menm konsa li ap ye avèk Chelomo, epi li ap fè ⟨את⟩ chèz li pi gran pase chèz mèt wa mwen David.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Tankou"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avèk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mèt mwen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "menm konsa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ap ye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avèk"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "epi li ap fè pi gran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chèz li"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chèz li"
+    },
+    {
+      "surface": "מכסא",
+      "gloss": "pase chèz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mèt mwen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-02T17:53:44.997213274Z",
+  "model": "glm-5.3"
+}

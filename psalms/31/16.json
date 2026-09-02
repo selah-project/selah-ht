@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Nan men ou tan ⟨yo⟩ ye ⟨a⟩; sove m soti nan men enmi m yo ak soti nan men moun k ap kouri dèyè m.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "nan men ou"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "tan yo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "sove m"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "soti nan men"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "ak moun k ap kouri dèyè m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:39.440300389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Mòso manje w ke w te manje a, w ap vomi l, e w ap gate pawòl dous ou yo.",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "mòso manje w"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "te manje"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "w ap vomi"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "e w ap gate"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "dous yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:14.615624058Z",
+  "model": "glm-5.3"
+}

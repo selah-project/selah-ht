@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E Hanoun pran ⟨את⟩ sèvitè David yo, e l raze yo, e l koupe ⟨את⟩ rad yo an nan mitan, jiska anjanb yo, e l voye yo ale.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèvitè David yo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "raze yo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad yo"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "rad yo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "anjanb"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "voye yo ale"
+    }
+  ],
+  "timestamp": "2026-09-02T21:20:31.934123369Z",
+  "model": "glm-5.3"
+}

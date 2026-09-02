@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Paske mwen konnen ki Yawe gran, e Adònay nou an siperyè ak tout dye yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "e Adònay nou an"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "siperyè ak tout"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dye yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:34:06.978075475Z",
+  "model": "glm-5.3"
+}

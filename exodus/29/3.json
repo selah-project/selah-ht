@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E w ap mete ⟨את⟩ yo sou yon panye sèl, e w ap prezante ⟨את⟩ yo nan panye a, ansanm ak ⟨את⟩ bèf la ak ⟨את⟩ de belan yo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "E w ap mete"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "סל",
+      "gloss": "panye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "e w ap prezante"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "nan panye a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bèf la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "belan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:24.638790692Z",
+  "model": "glm-5.3"
+}

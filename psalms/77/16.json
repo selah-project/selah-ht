@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Ou delivre ⟨ak⟩ bra ou pèp ou a, pitit Yaakov ak Yosèf. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "ou delivre"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ak bra"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ak Yosèf"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:19.080083565Z",
+  "model": "glm-5.3"
+}

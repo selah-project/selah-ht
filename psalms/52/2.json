@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Lè Doèg Edomiten an rive e li anonse Chaoul, e li di l: David antre nan lakay Ahimelek.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Lè ... rive"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doèg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomiten an"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e li anonse"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "בא",
+      "gloss": "antre"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:29.230267954Z",
+  "model": "glm-5.3"
+}

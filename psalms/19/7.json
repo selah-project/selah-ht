@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Depi bout syèl yo, soti l; e tout vwayaj li a rive jouk nan bout yo; e pa gen anyen ki kache soti nan chof li a.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Depi bout"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "soti l"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "e tout vwayaj li a"
+    },
+    {
+      "surface": "על",
+      "gloss": "rive jouk nan"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "bout yo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e pa gen anyen"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ki kache"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "soti nan chof li a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:28.535581453Z",
+  "model": "glm-5.3"
+}

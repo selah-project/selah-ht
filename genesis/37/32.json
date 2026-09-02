@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Yo voye ⟨את⟩ chemiz bann koulè yo, yo pote l ba papa yo, epi yo di: Se sa nou jwenn; tanpri rekonèt si chemiz la se pa pitit gason ou a, se li menm.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chemiz"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "chemiz"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "bann koulè yo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "nou jwenn"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "rekonèt"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "chemiz la"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pitit gason ou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:12.685451828Z",
+  "model": "glm-5.3"
+}

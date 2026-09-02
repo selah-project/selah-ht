@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 98,
+  "translation": "Kriye pou Yawe, tout tè a; pete nan jwa, chante byen fò, epi fè mizik.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "kriye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "pète nan jwa"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "chante byen fò"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "epi fè mizik"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:13.018692007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Dezi paresè a touye l, paske men l yo refize ⟨pou⟩ travay.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Dezi"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "paresè"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "touye l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "refize"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "men l yo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou travay"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:15.065139627Z",
+  "model": "glm-5.3"
+}

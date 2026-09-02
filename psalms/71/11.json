@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "yo di: Elohim abandone l — pouse l, pran l, paske pa gen moun ki sove l.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "abandone l"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "pouse l"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "e pran l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "moun ki sove"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:51.793477724Z",
+  "model": "glm-5.3"
+}

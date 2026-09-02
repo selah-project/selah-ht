@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Temwen manti pa ⟨ap⟩ egzante, epi moun ki soufle manti pa ⟨ap⟩ chape.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "temwen"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "manti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "egzante"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "epi ki soufle"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "manti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "chape"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:29.482847380Z",
+  "model": "glm-5.3"
+}

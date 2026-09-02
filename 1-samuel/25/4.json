@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E David tande nan dezè a ke Naval te ap taye ⟨את⟩ mouton l yo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ap taye"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mouton l yo"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "mouton l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:36:44.024767312Z",
+  "model": "glm-5.3"
+}

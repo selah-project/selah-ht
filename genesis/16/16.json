@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E Avram te gen laj katreven ak sis ane lè Hagar te fè ⟨את⟩ Yichmaèl pou Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "E Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "te gen laj"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "katreven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ak sis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ane"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "lè ... te fè"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yichmaèl"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yichmaèl"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "pou Avram"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:04.725796211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Pa kite moun k ap tann ou yo vin wont pou rezon m, Adònay, Yawe Tsvaot; pa kite moun k ap chèche ou yo wont pou rezon m, Elohim Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "vin wont"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pou rezon m"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "moun k ap tann ou yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "wont"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pou rezon m"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "moun k ap chèche ou yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:27.678403470Z",
+  "model": "glm-5.3"
+}

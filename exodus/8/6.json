@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E li di: «Demen.» E li di: «Dapre pawòl ou la, pou ou konnen ke pa gen ⟨pèsonn⟩ tankou Yawe, Elohim nou an.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "לְמָחָר",
+      "gloss": "demen"
+    },
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "כִּדְבָרְךָ",
+      "gloss": "dapre pawòl ou"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תֵּדַע",
+      "gloss": "ou konnen"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "כַּיהוָה",
+      "gloss": "tankou Yawe"
+    },
+    {
+      "surface": "אֱלֹהֵינוּ",
+      "gloss": "Elohim nou an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:43:27.584533966Z",
+  "model": "glm-5.3"
+}

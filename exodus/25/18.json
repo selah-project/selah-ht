@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "E ou fè de keruvim an lò; travay marte ou fè ⟨את⟩ yo sou de bout kaporet la.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "fè"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "travay marte"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "keruvim yo"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sou de"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "bout"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:37.903365148Z",
+  "model": "glm-5.3"
+}

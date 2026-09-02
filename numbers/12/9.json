@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Kòlè Yawe limen kont yo, e ⟨li⟩ ale.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "limen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kont yo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e ⟨li⟩ ale"
+    }
+  ],
+  "timestamp": "2026-09-02T16:26:33.625010137Z",
+  "model": "glm-5.3"
+}

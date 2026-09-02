@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 64,
+  "translation": "Èske sou bagay sa ou ap kenbe tèt ou konsa, Yawe? Èske w ap fè silans epi ap fè nou soufré jouk byen anpil?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Èske sou"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bagay sa"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "ap kenbe tèt ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "ap fè silans"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "epi ap fè nou soufré"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "byen anpil"
+    }
+  ],
+  "timestamp": "2026-09-02T18:44:41.015427633Z",
+  "model": "glm-5.3"
+}

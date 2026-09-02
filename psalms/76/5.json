@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 76,
+  "translation": "Klere ou ye, ou ki ajid, plis pase montay lachas yo.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Klere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ajid"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "montay yo"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "lachas"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:36.119320593Z",
+  "model": "glm-5.3"
+}

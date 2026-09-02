@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Yawe teste jis yo, men move moun yo ak moun ki renmen vyolans, nanm li rayi yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jis yo"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "teste"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "men move moun yo"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ak moun ki renmen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "rayi yo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nanm li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:26.562136080Z",
+  "model": "glm-5.3"
+}

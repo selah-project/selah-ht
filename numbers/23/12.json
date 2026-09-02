@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Lè sa a l reponn e l di: Eske pa ⟨את⟩ sa ⟨את⟩ Yawe mete nan bouch mwen ⟨את⟩ li menm m ap garde pou pale l?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "l reponn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Eske pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "mete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nan bouch mwen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li menm"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "m ap garde pou"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pale l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:32:52.396799100Z",
+  "model": "glm-5.3"
+}

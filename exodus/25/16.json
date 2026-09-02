@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi ou pral mete nan Kof la ⟨את⟩ temwayaj la ke m ap ba ou.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Epi ou pral mete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kof la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temwayaj la"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "temwayaj la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ap ba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:22.585395043Z",
+  "model": "glm-5.3"
+}

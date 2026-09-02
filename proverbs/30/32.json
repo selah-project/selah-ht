@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Si ou aji kom fou nan ou elve tèt ou, epi si ou fè plan move, mete ⟨ou⟩ men ou sou bouch ou.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "נָבַלְתָּ",
+      "gloss": "ou aji kom fou"
+    },
+    {
+      "surface": "בְּהִתְנַשֵּׂא",
+      "gloss": "nan ou elve tèt ou"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "epi si"
+    },
+    {
+      "surface": "זַמּוֹתָה",
+      "gloss": "ou fè plan move"
+    },
+    {
+      "surface": "יָד",
+      "gloss": "men"
+    },
+    {
+      "surface": "לְפֶה",
+      "gloss": "sou bouch ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:40.662793715Z",
+  "model": "glm-5.3"
+}

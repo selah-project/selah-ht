@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Epi l kouvri ⟨את⟩ kerub yo ak lò.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Epi l kouvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerub yo"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerub yo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ak lò"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:51.634621115Z",
+  "model": "glm-5.3"
+}

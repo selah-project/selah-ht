@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Pa manje ⟨nan li⟩ anyen ki pa kwit, ni kwit kwuit nan dlo, men wi griye ak dife — tèt li ak janm li ak anndan l.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nan li"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ki pa kwit"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "ni kwit"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "kwit kwuit"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wi"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "griye"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ak dife"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tèt li"
+    },
+    {
+      "surface": "על",
+      "gloss": "ak"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "janm li"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "anndan l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:53.704487572Z",
+  "model": "glm-5.3"
+}

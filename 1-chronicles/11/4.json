@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Epi David ak tout Yisrael mache al Yerouchalayim — se Yevous li ye — e se la Yevousit yo, moun k te abite peyi a, te ye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mache al"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yevous"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e la"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevousit la"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun k abite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "peyi a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:17:51.065659694Z",
+  "model": "glm-5.3"
+}

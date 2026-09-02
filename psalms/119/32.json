@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Nan chimen kòmandman ou yo mwen ap kouri, paske ou lajè kè mwen an.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "chimen"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kòmandman ou yo"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "mwen ap kouri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "ou lajè"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:18.229019537Z",
+  "model": "glm-5.3"
+}

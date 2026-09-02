@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Li jete glas li kòm ti bouchon; devan frèt li, kiyès ka kanpe?",
+  "tokens": [
+    {
+      "surface": "מַשְׁלִיךְ",
+      "gloss": "Li jete"
+    },
+    {
+      "surface": "קַרְחוֹ",
+      "gloss": "glas li"
+    },
+    {
+      "surface": "כְפִתִּים",
+      "gloss": "kòm ti bouchon"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "devan"
+    },
+    {
+      "surface": "קָרָתוֹ",
+      "gloss": "frèt li"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "kiyès"
+    },
+    {
+      "surface": "יַעֲמֹד",
+      "gloss": "ka kanpe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:17.358340347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Fè m grás, Yawe; gade mizè m soti nan men moun k'ap rayi m, ou ki mete m wo soti nan pòt lanmò yo.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Fè m grás"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gade"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mizè m"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "soti nan men moun k'ap rayi m"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "ki mete m wo"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "soti nan pòt"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lanmò"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:34.687871741Z",
+  "model": "glm-5.3"
+}

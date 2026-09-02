@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Lè yo te yon ti kantite moun, preke pa gen okenn, ak etranje andedan l —",
+  "tokens": [
+    {
+      "surface": "בִּֽ֭הְיוֹתָם",
+      "gloss": "Lè yo te"
+    },
+    {
+      "surface": "מְתֵ֣י",
+      "gloss": "moun"
+    },
+    {
+      "surface": "מִסְפָּ֑ר",
+      "gloss": "yon ti kantite"
+    },
+    {
+      "surface": "כִּ֝מְעַ֗ט",
+      "gloss": "preke pa gen okenn"
+    },
+    {
+      "surface": "וְגָרִ֥ים",
+      "gloss": "ak etranje"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "andedan l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:12.722049996Z",
+  "model": "glm-5.3"
+}

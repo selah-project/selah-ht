@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi li rive, lavant demen, Moche chita pou l jije ⟨את⟩ pèp la, epi pèp la kanpe devan Moche, soti nan maten jiska swè.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Epi li rive"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "lavant demen"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "pou jije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "epi kanpe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "על",
+      "gloss": "devan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "swè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:33.346642924Z",
+  "model": "glm-5.3"
+}

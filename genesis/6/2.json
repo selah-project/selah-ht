@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Pitit gason HaElohim te wè ⟨את⟩ pitit fi moun yo, paske yo te bèl, e yo te pran pou yo fanm nan tout sa yo te chwazi.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "te wè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit fi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "pitit fi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "te bèl"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yo te ye"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "e yo te pran"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "fanm"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "yo te chwazi"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:05.497222640Z",
+  "model": "glm-5.3"
+}

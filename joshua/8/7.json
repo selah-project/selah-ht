@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E nou menm, nou pral kanpe soti nan anbouch la, e nou pral pran lavil la; e Yawe, Elohim nou an, ap bay li ⟨את⟩ anba men nou.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "E nou menm"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "nou pral kanpe soti"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "nan anbouch la"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "e nou pral pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavil la"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lavil la"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ap bay li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "anba men nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:02:23.483786180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Paske pòv la p ap janm sispann nan mitan peyi a; se poutèt sa mwen menm ap ba ou lòd, ki di: Ouvri — byen ouvri ⟨את⟩ men ou — pou frè ou, pou pov ou, epi pou pòv ki gen bezwen ou, nan peyi ou.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יֶחְדַּל",
+      "gloss": "ap janm sispann"
+    },
+    {
+      "surface": "אֶבְיוֹן",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "מִקֶּרֶב",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "peyi a"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "poutèt"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "mwen menm"
+    },
+    {
+      "surface": "מְצַוְּךָ",
+      "gloss": "ap ba ou lòd"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "ki di"
+    },
+    {
+      "surface": "פָּתֹחַ",
+      "gloss": "Ouvri"
+    },
+    {
+      "surface": "תִּפְתַּח",
+      "gloss": "byen ouvri"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "men ou"
+    },
+    {
+      "surface": "יָדְךָ",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "לְאָחִיךָ",
+      "gloss": "pou frè ou"
+    },
+    {
+      "surface": "לַעֲנִיֶּךָ",
+      "gloss": "pou pov ou"
+    },
+    {
+      "surface": "וּלְאֶבְיֹנְךָ",
+      "gloss": "epi pou pòv ou"
+    },
+    {
+      "surface": "בְּאַרְצֶךָ",
+      "gloss": "nan peyi ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:30.517059073Z",
+  "model": "glm-5.3"
+}

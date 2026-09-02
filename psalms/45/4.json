@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Sere espad ou sou kwis ou, èwo, — majeste ou ak bèlte ou.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Sere"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "espad ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kwis"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "èwo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "majeste ou"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ak bèlte ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:06.701774901Z",
+  "model": "glm-5.3"
+}

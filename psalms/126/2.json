@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 126,
+  "translation": "Lè sa a, bouch nou te rempli ak ri, ak lang nou ak ⟨kri jwa⟩; lè sa a, yo di nan mitan nasyon yo: Yawe fè gran bagay ak moun sa yo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "rempli"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "ri"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "bouch nou"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "ak lang nou"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kri jwa"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Lè sa a"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yo di"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "fè gran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pou fè"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "moun sa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:33.809747209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "yon tè ble, òj, rezen, fig ak grenad; yon tè zetwon oliv ak lwil, ak siwo myèl.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yon tè"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ble"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "òj"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "rezen"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "fig"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "grenad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yon tè"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zetwon oliv"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ak siwo myèl"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:52.050273906Z",
+  "model": "glm-5.3"
+}

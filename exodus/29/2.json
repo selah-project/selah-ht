@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "ak pen san levir, ak gato san levir melanj ak lwil, ak krakèt san levir endwi ak lwil: ak farin fin ble w ap fè ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "ak pen"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "san levir"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "ak gato"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "san levir"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "melanj"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ak lwil"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "ak krakèt"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "san levir"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "endwi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ak lwil"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "farin fin"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ble"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "w ap fè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:56:24.638556006Z",
+  "model": "glm-5.3"
+}

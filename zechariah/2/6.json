@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E mwen di: Ki koté ou prale? E li di mwen: Pou m mezire ⟨את⟩ Yerouchalayim, pou m wè konbyen lajè l ye ak konbyen longè l ye.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e mwen di"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ki koté"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "prale"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "למד",
+      "gloss": "pou m mezire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerouchalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerouchalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou m wè"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "konbyen"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lajè l"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "ak konbyen"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "longè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:46:34.899490097Z",
+  "model": "glm-5.3"
+}

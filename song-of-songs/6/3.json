@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Mwen se pou dod mwen, e dod mwen se pou mwen; se li ki pe pami lil yo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "se pou dod mwen"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "e dod mwen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "se pou mwen"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ki pe"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "pami lil yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:45:08.043012008Z",
+  "model": "glm-5.3"
+}

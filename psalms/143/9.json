@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 143,
+  "translation": "Delivré m, Yawe, anba enmi m yo; devan ou m kache.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Delivré m"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "anba enmi m yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "m kache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:15.136422840Z",
+  "model": "glm-5.3"
+}

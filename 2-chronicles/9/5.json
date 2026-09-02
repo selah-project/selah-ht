@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi li di bo wa a: se vre pawòl la m te tande nan peyi m, sou pawòl ou yo ak sou sajès ou.",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אֱמֶת",
+      "gloss": "se vre"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שָׁמַעְתִּי",
+      "gloss": "m te tande"
+    },
+    {
+      "surface": "בְּאַרְצִי",
+      "gloss": "nan peyi m"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דְּבָרֶיךָ",
+      "gloss": "pawòl ou yo"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "חָכְמָתֶךָ",
+      "gloss": "sajès ou"
+    }
+  ],
+  "timestamp": "2026-09-02T22:27:38.226823841Z",
+  "model": "glm-5.3"
+}

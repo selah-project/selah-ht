@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "N ap chante jwaye pou delivrans ou, epi nan non Elohim nou an n ap leve drapo; Yawe ap ranpli tout demand ou yo.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "n ap chante jwaye"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "pou delivrans ou"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "epi nan non"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nou an"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "n ap leve drapo"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ap ranpli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "demand ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:33.220634809Z",
+  "model": "glm-5.3"
+}

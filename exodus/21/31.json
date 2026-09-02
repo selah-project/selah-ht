@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Oswa si li bay kònen yon gason, oswa li bay kònen yon fi, se dapre jijman sa a yo ap fè ⟨pou li⟩.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Oswa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gason"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "li bay kònen"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fi"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "li bay kònen"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dapre jijman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yo ap fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:53.748541452Z",
+  "model": "glm-5.3"
+}

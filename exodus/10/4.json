@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Paske si ou ap refize pou voye ⟨את⟩ pèp m ale, gade, men m ap pote kriyo demen nan teritwa ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refize"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "pou voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp m"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp m"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "gade, men m"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ap pote"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "demen"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "kriyo"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "nan teritwa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:45.222716826Z",
+  "model": "glm-5.3"
+}

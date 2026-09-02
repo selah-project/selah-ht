@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Fè ⟨את⟩ Yawe vin gran avè m, e ann ezalte non li ansanm.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Fè vin gran"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ avè m"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "e ann ezalte"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non li"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:47.149766541Z",
+  "model": "glm-5.3"
+}

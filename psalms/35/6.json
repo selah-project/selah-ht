@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Ke wout yo ⟨gen⟩ nwa ak kalse, epi ke mesajè Yawe swiv yo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ke li ye"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "wout yo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "ak kalse"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "epi mesajè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "swiv yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:52.301473849Z",
+  "model": "glm-5.3"
+}

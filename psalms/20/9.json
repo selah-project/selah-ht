@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Yo menm, yo jenou atè ak yo tonbe; men nou, nou leve epi nou kanpe dwat.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Yo menm"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "yo jenou atè"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ak yo tonbe"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "nou leve"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "epi nou kanpe dwat"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:16.589454890Z",
+  "model": "glm-5.3"
+}

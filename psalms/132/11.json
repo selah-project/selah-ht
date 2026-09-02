@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Yawe pran sèman ak David, nan verite; li p ap vire soti li: se nan fwi vant ou m ap mete sou chèz ou ⟨la⟩.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "pran sèman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ak David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nan verite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ap vire"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "soti li"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "se nan fwi"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "vant ou"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "m ap mete"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "sou chèz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:09.168923898Z",
+  "model": "glm-5.3"
+}

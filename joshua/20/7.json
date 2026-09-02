@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Yo konsakre ⟨את⟩ Kedech nan Galil, nan mòn Naftali, ⟨ak⟩ ⟨את⟩ Chekhem nan mòn Efrayim, ⟨ak⟩ ⟨את⟩ Kiryat-Arba, ⟨se⟩ Hevron ⟨li ye⟩, nan mòn Yehouda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Yo konsakre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedech"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedech"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "nan Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Chekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li ye"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nan mòn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-09-02T17:10:24.123099833Z",
+  "model": "glm-5.3"
+}

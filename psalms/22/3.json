@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Elohim mwen, m ap rele toutan jounen an, men ou pa reponn; e lannuit, e pa gen silans ⟨pou mwen⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ap rele"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "toutan jounen an"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ou pa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "reponn"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e lannuit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa gen"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "silans"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:20.591355058Z",
+  "model": "glm-5.3"
+}

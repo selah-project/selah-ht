@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Paske moun ⟨ki⟩ Yawe renmen, ⟨l⟩ konvoye, e menm jan ak yon papa, ⟨l⟩ satisfè nan ⟨את⟩ pitit li.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun ki..."
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "konvoye"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "e menm jan ak yon papa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit li"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "satisfè nan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:22.326206597Z",
+  "model": "glm-5.3"
+}

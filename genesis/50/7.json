@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "E Yosef monte pou l antère ⟨את⟩ papa l, e tout sèvitè Paro, vye granmoun kay li, e tout vye granmoun peyi Mitsrayim, monte ⟨את⟩ avèk li.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "E … monte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "pou l antère"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa l"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e … monte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ avèk li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vye granmoun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tout"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vye granmoun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:20.333730363Z",
+  "model": "glm-5.3"
+}

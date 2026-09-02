@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Epi ou pa marye ak yo: ou pa bay pitit fi ou pou pitit gason l, e ou pa pran pitit fi l pou pitit gason ou.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ou marye"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "pitit fi ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ou bay"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "pou pitit gason l"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "e pitit fi l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ou pran"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "pou pitit gason ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:19.513862391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Gade, jou yo ap vini, ωòak Yawe, e mwen ap inse ⟨את⟩ kay Yisrael ak ⟨את⟩ kay Yehouda ak semans moun ak semans bèt.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou yo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ap vini"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ωòak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "e mwen ap inse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kay Yehouda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semans"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ak semans"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bèt"
+    }
+  ],
+  "timestamp": "2026-09-02T18:58:42.698345109Z",
+  "model": "glm-5.3"
+}

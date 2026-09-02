@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E Chaoul reyini ⟨את⟩ tout pèp la pou lagè, pou l desann nan Kèila, pou asyeje David ak gason l yo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout pèp la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pou lagè"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "pou desann"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "nan Kèila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "pou asyeje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "gason l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:03.584725913Z",
+  "model": "glm-5.3"
+}

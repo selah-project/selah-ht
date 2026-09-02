@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Pa pèdi kouraj devan pè souden, ni devan devastrasyon mechèt yo, lè l ap rive.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pèdi kouraj"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "devan pè"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "souden"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "ni devan devastrasyon"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechèt yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "l ap rive"
+    }
+  ],
+  "timestamp": "2026-09-02T20:21:46.100974105Z",
+  "model": "glm-5.3"
+}

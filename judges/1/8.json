@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pitit Yehouda yo lite kont Yerouchalayim, yo pran ⟨את⟩ l, yo frape l nan fil kouto, e yo voye ⟨את⟩ vil la nan dife.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "lite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "yo pran"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "l (Yerouchalayim)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "yo frape l"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "nan fil"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kouto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "vil la"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vil la"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yo voye"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    }
+  ],
+  "timestamp": "2026-09-02T21:48:51.988350960Z",
+  "model": "glm-5.3"
+}

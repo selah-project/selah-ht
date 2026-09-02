@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ou ap fè ⟨את⟩ lotè a nan bwa shitim: senk kibit longè, e senk kibit lajè — lotè a ap dwe kare — e twa kibit wotè li.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Epi ou ap fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotè a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotè a"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "senk"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kibit"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "longè"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e senk"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kibit"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lajè"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kare"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ap dwe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotè a"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "e twa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kibit"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "wotè li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:53:21.182519180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Nou pa pral manje ⟨sou⟩ san an; nou pa pral fè divinasyon, ni fè sòsi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou pral manje"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sou⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "san an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "nou pral fè divinasyon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "nou pral fè sòsi"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:04.953153883Z",
+  "model": "glm-5.3"
+}

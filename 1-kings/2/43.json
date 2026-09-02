@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi poukisa ou pa t kenbe ⟨את⟩ sèman Yawe ak ⟨את⟩ kòmandman an ke mwen te kòmande sou ou?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "epi poukisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa t"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ou kenbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèman"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kòmandman an"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "kòmandman an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mwen te kòmande"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:54:44.622371579Z",
+  "model": "glm-5.3"
+}

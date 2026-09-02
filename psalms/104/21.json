@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 104,
+  "translation": "Leon jèn yo cannen pou pwòv yo, epi pou chèche manje yo soti nan El.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "leon jèn yo"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "cannen"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "pou pwòv"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "epi pou chèche"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "soti nan El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "manje yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:11:11.625618756Z",
+  "model": "glm-5.3"
+}

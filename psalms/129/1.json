@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 129,
+  "translation": "Chant pou monten yo. Anpil fwa yo tirese m depi jènès m — kounye a, ke Yisrael di sa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pou monten yo"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "anpil fwa"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "yo tirese m"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "depi jènès m"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:01.583208027Z",
+  "model": "glm-5.3"
+}

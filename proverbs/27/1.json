@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Pa fè vanite nan jou demen, paske ou pa konnen sa yon jou ap fè pitit.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "fè vanite"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "demen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ou konnen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ap fè pitit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yon jou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:29:28.901339186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Kochon san sòt nan forè a devore l, ak bèt sovaj jaden yo ap manje l.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "devore l"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "kochon san sòt"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "nan forè a"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ak bèt sovaj"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "jaden yo"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "ap manje l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:04.252404536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi rèn Cheva a wè ⟨את⟩ tout sajès Chelomo, ak kay la ke l te bati.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "epi wè"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "rèn"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout sajès Chelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "sajès"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ak kay la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "te bati"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:46.706686915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E l fè senkantan kravat an kwiv pou konekte ⟨את⟩ tant la, pou li vin yon sèl.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kravat"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "an kwiv"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "senkantan"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "pou konekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tant la"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tant la"
+    },
+    {
+      "surface": "להית",
+      "gloss": "pou li vin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:59:56.426571903Z",
+  "model": "glm-5.3"
+}

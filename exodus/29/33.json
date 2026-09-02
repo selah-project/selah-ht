@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Y ap manje ⟨את⟩ bagay sa yo — se sou yo yo te fè eksyasyon an — pou ⟨את⟩ yo plen men yo, pou ⟨את⟩ yo konsakre yo; men yon etranje p ap manje ⟨את⟩ yo, paske se bagay konsatre yo ye.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ap manje"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bagay sa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "te fè eksyasyon"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sou yo"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "pou plen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men yo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "pou konsakre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "yon etranje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "konsatre"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo ye"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:06.425003853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi pou Makir mwen te bay ⟨את⟩ Gilad la.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "epi pou Makir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mwen te bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad la"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:53.526488462Z",
+  "model": "glm-5.3"
+}

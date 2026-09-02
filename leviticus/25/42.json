@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Paske sèvitè m yo se yo ⟨את⟩ yo mwen fè soti nan peyi Mitsrayim; yo pa dwe vann nan vant yon sèvitè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè m yo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "se yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mwen fè soti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "yo dwe vann"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "nan vant"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yon sèvitè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:17:29.620700458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "E moun ki te pote zouti yo di ak li: Fè tout sa ki nan kè w, vire ou gade; men mwen, mwen avèk ou, jan kè w vle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ak li"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "moun ki te pote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti yo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Fè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "nan kè w"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "vire ou gade"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "men mwen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mwen avèk ou"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "jan kè w vle"
+    }
+  ],
+  "timestamp": "2026-09-02T17:29:29.380553559Z",
+  "model": "glm-5.3"
+}

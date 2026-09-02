@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Paske wa a met konfyans l nan Yawe, e nan hesed Elyòn (ki pi wo a) — li p ap janm chanche.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "met konfyans"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nan Yawe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "e nan hesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    },
+    {
+      "surface": "בל",
+      "gloss": "p ap janm"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "chanche"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:28.942108817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Pa tire mwen ansanm ak mechan yo, ni ansanm ak moun k ap fè inikite, moun k ap pale lapè ak vwazin yo pandan moveITE nan kè yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "tire mwen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ansanm ak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni ansanm ak"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun k ap fè"
+    },
+    {
+      "surface": "און",
+      "gloss": "inikite"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moun k ap pale"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "vwazin yo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "pandan moveITE"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "nan kè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:00.457371794Z",
+  "model": "glm-5.3"
+}

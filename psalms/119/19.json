@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mwen yon etranje sou tè a; pa kache kòmandman yo ou apati m.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "etranje"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sou tè a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kache"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "apati m"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kòmandman yo ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:06.957248819Z",
+  "model": "glm-5.3"
+}

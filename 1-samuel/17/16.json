@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Filistyen an t ap vini avanse, maten ak swa, e l te kanpe devan pandan karant jou.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "t ap vini avanse"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistyen an"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "maten"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "ak swa"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "te kanpe devan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "karant"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:32:12.786773100Z",
+  "model": "glm-5.3"
+}

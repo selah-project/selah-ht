@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "Epi Yawe ede yo, li delivre yo; li fè yo chape nan men mechan yo epi li sove yo, paske yo pran refij nan li.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "epi ede yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "delivre yo"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "fè yo chape"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "nan men mechan yo"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "epi sove yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "pran refij"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:54.355600Z",
+  "model": "glm-5.3"
+}

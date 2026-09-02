@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Li chita nan anbisk nan lakou yo; nan kachèt li touye inosan; zye l ap veye an sekre pou ⟨moun ki san defans⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "nan anbisk"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "lakou yo"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "nan kachèt"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "touye"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "inosan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zye l"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "pou moun ki san defans"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "ap veye an sekre"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:50.320244393Z",
+  "model": "glm-5.3"
+}

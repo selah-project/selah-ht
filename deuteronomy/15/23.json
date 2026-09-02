@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Sèlman ⟨את⟩ san l pa gen dwa w manje ; sou tè a w ap vide l , kou dlo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Sèlman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san l"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "san l"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "w manje"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "w ap vide l"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kou dlo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:47:46.992848881Z",
+  "model": "glm-5.3"
+}

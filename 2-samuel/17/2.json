@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "e m ap vini sou li pandan li fatige e feb nan men yo, e m ap fè ⟨את⟩ li gen pè, e tout pèp la k ap ⟨את⟩ avè l ap chenape, e m ap frape ⟨את⟩ wa a poukont li sèl.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "fatige"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "feb"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "fè pè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "chenape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ avè l"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "poukont li sèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:47:21.603547805Z",
+  "model": "glm-5.3"
+}

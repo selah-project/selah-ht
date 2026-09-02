@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 9:19",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Paske m te pè, tout devan kòlè a ak furi a ke Yawe te fache sou nou pou detwi ⟨את⟩ nou; e Yawe tande m, menm fwa sa a tou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "m te pè"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tout devan"
+    },
+    {
+      "surface": "האף",
+      "gloss": "kòlè a"
+    },
+    {
+      "surface": "והחמה",
+      "gloss": "ak furi a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "te fache"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "pou detwi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e ... tande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm ... tou"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:34.071229152Z",
+  "model": "glm-5.3"
+}

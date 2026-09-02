@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 139,
+  "translation": "Sonde m, El, e konnen kè m; ekzamine m, e konnen penseye m.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Sonde m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "e konnen"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ekzamine m"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "e konnen"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "penseye m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:52.467755618Z",
+  "model": "glm-5.3"
+}

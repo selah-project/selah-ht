@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Pale ak pitit Yisrael yo, di: Moun ki pote ⟨את⟩ sakrifis lapè l pou Yawe, l ap pote ⟨את⟩ offann l pou Yawe, soti nan sakrifis lapè l yo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "Moun ki pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakrifis lapè l"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakrifis"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "lapè l"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "l ap pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "offann l"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "offann l"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "soti nan sakrifis"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "lapè l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:05:38.499453116Z",
+  "model": "glm-5.3"
+}

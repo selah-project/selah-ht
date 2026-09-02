@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Depi devan mechan yo ki devaste m, sa a se enmi m yo, ki nan nanm vlope ⟨yo⟩ sou m.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Depi devan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "devaste m"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nan nanm"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "vlope"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:12.453383501Z",
+  "model": "glm-5.3"
+}

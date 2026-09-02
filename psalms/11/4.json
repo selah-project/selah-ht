@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Yawe ⟨nan⟩ tanp sen li; Yawe, chèz li ⟨nan⟩ syèl yo; zye l ap gade, paupiè l ap egzamine pitit moun yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "nan tanp"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sen li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nan syèl yo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chèz li"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zye l"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ap gade"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "paupiè l"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "ap egzamine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:05.261513791Z",
+  "model": "glm-5.3"
+}

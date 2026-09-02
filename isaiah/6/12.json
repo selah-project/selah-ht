@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E Yawe ap mete ⟨את⟩ moun nan lwen, e yo gen anpil kote ki pa kite yo nan kè tè a.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "ap mete lwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moun nan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moun nan"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "e gen anpil"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "kote ki pa kite yo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nan kè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:24:20.936984427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Vwa Yawe nan fòs; vwa Yawe nan majeste.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "nan fòs"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "nan majeste"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:36.169215755Z",
+  "model": "glm-5.3"
+}

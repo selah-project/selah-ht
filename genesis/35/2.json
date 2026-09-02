@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Epi Yaakov di bay kay li a ak tout moun ki te ak li: retire ⟨את⟩ dye etranje yo ki nan mitan nou, epi pirifye nou, epi chanje rad nou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi ... di"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak bay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "te ak li"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dye etranje yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dye"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "etranje yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "epi pirifye nou"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "epi chanje"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "rad nou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:42:30.608669113Z",
+  "model": "glm-5.3"
+}

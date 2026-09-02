@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Tout moun ki gen malinray ap aji ak konesans; men fou a ap mete bètèz li ⟨deyò⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "moun ki gen malinray"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ap aji"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "ak konesans"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ak fou a"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ap mete… deyò"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "bètèz li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:37.215389530Z",
+  "model": "glm-5.3"
+}

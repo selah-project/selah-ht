@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "E sa rive, lè Evyatar, pitit Akhimelekh, te chape ale bò David nan Kèila, yon efod te desann nan men l.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e sa rive"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "lè ... te chape"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "nan Kèila"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:03.584438981Z",
+  "model": "glm-5.3"
+}

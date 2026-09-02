@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Pou ou kè m di: Chèche figi m; figi ou, Yawe, ⟨את⟩ m ap chèche.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Pou ou"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Chèche"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi ou"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "m ap chèche"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:40.639693159Z",
+  "model": "glm-5.3"
+}

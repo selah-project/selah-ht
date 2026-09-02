@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Nan men l ⟨gen⟩ nefech tout kreyati ki gen lavi, ak lespri tout chèch moun.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefech"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kreyati ki gen lavi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ak lespri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chèch"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T20:34:48.499906516Z",
+  "model": "glm-5.3"
+}

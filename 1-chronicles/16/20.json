@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E yo te pwomennen soti nan yon nasyon ale nan yon lòt nasyon, soti nan yon wayòm ale nan yon lòt pèp",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "E yo te pwomennen"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "soti nan yon nasyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale nan"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "yon lòt nasyon"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "soti nan yon wayòm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale nan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yon lòt pèp"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lòt"
+    }
+  ],
+  "timestamp": "2026-09-02T21:18:40.381040621Z",
+  "model": "glm-5.3"
+}

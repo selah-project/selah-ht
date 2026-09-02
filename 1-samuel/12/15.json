@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E si nou pa koute vwa Yawe, e nou rebèl ⟨את⟩ bouch Yawe, menm Yawe ap kanpe ⟨kont⟩ nou, ak kont papa nou yo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nou koute"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "e nou rebèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouch"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ap kanpe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "menm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "ak sou papa nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:32.503865304Z",
+  "model": "glm-5.3"
+}

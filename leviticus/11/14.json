@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "ak ⟨את⟩ daa a, ak ⟨את⟩ aya a, dapre espès li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "daa a"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "daa a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "aya a"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "aya a"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "dapre espès li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:36.151188329Z",
+  "model": "glm-5.3"
+}

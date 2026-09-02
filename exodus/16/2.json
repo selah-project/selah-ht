@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E tout asanble pitit Yisrayèl yo plent kont Moche ak kont Aharòn nan dezè a.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "plent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asanble"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "על",
+      "gloss": "kont"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak kont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nan dezè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:47:34.455150610Z",
+  "model": "glm-5.3"
+}

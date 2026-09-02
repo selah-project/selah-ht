@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E li di bay madanm mèt li: si sèlman mèt m te devan pwofèt la ki nan Chomron, lè sa a l ap retire ⟨את⟩ li soti nan lèp li.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "madanm mèt li"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "si sèlman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mèt m"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pwofèt la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "nan Chomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ap retire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li — mèt la, soti lèp li"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "soti nan lèp li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:37.010402581Z",
+  "model": "glm-5.3"
+}

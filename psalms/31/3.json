@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Lonje zòrèy ou bò mwen, vit delivré m; se pou ou ye pou mwen yon wòch fò, yon fòtès pou sove m.",
+  "tokens": [
+    {
+      "surface": "הַטֵּה",
+      "gloss": "Lonje"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "bò mwen"
+    },
+    {
+      "surface": "אָזְנְךָ",
+      "gloss": "zòrèy ou"
+    },
+    {
+      "surface": "מְהֵרָה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "הַצִּילֵנִי",
+      "gloss": "delivré m"
+    },
+    {
+      "surface": "הֱיֵה",
+      "gloss": "se pou ou ye"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לְצוּר",
+      "gloss": "yon wòch fò"
+    },
+    {
+      "surface": "מָעוֹז",
+      "gloss": "yon fòtès"
+    },
+    {
+      "surface": "לְבֵית",
+      "gloss": "pou ⟨yon kay⟩"
+    },
+    {
+      "surface": "מְצוּדוֹת",
+      "gloss": "fòtès"
+    },
+    {
+      "surface": "לְהוֹשִׁיעֵנִי",
+      "gloss": "pou sove m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:24:51.286399718Z",
+  "model": "glm-5.3"
+}

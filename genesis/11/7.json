@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Annou desann, e ann konfonn la lang yo, pou chak moun pa tande lang pròchten pa l.",
+  "tokens": [
+    {
+      "surface": "הָבָה",
+      "gloss": "Annou"
+    },
+    {
+      "surface": "נֵרְדָה",
+      "gloss": "desann"
+    },
+    {
+      "surface": "וְנָבְלָה",
+      "gloss": "ann konfonn"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "la"
+    },
+    {
+      "surface": "שְׂפָתָם",
+      "gloss": "lang yo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יִשְׁמְעוּ",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "שְׂפַת",
+      "gloss": "lang"
+    },
+    {
+      "surface": "רֵעֵהוּ",
+      "gloss": "pròchten pa l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:16:36.599101885Z",
+  "model": "glm-5.3"
+}

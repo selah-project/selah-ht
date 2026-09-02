@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Epi, jou nou devan ⟨את⟩ bannòch la a, nou pran yon ag nan sant lan, ki gen yon an, kòm ofann boule pou Yawe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Epi, nou fè"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "nou devan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bannòch la"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "bannòch la"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "yon ag"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nan sant lan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ki gen"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "yen an"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "kòm ofann boule"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T22:46:51.593810619Z",
+  "model": "glm-5.3"
+}

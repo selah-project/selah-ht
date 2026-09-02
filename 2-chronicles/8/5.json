@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Li bati ⟨את⟩ Beit-Khoròn anwo a ak ⟨את⟩ Beit-Khoròn anba a, vil fòtifye, mi, pòt ak baw.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "bati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Khoròn anwo a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoròn"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "anwo a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Beit-Khoròn anba a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoròn"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "anba a"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "vil"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "fòtifye"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ak baw"
+    }
+  ],
+  "timestamp": "2026-09-02T21:28:03.125689032Z",
+  "model": "glm-5.3"
+}

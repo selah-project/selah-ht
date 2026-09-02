@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Moun ki fè yo ap vin menm jan ak yo; tout moun ki mete konfyans sou yo ⟨menm jan⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "menm jan ak yo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ap vin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "moun ki fè yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "mete konfyans"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:57.131155099Z",
+  "model": "glm-5.3"
+}

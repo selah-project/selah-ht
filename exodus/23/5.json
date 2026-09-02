@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Si w wè bòdmifyèl la nan moun ki rayi w a kouch anba chaj li, e w sispann kite l pou li, se kite l w ap kite avèk li.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "w wè"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "bòdmifyèl la"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "nan moun ki rayi w a"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "kouch"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "chaj li"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "e w sispann"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "kite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "kite"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "w ap kite"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avèk li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:13.002972145Z",
+  "model": "glm-5.3"
+}

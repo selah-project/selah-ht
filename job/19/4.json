@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E menm si vreman mwen te erè, ⟨את⟩ avèk mwen erè m an rete.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "E menm si"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "vreman"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "mwen te erè"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ avèk mwen",
+      "marks": "erè m an rete"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "aprete"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "erè m"
+    }
+  ],
+  "timestamp": "2026-09-02T22:26:14.653260358Z",
+  "model": "glm-5.3"
+}

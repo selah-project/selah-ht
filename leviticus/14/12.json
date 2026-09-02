@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi prèt la ap pran ⟨את⟩ youn nan ti mouton yo, epi l ap ofri ⟨את⟩ l pou ofann fot, ansanm ak ⟨את⟩ log (mezi) lwil la, epi l ap leve ⟨את⟩ yo anlè — ofann woulo — devan Yawe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "epi pran"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "youn nan ti mouton yo"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ti mouton an"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "youn"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "epi ofri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "ti mouton an"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "pou ofann fot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "log lwil la"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lwil la"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "epi leve anlè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "ti mouton an ak lwil la"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ofann woulo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:10:23.327754566Z",
+  "model": "glm-5.3"
+}

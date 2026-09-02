@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "e Yawe voye yon nonm, yon pwofèt, pou pitit Yisrayèl, e li di yo: Konsa Yawe, Elohim Yisrayèl, di: Se mwen fè ⟨את⟩ nou monte soti Mitsrayim, e se mwen fè ⟨את⟩ nou soti kay esklav yo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e voye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "yon pwofèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Konsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Se mwen"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "fè monte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "soti Mitsrayim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "e fè soti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nou"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soti kay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "esklav yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:13:59.030934255Z",
+  "model": "glm-5.3"
+}

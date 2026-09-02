@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E pèp la te beni tout gason ki te ofri tèt yo volontèman pou yo rete nan Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "te beni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gason"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "k ap ofri tèt yo volontèman"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pou rete"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nan Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:12:08.542920846Z",
+  "model": "glm-5.3"
+}

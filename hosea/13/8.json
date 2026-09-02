@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 13:8",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "M ap jwenn yo tankou yon lous ki pèdi pitit li; m ap dechire ⟨anvlòp⟩ kè yo, e m ap devore yo la tankou yon lyonès; bèt chan ap dechire yo.",
+  "tokens": [
+    {
+      "surface": "אפגשם",
+      "gloss": "m ap jwenn yo"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "tankou yon lous"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ki pèdi pitit li"
+    },
+    {
+      "surface": "ואקרע",
+      "gloss": "m ap dechire"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "anvlòp"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kè yo"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "m ap devore yo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "tankou yon lyonès"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chan"
+    },
+    {
+      "surface": "תבקעם",
+      "gloss": "ap dechire yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:57:49.286227556Z",
+  "model": "glm-5.3"
+}

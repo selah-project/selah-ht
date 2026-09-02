@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 66,
+  "translation": "M ap antre nan kay ou ak ofann boule; m ap peye ⟨ba⟩ ou vò mwen yo.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "m ap antre"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nan kay ou"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "ak ofann boule"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "m ap peye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "vò mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:23.484134391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Elohim m, sou m menm nanm m ap afese; se poutèt sa m sonje w — soti nan peyi Yardèn, akè Ermon yo, depi mòn Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "ap afese"
+    },
+    {
+      "surface": "על",
+      "gloss": "poutèt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "m sonje w"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "soti nan peyi"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yardèn"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "akè Ermon yo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "depi mòn"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:00.742573961Z",
+  "model": "glm-5.3"
+}

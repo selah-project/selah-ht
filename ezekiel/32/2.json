@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 32:2",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Pitit gason moun, pran yon chante dezoler sou Paro, wa Mitsrayim, epi w ap di l : ou menm, ou te tankou yon jèn lyon nan mitan nasyon yo, epi ou menm, ou se tankou yon monsntè nan lanmè yo ; ou t ap pwofonbe nan rivyè ou yo, ou t ap trboule dlo a ak pye ou, ou t ap bouyi rivyè yo.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Pitit gason"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    },
+    {
+      "surface": "שא",
+      "gloss": "pran"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "chante dezoler"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "epi w ap di"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "yon jèn lyon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "נדמית",
+      "gloss": "ou te tankou"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "epi ou menm"
+    },
+    {
+      "surface": "כתנים",
+      "gloss": "tankou yon monsntè"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nan lanmè yo"
+    },
+    {
+      "surface": "ותגח",
+      "gloss": "ou t ap pwofonbe"
+    },
+    {
+      "surface": "בנהרותיך",
+      "gloss": "nan rivyè ou yo"
+    },
+    {
+      "surface": "ותדלח",
+      "gloss": "ou t ap trboule"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "ברגליך",
+      "gloss": "ak pye ou"
+    },
+    {
+      "surface": "ותרפס",
+      "gloss": "ou t ap bouyi"
+    },
+    {
+      "surface": "נהרותם",
+      "gloss": "rivyè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:24:47.472212358Z",
+  "model": "glm-5.3"
+}

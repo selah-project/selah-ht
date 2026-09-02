@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Nanm ki beni ap vin grès, e moun ki abevrite ⟨lòt moun⟩, menm li tou ap abevrite.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nanm"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ki beni"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ap vin grès"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "e moun ki abevrite"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "ap abevrite"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:36.534388621Z",
+  "model": "glm-5.3"
+}

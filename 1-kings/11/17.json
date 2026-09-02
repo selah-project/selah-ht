@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Adad kouri chape, li ak kèk moun Edomiten, nan sèvitè papa l, avèk ⟨את⟩ li, pou antre nan Mitsrayim — e Hadad te yon jèn gason piti.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "kouri chape"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ak kèk moun"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edomiten"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "nan sèvitè"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avèk ⟨את⟩ li",
+      "marks": "li"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pou antre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "e Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jèn gason"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "piti"
+    }
+  ],
+  "timestamp": "2026-09-02T21:50:58.827398881Z",
+  "model": "glm-5.3"
+}

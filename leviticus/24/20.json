@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Kase an plas kase, je an plas je, dan an plas dan; menm jan l bay mak la nan yon moun, konsa yo dwe bay ⟨l⟩ nan li menm.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Kase"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kase"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an plas"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "menm jan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "l bay"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mak la"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nan yon moun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "yo dwe bay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nan li menm"
+    }
+  ],
+  "timestamp": "2026-09-02T16:16:26.710900573Z",
+  "model": "glm-5.3"
+}

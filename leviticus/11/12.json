@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Tout sa ki pa gen nwaj ak kèkèy nan dlo yo — se ⟨li⟩ decho pou nou.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gen"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "nwaj"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ak kèkèy"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo yo"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "decho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:07:51.793555138Z",
+  "model": "glm-5.3"
+}

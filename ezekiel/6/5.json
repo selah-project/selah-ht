@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E m ap mete ⟨את⟩ kadav pitit Yisrayèl yo devan zidòl yo, e m ap dispèse ⟨את⟩ zo nou yo toutotour altè nou yo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e m ap mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadav pitit Yisrayèl yo"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "kadav"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "zidòl yo"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "e m ap dispèse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zo nou yo"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "zo nou yo"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "toutotour"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "altè nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:11:38.658521028Z",
+  "model": "glm-5.3"
+}

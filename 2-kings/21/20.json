@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E l fè sa ki mal nan je Yawe, jan Menache, papa l, te fè l.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "l fè"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sa ki mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    }
+  ],
+  "timestamp": "2026-09-02T18:19:14.710356716Z",
+  "model": "fable-5-hand"
+}

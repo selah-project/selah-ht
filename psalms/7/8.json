@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E ke asanble pèp yo anvlòpe ⟨את⟩ w, e sou yo retounen w nan wotè.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "E ke asanble"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "pèp yo"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "anvlòpe w"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "e sou yo"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "nan wotè"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "retounen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:55.074202019Z",
+  "model": "glm-5.3"
+}

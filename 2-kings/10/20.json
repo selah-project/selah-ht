@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "E Yehoua di: Konsakre yon reyinyon solènn pou Baal. E yo pwoklame l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehoua"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "reyinyon solènn"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "pou Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "pwoklame"
+    }
+  ],
+  "timestamp": "2026-09-02T18:12:20.948432473Z",
+  "model": "glm-5.3"
+}

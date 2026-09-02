@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Ou pral kraze yo ak yon baton fè; ou pral frape yo an moso tankou veso yon potye.",
+  "tokens": [
+    {
+      "surface": "תְּרֹעֵם",
+      "gloss": "kraze yo"
+    },
+    {
+      "surface": "בְּשֵׁבֶט",
+      "gloss": "ak yon baton"
+    },
+    {
+      "surface": "בַּרְזֶל",
+      "gloss": "fè"
+    },
+    {
+      "surface": "כִּכְלִי",
+      "gloss": "tankou veso"
+    },
+    {
+      "surface": "יוֹצֵר",
+      "gloss": "yon potye"
+    },
+    {
+      "surface": "תְּנַפְּצֵם",
+      "gloss": "frape yo an moso"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:26.843516614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Kanal dlo a parèt, epi fondasyon tè a dekouvri, nan repwoch ou a, Yawe, nan souf van kòlè ou.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "parèt"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo a"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "dekouvri"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "fondasyon"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "nan repwoch ou a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "nan souf"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kòlè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:45.364840960Z",
+  "model": "glm-5.3"
+}

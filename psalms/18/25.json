@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Se poutèt sa Yawe retribye mwen selon jistis mwen, selon pwòpte men mwen devan je l.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "retribye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "selon jistis mwen"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "selon pwòpte"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men mwen"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "je l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:03.498700766Z",
+  "model": "glm-5.3"
+}

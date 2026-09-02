@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Pou chèf mizisyen an. Yon chant David. Non saj nan di nan kè l pa gen Elohim. Yo fin koripte, yo fin fè zèv abominab; pa gen moun ki fè byen.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pou chèf mizisyen an"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Yon chant David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "non saj nan"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nan kè l"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "yo fin koripte"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "yo fin fè abominab"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "zèv"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:50.854940874Z",
+  "model": "glm-5.3"
+}

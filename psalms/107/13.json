@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Epi yo rele pou Yawe nan detres pa yo, epi soti ⟨nan⟩ angoys yo li delivre yo.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "epi yo rele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nan detres"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pa yo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "angoys yo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "li delivre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:01.218076606Z",
+  "model": "glm-5.3"
+}

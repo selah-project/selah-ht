@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Men sèlman ⟨את⟩ Yawe, Elohim nou a, nou dwe pè ⟨l⟩; epi se li ki ap delivre ⟨את⟩ nou nan men tout ennemi nou yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe, Elohim nou a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nou a"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pè"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "epi li"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "delivre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nou"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ennemi nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:17:04.151344454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 102,
+  "translation": "Pou tande kri ⟨prizonye a⟩, pou louvri pitit ⟨lanmò⟩ yo",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Pou tande"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "kri"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "prizonye a"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pou louvri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "lanmò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:39.690401658Z",
+  "model": "glm-5.3"
+}

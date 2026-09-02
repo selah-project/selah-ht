@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "jou lespri a pral koule sou nou depi anlè, e dezè a ap vin chan fètil, e chan fètil la ap konte kòm forè.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "jou"
+    },
+    {
+      "surface": "יֵעָרֶה",
+      "gloss": "pral koule"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "sou nou"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "מִמָּרוֹם",
+      "gloss": "depi anlè"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "e ... ap vin"
+    },
+    {
+      "surface": "מִדְבָּר",
+      "gloss": "dezè"
+    },
+    {
+      "surface": "לַכַּרְמֶל",
+      "gloss": "vin chan fètil"
+    },
+    {
+      "surface": "וְכַרְמֶל",
+      "gloss": "e chan fètil"
+    },
+    {
+      "surface": "לַיַּעַר",
+      "gloss": "kòm forè"
+    },
+    {
+      "surface": "יֵחָשֵׁב",
+      "gloss": "ap konte"
+    }
+  ],
+  "timestamp": "2026-09-02T18:31:41.638338812Z",
+  "model": "glm-5.3"
+}

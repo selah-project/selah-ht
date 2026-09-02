@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi pitit Yisrayèl yo bay Lebit yo ⟨את⟩ vil sa yo ak ⟨את⟩ pyès tè ki antoure yo, jan Yawe te kòmande nan men Moche a, pa tiri.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Epi bay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lebit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vil sa yo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "vil"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pyès tè ki antoure yo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "pyès tè ki antoure yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "pa tiri"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:29.035066146Z",
+  "model": "glm-5.3"
+}

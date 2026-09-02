@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Yawe, Elohim delivrans mwen an, jou mwen ap rele, nan lannwit lan, devan ⟨ou⟩",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "delivrans mwen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "mwen ap rele"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nan lannwit lan"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "devan ⟨ou⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:58.661270755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi ou pa dwe bay pitit ou pou fè pase bay Molekh, epi ou pa dwe pwofane ⟨את⟩ non Elohim ou a — mwen se Yawe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "Epi pitit ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "fè pase"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bay Molekh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "pwofane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non Elohim ou a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:41.552249298Z",
+  "model": "glm-5.3"
+}

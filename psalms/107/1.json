@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Rann grasi ba Yawe, paske li bon, paske hesed li dire pou tout tan.",
+  "tokens": [
+    {
+      "surface": "הֹדוּ",
+      "gloss": "Rann grasi"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "ba Yawe"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:03.835070135Z",
+  "model": "glm-5.3"
+}

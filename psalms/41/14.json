@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "Beni ⟨se⟩ Yawe, Elohim Izrayèl la, depi touttan jouk touttan. Amen, e amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "depi touttan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "touttan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "e amen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:34.726294785Z",
+  "model": "glm-5.3"
+}

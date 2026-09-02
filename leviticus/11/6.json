@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "ak ⟨את⟩ lapènn nan, paske l ap monte gèra, men l pa divize pasa pye a; li enpou pou nou.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lapènn nan"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "lapènn nan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "monte"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gèra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "e pasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "divize"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "enpou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:24.456453366Z",
+  "model": "glm-5.3"
+}

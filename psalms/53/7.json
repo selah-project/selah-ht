@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 53,
+  "translation": "Ki moun ki ap bay delivrans Izrayèl soti nan Tsiyòn? Lè Elohim retounen egzil pèp l a, Yaakov ap fet, Izrayèl ap kontan.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki moun ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "soti nan Tsiyòn"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "lè... retounen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "egzil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp l"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ap fet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ap kontan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:28.977711594Z",
+  "model": "glm-5.3"
+}

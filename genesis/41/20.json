@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 41,
+  "translation": "E bèf fi mèg yo ak move fòm yo yo a te manje ⟨את⟩ sèt (7) bèf fi premye yo, yo ki gen anpa yo.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "e … te manje"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "bèf fi yo"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "mèg yo"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "ak move fòm yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèt bèf fi premye ki gen anpa yo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt (7)"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "bèf fi"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "premye yo"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "ki gen anpa yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:33:18.135359056Z",
+  "model": "glm-5.3"
+}

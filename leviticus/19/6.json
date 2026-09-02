@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Jou n sache l an, li dwe manje, epi lendemen ; e sa ki rete jiska twazyèm jou a, dwe boule nan dife.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Jou"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "n sache l an"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "li dwe manje"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "epi lendemen"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "e sa ki rete"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "twazyèm a"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nan dife"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "dwe boule"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:10.796211114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ou pral mete ⟨את⟩ li anba rebò lotèl a, nan kote anba a, epi rezo a pral rive jiska midit lotèl a.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "epi ou pral mete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (rezo a)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "rebò"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "nan kote anba a"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "epi ... pral rive"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "rezo a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "midit"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:53.901418019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Mechàn yo mete yon pyèj pou mwen, men nan lòd ou yo mwen pa egare.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "yo mete"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechàn yo"
+    },
+    {
+      "surface": "פח",
+      "gloss": "yon pyèj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "men nan lòd ou yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "mwen egare"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:17.124602025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Fanm nan pran ⟨את⟩ de nonm yo e l kache yo, e l di konsa: se vrè, nonm yo te vini kot mwen, men m pa t konnen kote yo soti.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fanm nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de nonm yo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nonm yo"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "e l kache yo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e l di"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se vrè"
+    },
+    {
+      "surface": "באו",
+      "gloss": "te vini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kot mwen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nonm yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men m pa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "t konnen"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kote"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo soti"
+    }
+  ],
+  "timestamp": "2026-09-02T17:01:33.785848082Z",
+  "model": "glm-5.3"
+}

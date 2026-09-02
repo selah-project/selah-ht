@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 56,
+  "translation": "Lènmi m yo ap vale m tout jou a, paske anpil ap fè lagè kont m — ⟨ou ki⟩ wò a.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ap vale"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "lènmi m yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "ap fè lagè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kont m"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wò a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:26.908101589Z",
+  "model": "glm-5.3"
+}

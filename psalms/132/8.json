@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 132,
+  "translation": "Leve, Yawe, vin nan repo w — ou menm ak bwat fòs ou.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "vin nan repo w"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou menm"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "ak bwat"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "fòs ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:40.611151036Z",
+  "model": "glm-5.3"
+}

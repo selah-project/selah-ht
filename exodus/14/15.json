@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Yawe di ba Moche: kisa ou ap kriye ba m pou? Pale ak pitit Yisrayèl yo pou yo avanse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "תִּצְעַק",
+      "gloss": "ou ap kriye"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "ba m"
+    },
+    {
+      "surface": "דַּבֵּר",
+      "gloss": "Pale"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrayèl yo"
+    },
+    {
+      "surface": "וְיִסָּעוּ",
+      "gloss": "pou yo avanse"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:13.706291399Z",
+  "model": "glm-5.3"
+}

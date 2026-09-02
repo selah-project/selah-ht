@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 90,
+  "translation": "Travay ou dwe parèt pou sèvitè ou yo, ak majeste ⟨ou⟩ sou pitit yo.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "dwe parèt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pou"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sèvitè ou yo"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "travay ou"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ak majeste ou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "pitit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:09:55.375032993Z",
+  "model": "glm-5.3"
+}

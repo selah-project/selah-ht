@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 34,
+  "translation": "Paske zòrèy la ap teste pawòl yo, e palè a ap goute pou manje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "zòrèy la"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "ap teste"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "e palè a"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "ap goute"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pou manje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:41:52.565664659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Pas nou yo — kounye a yo antoure ⟨m⟩; je yo fije pou fè ⟨nou⟩ tonbe atè.",
+  "tokens": [
+    {
+      "surface": "אשורינו",
+      "gloss": "pas nou yo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "antoure m"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "je yo"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "fije"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "pou fè tonbe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "atè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:12.453840860Z",
+  "model": "glm-5.3"
+}

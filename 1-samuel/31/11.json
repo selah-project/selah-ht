@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Lè moun k ap rete Yavech Gilad tande sou li ⟨את⟩ sa Plichtim yo fè ⟨a⟩ Chaoul —",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moun k ap rete"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavech"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Plichtim yo fè Chaoul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fè"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plichtim yo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Chaoul"
+    }
+  ],
+  "timestamp": "2026-09-02T17:39:47.716985900Z",
+  "model": "glm-5.3"
+}

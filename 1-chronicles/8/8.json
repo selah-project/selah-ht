@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Chaharayim fè ⟨את⟩ pitit li yo nan cham Moab apre li voye ⟨את⟩ yo ale — Chouchim ak Baara, madanm li yo.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Chaharayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nan cham"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apre"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "li voye ale"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (Chouchim ak Baara)"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chouchim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "madanm li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:55.370092560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "ak ⟨את⟩ Hori yo nan mòn Seir yo, jiska El-Paran, ki sou bò dezè a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Hori yo"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Hori yo"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "nan mòn yo"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou bò"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:06.396455796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Epi ke El Chadday (Bondye ki gen tout pouvwa) beni ⟨את⟩ ou, epi fè ou fritifye, epi fè ou miltipliye, epi ou vin yon asanble pèp yo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "epi El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "beni"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "fè ou fritifye"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "fè ou miltipliye"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ou vin"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "yon asanble"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "pèp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:26:33.803333511Z",
+  "model": "glm-5.3"
+}

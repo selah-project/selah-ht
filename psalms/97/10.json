@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 97,
+  "translation": "Ou ki renmen Yawe, rayi movèz: ⟨li⟩ kenbe nefech yo nan moun hesed li yo sòti nan men mechan yo, ⟨li⟩ sove yo.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Ou ki renmen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "rayi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "movèz"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "li kenbe"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nefech yo"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "moun hesed li yo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mechan yo"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "li sove yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:43.593461876Z",
+  "model": "glm-5.3"
+}

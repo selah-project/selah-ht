@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Apre li fin frape ⟨את⟩ Sihon, wa Amorit la, k ap abite nan Chechvon, ak ⟨את⟩ Og, wa Bachan an, k ap abite nan Achtarot nan Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "li fin frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorit la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "abite"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "nan Chechvon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bachan an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "abite"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "nan Achtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "nan Edrei"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:39.489170477Z",
+  "model": "glm-5.3"
+}

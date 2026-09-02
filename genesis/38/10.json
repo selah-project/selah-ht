@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Sa l te fè a te move nan je Yawe, e li fè ⟨את⟩ li mouri tou.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "move (e)"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "l te fè"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "fè mouri (e)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (Onan)"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:33.247747207Z",
+  "model": "glm-5.3"
+}

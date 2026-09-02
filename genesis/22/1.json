@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Lè sa a, apre pawòl sa yo, HaElohim teste ⟨את⟩ Avraham, epi li rele l: Avraham! L reponn: Men mwen an.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lè sa a"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "apre"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "teste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li rele l"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "l reponn"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "men mwen an"
+    }
+  ],
+  "timestamp": "2026-09-02T15:22:06.996430731Z",
+  "model": "glm-5.3"
+}

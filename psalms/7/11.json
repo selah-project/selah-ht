@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Bouklè mwen se sou Elohim, delivran moun ki gen kè dwat.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "Bouklè mwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "delivran"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ki gen kè dwat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:50:09.677182869Z",
+  "model": "glm-5.3"
+}

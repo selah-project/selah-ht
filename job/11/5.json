@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Men kî ki ta vle Eloah pale, e ki ta louvri lèv li avèk ou?",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ta vle ⟨ba⟩"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "e ki ta louvri"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "lèv li"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avèk ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:35:43.744231387Z",
+  "model": "glm-5.3"
+}

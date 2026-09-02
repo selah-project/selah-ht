@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Epi Paro tande ⟨את⟩ zafè sa a, epi li chèche pou touye ⟨את⟩ Moche; men Moche kouri kache anvan Paro, epi li rete nan peyi Midyan, epi li chita bò kwen pye dlo a.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zafè sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zafè sa a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "epi li chèche"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "pou touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "kouri kache"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rete"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "על",
+      "gloss": "bò kwen"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "pye dlo a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:16.520087781Z",
+  "model": "glm-5.3"
+}

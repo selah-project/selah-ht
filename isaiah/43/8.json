@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 43,
+  "translation": "Mennen deyò ⟨yon⟩ pèp ki avèg men ki gen je, e ki soud men ki gen zòrèy.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Mennen deyò"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pèp"
+    },
+    {
+      "surface": "עור",
+      "gloss": "avèg"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "e je"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "e soud"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "e zòrèy"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:10.793371785Z",
+  "model": "glm-5.3"
+}

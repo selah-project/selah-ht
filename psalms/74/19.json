@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Pa bay nejech tourtèl ou a bay bèt yo; pa bliye lavi pòv ou yo pou toutan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "bay bèt yo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nejech"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "tourtèl ou a"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bèt"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "pòv ou yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pou toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:15.124346915Z",
+  "model": "glm-5.3"
+}

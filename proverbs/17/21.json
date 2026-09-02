@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Moun ki fè yon sòt, se doulè pou li; e papa yon valè pa kontante.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "ki fè (pitit)"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sòt"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "pou doulè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kontante"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "valè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:25:53.764990828Z",
+  "model": "glm-5.3"
+}

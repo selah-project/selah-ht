@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi pitit Levi yo pote ⟨את⟩ ach HaElohim jan Moche te kòmande, dapre pawòl Yawe, sou zepòl yo, ak bar yo sou li.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ach"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ach"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dapre pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "sou zepòl yo"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "ak bar yo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T21:19:10.581073168Z",
+  "model": "glm-5.3"
+}

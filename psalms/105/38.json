@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Mitsrayim te rejwi lè yo te soti, paske pè yo te tonbe sou yo.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "te rejwi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "lè yo te soti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "te tonbe"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "pè yo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:01.502812160Z",
+  "model": "glm-5.3"
+}

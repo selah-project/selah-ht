@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Avraham mete ⟨את⟩ sèt ti mouton femèl nan mouton yo apa pou kont yo.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "mete"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèt ti mouton femèl yo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ti mouton femèl"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nan mouton yo"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "apa pou kont yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:22.208041310Z",
+  "model": "glm-5.3"
+}

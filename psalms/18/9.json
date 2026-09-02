@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Fimè monte nan nèz li, ak dife soti nan bouch li ap devore; braiz limen avèk li.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "fimè"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "nan nèz li"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ak dife"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "nan bouch li"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "devore"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "braiz"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "limen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "soti li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:39.240322134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 71,
+  "translation": "Paske ou ⟨se⟩ espwa m, Adònay Yawe, konfyans m depi jènès m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "espwa m"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "konfyans m"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "depi jènès m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:28.003161537Z",
+  "model": "glm-5.3"
+}

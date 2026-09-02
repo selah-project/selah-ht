@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Paske David fè sa ki dwat nan je Yawe, e li pa t devye nan anyen lòd li te bay li tout jou lavi l, sèlman nan zafè Ouriya Hitit la.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pask"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ki dwat"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "sa ki dwat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e li pa t"
+    },
+    {
+      "surface": "סר",
+      "gloss": "devye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nan anyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "lòd li te bay li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "lavi l"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nan zafè"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ouriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitit la"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:23.897620356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "ak ⟨את⟩ Parcandata, ak ⟨את⟩ Dalfon, ak ⟨את⟩ Acpata",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Parcandata"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parcandata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Dalfon"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalfon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Acpata"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Acpata"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:12.758647461Z",
+  "model": "glm-5.3"
+}

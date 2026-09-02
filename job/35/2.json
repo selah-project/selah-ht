@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 35:2",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Èske ou panche sa a se jistis, ou di: 'Jistis mwen ⟨se⟩ pase ⟨sa⟩ El?'",
+  "tokens": [
+    {
+      "surface": "הֲ֭זֹאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "חָשַׁ֣בְתָּ",
+      "gloss": "ou panche"
+    },
+    {
+      "surface": "לְמִשְׁפָּ֑ט",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "אָ֝מַ֗רְתָּ",
+      "gloss": "ou di"
+    },
+    {
+      "surface": "צִדְקִ֥י",
+      "gloss": "jistis mwen"
+    },
+    {
+      "surface": "מֵאֵֽל",
+      "gloss": "pase El"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:59.888918540Z",
+  "model": "glm-5.3"
+}

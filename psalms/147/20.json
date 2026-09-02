@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "Li pa fè konsa pou okenn nasyon; e jijman yo, yo pa konnen yo. Bay louwanj Yah!",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "Li fè"
+    },
+    {
+      "surface": "כֵן",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "pou okenn"
+    },
+    {
+      "surface": "גּוֹי",
+      "gloss": "nasyon"
+    },
+    {
+      "surface": "וּמִשְׁפָּטִים",
+      "gloss": "e jijman yo"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יְדָעוּם",
+      "gloss": "yo konnen yo"
+    },
+    {
+      "surface": "הַלְלוּ",
+      "gloss": "Bay louwanj"
+    },
+    {
+      "surface": "יָהּ",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:17.358910438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "M tande ⟨את⟩ vwa pawòl li, e lè m tande ⟨את⟩ vwa pawòl li, mwen tonbe nan dòm pwofon sou figè mwen, ak figè mwen ⟨te⟩ vire bese tè a.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "m tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "pawòl li"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "e lè m tande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "pawòl li"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "nan dòm pwofon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figè mwen"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ak figè mwen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "vire bese tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:00:38.633292163Z",
+  "model": "glm-5.3"
+}

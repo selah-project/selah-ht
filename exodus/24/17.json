@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 24:17",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi aparansyon glwa Yawe la te tankou yon dife ki devoure sou tèt mòn nan, devan je timoun Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "epi aparansyon"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "tankou yon dife"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "ki devoure"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sou tèt"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mòn nan"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "devan je"
+    },
+    {
+      "surface": "בני",
+      "gloss": "timoun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:10.575813001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Yo ⟨te⟩ genyen nan eritaj yo Beer-Cheva, Cheva, ak Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨te⟩ genyen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "nan eritaj yo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ak Cheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ak Molada"
+    }
+  ],
+  "timestamp": "2026-09-02T17:08:14.814566351Z",
+  "model": "glm-5.3"
+}

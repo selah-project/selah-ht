@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Pèsonn pa wè ⟨את⟩ frè l, e pèsonn pa leve depi kote l te ye a twa jou; men pou tout pitit Yisrayèl yo te gen limyè kote yo te rete yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pèsonn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frè l"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "leve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pèsonn"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "depi kote l"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "men pou tout"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "היה",
+      "gloss": "te gen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "limyè"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "kote yo te rete"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:31.958659400Z",
+  "model": "glm-5.3"
+}

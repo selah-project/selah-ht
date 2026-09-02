@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Epi ou onnen ⟨את⟩ otè a nan ofrann boule a ak ⟨את⟩ tout zouti li yo, epi ou konsakre ⟨את⟩ otè a, epi otè a ap vin trè sen.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "epi ou onnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otè a nan ofrann boule a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "otè"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofrann boule a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zouti li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zouti li yo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "epi ou konsakre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otè a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otè a"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "epi l ap vin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otè a"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "trè"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:09.411207215Z",
+  "model": "glm-5.3"
+}

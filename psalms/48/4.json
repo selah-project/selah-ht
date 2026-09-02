@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Nan chato l yo Elohim fè tèt li konnen kòm yon fòtè.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "nan chato l yo"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "fè tèt li konnen"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "kòm yon fòtè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:05.225056701Z",
+  "model": "glm-5.3"
+}

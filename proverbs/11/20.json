@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "Moun kè kranpe se yon abominasyon devan Yawe, men plezi ⟨a⟩ Yawe se moun ki mache dwat ⟨nan⟩ wout ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "תּוֹעֲבַת",
+      "gloss": "abominasyon"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עִקְּשֵׁי",
+      "gloss": "kranpe"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "וּרְצוֹנוֹ",
+      "gloss": "men plezi li"
+    },
+    {
+      "surface": "תְּמִימֵי",
+      "gloss": "moun ki mache dwat \/ ki sen"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "wout"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:25.991523398Z",
+  "model": "glm-5.3"
+}

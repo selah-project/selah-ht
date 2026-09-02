@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi wa a di ba li: Kisa pou ou, Ester larenn? Epi kisa demann ou? Jou mwatye wayalite a, epi l ap bay ou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Epi li di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "larenn"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Epi kisa"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "demann ou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jou"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mwatye"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "wayalite a"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "epi yo bay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    }
+  ],
+  "timestamp": "2026-09-02T20:55:09.217031376Z",
+  "model": "glm-5.3"
+}

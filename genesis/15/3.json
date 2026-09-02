@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E Avram ajoute: Gade, pou mwen ou pa ban pitit, e gade, yon pitit kay mwen ap eritye ⟨את⟩ mwen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ban"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yon pitit"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kay mwen"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ap eritye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:18:05.182264310Z",
+  "model": "glm-5.3"
+}

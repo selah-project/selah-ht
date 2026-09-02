@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 120,
+  "translation": "Yon chante pou montey yo. Nan tribilasyon mwen an, mwen kriye bò Yawe, e li reponn mwen.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yon chante"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pou montey yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "nan tribilasyon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mwen kriye"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "e li reponn mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:16:39.067495850Z",
+  "model": "glm-5.3"
+}

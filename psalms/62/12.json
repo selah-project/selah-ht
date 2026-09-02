@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 62,
+  "translation": "Yon fwa Elohim pale, de fwa mwen tande sa a: fòs se pou Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "yon fwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "de fwa"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mwen tande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pou Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:25.858410798Z",
+  "model": "glm-5.3"
+}

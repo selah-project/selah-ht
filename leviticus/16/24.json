@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi lave ⟨את⟩ kò l ak dlo nan yon kote sen, epi mete ⟨את⟩ rad l, epi soti, epi fè ⟨את⟩ ofrann boule l ak ⟨את⟩ ofrann boule pèp la, epi fè ekspiyasyon pou l menm ak pou pèp la.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "epi lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kò l"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kò l"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ak dlo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan yon kote"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "epi mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad l"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad l"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "epi soti"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "epi fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrann boule l"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ofrann boule l"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "ofrann boule pèp la"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofrann boule"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "epi fè ekspiyasyon"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "pou l menm"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ak pou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:22.654540824Z",
+  "model": "glm-5.3"
+}

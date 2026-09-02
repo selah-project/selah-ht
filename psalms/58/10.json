@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Anvan pwa yo menm gen tan konprann peyi epin yo, menm sa ki fèt vivan menm jan ak chalè kòlè a, l ap fè yo vole ak yon van ki deboule.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "anvan"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "pwa yo"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "peyi epin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "menm jan ak"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sa ki fèt vivan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "menm jan ak"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "chalè kòlè"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "fè vole ak van"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:26.017037598Z",
+  "model": "glm-5.3"
+}

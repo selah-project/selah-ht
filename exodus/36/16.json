@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Epi li rasanble ⟨את⟩ senk ridèl yo apatie, e ⟨את⟩ siz ridèl yo apatie.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Epi li rasanble"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senk ridèl yo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "senk"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ridèl yo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "apatie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "siz ridèl yo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "siz"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ridèl yo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "apatie"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:21.633857700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 117,
+  "translation": "Fè lwanj pou ⟨את⟩ Yawe, tout nasyon yo; glorifye l, tout pèp yo!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Fè lwanj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "glorifye l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "pèp yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:14:29.052240775Z",
+  "model": "glm-5.3"
+}

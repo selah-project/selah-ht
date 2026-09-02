@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 137,
+  "translation": "Sou rivyè Babilòn, la a nou te chita, nou te plore tou, lè nou sonje ⟨את⟩ Tsiyòn.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sou"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivyè yo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilòn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la a"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "nou te chita"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tou"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "nou te plere"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "lè nou sonje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyòn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:58.087211680Z",
+  "model": "glm-5.3"
+}

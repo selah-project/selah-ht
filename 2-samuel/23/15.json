@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "David langwe pou l, e l di: Ki moun k ap ban mwen dlo nan pwi a nan Betlehèm, ki nan pòt la a?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "langwe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki moun"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "k ap ban mwen bwè"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "nan pwi a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehèm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nan pòt la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:52:24.074844977Z",
+  "model": "glm-5.3"
+}

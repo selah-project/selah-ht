@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Epi pou yo mete konfyans yo nan Elohim, pou yo pa bliye zak El, men pou yo kenbe kòmandman l yo.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "epi mete"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nan Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "konfyans yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "zak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ak kòmandman l yo"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "kenbe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:50.842052245Z",
+  "model": "glm-5.3"
+}

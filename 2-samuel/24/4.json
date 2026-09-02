@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Men pawòl wa a pa pase devan Yoav ni devan chèf lame yo, epi Yoav ak chèf lame yo soti devan wa a, pou yo al enspeksyon ⟨את⟩ pèp la, ⟨את⟩ Yisrayèl.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "vin fò"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "epi devan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "lame a"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ak chèf"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "lame a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "pou yo al enspeksyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T17:52:48.329295653Z",
+  "model": "glm-5.3"
+}

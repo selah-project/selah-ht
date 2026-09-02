@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Koute, tifi, epi gade, epi mete zòrèy ou ⟨apre⟩; epi bliye pèp ou ak kay papa ou.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Koute"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tifi"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "epi gade"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "epi mete"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "zòrèy ou"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "epi bliye"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ak kay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:39.104426501Z",
+  "model": "glm-5.3"
+}

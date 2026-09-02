@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "E ou menm, koute pawòl Yawe a, tout egzile yo, mwen ki te voye yo soti nan Yerouchalayim pou ale lavil Babilòn.",
+  "tokens": [
+    {
+      "surface": "וְאַתֶּם",
+      "gloss": "E ou menm"
+    },
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "koute"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הַגּוֹלָה",
+      "gloss": "egzile yo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שִׁלַּחְתִּי",
+      "gloss": "mwen te voye"
+    },
+    {
+      "surface": "מִירוּשָׁלִַם",
+      "gloss": "soti nan Yerouchalayim"
+    },
+    {
+      "surface": "בָּבֶלָה",
+      "gloss": "pou ale lavil Babilòn"
+    }
+  ],
+  "timestamp": "2026-09-02T22:11:21.814869514Z",
+  "model": "glm-5.3"
+}

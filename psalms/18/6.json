@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Kòd Cheol yo antoure m; pyèj mò a vin devan m.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "kòd"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "yo antoure m"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "yo vin devan m"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "pyèj"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mò a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:43.051646627Z",
+  "model": "glm-5.3"
+}

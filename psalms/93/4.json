@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 93,
+  "translation": "Pi pisan pase vwa dlo ki anpil, pase vag ki pisan yo ki soti nan lanmè a — Yawe, nan wotè, li ⟨ye⟩ pisan.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "pase vwa (ki pi fò pase vwa)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "vag ki kraze (vag)"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "Pi pisan"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "nan wotè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:32.750191413Z",
+  "model": "glm-5.3"
+}

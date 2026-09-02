@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi Hatekh vin, epi l anonse pou Ester ⟨את⟩ pawòl Mordèkhay yo.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatekh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "pou Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl Mordèkhay yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordèkhay"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:12.528997835Z",
+  "model": "glm-5.3"
+}

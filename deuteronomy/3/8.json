@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E nou pran ⟨את⟩ tè a nan men de wa Emoryen yo, ki te lòt bò Yarden an, soti nan ravèn Arnòn jouk mòn Hermòn.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "E nou pran"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nan tan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoryen yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "te lòt bò"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden an"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "soti nan ravèn"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnòn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermòn"
+    }
+  ],
+  "timestamp": "2026-09-02T16:42:26.833154910Z",
+  "model": "glm-5.3"
+}

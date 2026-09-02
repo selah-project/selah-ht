@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Ban zòrèy, Yawe, lapriyè mwen, e pran gad nan vwa demann mwen yo.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Ban zòrèy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lapriyè mwen"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "e pran gad"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nan vwa"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "demann mwen yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:20.737020301Z",
+  "model": "glm-5.3"
+}

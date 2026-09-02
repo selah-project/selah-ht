@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Elohim di a Avraham: e ou menm, ou pou kenbe ⟨את⟩ alyans mwen an — ou ak pitit ou apre ou, pou tout jenerasyon yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alyans mwen an"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alyans mwen an"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ak pitit ou"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "apre ou"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "pou tout jenerasyon yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:45.447745097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi Aharòn pote ⟨את⟩ bèf la, ofrann fò a, ki pou li, epi li fè ekspiyasyon pou li menm ak pou fanmi li.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "pote (ofri)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bèf la"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bèf"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofrann fò a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "fè ekspiyasyon"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "pou li menm"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "epi pou"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "fanmi li (kay li)"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:31.415135528Z",
+  "model": "glm-5.3"
+}

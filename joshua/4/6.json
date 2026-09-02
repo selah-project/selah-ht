@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pou sa a vin yon mak nan mitan nou, lè pitit gason nou yo demen ap mande, pou yo di: Ki sa wòch sa yo ye pou nou?",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "אות",
+      "gloss": "yon mak"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "ap mande"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pitit gason nou"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "demen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ki sa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "wòch yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    }
+  ],
+  "timestamp": "2026-09-02T17:00:50.710491465Z",
+  "model": "glm-5.3"
+}

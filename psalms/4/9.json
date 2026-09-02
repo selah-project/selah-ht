@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Nan lapè m ap kouche ansanm e m ap dòmi, paske se ou, Yawe, sèlman, ki fè m rete an sekirite.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Nan lapè"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "m ap kouche"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "e m ap dòmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "an sekirite"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "ki fè m rete"
+    }
+  ],
+  "timestamp": "2026-09-02T19:49:48.517456124Z",
+  "model": "glm-5.3"
+}

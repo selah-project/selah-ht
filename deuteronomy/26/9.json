@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E li mennen nou nan kote sa a, e li ban nou tè sa a, yon tè k ap koule ak lèt ak siwo myèl.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kote a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yon tè"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "k ap koule"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ak lèt"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ak siwo myèl"
+    }
+  ],
+  "timestamp": "2026-09-02T16:53:53.021809876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Epi yon moun, si l manje bagèt sanktifye pa fè egzak pa konnen, l ap ajoute yon senkyèm sou li, epi l ap bay kòhen ⟨את⟩ bagèt sanktifye a.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Epi yon moun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "l manje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bagèt sanktifye"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "pa fè egzak pa konnen"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "l ap ajoute"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "yon senkyèm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "epi l ap bay"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kòhen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagèt sanktifye a"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bagèt sanktifye a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:15:14.131376287Z",
+  "model": "glm-5.3"
+}

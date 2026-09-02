@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi gason Gomer yo: Achkenaz, Rifat ak Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Epi gason"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Achkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ak Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ak Togarma"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:03.337868257Z",
+  "model": "glm-5.3"
+}

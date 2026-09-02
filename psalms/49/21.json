@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 49,
+  "translation": "Moun nan nan onè e pa konprann, li resanble ak bèt yo — ⟨yo⟩ disparèt.",
+  "tokens": [
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "Moun"
+    },
+    {
+      "surface": "בִּ֭יקָר",
+      "gloss": "nan onè"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "יָבִ֑ין",
+      "gloss": "konprann"
+    },
+    {
+      "surface": "נִמְשַׁ֖ל",
+      "gloss": "resanble"
+    },
+    {
+      "surface": "כַּבְּהֵמ֣וֹת",
+      "gloss": "ak bèt yo"
+    },
+    {
+      "surface": "נִדְמ֥וּ",
+      "gloss": "yo disparèt"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:02.247187403Z",
+  "model": "glm-5.3"
+}

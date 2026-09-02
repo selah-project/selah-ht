@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 100,
+  "translation": "Yon chante pou gratitid. Fè yon gwo kri pou Yawe, tout tè a.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Yon chante"
+    },
+    {
+      "surface": "לְתוֹדָה",
+      "gloss": "pou gratitid"
+    },
+    {
+      "surface": "הָרִיעוּ",
+      "gloss": "Fè yon gwo kri"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:11.001107874Z",
+  "model": "glm-5.3"
+}

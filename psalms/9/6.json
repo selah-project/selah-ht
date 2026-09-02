@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Ou blame nasyon yo, ou fè mechan an pèdi; ou efase non ⟨yo⟩ pou tout tan, pou tout tan.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Ou blame"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "ou fè pèdi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechan an"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "non yo"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "ou efase"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "pou tout tan"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:08.081261166Z",
+  "model": "glm-5.3"
+}

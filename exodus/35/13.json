@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "⟨את⟩ tab la ak ⟨את⟩ bar li yo, ak ⟨את⟩ tout vase li yo, ak ⟨את⟩ pen Figi yo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tab la"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tab la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "bar li yo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bar li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vase li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "Figi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:57:59.666721091Z",
+  "model": "glm-5.3"
+}

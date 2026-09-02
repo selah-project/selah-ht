@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 133,
+  "translation": "Kòm roze Chermòn ki desann sou mòn Tsiyòn yo, pasike se la Yawe kòmande ⟨את⟩ benediksyon an — lavi jiska tout tan an.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Kòm roze"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermòn"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ki desann"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "mòn yo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pasike"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benediksyon an"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "benediksyon an"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "tout tan an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:02.795424943Z",
+  "model": "glm-5.3"
+}

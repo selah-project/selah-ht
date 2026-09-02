@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 57,
+  "translation": "M ap rele Elohim Elyòn (Elohim ki pi wo a), Elohim ki ap konplete ⟨tout⟩ ⟨sa ki gen pou mwen⟩.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "M ap rele"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyòn"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elohim ki"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ap konplete"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:53.249188479Z",
+  "model": "glm-5.3"
+}

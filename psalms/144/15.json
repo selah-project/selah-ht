@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 144,
+  "translation": "Kè kontan pou pèp la ki gen sa a; wi, kè kontan pou pèp la ki gen Yawe kòm Elohim pa l!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kè kontan pou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ki gen sa a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "kè kontan pou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "ki gen Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "kòm Elohim pa l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:18.120706342Z",
+  "model": "glm-5.3"
+}

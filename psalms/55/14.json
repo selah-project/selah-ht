@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 55,
+  "translation": "Men se ⟨ou⟩ — yon moun tankou mwen menm, zanmi m byen fè, ak konpayon m ki konnen m.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men se ou"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "tankou mwen menm"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "zanmi m byen fè"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "ak konpayon m ki konnen m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:10.439867751Z",
+  "model": "glm-5.3"
+}

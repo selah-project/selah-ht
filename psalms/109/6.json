@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Nonmen ⟨nan kwochè pa gen⟩ yon moun mechan sou li, e ke yon satan kanpe sou bò dwat li.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Nonmen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yon moun mechan"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "e yon satan (adwèsayè)"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "bò dwat li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:41.423370461Z",
+  "model": "glm-5.3"
+}

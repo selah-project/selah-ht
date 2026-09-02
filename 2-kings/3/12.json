@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E Yehochafat di: Gen ⟨את⟩ pawòl Yawe bò kote li. Se konsa wa Izrayèl la, ak Yehochafat, ak wa Edom la, desann ale jwenn li.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ li",
+      "marks": "pawòl Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "e yo desann"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bò kote li"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayèl"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ak Yehochafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ak wa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-02T18:08:50.401895853Z",
+  "model": "glm-5.3"
+}

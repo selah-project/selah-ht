@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Adònay, tande m: tè a ⟨se⟩ kat sant sekèl lajan — ant mwen ak ou, sa ⟨li⟩ ye? Antere ⟨את⟩ mò ou.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "tande m"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sant"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sekèl"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lajan"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ant mwen"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e ant ou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mò ou"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "mò ou"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "_antere"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:13.491046906Z",
+  "model": "glm-5.3"
+}

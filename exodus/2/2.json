@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E fi a vin ansent, e li fè yon gason; e lè li wè ⟨את⟩ li — paske li bèl — li kache l twa mwa.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "vin ansent"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "fi a"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yon gason"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (gason an)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bèl"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "kache l"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "mwa"
+    }
+  ],
+  "timestamp": "2026-09-02T15:39:45.880407682Z",
+  "model": "glm-5.3"
+}

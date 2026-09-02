@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 24:20",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Santrin ap bliye l; vè ap fè l dous; ⟨yo⟩ pa sonje l ankò; e anjistis kraze kou yon pye bwa.",
+  "tokens": [
+    {
+      "surface": "ישכחהו",
+      "gloss": "ap bliye l"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "santrin"
+    },
+    {
+      "surface": "מתקו",
+      "gloss": "fè l dous"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "vè"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "sonje"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "e kraze"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "kou yon pye bwa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "anjistis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:39:37.420280193Z",
+  "model": "glm-5.3"
+}

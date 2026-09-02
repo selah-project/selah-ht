@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Paske li pa fèmen pòt yo nan vant m an, e li pa kache travay di a nan je m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "pòt yo"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "nan vant m"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "e li pa kache"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "travay di a"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "nan je m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:32:07.688065288Z",
+  "model": "glm-5.3"
+}

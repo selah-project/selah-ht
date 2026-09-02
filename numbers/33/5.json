@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Pitit Yisrael yo pati nan Ramèsès, e yo kanpe nan Soukot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "pati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "nan Ramèsès"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "nan Soukot"
+    }
+  ],
+  "timestamp": "2026-09-02T16:39:32.347119157Z",
+  "model": "glm-5.3"
+}

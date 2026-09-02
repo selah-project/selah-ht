@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "«M ap frape yo ak epidemi a, e m ap ranvwaye yo deyò, e m ap fè ⟨את⟩ ou vin yon nasyon gwo e fò, pi fò pase li.»",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "M ap frape"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ak epidemi a"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "e m ap ranvwaye yo"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "e m ap fè"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou (yon nasyon gwo e fò)"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "yon nasyon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "e fò"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pase li"
+    }
+  ],
+  "timestamp": "2026-09-02T16:27:09.886174682Z",
+  "model": "glm-5.3"
+}

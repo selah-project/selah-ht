@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Mwen se Yawe, se non mwen, epi glwa mwen, mwen pa bay yon lòt moun, ni lwanj mwen bay imaïj koupe yo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "non mwen"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "epi glwa mwen"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "bay yon lòt moun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mwen bay"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ni lwanj mwen"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "bay imaïj koupe yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:36:17.184569408Z",
+  "model": "glm-5.3"
+}

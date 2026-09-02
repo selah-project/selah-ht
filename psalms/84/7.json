@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 84,
+  "translation": "Lè yo ap travèse valè Bakà, yo fè l yon sous — plis lapli bonè a kouvri l ak benediksyon.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ap travèse"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "nan valè"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Bakà"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "sous"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "yo fè l"
+    },
+    {
+      "surface": "גם",
+      "gloss": "plis"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ak benediksyon"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "lapli bonè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:47.212095669Z",
+  "model": "glm-5.3"
+}

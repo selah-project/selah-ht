@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 143,
+  "translation": "Mwen louvri men m ba ou; nanm mwen tankou yon tè ki fatige anvan ou. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Mwen louvri"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "men m"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba ou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm mwen"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "tankou tè"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ki fatige"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anvan ou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T20:19:45.850821819Z",
+  "model": "glm-5.3"
+}

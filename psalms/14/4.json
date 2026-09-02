@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Èske tout moun ki travay inikite pa konnen? Yo ki manje pèp mwen jan yo manje pen — Yoawe, yo pa envoke l.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Èske… pa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moun ki travay"
+    },
+    {
+      "surface": "און",
+      "gloss": "inikite"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ki manje"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yo manje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yoawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "envoke l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:50.855922158Z",
+  "model": "glm-5.3"
+}

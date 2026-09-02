@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 112,
+  "translation": "Yon limye leve nan fènwa pou moun dwat yo — moun ki gen gras, ak mizèrikòd, epi jis.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "leve (kòm solèy)"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "nan fènwa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yon limye"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "pou moun dwat yo"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ki gen gras"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ak mizèrikòd"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "epi jis"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:38.487420116Z",
+  "model": "glm-5.3"
+}

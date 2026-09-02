@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 8:28",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "E m di yo: Nou ⟨se⟩ konsakre pou Yawe, van yo ⟨se⟩ konsakre, lajan an ak lò a se yon ofann lib pou Yawe, Elohim zansèt nou.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "e m di"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "והכלים",
+      "gloss": "ak van yo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "konsakre"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "ak lajan an"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ak lò a"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ofann lib"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "zansèt nou"
+    }
+  ],
+  "timestamp": "2026-09-02T21:05:54.921455149Z",
+  "model": "glm-5.3"
+}

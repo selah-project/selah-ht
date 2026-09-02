@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E l di: Ale, Daniyèl, paske pawòl yo fèmen e chache jouk tan ⟨fen⟩ an.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E l di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyèl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "e chache"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "fen"
+    }
+  ],
+  "timestamp": "2026-09-02T21:02:04.534113556Z",
+  "model": "glm-5.3"
+}

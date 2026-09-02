@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi li pran ⟨את⟩ de (2) bouk yo, epi li fè yo kanpe devan Yawe, nan pòt tant reyinyon an.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bouk yo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bouk yo"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "fè kanpe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "de bouk yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nan pòt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon (randevou)"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:31.415285140Z",
+  "model": "glm-5.3"
+}

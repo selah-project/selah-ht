@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Yered viv de ak swasant lane, san lane, epi l fè ⟨את⟩ Hanokh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "de"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ak swasant"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:19.826026422Z",
+  "model": "glm-5.3"
+}

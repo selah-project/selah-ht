@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Poutèt sa m ap retire ⟨את⟩ non Baalim yo nan bouch li, epi yo p ap sonje ankò non yo.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "epi m ap retire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non Baalim yo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "non"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim yo"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "nan bouch li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "p ap sonje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "non yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:33:02.160000638Z",
+  "model": "glm-5.3"
+}

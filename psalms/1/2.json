@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Se sèlman nan Torà Yawe plezi l ye, e nan Torà l li mômure jou ak lannwit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sèlman"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "nan Torà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "plezi l"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "e nan Torà l"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "li mômure"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ak lannwit"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:19.155142583Z",
+  "model": "glm-5.3"
+}

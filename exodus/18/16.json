@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Lè yon afè rive pou yo, yo pote l vini bò kote m, e mwen jije ant yon nonm ak vwazen l, e mwen fè yo konnen ⟨את⟩ dekre Elohim yo ak ⟨את⟩ lwa l yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "rive"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "afè"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bò kote m"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "e mwen jije"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon nonm"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ak"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "vwazen l"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "e mwen fè yo konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dekre Elohim yo"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "dekre"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lwa l"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "lwa l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:48:33.347344048Z",
+  "model": "glm-5.3"
+}

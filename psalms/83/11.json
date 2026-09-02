@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 83,
+  "translation": "yo te fini an diyi nan Èn-Dor; yo vin femantan ⟨ pou ⟩ tè a.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "yo te fini an diyi"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "nan Èn-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yo vin"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "femantan"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "⟨ pou ⟩ tè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:47.190707895Z",
+  "model": "glm-5.3"
+}

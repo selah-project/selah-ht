@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "E yo rele adrese Yawe nan detrès yo, se soti nan angoès yo li delivre yo.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "E yo rele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "adrese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nan detrès"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "soti nan angoès yo"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "li delivre yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:05.302640423Z",
+  "model": "glm-5.3"
+}

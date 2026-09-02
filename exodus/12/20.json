@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Tout bagay ki gen levèn nou pral pa manje; nan tout kote nou rete, nou pral manje pain san levèn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout bagay"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "ki gen levèn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou pral manje"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "kote nou rete"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nou pral manje"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "pain san levèn"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:50.962967485Z",
+  "model": "glm-5.3"
+}

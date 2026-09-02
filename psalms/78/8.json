@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Epi pou yo pa ye tankou zansèt yo — yon jenerasyon rebèl ak obeyi san vle, yon jenerasyon ki pa prepare kè l, e lespri l ki pa fèm ak ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi pou pa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "tankou zansèt yo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "yon jenerasyon"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "rebèl"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ak obeyi san vle"
+    },
+    {
+      "surface": "דור",
+      "gloss": "yon jenerasyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ki pa"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kè l"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ki pa"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "fèm"
+    },
+    {
+      "surface": "את",
+      "gloss": "ak ⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "lespri l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:50.842194245Z",
+  "model": "glm-5.3"
+}

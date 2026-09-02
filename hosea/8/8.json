@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Yisrayèl ⟨te⟩ vale; kounye a yo ⟨ye⟩ nan nasyon yo, kòm yon veso ki pa gen okenn valè.",
+  "tokens": [
+    {
+      "surface": "נִבְלַע",
+      "gloss": "vale"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "kounye a"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "yo vin"
+    },
+    {
+      "surface": "בַּגּוֹיִם",
+      "gloss": "nan nasyon yo"
+    },
+    {
+      "surface": "כְּכְלִי",
+      "gloss": "kòm yon veso"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "חֵפֶץ",
+      "gloss": "valè"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "nan li"
+    }
+  ],
+  "timestamp": "2026-09-02T19:34:55.116252271Z",
+  "model": "glm-5.3"
+}

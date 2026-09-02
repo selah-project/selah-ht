@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E nonm nan te konnen ⟨את⟩ Cheva, madanm li; e li vin ansent, e li fè pitit ⟨את⟩ Kayin, e li di: Mwen te pwokire yon gason ⟨את⟩ avèk Yawe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "E nonm nan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "te konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheva"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "madanm li"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "e li vin ansent"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e li fè pitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Mwen te pwokire"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon gason"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ avèk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:47.504390549Z",
+  "model": "glm-5.3"
+}

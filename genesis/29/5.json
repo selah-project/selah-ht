@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Li di yo: Èske yo konnen ⟨את⟩ Lavan, pitit gason Nakhò? Yo di: Nou konnen l.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Èske yo konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhò"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Yo di"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Nou konnen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:23.051468100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 48,
+  "translation": "Depi mwen konnen ke ou di, ou, ak tandon fè kou ou, epi fwon ou kwiv.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Depi mwen konnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "di"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "ak tandon"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "fè"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "kou ou"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "epi fwon ou"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "kwiv"
+    }
+  ],
+  "timestamp": "2026-09-02T18:38:44.637432628Z",
+  "model": "glm-5.3"
+}

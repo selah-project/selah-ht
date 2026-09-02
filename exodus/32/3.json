@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "E tout pèp la petire ⟨את⟩ zakma lò yo ki nan zòrèy yo, epi yo pote yo ba Aharòn.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "petire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zakma lò yo"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "zakma"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "nan zòrèy yo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharòn"
+    }
+  ],
+  "timestamp": "2026-09-02T21:45:18.003606387Z",
+  "model": "glm-5.3"
+}

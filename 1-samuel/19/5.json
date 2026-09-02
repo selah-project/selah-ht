@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Li mete ⟨את⟩ nanm li nan men l, li frape ⟨את⟩ Filisten an, e Yawe fè yon gwo delivrans pou tout Yisrael; ou te wè l, ou te kontan, e poukisa ou ap peche sou san inosan an, pou touye ⟨את⟩ David san rezon?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanm li"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nanm li"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "nan men l"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "frape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filisten an"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filisten an"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gwo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ou te wè"
+    },
+    {
+      "surface": "וישמח lang=\"heb\"",
+      "gloss": "ou te kontan"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e poukisa"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ap peche"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sou san"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "inosan"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "pou touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "san rezon"
+    }
+  ],
+  "timestamp": "2026-09-02T17:33:41.315455342Z",
+  "model": "glm-5.3"
+}

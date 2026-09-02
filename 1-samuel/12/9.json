@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi yo bliye ⟨את⟩ Yawe Elohim yo, e li vann ⟨את⟩ yo nan men Sisera, chèf lame Chatsor, e nan men Filistin yo, e nan men wa Moab la, e yo fè lagè kont yo.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "epi yo bliye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim yo"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "e li vann"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chèf"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "lame"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e nan men"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e nan men"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "e yo fè lagè"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kont yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:59.119142776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Nan tout tan, rad yo sou ou dwe blan, epi lwil sou tèt ou, pa kite l manke.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dwe"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "rad yo sou ou"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "blan"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "epi lwil"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tèt ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa kite"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "manke"
+    }
+  ],
+  "timestamp": "2026-09-02T20:52:14.637926575Z",
+  "model": "glm-5.3"
+}

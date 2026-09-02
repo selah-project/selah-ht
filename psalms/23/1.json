@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Chante pou David: Yawe se bèje m — m pa manke anyen.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "chante"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "bèje m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "manke"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:38.372711684Z",
+  "model": "glm-5.3"
+}

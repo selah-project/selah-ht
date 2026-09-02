@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Se poutèt sa, plent ap poze ⟨את⟩ ou yo ankò, deklarasyon Yawe, e plent ap poze ⟨את⟩ pitit pitit ou yo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Se poutèt sa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ankò"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "poze plent"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ou yo",
+      "marks": "ou yo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklarasyon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pitit pitit ou yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pitit ou yo"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "poze plent"
+    }
+  ],
+  "timestamp": "2026-09-02T21:54:47.562462034Z",
+  "model": "glm-5.3"
+}

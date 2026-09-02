@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Yawe parèt devan l, e l di: Pa desann nan Mitsrayim; demere nan tè a ke m ap di ou ⟨a⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "parèt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "devan l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "desann"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "demere"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:24:22.531017087Z",
+  "model": "glm-5.3"
+}

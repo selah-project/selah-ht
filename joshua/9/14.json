@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Lè sa a, gason yo pran yon ti pitye nan manje yo menm, men ⟨את⟩ bouch Yawe a, yo pa t mande l konsèy.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "yo pran"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gason yo"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "yon ti pitye nan manje yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "men ⟨את⟩",
+      "marks": "bouch Yawe a"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "yo mande"
+    }
+  ],
+  "timestamp": "2026-09-02T17:02:22.850880150Z",
+  "model": "glm-5.3"
+}

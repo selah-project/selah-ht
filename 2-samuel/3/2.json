@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Pitit gason fèt pou David nan Khevron, e premye pitit li ⟨a⟩ se Amnòn, li fèt ak Ahinòam Yizreelit la.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "fèt"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pou David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "nan Khevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "premye pitit li"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "se Amnòn"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "ak Ahinòam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "Yizreelit la"
+    }
+  ],
+  "timestamp": "2026-09-02T17:40:13.553412329Z",
+  "model": "glm-5.3"
+}

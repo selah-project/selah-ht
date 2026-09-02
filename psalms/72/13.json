@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 72,
+  "translation": "L ap gen krentif pou pòv la ak pou bezwen an, e l ap delivre nanm bezwen yo.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "l ap gen krentif"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ak pou bezwen an"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "e nanm"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "bezwen yo"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "l ap delivre"
+    }
+  ],
+  "timestamp": "2026-09-02T20:04:28.570050649Z",
+  "model": "glm-5.3"
+}

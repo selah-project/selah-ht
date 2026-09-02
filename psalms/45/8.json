@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Ou renmen jistis epi ou rayi movè; pou sa Elohim, Elohim ou, onnen ou ak lwil kè kontan pase konpè ou yo.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ou renmen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "epi ou rayi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "movè"
+    },
+    {
+      "surface": "על",
+      "gloss": "pou"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "onnen ou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kè kontan"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "pase konpè ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:25.083402164Z",
+  "model": "glm-5.3"
+}

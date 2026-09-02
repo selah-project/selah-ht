@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Epi Avraham ajoute, epi l pran yon fanm, e non l ⟨se⟩ Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "epi l pran"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yon fanm"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "e non l"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:42.308534273Z",
+  "model": "glm-5.3"
+}

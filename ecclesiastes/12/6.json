@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Jou lè kòd lajan an pa vin lwen, ak boul lò a pa krase, ak kannari a pa kase sou sous la, ak rou a pa kase nan pwi a;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "vin lwen"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kòd"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lajan an"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ak krase"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "boul"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lò a"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "ak kase"
+    },
+    {
+      "surface": "כד",
+      "gloss": "kannari a"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "sous la"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "ak kase"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "rou a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "pwi a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:53:30.707740641Z",
+  "model": "glm-5.3"
+}

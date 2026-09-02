@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E li di ⟨li⟩ : Tout sa w ap di, m ap fè.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E li di"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "w ap di"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ap fè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:46:14.569434726Z",
+  "model": "glm-5.3"
+}

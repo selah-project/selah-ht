@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi Tamar ale nan kay Amnon, frè l, epi li kouché. Epi li pran ⟨את⟩ farin nan, petri l, fè gato devan je l, epi kwuit ⟨את⟩ gato yo.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "epi ale"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "epi li"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kouché"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "epi pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farin nan"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "farin nan"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "petri"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "fè gato"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "devan je l"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "epi kwuit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gato yo"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "gato yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:45:22.751153304Z",
+  "model": "glm-5.3"
+}

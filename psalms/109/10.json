@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Epi pitit li yo dwe mache san rete, yo mande charite, yo chache ⟨pen⟩ soti nan ruïn kote yo te ye.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "epi mache san rete"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "mache san rete"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "mande charite"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "chache"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "soti nan ruïn kote yo te ye"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:35.057018236Z",
+  "model": "glm-5.3"
+}

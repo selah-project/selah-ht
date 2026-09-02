@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Paskè Avraham tande vwa mwen, epi li kenbe gad mwen, kòmandman mwen, lwa mwen, ak ⟨lalwa⟩ mwen.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "paskè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ki)"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tande"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "vwa mwen"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "epi li kenbe"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "gad mwen"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kòmandman mwen"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "lwa mwen"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ak lalwa mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:54.245037298Z",
+  "model": "glm-5.3"
+}

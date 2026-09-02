@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "Epi Yawe Elohim ou a mete ⟨את⟩ tout maldisyon sa yo sou enmi ou yo ak sou moun ki rayi ou yo, kote yo te pouse ou.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "epi mete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout maldisyon sa yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "maldisyon yo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "enmi ou yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "moun ki rayi ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "te pouse ou"
+    }
+  ],
+  "timestamp": "2026-09-02T16:56:33.669810663Z",
+  "model": "glm-5.3"
+}

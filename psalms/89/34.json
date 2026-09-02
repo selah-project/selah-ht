@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Epi hesed mwen an m pap pran lwen de sou li, m pap fè manti nan fidelite m.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "epi hesed mwen an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "pran lwen"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "de sou li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "fè manti"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "nan fidelite m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:18.255755470Z",
+  "model": "glm-5.3"
+}

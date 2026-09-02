@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Mwen kouri dèyè enmi m yo, mwen rive atrap yo, e mwen pa t vire tounen jouk yo fin detwi.",
+  "tokens": [
+    {
+      "surface": "אֶרְדּוֹף",
+      "gloss": "mwen kouri dèyè"
+    },
+    {
+      "surface": "אוֹיְבַי",
+      "gloss": "enmi m yo"
+    },
+    {
+      "surface": "וְאַשִּׂיגֵם",
+      "gloss": "mwen rive atrap yo"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "אָשׁוּב",
+      "gloss": "mwen vire tounen"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "כִּלּוֹתָם",
+      "gloss": "yo fin detwi"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:23.815906294Z",
+  "model": "glm-5.3"
+}

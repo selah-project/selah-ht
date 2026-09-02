@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Epi Yawe frape ⟨את⟩ Kouchim yo devan Aca ak devan Yehouda, e Kouchim yo chape.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "frape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kouchim yo"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kouchim yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Aca"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ak devan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "chape"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kouchim yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:29:56.850844988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Epi l rele Moche ak Aharòn lannwit la, e l di: Leve, soti nan mitan pèp mwen — nou menm, menm pitit Yisrael yo — ale, sèvi ⟨את⟩ Yawe, jan nou menm pale l.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Epi l rele"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ak Aharòn"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lannwit la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ep l di"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nou menm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ale"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sèvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "jan nou menm pale l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:46:15.190512580Z",
+  "model": "glm-5.3"
+}

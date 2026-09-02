@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 59,
+  "translation": "Delivre m nan men moun ki ap fè mal, ak moun ki gen san sove m.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Delivre m"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "moun ki ap fè"
+    },
+    {
+      "surface": "און",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "ak moun ki gen"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sove m"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:52.354908410Z",
+  "model": "glm-5.3"
+}

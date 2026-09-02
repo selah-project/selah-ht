@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 126,
+  "translation": "Mache ap mache ak pleye, pote semiyon an, sètenman l ap tounen vin ak chante rèl, pote rèl li yo",
+  "tokens": [
+    {
+      "surface": "הָלוֹךְ",
+      "gloss": "mache"
+    },
+    {
+      "surface": "יֵלֵךְ",
+      "gloss": "ap mache"
+    },
+    {
+      "surface": "וּבָכֹה",
+      "gloss": "ak pleye"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "מֶשֶׁךְ",
+      "gloss": "semiyon an"
+    },
+    {
+      "surface": "הַזָּרַע",
+      "gloss": "⟨la⟩ simen"
+    },
+    {
+      "surface": "בֹּא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "יָבוֹא",
+      "gloss": "l ap tounen vin"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "ak chante rèl"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "pote"
+    },
+    {
+      "surface": "אֲלֻמֹּתָיו",
+      "gloss": "rèl li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:11.911391203Z",
+  "model": "glm-5.3"
+}

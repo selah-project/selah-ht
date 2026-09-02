@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "men ou dwe louvri byen ⟨את⟩ men ou pou li, epi prete l byen byen sa ki manke l, sa l bezwen an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "louvri byen"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ou dwe louvri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men ou"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "men ou"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "epi prete"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "l byen byen"
+    },
+    {
+      "surface": "די",
+      "gloss": "sa ki sifi"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "manke l"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "l bezwen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "an"
+    }
+  ],
+  "timestamp": "2026-09-02T16:48:58.857315180Z",
+  "model": "glm-5.3"
+}

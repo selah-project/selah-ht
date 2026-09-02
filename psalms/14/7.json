@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 14,
+  "translation": "Ki moun ki ta bay delivrans Yisrayèl soti nan Tsiyòn? Lè Yawe retounen egzil pèp li a, Jakòb ap rejoyi, Yisrayèl ap fè lananjou.",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "Ki moun"
+    },
+    {
+      "surface": "יִתֵּ֣ן",
+      "gloss": "ta bay"
+    },
+    {
+      "surface": "מִצִּיּ֕וֹן",
+      "gloss": "soti nan Tsiyòn"
+    },
+    {
+      "surface": "יְשׁוּעַ֥ת",
+      "gloss": "delivrans"
+    },
+    {
+      "surface": "יִשְׂרָאֵֵ֗ל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "בְּשׁ֣וּב",
+      "gloss": "Lè ... retounen"
+    },
+    {
+      "surface": "יְהוָָ֭ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שְׁב֣וּת",
+      "gloss": "egzil"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "pèp li a"
+    },
+    {
+      "surface": "יָגֵ֥ל",
+      "gloss": "ap rejoyi"
+    },
+    {
+      "surface": "יַ֝עֲקֹ֗ב",
+      "gloss": "Jakòb"
+    },
+    {
+      "surface": "יִשְׂמַ֥ח",
+      "gloss": "ap fè lananjou"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:30.658457174Z",
+  "model": "glm-5.3"
+}

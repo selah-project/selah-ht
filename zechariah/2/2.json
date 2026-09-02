@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "E mwen di ak malèk la k ap pale nan mwen — sa yo ye — e li di ak mwen — se kòn yo ki vannigre ⟨את⟩ Yehouda ⟨את⟩ Yisrayèl ak Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E mwen di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malèk la"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "k ap pale"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nan mwen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yo ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ak mwen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "se yo"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "kòn yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "vannigre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehouda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ak Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:46:55.516699524Z",
+  "model": "glm-5.3"
+}

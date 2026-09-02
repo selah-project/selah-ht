@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E fenèt twa ranje, ak fenèt an fas fenèt, twa fwa.",
+  "tokens": [
+    {
+      "surface": "וּשְׁקֻפִים",
+      "gloss": "e fenèt yo"
+    },
+    {
+      "surface": "שְׁלֹשָׁה",
+      "gloss": "twa"
+    },
+    {
+      "surface": "טוּרִים",
+      "gloss": "ranje"
+    },
+    {
+      "surface": "וּמֶחֱזָה",
+      "gloss": "ak fenèt"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "an fas"
+    },
+    {
+      "surface": "מֶחֱזָה",
+      "gloss": "fenèt"
+    },
+    {
+      "surface": "שָׁלֹשׁ",
+      "gloss": "twa"
+    },
+    {
+      "surface": "פְּעָמִים",
+      "gloss": "fwa"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:45.892724260Z",
+  "model": "glm-5.3"
+}

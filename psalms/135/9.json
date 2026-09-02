@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Li voye siy ak miray nan mitan ou, Mitsrayim, sou Paro ak tout sèvitè l yo.",
+  "tokens": [
+    {
+      "surface": "שָׁלַח",
+      "gloss": "voye"
+    },
+    {
+      "surface": "אֹת֣וֹת",
+      "gloss": "siy"
+    },
+    {
+      "surface": "וּ֭מֹפְתִים",
+      "gloss": "ak miray"
+    },
+    {
+      "surface": "בְּתוֹכֵ֣כִי",
+      "gloss": "nan mitan ou"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בְּ֝פַרְעֹ֗ה",
+      "gloss": "sou Paro"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "עֲבָדָֽיו",
+      "gloss": "sèvitè l yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:30.210427576Z",
+  "model": "glm-5.3"
+}

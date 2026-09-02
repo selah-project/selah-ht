@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Li kraze ⟨את⟩ poto yo, li koupe ⟨את⟩ Achera yo, e li ranpli ⟨את⟩ plas yo ak zo moun.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "kraze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poto yo"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "poto yo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "koupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achera yo"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Achera yo"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ranpli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plas yo"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "plas yo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun"
+    }
+  ],
+  "timestamp": "2026-09-02T18:21:12.597335032Z",
+  "model": "glm-5.3"
+}

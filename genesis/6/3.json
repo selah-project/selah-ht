@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E Yawe di: lespri mwen pa ap konteste nan moun pou toutan, paske li menm se vyann; e jou li yo ap ⟨gen⟩ san ven ane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "ap konteste"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lespri mwen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nan moun"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "pou toutan"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "paske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li menm"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vyann"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e ... ap gen"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jou li yo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "san"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ane"
+    }
+  ],
+  "timestamp": "2026-09-02T15:15:05.497388177Z",
+  "model": "glm-5.3"
+}

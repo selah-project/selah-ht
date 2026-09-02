@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Tout yo vin cho tankou yon fou, epi yo devore ⟨את⟩ jij yo; tout wa yo tonbe; pa gen yon sèl nan mitan yo ki rele pou mwen.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Tout yo"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "vin cho"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "tankou yon fou"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "epi yo devore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jij yo"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "jij yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "wa yo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tonbe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ki rele"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan mitan yo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:35:00.625119413Z",
+  "model": "glm-5.3"
+}

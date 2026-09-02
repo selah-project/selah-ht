@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Paske ou fè l benediksyon pou tout tan; ou fè l kontan ak lajwa, ak ⟨את⟩ figè ou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "ou fè l"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "benediksyon"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "ou fè l kontan"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ak lajwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figè ou"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figè ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:28.941823980Z",
+  "model": "glm-5.3"
+}

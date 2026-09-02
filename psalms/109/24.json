@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Jenou mwen ap vacile soti nan jejen, ak chè mwen pèdi grès.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Jenou mwen"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ap vacile"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "soti nan jejen"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ak chè mwen"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "grès"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:27.652058614Z",
+  "model": "glm-5.3"
+}

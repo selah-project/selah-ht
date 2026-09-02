@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 105,
+  "translation": "Renmèsye Yawe, envoke non l; fè pèp yo konnen zak li yo.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "renmèsye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ba Yawe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "envoke"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "nan non l"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "fè konnen"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "nan pèp yo"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "zak li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:41.091588367Z",
+  "model": "glm-5.3"
+}

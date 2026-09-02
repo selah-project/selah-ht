@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi David di Ahimelek prèt la: Wa a bay mwen lòd sou yon zafè, e li di mwen: Pa kite okenn moun konnen anyen nan ⟨את⟩ zafè a ke mwen ap voye ou fè, ni sa ke mwen bay ou lòd fè; e ⟨את⟩ jèn gason yo, mwen fè yo konnen kote — yon kote tel ak tel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prèt la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Wa a"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "bay mwen lòd"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zafè"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "konn"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zafè a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zafè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "ap voye ou"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ak sa ke"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "mwen bay ou lòd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "jèn gason yo"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "jèn gason yo"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "mwen fè konnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "tel"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "ak tel"
+    }
+  ],
+  "timestamp": "2026-09-02T17:35:26.574238827Z",
+  "model": "glm-5.3"
+}

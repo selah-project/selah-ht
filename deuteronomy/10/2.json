@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi m ap ekri sou tablèt yo ⟨את⟩ pawòl yo ki te sou tablèt premye yo, sa ou te fin kraze, epi w ap mete yo nan kès la.",
+  "tokens": [
+    {
+      "surface": "ואכתוב",
+      "gloss": "Epi m ap ekri"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tablèt yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl yo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tablèt"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "premye yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ou te fin kraze"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "epi w ap mete yo"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "nan kès la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:46:20.380236996Z",
+  "model": "glm-5.3"
+}

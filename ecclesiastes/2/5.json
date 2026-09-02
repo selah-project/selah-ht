@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Mwen fè pou mwen jaden yo ak parez yo, e mwen plante nan yo pye tout fwi.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "jaden yo"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ak parez yo"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "e mwen plante"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nan yo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fwi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:50:30.180070145Z",
+  "model": "glm-5.3"
+}

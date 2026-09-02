@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Yawe, Elohim mwen, si mwen fè bagay sa a, si gen move jijite nan men mwen —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mwen fè"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bagay sa a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gen"
+    },
+    {
+      "surface": "עול",
+      "gloss": "move jijite"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "nan men mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:02.842500293Z",
+  "model": "glm-5.3"
+}

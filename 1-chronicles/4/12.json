@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi Achton te fè ⟨את⟩ Beit-Rafa, ak ⟨את⟩ Paseach, ak ⟨את⟩ Techinah, papa Ir-Nakhach; se yo nonm Reka yo.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Epi Achton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "te fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Techinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakhach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "se yo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "nonm"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reka"
+    }
+  ],
+  "timestamp": "2026-09-02T21:15:18.957502630Z",
+  "model": "glm-5.3"
+}

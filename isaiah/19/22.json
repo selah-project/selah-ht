@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E Yawe ap frape ⟨את⟩ Mitsrayim — ap frape e ap geri; y ap tounen jiska Yawe, e l ap reponn ⟨pou⟩ yo, e l ap geri yo.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "e ap frape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "frape"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "e geri"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "e ap tounen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "e ap reponn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "e ap geri yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:27:38.065662086Z",
+  "model": "glm-5.3"
+}

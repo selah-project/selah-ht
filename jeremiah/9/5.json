@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Ou rete nan mitan twompèri; nan twompèri ⟨yo⟩ refize konnen ⟨את⟩ mwen, deklarasyon Yawe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "Ou rete"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nan mitan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "twompèri"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "nan twompèri"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "yo refize"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mwen",
+      "marks": "mwen (objè konnen a)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklarasyon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T18:50:06.191418496Z",
+  "model": "glm-5.3"
+}

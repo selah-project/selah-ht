@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 77,
+  "translation": "Èske El bliye montre favè? Oswa Èske ⟨li⟩ fèmen misèrikòd li yo nan kòlè? Sela.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "Èske bliye"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "montre favè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Oswa Èske"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "באף",
+      "gloss": "nan kòlè"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "misèrikòd li yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:17.057371923Z",
+  "model": "glm-5.3"
+}

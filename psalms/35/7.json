@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Paske san rezon yo kache ⟨ pou mwen⟩ twou yo, file yo; san rezon yo fouye twou pou nanm mwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "san rezon"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "yo kache"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "twou"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "file yo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "san rezon"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "yo fouye"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pou nanm mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:52.301741993Z",
+  "model": "glm-5.3"
+}

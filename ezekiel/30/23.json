@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 30,
+  "translation": "E m ap disipe ⟨את⟩ Mitsrayim nan mitan nasyon yo, e m ap gaye yo nan peyi yo.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "e m ap disipe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nan mitan nasyon yo"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "e m ap gaye yo"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "nan peyi yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:23:29.100321773Z",
+  "model": "glm-5.3"
+}

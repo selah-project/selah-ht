@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi Avram di ba Lovt: pa kite, souple, gen chirepè ant mwen ak ou, ni ant gadè bèt mwen yo ak ant gadè bèt ou yo, paske se moun, se frè, nou ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi di"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lovt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "souple"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "gen"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "chirepè"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ant mwen"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "ak ant ou"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni ant"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "gadè bèt mwen yo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni ant"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "gadè bèt ou yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "frè"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:17:21.824250708Z",
+  "model": "glm-5.3"
+}

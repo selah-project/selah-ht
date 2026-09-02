@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E li ap paye moun ki rayi l nan figi yo, pou l detwi yo; li pa ap reta — pou moun ki rayi l, nan figi l li ap paye l.",
+  "tokens": [
+    {
+      "surface": "ומשלם",
+      "gloss": "E paye"
+    },
+    {
+      "surface": "לשנאיו",
+      "gloss": "moun ki rayi l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi yo"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "pou l detwi yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "reta"
+    },
+    {
+      "surface": "לשנאו",
+      "gloss": "pou moun ki rayi l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "figi l"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ap paye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T16:45:55.158238198Z",
+  "model": "glm-5.3"
+}

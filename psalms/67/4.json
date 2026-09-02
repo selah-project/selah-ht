@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 67,
+  "translation": "Nasyon yo ap bay ou louwanj, Elohim; nasyon yo, tout ⟨yo⟩, ap bay ou louwanj.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ap bay ou louwanj"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ap bay ou louwanj"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tout yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:02:49.881205862Z",
+  "model": "glm-5.3"
+}

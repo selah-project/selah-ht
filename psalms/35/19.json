@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Pa kite enmi mwen yo kontan sou mwen avèk manti; pa kite moun k ap rayi mwen san rezon fè je yo klere.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa kite"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enmi mwen yo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "avèk manti"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "moun k ap rayi mwen"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "san rezon"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "fè je klere"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:10.029719140Z",
+  "model": "glm-5.3"
+}

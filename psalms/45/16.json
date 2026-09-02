@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Yo ap mennen yo ak kè kontan ak kè jwayen; yo ap antre nan palè wa a.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "yo ap mennen yo"
+    },
+    {
+      "surface": "בשמחות",
+      "gloss": "ak kè kontan"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ak kè jwayen"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "yo ap antre"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "nan palè"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:44.108535591Z",
+  "model": "glm-5.3"
+}

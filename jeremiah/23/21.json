@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Pa kite mwen voye ⟨את⟩ pwofèt yo, epi yo kouri; pa kite mwen pale ak yo, epi yo pwofetize.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mwen voye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pwofèt yo"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "pwofèt yo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "epi yo"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "kouri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mwen pale"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ak yo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "epi yo"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "pwofetize"
+    }
+  ],
+  "timestamp": "2026-09-02T18:56:31.247173782Z",
+  "model": "glm-5.3"
+}

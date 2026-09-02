@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Vigile pou ou pa bliye ⟨את⟩ Yawe, menm ki fè ou soti nan peyi Mitsrayim, nan kay esklav.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Vigile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bliye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm ki"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "fè ou soti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nan peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nan kay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "esklav"
+    }
+  ],
+  "timestamp": "2026-09-02T16:43:44.790468682Z",
+  "model": "glm-5.3"
+}

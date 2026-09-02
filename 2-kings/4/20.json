@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Lè l fin pote l, l mennen l bay manman l, epi l chita sou jenou li jouk tan midi, epi l mouri.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "pote l"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "mennen l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bay"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "manman l"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "chita"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "jenou li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk tan"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "midi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T18:10:33.468646537Z",
+  "model": "glm-5.3"
+}

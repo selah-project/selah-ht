@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E l fini fè eksiyasyon ⟨את⟩ sanntyè a, ak ⟨את⟩ tann reyinyon, ak ⟨את⟩ lotèl la; e l pote ⟨את⟩ bouk vivan an.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "e l fini"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "fè eksiyasyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanntyè a"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sanntyè a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tann reyinyon"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tann"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "reyinyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lotèl la"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "e pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bouk vivan an"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bouk"
+    },
+    {
+      "surface": "החי",
+      "gloss": "vivan"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:16.637859165Z",
+  "model": "glm-5.3"
+}

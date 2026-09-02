@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 129,
+  "translation": "Ki pa fè men ⟨la⟩ moun koupe a plen, ni pòch moun ki fè bann grenn yo.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ki pa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fè plen"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "men"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "moun koupe"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ni pòch"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "moun ki fè bann grenn"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:17.765281850Z",
+  "model": "glm-5.3"
+}

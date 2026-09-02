@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "È lè yo anonse sa bay David, li reyini ⟨את⟩ tout Yisrayèl, li pase ⟨את⟩ Yardèn, e li rive nan Helam. Aram ranje yo an batayon pou rankontre David, e yo bat kont avè l.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anonse"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bay David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "reyini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout Yisrayèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardèn"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardèn"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "rive"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "nan Helam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ranje an batayon"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pou rankontre"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "bat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kont avè l"
+    }
+  ],
+  "timestamp": "2026-09-02T17:44:10.884570915Z",
+  "model": "glm-5.3"
+}

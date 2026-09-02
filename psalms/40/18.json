@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 40,
+  "translation": "Men mwen, mwen pòv e mwen endyan: Adònay panse sou mwen: ou se èd mwen ak moun k ap sove mwen, Elohim mwen, pa tann.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men mwen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e endyan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "panse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sou mwen"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "èd mwen"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ak moun k ap sove mwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tann"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:53.582803193Z",
+  "model": "glm-5.3"
+}

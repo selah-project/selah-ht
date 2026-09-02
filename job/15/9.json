@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Kisa ou konnen, e nou pa konnen l? Kisa ou konprann, e li pa ⟨nan⟩ nou?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ou konnen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "nou konnen"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ou konprann"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nan nou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:36:02.935737775Z",
+  "model": "glm-5.3"
+}

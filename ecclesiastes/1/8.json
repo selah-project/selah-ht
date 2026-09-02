@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Tout pawòl yo fatigue; yon moun pa ka pale tout sa; je pa janm satisfè pou wè, epi zòrèy pa plen pou tande.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pawòl yo"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "fatigue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yon moun"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa janm"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "satisfè"
+    },
+    {
+      "surface": "עין",
+      "gloss": "je"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pou wè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "plen"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "zòrèy"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "pou tande"
+    }
+  ],
+  "timestamp": "2026-09-02T22:03:17.181601462Z",
+  "model": "glm-5.3"
+}

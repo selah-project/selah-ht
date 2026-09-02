@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Nò ak sid, se ou ki kreye yo; Tavor ak Hermon ap chante nan non ou a.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Nò"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ak sid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "ki kreye yo"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ak Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nan non ou a"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ap chante"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:18.216544350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E m ap mete Mitsrayim an kont Mitsrayim, e yo ap goumen: chak moun kont frè l, ak chak moun kont vwazen l; lavil kont lavil, wayòm kont wayòm.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "ap mete an konfli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "an kont Mitsrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "e yo ap goumen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "kont frè l"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ak chak moun"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "kont vwazen l"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lavil"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kont lavil"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "wayòm"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "kont wayòm"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:47.583046267Z",
+  "model": "glm-5.3"
+}

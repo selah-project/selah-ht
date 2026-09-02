@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 51,
+  "translation": "Paske revòlt mwen mwen konnen, epi peche mwen devan mwen toutan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "revòlt mwen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "epi peche mwen"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "devan mwen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toutan"
+    }
+  ],
+  "timestamp": "2026-09-02T20:00:50.514543756Z",
+  "model": "glm-5.3"
+}

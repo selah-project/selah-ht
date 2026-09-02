@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "E yo repandi san ensentan, san pitit gason yo ak pitit fi yo, ke yo ⟨te⟩ sakrifye pou zidòl Kenaàn yo, e tè a vin sal avèk san yo.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "repandi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "san"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ensentan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "san"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "pitit gason yo"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "ak pitit fi yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sakrifye"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "pou zidòl"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaàn"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "e vin sal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "avèk san yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:17.097358530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Moun ki ap moken yo soufle lavil nan flanm; moun ki gen sages vire kòlè a.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "moun"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "ki ap moken"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "soufle"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "lavil"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "moun ki gen sages"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "vire"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kòlè a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:06.337628126Z",
+  "model": "glm-5.3"
+}

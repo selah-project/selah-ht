@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Yo pati nan Soukot, e yo kanpe nan Etam, ki nan bòdezè a.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "pati"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "nan Soukot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "nan Etam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "nan bò"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dezè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:39:32.347483898Z",
+  "model": "glm-5.3"
+}

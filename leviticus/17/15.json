@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Ak tout moun ki manje kadvè oswa bèt yo depese, swa natifnatal swa etranje, pou l lave rad li epi benyen kò ⟨li⟩ nan dlo, epi l ap polye jouk swa a; apre sa l vin prèp.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ak tout"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "kadvè"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "oswa bèt yo depese"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "pami natifnatal"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "ak etranje"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "epi pou lave"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "rad li"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "epi benyen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nan dlo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "epi l ap polye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "swa a"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "epi vin prèp"
+    }
+  ],
+  "timestamp": "2026-09-02T16:13:33.482939499Z",
+  "model": "glm-5.3"
+}

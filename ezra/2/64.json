@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "Tout asanble a ansanm kòm yon sèl: kat diz mil, ⟨e⟩ de mil, twa san, ⟨e⟩ swasan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "asanble a"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kòm yon sèl"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kat"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "diz mil"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "de mil"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "twa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "san"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "swasan"
+    }
+  ],
+  "timestamp": "2026-09-02T21:04:25.395378088Z",
+  "model": "glm-5.3"
+}

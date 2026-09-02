@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 93,
+  "translation": "Yawe reynyen, li fè tèt li ak grandè kòm rad, Yawe fè tèt li ak fòs, li sanse kòm yon sentiwon ⟨ak li⟩; se menm tou, tè a kanpe fèm, li pa janm branle.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reynyen"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "grandè"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "fè tèt li ak (rad)"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "fè tèt li ak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fòs"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "sanse"
+    },
+    {
+      "surface": "אף",
+      "gloss": "se menm tou"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "kanpe fèm"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa janm"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "branle"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:32.749713519Z",
+  "model": "glm-5.3"
+}

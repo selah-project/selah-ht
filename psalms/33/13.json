@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Depi nan syèl yo Yawe gade, li wè ⟨את⟩ tout pitit gason moun yo.",
+  "tokens": [
+    {
+      "surface": "מִשָּׁמַיִם",
+      "gloss": "Depi nan syèl yo"
+    },
+    {
+      "surface": "הִבִּיט",
+      "gloss": "gade"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רָאָה",
+      "gloss": "li wè"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "tout pitit gason moun yo"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "pitit gason"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "moun yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:50.594208306Z",
+  "model": "glm-5.3"
+}

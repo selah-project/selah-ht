@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Si yon pwofèt leve nan mitan nou menm, oswa yon moun ki fè rev, epi l bay nou yon siy oswa yon miray —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "leve"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "nan mitan nou menm"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "yon pwofèt"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "moun ki fè rev"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "rev"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "epi l bay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bay nou"
+    },
+    {
+      "surface": "אות",
+      "gloss": "yon siy"
+    },
+    {
+      "surface": "או",
+      "gloss": "oswa"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "yon miray"
+    }
+  ],
+  "timestamp": "2026-09-02T16:49:15.675844992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 107,
+  "translation": "Tout manje nefech yo te gen dezgout pou l, e yo rive jiska pòt mò a.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manje"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "te gen dezgout pou l"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefech yo"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "e yo rive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "pòt"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mò"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:56.329397195Z",
+  "model": "glm-5.3"
+}

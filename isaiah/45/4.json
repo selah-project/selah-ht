@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 45,
+  "translation": "Pou sèvan m Yaakov, e pou Yisrayèl, chwazi m, mwen rele ou, mwen ba ou non — men ou pa konnen m.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pou"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvan m"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e pou Yisrayèl"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "chwazi m"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "mwen rele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "pa non ou"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "mwen ba ou non"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ou pa"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "konnen m"
+    }
+  ],
+  "timestamp": "2026-09-02T18:39:21.293735226Z",
+  "model": "glm-5.3"
+}

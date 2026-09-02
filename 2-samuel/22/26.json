@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Avèk moun ki gen hesed ⟨ou montre hesed⟩; avèk jènen ki gen entègrite ⟨ou gen entègrite⟩.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "avèk"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "moun ki gen hesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ou montre hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avèk"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jènen"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ki gen entègrite"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ou gen entègrite"
+    }
+  ],
+  "timestamp": "2026-09-02T17:51:46.015488563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Kòlè sòt la parèt menm jou a; men moun ki gen priz kache wont.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "sòt la"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "menm jou a"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "parèt"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "kache"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "wont"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "moun ki gen priz"
+    }
+  ],
+  "timestamp": "2026-09-02T20:24:39.712045640Z",
+  "model": "glm-5.3"
+}

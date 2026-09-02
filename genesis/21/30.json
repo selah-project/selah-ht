@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Li di: se ⟨את⟩ sèt kabrit femèl la w ap pran nan men m, pou ⟨yo⟩ vin temwen pou mwen, se poutèt mwen te fouye ⟨את⟩ pyès dlo sa a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Li di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sèt kabrit femèl"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "kabrit femèl"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "pran"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nan men m"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "pou"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "temwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se poutèt"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "mwen te fouye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyès dlo sa a"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "pyès dlo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    }
+  ],
+  "timestamp": "2026-09-02T15:20:54.098654490Z",
+  "model": "glm-5.3"
+}

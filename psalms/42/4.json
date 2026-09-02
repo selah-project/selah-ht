@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 42,
+  "translation": "Dlo je mwen te vin pen pou mwen, jou ak nwit, pandan yo di ba mwen tout jou: Ki kote Elohim ou a ye?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "te vin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "דמעatי",
+      "gloss": "Dlo je mwen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pen"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ak nwit"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "pandan yo di"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba mwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ki kote"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:51.404549436Z",
+  "model": "glm-5.3"
+}

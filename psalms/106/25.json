@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "Yo gronnan nan tant yo, yo pa koute vwa Yawe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "gronnan"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "nan tant yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "koute"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:55.203950925Z",
+  "model": "glm-5.3"
+}

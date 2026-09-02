@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "Epi Yehochafat di: Èske pa gen anko yon pwofet pou Yawe isit la, pou n konsilte ⟨את⟩ nan men l?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "epi … di"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "èske pa gen"
+    },
+    {
+      "surface": "פה",
+      "gloss": "isit la"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pwofet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "anko"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "pou n konsilte"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ nan men l",
+      "marks": "repons lan \/ sa pou chèche a"
+    }
+  ],
+  "timestamp": "2026-09-02T21:30:24.610153326Z",
+  "model": "glm-5.3"
+}

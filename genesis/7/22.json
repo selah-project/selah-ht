@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "Tout kreyati ki te gen souf lespri lavi nan nen li yo — pami tout ki te nan tè sèk la — mouri.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kèlkeswa ki"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "souf"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "nan nen li yo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pami tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "nan tè sèk la"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mouri"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:44.028994631Z",
+  "model": "glm-5.3"
+}

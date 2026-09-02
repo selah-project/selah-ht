@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "E pitit Yehouda yo te vini dapre fanmi yo: pou Chela, fanmi Chelanit yo; pou Perets, fanmi Partsit yo; pou Zarèh, fanmi Zarchit yo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E ... te vini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "pou Chela"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Chelanit yo"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "pou Perets"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "Partsit yo"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "pou Zarèh"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fanmi"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zarchit yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:34:03.840983798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "epi nan premye mwa a, katòz jou nan mwa a, ⟨se⟩ Pesah pou Yawe.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "epi nan mwa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "premye a"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nan mwa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pou Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T16:36:09.021267815Z",
+  "model": "glm-5.3"
+}

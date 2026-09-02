@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi Moche ap pwoche pou kont li sèl vin jwenn Yawe; men yo pa pwoche, e pèp la pa monte avèk li.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "epi … ap pwoche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "pou kont li sèl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vin jwenn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "men yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "pwoche"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "e pèp la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "monte"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avèk li"
+    }
+  ],
+  "timestamp": "2026-09-02T22:18:14.964864807Z",
+  "model": "glm-5.3"
+}

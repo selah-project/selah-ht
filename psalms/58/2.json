@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "Èske vre, nàn silans, jistis nou pale? Èske dwat nou jije pitit moun yo?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Èske vre"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "nàn silans"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jistis"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "nou pale"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "dwat"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "nou jije"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moun yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:49.597483118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Ak kote yo te rete a te depi Mecha, jouk ou rive nan Sefara, mòn bò solèy leve a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "kote yo te rete"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "depi Mecha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "lè w ap mache"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "jiska Sefara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "bò solèy leve a"
+    }
+  ],
+  "timestamp": "2026-09-02T22:11:29.627360418Z",
+  "model": "glm-5.3"
+}

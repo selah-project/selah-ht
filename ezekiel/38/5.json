@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "Paras, Kouch ak Fout ⟨את⟩ yo, tout yo ⟨ak⟩ bouklier ak elmo.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kouch"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ak Fout"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "avèk yo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tout yo"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "bouklier"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ak elmo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:25:52.056098845Z",
+  "model": "glm-5.3"
+}

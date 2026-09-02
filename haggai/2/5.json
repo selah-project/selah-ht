@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "ht",
+  "chapter": 2,
+  "translation": "⟨את⟩ pawòl la ke mwen te koupe avèk ⟨את⟩ nou lè nou soti nan Mitsrayim — ak lespri m kanpe nan mitan nou; pa pè.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawòl la"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "mwen te koupe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ avèk"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "lè nou soti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nan Mitsrayim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "ak lespri m"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "nan mitan nou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pè"
+    }
+  ],
+  "timestamp": "2026-09-02T19:44:44.597219216Z",
+  "model": "glm-5.3"
+}

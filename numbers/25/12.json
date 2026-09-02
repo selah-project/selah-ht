@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 25,
+  "translation": "Se poutèt sa, di ⟨sa⟩: men mwen, m ap bay li ⟨את⟩ kontra mwen — ⟨lapè⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "se poutèt sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "men mwen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ap bay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kontra mwen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontra mwen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    }
+  ],
+  "timestamp": "2026-09-02T16:32:58.052019643Z",
+  "model": "glm-5.3"
+}

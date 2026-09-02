@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "Pa aprese ⟨את⟩ pwchen ou, ni fòse ⟨l⟩ l vòlè ⟨l⟩; sala moun ki louvri pou lajan pa rete avek ⟨את⟩ ou jouk dematen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "aprese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pwchen ou"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "pwchen ou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "vòlè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "rete"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "sala"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "moun ki louvri pou lajan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "avek ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dematen"
+    }
+  ],
+  "timestamp": "2026-09-02T16:14:16.466558139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "E wa a di: Kisa ki gen pou m ak nou, pitit Tserujah yo? Se paske l ap malde, e se paske Yawe di l: Malde ⟨את⟩ David! E kisa moun ki ap di: Poukisa ou fè konsa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou m"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ak nou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "l ap malde"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e paske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "malde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e kisa moun"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ap di"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "poukisa"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "konsa"
+    }
+  ],
+  "timestamp": "2026-09-02T17:47:53.831620300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 32,
+  "translation": "Epi li bay lòd menm ⟨את⟩ dezyèm nan, menm ⟨את⟩ twazyèm nan, menm ⟨את⟩ tout moun ki mache dèyè twoupo yo, pou yo di: Se dapre pawòl sa a n ap pale ak Esav, lè n rankontre ⟨את⟩ li.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "epi li bay lòd"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dezyèm nan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dezyèm nan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twazyèm nan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "twazyèm nan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "menm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout moun ki mache dèyè twoupo yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "moun ki mache"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dèyè"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "twoupo yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou yo di"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dapre pawòl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "n ap pale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "lè n rankontre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "li (Esav)"
+    }
+  ],
+  "timestamp": "2026-09-02T15:29:25.223352706Z",
+  "model": "glm-5.3"
+}

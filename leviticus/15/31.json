@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "Epi nou separe ⟨את⟩ pitit Yisrael yo de salte yo, pou yo pa mouri nan salte yo, lè yo salte ⟨את⟩ michkan m ki nan mitan yo.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "epi nou separe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrael yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "de salte yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pou pa"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "mouri"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "nan salte yo"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "lè yo salte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "michkan m"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "michkan m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "nan mitan yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:12:42.821278974Z",
+  "model": "glm-5.3"
+}

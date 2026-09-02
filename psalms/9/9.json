@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E li ap jije monn nan nan jistis, l ap jije nasyon yo ak dwa.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "E li"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ap jije"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "monn nan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nan jistis"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ap jije"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ak dwa"
+    }
+  ],
+  "timestamp": "2026-09-02T19:51:58.273494059Z",
+  "model": "glm-5.3"
+}

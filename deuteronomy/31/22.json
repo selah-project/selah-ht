@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "E Moche ekri ⟨את⟩ chante sa a menm jou a, e l aprann l ak ⟨את⟩ pitit Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ekri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chante sa a"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "chante"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "menm jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "e l aprann l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitit Yisrayèl yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:47.467521805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "Yon ti dòmi, yon ti pikdòmi, yon ti kwense men pou dòmi.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "dòmi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "pikdòmi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "kwense"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "men"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "pou dòmi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:22:28.980788078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi li tann sèt jou, jiskan tan fikse ke Chemouel te mete, men Chemouel pa vini Gilgal; epi pèp la gaye, soti sou li.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Epi li tann"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "pou tan fikse a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vini"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal la"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "epi gaye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "soti sou li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:28:01.106757412Z",
+  "model": "glm-5.3"
+}

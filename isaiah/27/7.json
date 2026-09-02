@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Èske li frape l jan li frape moun ki frape l? Èske yo masakre l jan yo masakre moun ki te masakre yo?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "jan frape"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "moun ki frape l"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "li frape l"
+    },
+    {
+      "surface": "אם",
+      "gloss": "èsk"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "jan masakre"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "moun ki te masakre yo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "yo masakre l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:53:16.161430323Z",
+  "model": "glm-5.3"
+}

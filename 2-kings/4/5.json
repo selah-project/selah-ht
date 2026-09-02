@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Li ale ⟨את⟩ kite l, li fèmen pòt la dèyè li ak dèyè pitit gason li yo; yo te pote ⟨rèsipo⟩ ba li, e li te vide.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ale"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ kite l"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "fèmen"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pòt la"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "dèyè li"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ak dèyè"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "pitit gason li yo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "te pote"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "e li"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "te vide"
+    }
+  ],
+  "timestamp": "2026-09-02T18:11:24.120882533Z",
+  "model": "glm-5.3"
+}

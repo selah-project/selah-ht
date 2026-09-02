@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "⟨את⟩ menora nèt la, ⟨את⟩ lannp li yo, lannp ranje yo, ak ⟨את⟩ tout zakouti li yo, ak ⟨את⟩ lwil limè a.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora nèt la"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nèt la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lannp li yo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lannp li yo"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "lannp"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "ranje yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "tout zakouti li yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zakouti li yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "lwil limè a"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lwil"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "limè a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:02:16.580967877Z",
+  "model": "glm-5.3"
+}

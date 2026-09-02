@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 28,
+  "translation": "Moun ki vòlè papa l ak manman l, e ki di: pa gen fòt — se konpayon yon moun ki detwi.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "ki vòlè"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa l"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ak manman l"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e ki di"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa gen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "fòt"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "konpayon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "yon moun ki"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "detwi"
+    }
+  ],
+  "timestamp": "2026-09-02T20:30:17.904537990Z",
+  "model": "glm-5.3"
+}

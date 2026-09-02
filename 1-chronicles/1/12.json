@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "ak ⟨את⟩ Patrousim, ak ⟨את⟩ Kaslouchim — se la soti ⟨syèl⟩ Filistin yo — ak ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Patrousim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrousim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Kaslouchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaslouchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kote"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "soti"
+    },
+    {
+      "surface": "משם",
+      "gloss": "se la"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:01.925074468Z",
+  "model": "glm-5.3"
+}

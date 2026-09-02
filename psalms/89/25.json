@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Epi fe m ak hesed m ap avè l, e nan Non m kòn l ap leve.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Epi fe m"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ak hesed m"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avè l"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "e nan Non m"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ap leve"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "kòn l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:57.180058606Z",
+  "model": "glm-5.3"
+}

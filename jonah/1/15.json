@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi yo pran ⟨את⟩ Yona, yo jete l nan lanmè a, e lanmè a kanpe afè kòlè l.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Epi yo pran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "yo jete l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e ... kanpe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "afè kòlè l"
+    }
+  ],
+  "timestamp": "2026-09-02T19:40:26.515894587Z",
+  "model": "glm-5.3"
+}

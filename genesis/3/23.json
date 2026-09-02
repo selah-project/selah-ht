@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Epi Yawe Elohim voye l soti nan jaden Edèn la, pou l travay ⟨את⟩ tè a menm kote yo pran l.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "Epi ... voye l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "soti nan jaden"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edèn"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pou l travay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tè a"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menm"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yo pran l"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kote"
+    }
+  ],
+  "timestamp": "2026-09-02T15:12:29.599839726Z",
+  "model": "glm-5.3"
+}

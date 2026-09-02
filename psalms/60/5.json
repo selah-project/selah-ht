@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Ou fè pèp ou wè bagay difisil; ou fè nou bwè diven ki fè nou vire tèt.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "ou fè wè"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pèp ou"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "bagay difisil"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "ou fè nou bwè"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diven"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "ki fè nou vire tèt"
+    }
+  ],
+  "timestamp": "2026-09-02T22:00:31.724113297Z",
+  "model": "glm-5.3"
+}

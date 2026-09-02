@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 33,
+  "translation": "Li ranmse dlo lamer lan tankou yon mon, li mete fonpè yo nan kachèt li.",
+  "tokens": [
+    {
+      "surface": "כֹּנֵ֣ס",
+      "gloss": "ranmse"
+    },
+    {
+      "surface": "כַּנֵּ֭ד",
+      "gloss": "tankou yon mon"
+    },
+    {
+      "surface": "מֵ֣י",
+      "gloss": "dlo"
+    },
+    {
+      "surface": "הַיָּ֑ם",
+      "gloss": "lamer lan"
+    },
+    {
+      "surface": "נֹתֵ֖ן",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "בְּאֹצָר֣וֹת",
+      "gloss": "nan kachèt"
+    },
+    {
+      "surface": "תְּהוֹמֽוֹת",
+      "gloss": "fonpè yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:56:30.091900550Z",
+  "model": "glm-5.3"
+}

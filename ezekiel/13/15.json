@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "Epi m ap fin vide kòlè mwen sou mi a ak sou moun ki platre ⟨את⟩ l ak plastri san valè, epi m ap di nou: mi a pa egziste, ni moun ki platre ⟨את⟩ l pa egziste.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "epi m ap fin vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòlè mwen"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "kòlè mwen"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sou mi a"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "epi sou moun ki platre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "plastri san valè"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "epi m ap di"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nou"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa egziste"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "mi a"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "epi pa egziste"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "moun ki platre a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T19:14:22.129402125Z",
+  "model": "glm-5.3"
+}

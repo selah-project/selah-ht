@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Konsa w ap fè pou Aharòn ak pou pitit gason l yo, dapre tout sa mwen te òdone ⟨את⟩ ou: sèt jou w ap plen men yo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "w ap fè"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pou Aharòn"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ak pou pitit gason l"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "konsa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dapre tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mwen te òdone"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩ ou",
+      "marks": "ou"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "w ap plen"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "men yo"
+    }
+  ],
+  "timestamp": "2026-09-02T15:55:06.426112814Z",
+  "model": "glm-5.3"
+}

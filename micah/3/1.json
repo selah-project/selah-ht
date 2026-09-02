@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "E mwen di: Koute, tanpri, chèf Yaakov yo, ak chèf kay Yisrael yo — èske se pa pou nou konnen ⟨את⟩ jistis la?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E mwen di"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "koute"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanpri"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "chèf yo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "ak chèf yo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "èské pa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pou nou"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "konnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jistis la"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "jistis la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:41:08.276023698Z",
+  "model": "glm-5.3"
+}

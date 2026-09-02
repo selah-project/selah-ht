@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Epi ⟨את⟩ kay Yehouda mwen gen pitye ⟨pou li⟩, e mwen delivre yo pa Yawe Elohim yo; mwen pa delivre yo ni pa ak, ni pa epe, ni pa lagè, ni pa chwal, ni pa kavalye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "epi ⟨את⟩",
+      "marks": "kay Yehouda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "gen pitye"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "epi mwen delivre"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pa Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "epi pa"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "delivre yo"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "pa ak"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ni pa epe"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ni pa lagè"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ni pa chwal"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "ni pa kavalye"
+    }
+  ],
+  "timestamp": "2026-09-02T19:33:01.714839626Z",
+  "model": "glm-5.3"
+}

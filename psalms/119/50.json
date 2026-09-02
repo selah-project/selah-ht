@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Sa a se konfò m nan mizè m; paske pawòl ou fè m viv.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Sa a"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "konfò m"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "nan mizè m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "pawòl ou"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "fè m viv"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:27.763792446Z",
+  "model": "glm-5.3"
+}

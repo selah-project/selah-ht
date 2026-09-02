@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 18,
+  "translation": "E lè Ahab wè ⟨את⟩ Eliyahu, Ahab di l: Eske se ou menm ki ap trouble Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e lè"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "wè"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "l"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "se ou"
+    },
+    {
+      "surface": "זה",
+      "gloss": "menm"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "ki ap trouble"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:58.944182027Z",
+  "model": "glm-5.3"
+}

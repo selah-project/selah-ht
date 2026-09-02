@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 38,
+  "translation": "E li vin ansent, e li fè yon pitit gason; e l rele ⟨את⟩ non l Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "vin ansent"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yon pitit gason"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "non l"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:11.089175567Z",
+  "model": "glm-5.3"
+}

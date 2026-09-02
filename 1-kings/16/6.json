@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi Bacha kouch ak zansèt l yo, epi yo antere l nan Tirtsah; Ela, pitit l, gouvène nan plas li.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kouch"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zansèt l yo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "antere"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "nan Tirtsah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "gouvène"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit l"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nan plas li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:03:19.323718853Z",
+  "model": "glm-5.3"
+}

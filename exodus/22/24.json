@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Si w prete ⟨את⟩ lajan pou youn nan pèp mwen — ⟨את⟩ pòv la k ap avèk ou — pa vin tankou kréditè pou li, pa poze enterè sou li.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lajan"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "prete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp mwen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pèp mwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pòv la"
+    },
+    {
+      "surface": "העני",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "k ap avèk ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "tankou kréditè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "poze"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sou li"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "enterè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:50:26.673646224Z",
+  "model": "glm-5.3"
+}

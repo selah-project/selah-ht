@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Epi li fè yo sote kòm yon jenn bèf, Lavnòn ak Siryòn kòm yon tibeke savann.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "epi li fè yo sote"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kòm"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "yon jenn bèf"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lavnòn"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "ak Siryòn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kòm"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yon tibeke"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "bèf savann"
+    }
+  ],
+  "timestamp": "2026-09-02T19:55:05.939430174Z",
+  "model": "glm-5.3"
+}

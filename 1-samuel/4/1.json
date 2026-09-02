@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E pawòl Chemouèl rive nan tout Yisrael, e Yisrael soti ale rankontre Filistin yo pou lagè, e yo kanpe sou Even-Haèzer, e Filistin yo kanpe nan Afek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E rive"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemouèl"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e soti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ale rankontre"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin yo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pou lagè"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e kanpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Even-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Haèzer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "e Filistin yo"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "nan Afek"
+    }
+  ],
+  "timestamp": "2026-09-02T17:26:32.308906859Z",
+  "model": "glm-5.3"
+}

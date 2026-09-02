@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Kè m t ap chofe andedan m; pandan m t ap medite, dife a pran, e mwen pale ak lang m.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "t ap chofe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Kè m"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "andedan m"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "pandan m t ap medite"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "dife a pran"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨dife⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mwen pale"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ak lang m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:21.360652003Z",
+  "model": "glm-5.3"
+}

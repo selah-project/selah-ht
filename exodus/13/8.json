@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 13,
+  "translation": "E ou pral rakonte sa a bay pitit gason ou a jou sa a, ou pral di: Se pou rezon sa a Yawe fè pou mwen lè m soti nan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "e ou pral rakonte"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "bay pitit gason ou a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "pou rezon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pou mwen"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "lè m soti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-02T15:45:38.291324707Z",
+  "model": "glm-5.3"
+}

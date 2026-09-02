@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E l ap voye men l sou peyi yo, e peyi Mitsrayim pa ap gen chape.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ap voye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "men l"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sou peyi yo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e peyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ap gen"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "chape"
+    }
+  ],
+  "timestamp": "2026-09-02T21:02:13.805826272Z",
+  "model": "glm-5.3"
+}

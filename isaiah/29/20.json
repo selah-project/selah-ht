@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 29:20",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 29,
+  "translation": "Paske tiran an fini, railè a fini, e tout moun ki veye pou fè mal ap koupe ⟨net⟩.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "אָפֵס",
+      "gloss": "fini"
+    },
+    {
+      "surface": "עָרִיץ",
+      "gloss": "tiran an"
+    },
+    {
+      "surface": "וְכָלָה",
+      "gloss": "fini"
+    },
+    {
+      "surface": "לֵץ",
+      "gloss": "railè a"
+    },
+    {
+      "surface": "וְנִכְרְתוּ",
+      "gloss": "ap koupe"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שֹׁקְדֵי",
+      "gloss": "moun ki veye"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "pou fè mal"
+    }
+  ],
+  "timestamp": "2026-09-02T18:32:03.887678203Z",
+  "model": "glm-5.3"
+}

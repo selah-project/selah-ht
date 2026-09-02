@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "E Noach fè tout sa Yawe te kòmande l.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E fè"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tout sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "te kòmande l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-02T15:13:58.082598111Z",
+  "model": "glm-5.3"
+}

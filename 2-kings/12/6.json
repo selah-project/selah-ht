@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Prèt yo pran pou yo, chak moun depi ⟨את⟩ zanmi l, epi yo ap ranfòse ⟨את⟩ domaj kay la, tout kote yon domaj jwenn la.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "pran"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pou yo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prèt yo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chak moun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "depi ⟨את⟩",
+      "marks": "zanmi l"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "zanmi l"
+    },
+    {
+      "surface": "והם",
+      "gloss": "epi yo"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "ap ranfòse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domaj"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "domaj"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay la"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout kote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "jwenn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "la"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "domaj"
+    }
+  ],
+  "timestamp": "2026-09-02T18:14:45.890214259Z",
+  "model": "glm-5.3"
+}

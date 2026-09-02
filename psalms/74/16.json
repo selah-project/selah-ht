@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 74,
+  "translation": "Jou a pou ou, ni lannwit la tou pou ou menm; se ou menm ki prepare limyè a ak solèy la.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ni...tou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou menm"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lannwit la"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se ou menm"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "limyè a"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ak solèy la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:05:17.744591040Z",
+  "model": "glm-5.3"
+}

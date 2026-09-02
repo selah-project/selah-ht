@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 126,
+  "translation": "Chant k ap monte yo. Lè Yawe fin tounen ⟨את⟩ retounen Tsiyòn an, nou te sanble ak moun ki rev.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "k ap monte"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "lè fin tounen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "retounen Tsiyòn an"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "retounen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyòn"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nou te"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "sanble ak moun ki rev"
+    }
+  ],
+  "timestamp": "2026-09-02T22:01:33.809499672Z",
+  "model": "glm-5.3"
+}

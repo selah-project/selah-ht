@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 8,
+  "translation": "Paske keribim yo te deploye zèl yo sou plas kèch la, e keribim yo te kouvwi kèch la ak tout bar yo soti anlò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "keribim yo"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "te deploye"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "zèl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "plas"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "kèch la"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "te kouvwi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keribim yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "kèch la"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bar yo"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "soti anlò"
+    }
+  ],
+  "timestamp": "2026-09-02T17:58:50.070631598Z",
+  "model": "glm-5.3"
+}

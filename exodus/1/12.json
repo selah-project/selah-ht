@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Men jan yo tiye ⟨את⟩ li, se konsa li miltipliye, se konsa li gaye; e yo fin vexe ak devan pitit Yisrayèl yo.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "yo tiye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "li miltipliye"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "se konsa tou"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "li gaye"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "e yo fin vexe ak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayèl"
+    }
+  ],
+  "timestamp": "2026-09-02T15:38:25.328253569Z",
+  "model": "glm-5.3"
+}

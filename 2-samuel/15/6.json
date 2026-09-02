@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 15:6",
+  "book": "2-samuel",
+  "lang": "ht",
+  "chapter": 15,
+  "translation": "E Avchalom fè bagay sa a pou tout moun Yisrael ki te vini pou jistis devan wa a; konsa Avchalom vole ⟨את⟩ kè gason Yisrael yo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E ... fè"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jan bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pou tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "moun Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "te vini"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "pou jistis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "ויגנב",
+      "gloss": "konsa ... vole"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kè"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kè"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gason"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:46:57.581269348Z",
+  "model": "glm-5.3"
+}

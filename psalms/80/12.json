@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 80,
+  "translation": "Li te voye branch li yo jouk lanmè a, e jèn pouse li yo rive jouk rivyè a.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Li te voye"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "branch li yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jouk"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e jouk"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rivyè a"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "jèn pouse li yo"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:49.635215144Z",
+  "model": "glm-5.3"
+}

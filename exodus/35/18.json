@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "⟨את⟩ pikèt yo nan tabènakël la, ak ⟨את⟩ pikèt yo nan lakou a, ak ⟨את⟩ kòd yo",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pikèt yo"
+    },
+    {
+      "surface": "יִתְדֹת",
+      "gloss": "pikèt yo"
+    },
+    {
+      "surface": "הַמִּשְׁכָּן",
+      "gloss": "tabènakël la"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pikèt yo"
+    },
+    {
+      "surface": "יִתְדֹת",
+      "gloss": "pikèt yo"
+    },
+    {
+      "surface": "הֶחָצֵר",
+      "gloss": "lakou a"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kòd yo"
+    },
+    {
+      "surface": "מֵיתְרֵיהֶם",
+      "gloss": "kòd yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:19:02.077541752Z",
+  "model": "glm-5.3"
+}

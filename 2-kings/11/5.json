@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 11,
+  "translation": "E l kòmande yo, pou l di: Sa a se pawòl ⟨ke⟩ ou fè: twazyèm ⟨pati⟩ nan nou, moun k antre nan chabat la, ak gad yo nan gad kay wa a.",
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "e l kòmande"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou di"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Sa a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pawòl la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "fè"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "twazyèm"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "nan nou"
+    },
+    {
+      "surface": "באי",
+      "gloss": "moun k antre"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "chabat la"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ak gad"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    }
+  ],
+  "timestamp": "2026-09-02T18:13:12.587953046Z",
+  "model": "glm-5.3"
+}

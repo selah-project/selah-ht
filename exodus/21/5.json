@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E si esklav la di klè: mwen renmen ⟨את⟩ mèt mwen an, ⟨את⟩ fanm mwen an, ak ⟨את⟩ pitit mwen yo — mwen p ap soti lib.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E si"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "esklav la"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mwen renmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mèt mwen an"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mèt mwen an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanm mwen an"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "fanm mwen an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pitit mwen yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit mwen yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "soti"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "lib"
+    }
+  ],
+  "timestamp": "2026-09-02T15:51:12.032942178Z",
+  "model": "glm-5.3"
+}

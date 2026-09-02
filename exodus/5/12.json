@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Epi pèp la gayie tout nan tout tè Mitsrayim pou yo al ramase tij rek an plas paj.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "gayie tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nan tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "pou ramase"
+    },
+    {
+      "surface": "קש",
+      "gloss": "tij rek"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "an plas paj"
+    }
+  ],
+  "timestamp": "2026-09-02T15:40:42.096825051Z",
+  "model": "glm-5.3"
+}

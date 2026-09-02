@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E Azarya fè ⟨את⟩ Seraya, e Seraya fè ⟨את⟩ Yehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "e Azarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "e Seraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-09-02T21:13:54.132112003Z",
+  "model": "glm-5.3"
+}

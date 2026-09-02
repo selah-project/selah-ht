@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Tout chèf ou yo kouri ale ansanm, de lòd la yo kenbe; tout moun ou yo jwenn yo kenbe ansanm; byen lwen yo kouri ale.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "chèf ou yo"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "kouri ale"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "de lòd"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "moun ou yo jwenn"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "kenbe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ansanm"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "byen lwen"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "kouri ale"
+    }
+  ],
+  "timestamp": "2026-09-02T18:28:55.908731065Z",
+  "model": "glm-5.3"
+}

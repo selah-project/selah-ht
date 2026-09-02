@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "E sèvitè Amon yo fè konplo kont l, e yo touye ⟨את⟩ wa a nan kay li.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "e yo fè konplo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sèvitè"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kont l"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "e yo touye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa a"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nan kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T18:18:56.604421795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 7,
+  "translation": "K ap pase nan ri a, pre kwen li a, epi li mache pa pa nan chemen kay li a.",
+  "tokens": [
+    {
+      "surface": "עֹבֵר",
+      "gloss": "k ap pase"
+    },
+    {
+      "surface": "בַּשּׁוּק",
+      "gloss": "nan ri a"
+    },
+    {
+      "surface": "אֵצֶל",
+      "gloss": "pre"
+    },
+    {
+      "surface": "פִּנָּהּ",
+      "gloss": "kwen li"
+    },
+    {
+      "surface": "וְדֶרֶךְ",
+      "gloss": "epi nan chemen"
+    },
+    {
+      "surface": "בֵּיתָהּ",
+      "gloss": "kay li"
+    },
+    {
+      "surface": "יִצְעָד",
+      "gloss": "li mache pa pa"
+    }
+  ],
+  "timestamp": "2026-09-02T20:23:05.861404962Z",
+  "model": "glm-5.3"
+}

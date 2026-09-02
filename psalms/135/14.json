@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 135,
+  "translation": "Paske Yawe ap jije pèp li, e sou sèvitè li yo li ap konsoule tèt ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ap jije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp li"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sou"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sèvitè li yo"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ap konsoule tèt li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:17:42.937489971Z",
+  "model": "glm-5.3"
+}

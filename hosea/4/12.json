@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Pèp m ap mande nan bwa li, epi baton li ap anonse ba li; paske yon lespri fònikasyon te fè yo ale nan dega, epi yo fònikasyone soti anba Elohim yo.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Pèp m"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "nan bwa li"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "ap mande"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "epi baton li"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ap anonse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ba li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lespri"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "fònikasyon"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "te fè yo ale nan dega"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "epi yo fònikasyone"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "soti anba"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:31:58.079796492Z",
+  "model": "glm-5.3"
+}

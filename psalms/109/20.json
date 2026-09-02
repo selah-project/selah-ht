@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 109,
+  "translation": "Se sa peyi akizatè m yo soti ⟨את⟩ nan men Yawe, yo ak moun ki pale mal sou nefech m an.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Se sa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "peyi"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "akizatè m yo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "soti ⟨את⟩ nan men",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "yo ak moun ki pale"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefech m an"
+    }
+  ],
+  "timestamp": "2026-09-02T20:13:59.311792003Z",
+  "model": "glm-5.3"
+}

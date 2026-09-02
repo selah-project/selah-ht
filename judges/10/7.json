@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Kòlè Yawe boule kont Yisrael, e li vann yo nan men Filistyen yo ak nan men pitit Amòn yo.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "boule"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kont Yisrael"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "li vann yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nan men"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyen yo"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ak nan men"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amòn yo"
+    }
+  ],
+  "timestamp": "2026-09-02T17:17:15.585120384Z",
+  "model": "glm-5.3"
+}

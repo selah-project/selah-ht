@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 78,
+  "translation": "Epi l livre pèp l bay epe a, e l fè kòlè sou eritaj l.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "epi l livre"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "bay epe a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pèp l"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "ak sou eritaj l"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "l fè kòlè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:06:19.222565631Z",
+  "model": "glm-5.3"
+}

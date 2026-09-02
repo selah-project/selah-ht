@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 89,
+  "translation": "Si pitit li yo abandone lwa mwen an, e yo pa mache nan jijman mwen yo —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "abandone"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pitit li yo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "lwa mwen an"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "e nan jijman mwen yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "mache"
+    }
+  ],
+  "timestamp": "2026-09-02T20:08:41.711401022Z",
+  "model": "glm-5.3"
+}

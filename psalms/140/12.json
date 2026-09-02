@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 140,
+  "translation": "Moun ki gen lang move pa janm kanpe nan tè a; mal apanté moun vyolans lan jouk rwenine l.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ki gen lang move"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pa janm"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "kanpe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nan tè a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moun"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vyolans"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "apanté"
+    },
+    {
+      "surface": "למדחפות",
+      "gloss": "jouk rwenine"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:48.085838885Z",
+  "model": "glm-5.3"
+}

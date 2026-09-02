@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 58,
+  "translation": "ki pa koute vwa moun ki mumble mòjolè, ni mèt fòmil ki pi abil.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "vwa"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "moun ki mumble mòjolè"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "mèt fòmil"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "fòmil yo"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ki pi abil"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:38.748439302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "E Metouchelakh viv san katrevendisèt lane, e fè ⟨את⟩ Lemekh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "viv"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metouchelakh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sèt"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "katrevendis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemekh"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemekh"
+    }
+  ],
+  "timestamp": "2026-09-02T15:14:19.978520482Z",
+  "model": "glm-5.3"
+}

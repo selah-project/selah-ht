@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 37,
+  "translation": "E li fè ⟨את⟩ bar yo ak bwa akasya, e li kouvri ⟨את⟩ yo ak ò, pou pote ⟨את⟩ tab la.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e li fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bar yo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bar yo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "e li kouvri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yo",
+      "marks": "ò"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ò"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pou pote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tab la"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tab la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:36.916962720Z",
+  "model": "glm-5.3"
+}

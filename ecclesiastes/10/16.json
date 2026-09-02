@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Woy pou ou, tè a, lè wa ou ⟨se⟩ yon timoun, e chèf ou yo manje maten!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Woy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pou ou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "wa ou"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yon timoun"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "e chèf ou yo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maten"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T20:51:36.516596340Z",
+  "model": "glm-5.3"
+}

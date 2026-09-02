@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 23,
+  "translation": "Fen li an ap mòde kòm yon koulèv, epi kòm yon tsefoni li ap pike.",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "Fen li an"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "kòm yon koulèv"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ap mòde"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "epi kòm yon tsefoni"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ap pike"
+    }
+  ],
+  "timestamp": "2026-09-02T20:28:40.765391406Z",
+  "model": "glm-5.3"
+}

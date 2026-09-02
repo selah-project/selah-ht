@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Epi nou pral manje ⟨את⟩ li nan yon kote sen, paske se pa w ak pa pitit gason ou li ye, soti nan ofrann difa Yawe yo; paske se konsa mwen te resevwa lòd.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Epi nou pral manje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (ofrann difa a)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nan yon kote"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "se pa w"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ak pa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "pitit gason ou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li ye"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "soti nan ofrann difa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se konsa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mwen te resevwa lòd"
+    }
+  ],
+  "timestamp": "2026-09-02T16:09:24.110118537Z",
+  "model": "glm-5.3"
+}

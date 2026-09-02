@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ht",
+  "chapter": 3,
+  "translation": "Malè pou lavil san an, toutouni avèk falls, plen vòlè —\nprey la pa janm ale.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malè pou"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lavil"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "san an"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "toutouni avèk"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "falls"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "plen vòlè"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "janm ale"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "prey la"
+    }
+  ],
+  "timestamp": "2026-09-02T19:42:44.134972136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Jis ⟨è⟩ ou, Yawe, e dwat jijman yo ou yo.",
+  "tokens": [
+    {
+      "surface": "צַדִּיק",
+      "gloss": "Jis"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וְיָשָׁר",
+      "gloss": "e dwat"
+    },
+    {
+      "surface": "מִשְׁפָּטֶיךָ",
+      "gloss": "jijman ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T22:25:16.004229822Z",
+  "model": "glm-5.3"
+}

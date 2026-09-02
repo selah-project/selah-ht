@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "E se la nou pral pote oferann boule nou yo ak sakrifis nou yo, ak ⟨את⟩ dizèm nou yo ak ⟨את⟩ kontribisyon men nou yo, ak sa nou pwomèt yo ak sa nou bay volontè yo, ak premye-piti bèf nou yo ak mouton nou yo.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "e nou pral pote"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "se la"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "oferann boule nou yo"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "ak sakrifis nou yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "dizèm nou yo"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "dizèm nou yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "kontribisyon men nou yo"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "kontribisyon"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "men nou"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "ak sa nou pwomèt yo"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "ak sa nou bay volontè yo"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "ak premye-piti"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "bèf nou yo"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "ak mouton nou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:48:44.721068503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 147,
+  "translation": "⟨Li⟩ kouvri syèl yo ak nwaj, ⟨li⟩ prepare lapli pou tè a, ⟨li⟩ fè zèb grandi sou mòn yo.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ak nwaj"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "prepare"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pou tè a"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "lapli"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "fè grandi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sou mòn yo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "zèb"
+    }
+  ],
+  "timestamp": "2026-09-02T20:20:40.378568964Z",
+  "model": "glm-5.3"
+}

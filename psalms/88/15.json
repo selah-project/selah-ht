@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 88,
+  "translation": "Poukisa, Yawe, ou rejte ⟨nanm⟩ m? Poukisa ou kache figi ou pou mwen?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Poukisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ou rejte"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nanm m"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ou kache"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pou mwen"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:55.905858977Z",
+  "model": "glm-5.3"
+}

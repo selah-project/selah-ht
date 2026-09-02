@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 106,
+  "translation": "E kòlè Yawe fache ⟨sou⟩ pèp li, e li rayi ⟨את⟩ eritans li.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "fache"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kòlè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "sou pèp li"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "e li rayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eritans li"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "eritans li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:12:17.097651887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 81,
+  "translation": "Paske se yon lwa pou Yisrael li ye, yon jijman pou Elohim Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Paske"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pou Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jijman"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "pou Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:01.737435195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Pou ⟨sa ki⟩ frape Mitsrayim nan premye fèt yo (nan pitit gason premye fèt yo), paske pou touttan hesed li.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Pou ⟨sa ki⟩ frape"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "nan premye fèt yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:24.918751626Z",
+  "model": "glm-5.3"
+}

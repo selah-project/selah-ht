@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 60,
+  "translation": "Kisa moun sa yo ye, k ap vole tankou yon nwaj, tankou pijon yo ale nan fenèt yo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kisa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "moun sa yo"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "tankou yon nwaj"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "k ap vole"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "tankou pijon yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale nan"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "fenèt yo"
+    }
+  ],
+  "timestamp": "2026-09-02T18:42:54.506837827Z",
+  "model": "glm-5.3"
+}

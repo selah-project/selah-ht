@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "E esklav la rakonte bay Yitshak ⟨את⟩ tout bagay yo ke l te fè.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "e l rakonte"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "esklav la"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "bay Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout bagay yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "bagay yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "te fè"
+    }
+  ],
+  "timestamp": "2026-09-02T15:23:04.819409440Z",
+  "model": "glm-5.3"
+}

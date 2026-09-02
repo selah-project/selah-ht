@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 35,
+  "translation": "Paske yo pa pale lapè; sou moun ki trankil nan tè a, yo trase pawòl twòp.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lapè"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "yo pale"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "moun ki trankil"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tè a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "twòp"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "yo trase"
+    }
+  ],
+  "timestamp": "2026-09-02T19:57:10.029990496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 10,
+  "translation": "Nan orgèy li, mechan an pèsekte pòv la; ke yo kenbe nan konplo yo ke yo imajine menm.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "nan orgèy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mechan an"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "pèsekte"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pòv la"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "ke yo kenbe"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "nan konplo yo"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "yo imajine"
+    }
+  ],
+  "timestamp": "2026-09-02T19:53:04.499211419Z",
+  "model": "glm-5.3"
+}

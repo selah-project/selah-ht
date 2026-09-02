@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "E ⟨li⟩ fè ⟨את⟩ planch yo pou tabènakle la: ven planch pou kote sid la, ann aireksyon sid.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E l fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "planch yo"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "planch yo"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pou tabènakle la"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ven"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "planch"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pou kote"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sid"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "an direksyon sid"
+    }
+  ],
+  "timestamp": "2026-09-02T16:00:34.429643876Z",
+  "model": "glm-5.3"
+}

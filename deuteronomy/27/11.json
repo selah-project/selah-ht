@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi Moche kòmande pèp la ⟨את⟩ jou a sa a ⟨la⟩, pou l di ⟨sa⟩:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kòmande"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pèp la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pèp la"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "jou a"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pou l di"
+    }
+  ],
+  "timestamp": "2026-09-02T22:20:16.770156315Z",
+  "model": "glm-5.3"
+}

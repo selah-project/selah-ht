@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "ht",
+  "chapter": 31,
+  "translation": "Epi Yawe ap ba yo devan ou yo, e ou yo ap fè yo dapre tout kòmmanman an ke mwen kòmmande ou yo.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ap ba yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devan ou yo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ap fè"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dapre tout"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "kòmmanman an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mwen kòmmande"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ou yo"
+    }
+  ],
+  "timestamp": "2026-09-02T16:58:38.489517314Z",
+  "model": "glm-5.3"
+}

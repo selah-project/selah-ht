@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Pitit Naftali, dapre desandan yo, dapre fanmi yo, dapre lakou papa yo, nan kantite non yo, soti nan venzan lane e pi wo, tout moun ki kapab sòti alè nan lame a;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pitit"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "dapre desandan yo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dapre fanmi yo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dapre lakou"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "papa yo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "nan kantite"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "non yo"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "soti nan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venzan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lane"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e pi wo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout moun"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sòti alè"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "nan lame a"
+    }
+  ],
+  "timestamp": "2026-09-02T16:18:27.274995817Z",
+  "model": "glm-5.3"
+}

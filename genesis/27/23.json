@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi l pa rekonèt l, paske men l yo te ye tankou men Esav, frè l, ki gen plim; epi l beni l.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "epi l pa"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "rekonèt l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "היו",
+      "gloss": "te ye"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "men l yo"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "tankou men"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frè l"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "ki gen plim"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "epi l beni l"
+    }
+  ],
+  "timestamp": "2026-09-02T15:25:10.958954438Z",
+  "model": "glm-5.3"
+}

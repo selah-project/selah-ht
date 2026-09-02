@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 103,
+  "translation": "Beni Yawe, tout lame l yo, sèvitè l yo, moun ki fè volonte l!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "lame l yo"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "sèvitè l yo"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "moun ki fè"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "volonte l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:10:37.200155666Z",
+  "model": "glm-5.3"
+}

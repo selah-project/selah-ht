@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 86,
+  "translation": "Tout nasyon yo ou fè yo pral vini, y ap pwostrene devan ou, Adònay, epi y ap glorifye Non ou a.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "yo pral vini"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "y ap pwostrene"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devan ou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "epi y ap glorifye"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Non ou a"
+    }
+  ],
+  "timestamp": "2026-09-02T20:07:37.639652946Z",
+  "model": "glm-5.3"
+}

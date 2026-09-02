@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 19,
+  "translation": "E li kouch li dòmi anba yon pye rotem, e gade, yon malach manyen l, e li di l: Levse, manje.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "li kouch"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "li dòmi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anba"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "pye rotem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e gade"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa a"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "yon malach"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "manyen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "l"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "li di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Levse"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-09-02T18:04:26.856627837Z",
+  "model": "glm-5.3"
+}

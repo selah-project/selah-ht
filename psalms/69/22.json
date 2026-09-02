@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 69,
+  "translation": "Yo bay nan manje m roch (yon pwazon), e pou swaf m yo fè m bwè vinèg.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "yo bay"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "nan manje m"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "roch (yon pwazon)"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "e pou swaf m"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "yo fè m bwè"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "vinèg"
+    }
+  ],
+  "timestamp": "2026-09-02T20:03:24.992689514Z",
+  "model": "glm-5.3"
+}

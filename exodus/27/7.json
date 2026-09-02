@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 27,
+  "translation": "Epi ⟨את⟩ bar yo pral moute nan bag yo, epi bar yo pral sou de kote lotèl la, lè ⟨את⟩ yo ap pote l.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "epi ... pral moute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bar yo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bar yo"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "nan bag yo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "epi ... pral"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bar yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "kote"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lotèl la"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "lè ... ap pote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ l",
+      "marks": "l (lotèl la)"
+    }
+  ],
+  "timestamp": "2026-09-02T15:52:53.901853515Z",
+  "model": "glm-5.3"
+}

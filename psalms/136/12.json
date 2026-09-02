@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 136,
+  "translation": "Ak yon men fò ak yon bra longe deyò, paske pou touttan hesed li.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "ak yon men"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fò"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ak yon bra"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "longe deyò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pou touttan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed li"
+    }
+  ],
+  "timestamp": "2026-09-02T20:18:24.919047917Z",
+  "model": "glm-5.3"
+}

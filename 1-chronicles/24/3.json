@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "ht",
+  "chapter": 24,
+  "translation": "Epi David divize yo: Tsadok, ki soti nan mitan pitit Elazar, ak Ahimelekh, ki soti nan mitan pitit Itamar, dapre klasman yo nan sèvis yo.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "epi ... divize yo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ak Tsadok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ki soti nan mitan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "ak Ahimelekh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ki soti nan mitan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pitit"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "dapre klasman yo"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "nan sèvis yo"
+    }
+  ],
+  "timestamp": "2026-09-02T21:22:20.310348378Z",
+  "model": "glm-5.3"
+}

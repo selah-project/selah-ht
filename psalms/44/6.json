@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 44,
+  "translation": "Nan ou nou kroke detèsè nou yo; nan Non ou nou pize moun ki leve kont nou yo.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Nan ou"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "detèsè nou"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "nou kroke"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nan Non ou"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "nou pize"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "moun ki leve kont nou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:42.613648576Z",
+  "model": "glm-5.3"
+}

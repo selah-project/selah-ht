@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 4:2",
+  "book": "micah",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "E anpil nasyon ap mache, e y ap di: Vin, ann ale moute sou mòn Yawe ak sou kay Elohim Yaakov; l ap montre nou chemen l yo, e n ap mache nan wout l yo; paske Tora ap soti nan Tsiyòn, ak pawòl Yawe soti nan Yerouchalayim.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "e ap mache"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasyon"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anpil"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "e y ap di"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "ann ale moute"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mòn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ak sou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויורנו",
+      "gloss": "e l ap montre nou"
+    },
+    {
+      "surface": "מדרכיו",
+      "gloss": "chemen l yo"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "e n ap mache"
+    },
+    {
+      "surface": "בארחתיו",
+      "gloss": "nan wout l yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "soti nan Tsiyòn"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ap soti"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ak pawòl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "soti nan Yerouchalayim"
+    }
+  ],
+  "timestamp": "2026-09-02T19:41:33.445431582Z",
+  "model": "glm-5.3"
+}

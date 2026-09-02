@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "Mwen menm, nan jistis, m ap gade figi ou; lè m reveye, m ap sitiye ak ⟨imaj⟩ ou.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mwen menm"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nan jistis"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "m ap gade"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "figi ou"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "m ap sitiye"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "lè m reveye"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "imaj ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:11.798405932Z",
+  "model": "glm-5.3"
+}

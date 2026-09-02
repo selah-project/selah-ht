@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E pèp la pa tounen deyon moun k ap koupe l a, e ⟨את⟩ Yawe Tsavot yo pa chèche.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "e pèp la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deyon"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "moun k ap koupe l a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yawe Tsavot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "chèche"
+    }
+  ],
+  "timestamp": "2026-09-02T18:25:24.173297593Z",
+  "model": "glm-5.3"
+}

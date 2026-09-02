@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 52,
+  "translation": "Ou renmen tout pawòl ki devore, lang k ap fwod!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "renmen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pawòl"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ki devore"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lang"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "k ap fwod"
+    }
+  ],
+  "timestamp": "2026-09-02T20:01:30.497292761Z",
+  "model": "glm-5.3"
+}

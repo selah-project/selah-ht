@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 36:25",
+  "book": "jeremiah",
+  "lang": "ht",
+  "chapter": 36,
+  "translation": "Menm Elnatàn ak Delayahou ak Gemaryahou te plade nan wa a pou l pa boule ⟨את⟩ woulo a, men li pa t koute yo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "menm … ak"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatàn"
+    },
+    {
+      "surface": "ודליהו",
+      "gloss": "Delayahou"
+    },
+    {
+      "surface": "וגמריהו",
+      "gloss": "Gemaryahou"
+    },
+    {
+      "surface": "הפגעו",
+      "gloss": "te plade"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "nan wa a"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pou l pa"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "boule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woulo a"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "woulo a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men li pa t"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koute"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:02:52.674732785Z",
+  "model": "glm-5.3"
+}

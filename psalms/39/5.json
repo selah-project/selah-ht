@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Fè m konnen, Yawe, fen m, ak mezire jou m yo — ki sa li ⟨ye⟩; m ap konnen ki jan frajil mwen ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Fè m konnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "fen m"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "ak mezire"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jou m yo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ki sa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "li ⟨ye⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "m ap konnen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ki jan"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "frajil"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mwen ⟨ye⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T19:58:45.881826643Z",
+  "model": "glm-5.3"
+}

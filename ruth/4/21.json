@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ht",
+  "chapter": 4,
+  "translation": "Epi Salmon fè ⟨את⟩ Boaz, epi Boaz fè ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "epi Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "epi Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "fè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-09-02T20:45:37.016180028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 22,
+  "translation": "Mwen vèse tankou dlo, tout zo m separe; kè m vin tankou sirèt, l ap fonn andedan vant m.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "tankou dlo"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "Mwen vèse"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "separe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "zo m"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kè m"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "tankou sirèt"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "l ap fonn"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "andedan"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "vant m"
+    }
+  ],
+  "timestamp": "2026-09-02T19:54:06.952922122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "ht",
+  "chapter": 1,
+  "translation": "Tout rivyè yo ap koule nan lanmè a, epi lanmè a pa vin plen; nan kote rivyè yo ap koule, se la yo tounen pou koule ankò.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "rivyè yo"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ap koule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lanmè a"
+    },
+    {
+      "surface": "והים",
+      "gloss": "epi lanmè a"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "pa vin"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kote"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "kote rivyè yo"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ap koule"
+    },
+    {
+      "surface": "שם",
+      "gloss": "se la"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "tounen"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pou koule"
+    }
+  ],
+  "timestamp": "2026-09-02T22:03:17.181384308Z",
+  "model": "glm-5.3"
+}

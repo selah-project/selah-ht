@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 26:32",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 26,
+  "translation": "Epi ou mete ⟨את⟩ li sou kat panno bwad chitim kouvri ak lò, kwòk yo lò, sou kat baz ajàn.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "epi ou mete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li (parokhet la)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "panno"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "bwad chitim"
+    },
+    {
+      "surface": "מצפים",
+      "gloss": "kouvri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "וכויהם",
+      "gloss": "kwòk yo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lò"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "baz"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ajàn"
+    }
+  ],
+  "timestamp": "2026-09-02T21:44:36.682613069Z",
+  "model": "glm-5.3"
+}

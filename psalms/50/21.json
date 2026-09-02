@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Sa yo ou fè, e mwen te kenbe silans; ou panse ⟨ke⟩ mwen ye tankou ou; mwen va reprimande ou e mwen va mete ⟨yo⟩ devan je ou.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Sa yo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ou fè"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "e mwen te kenbe silans"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "ou panse"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mwen ye"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tankou ou"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "mwen va reprimande ou"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "e mwen va mete"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "devan je ou"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:37.470632531Z",
+  "model": "glm-5.3"
+}

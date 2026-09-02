@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Epi mwen mete ⟨את⟩ figi m sou Adònay HaElohim, pou chèche lapriyè ak siple, ak jejn, ak sak, ak sann.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Epi mwen mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figi m"
+    },
+    {
+      "surface": "פני",
+      "gloss": "figi m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adònay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pou chèche"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lapriyè"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "ak siple"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ak jejn"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ak sak"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ak sann"
+    }
+  ],
+  "timestamp": "2026-09-02T21:01:48.136113762Z",
+  "model": "glm-5.3"
+}

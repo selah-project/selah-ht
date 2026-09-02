@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "ht",
+  "chapter": 5,
+  "translation": "Yo bwè diven, e yo fè lwanj pou dye lò a, ajan la, kvèv la, fè la, bwa a ak wòch la.",
+  "tokens": [
+    {
+      "surface": "אִשְׁתִּ֖יו",
+      "gloss": "yo bwè"
+    },
+    {
+      "surface": "חַמְרָ֑א",
+      "gloss": "diven"
+    },
+    {
+      "surface": "וְ֠שַׁבַּחוּ",
+      "gloss": "e yo fè lwanj"
+    },
+    {
+      "surface": "לֵֽאלָהֵ֞י",
+      "gloss": "pou dye"
+    },
+    {
+      "surface": "דַּהֲבָ֧א",
+      "gloss": "lò a"
+    },
+    {
+      "surface": "וְכַסְפָּ֛א",
+      "gloss": "ajan la"
+    },
+    {
+      "surface": "נְחָשָׁ֥א",
+      "gloss": "kvèv la"
+    },
+    {
+      "surface": "פַרְזְלָ֖א",
+      "gloss": "fè la"
+    },
+    {
+      "surface": "אָעָ֥א",
+      "gloss": "bwa a"
+    },
+    {
+      "surface": "וְאַבְנָֽא",
+      "gloss": "ak wòch la"
+    }
+  ],
+  "timestamp": "2026-09-02T20:58:42.384269375Z",
+  "model": "glm-5.3"
+}

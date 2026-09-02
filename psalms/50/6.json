@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 50,
+  "translation": "Epi syèl yo anonse jistis l, paske Elohim, se li menm ⟨ki⟩ jij la. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "epi yo anonse"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "syèl yo"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "jistis l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "jij"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se li menm"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T19:59:47.119237400Z",
+  "model": "glm-5.3"
+}

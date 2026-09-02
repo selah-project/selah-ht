@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 16,
+  "translation": "Epi l ap fèt nan sizyèm jou a, y ap prepare ⟨את⟩ sa yo pote; epi l ap fèt doub sou sa yo ramase jou pa jou.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Epi l ap fèt"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nan jou"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "sizyèm"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "y ap prepare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa (yo pote)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "yo pote"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "epi l ap fèt"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "doub"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "yo ramase"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:49:25.674333087Z",
+  "model": "glm-5.3"
+}

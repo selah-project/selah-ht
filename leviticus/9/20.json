@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "E yo mete ⟨את⟩ grès yo sou pwatrin yo, e l fè grès yo fimen sou lotèl la.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grès yo"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "grès yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sou"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "pwatrin yo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "fè fimen"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "grès yo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "jiska lotèl la"
+    }
+  ],
+  "timestamp": "2026-09-02T16:08:00.866969181Z",
+  "model": "glm-5.3"
+}

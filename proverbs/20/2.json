@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "ht",
+  "chapter": 20,
+  "translation": "Laperèz yon wa ap gwonde kou yon lyon jèn; moun ki pwovoke l ap fè peche kont lavi pa l.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "gwonde"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "kou yon lyon jèn"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "laperèz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "ki pwovoke l"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "fè peche"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lavi pa l"
+    }
+  ],
+  "timestamp": "2026-09-02T20:27:33.349296848Z",
+  "model": "glm-5.3"
+}

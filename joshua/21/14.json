@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "ak ⟨את⟩ Yatir ak ⟨את⟩ pak patiraj li, ak ⟨את⟩ Echtemoa ak ⟨את⟩ pak patiraj li.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pak patiraj li"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pak patiraj li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "Echtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Echtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ak ⟨את⟩",
+      "marks": "pak patiraj li"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pak patiraj li"
+    }
+  ],
+  "timestamp": "2026-09-02T17:09:16.999803394Z",
+  "model": "glm-5.3"
+}

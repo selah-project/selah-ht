@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 17,
+  "translation": "E Elohim di a Avraham: «Saray, madanm ou a, ou pa pral rele ⟨את⟩ non l Saray, paske Sarah ⟨se⟩ non l.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e li di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "madanm ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "rele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non l"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "non l"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "non l"
+    }
+  ],
+  "timestamp": "2026-09-02T21:40:07.160854711Z",
+  "model": "glm-5.3"
+}

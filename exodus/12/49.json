@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "ht",
+  "chapter": 12,
+  "translation": "Yon sèl torah genyen pou natif natal ⟨la⟩ ak pou etranje ki ap sejoune nan mitan nou.",
+  "tokens": [
+    {
+      "surface": "תּוֹרָה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "אַחַת",
+      "gloss": "yon sèl"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "genyen"
+    },
+    {
+      "surface": "לָאֶזְרָח",
+      "gloss": "pou natif natal"
+    },
+    {
+      "surface": "וְלַגֵּר",
+      "gloss": "ak pou etranje"
+    },
+    {
+      "surface": "הַגֵּר",
+      "gloss": "ki ap sejoune"
+    },
+    {
+      "surface": "בְּתוֹכְכֶם",
+      "gloss": "nan mitan nou"
+    }
+  ],
+  "timestamp": "2026-09-02T15:44:56.433473635Z",
+  "model": "glm-5.3"
+}

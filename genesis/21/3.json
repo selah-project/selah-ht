@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 21,
+  "translation": "Epi Avraham rele non pitit gason li a, pitit ki fèt pou li, Sarah fè pou l, Yitshak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Epi rele"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "non"
+    },
+    {
+      "surface": "שם",
+      "gloss": "non"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pitit gason li"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "ki fèt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pou l"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-02T15:21:00.762133177Z",
+  "model": "glm-5.3"
+}

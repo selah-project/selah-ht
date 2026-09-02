@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "ht",
+  "chapter": 39,
+  "translation": "Li mete rad li kote li, jiska mèt li rantre nan kay li.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "li mete"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "rad li"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "kote li"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jiska"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "rantre"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mèt li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kay li"
+    }
+  ],
+  "timestamp": "2026-09-02T15:32:18.588601035Z",
+  "model": "glm-5.3"
+}

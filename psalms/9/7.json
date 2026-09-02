@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 9,
+  "translation": "Enmi a fini, dezè pou tout tan; e vil yo ou rache, souvenir yo pèdi avèk yo.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Enmi a"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "fini"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "dezè"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pou tout tan"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "e vil yo"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "ou rache"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pèdi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "souvenir yo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-02T19:52:08.081545514Z",
+  "model": "glm-5.3"
+}

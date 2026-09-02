@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ht",
+  "chapter": 6,
+  "translation": "E ⟨את⟩ pwenti devir la li fè pòtay bwa pye oliv — lantyo a ak pòs yo, yon senkyèm.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pwenti a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pwenti"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "devir la"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fè"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pòtay"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "pye oliv"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "lantyo a"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "pòs yo"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "senkyèm"
+    }
+  ],
+  "timestamp": "2026-09-02T17:56:10.458771210Z",
+  "model": "glm-5.3"
+}

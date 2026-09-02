@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ht",
+  "chapter": 119,
+  "translation": "Anseche m bon sans ak konesans, paske mwen kwè nan kòmandman yo ou.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "sans"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ak konesans"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "anseche m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paske"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "nan kòmandman yo ou"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "mwen kwè"
+    }
+  ],
+  "timestamp": "2026-09-02T20:15:28.546036770Z",
+  "model": "glm-5.3"
+}
