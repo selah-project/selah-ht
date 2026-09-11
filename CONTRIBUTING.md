@@ -65,3 +65,8 @@ Thank you — you are helping this rendering become clearer, more visible, and c
 - Hebrew first. If two readings both stand, explain the difference; do not present a preference as a certainty. Do not copy copyrighted modern translations. Literalness outranks readability: at the hard verses the text is laid bare.
 - If you used a large language model or machine translation, say so plainly and put your own review beside it. Do not send bulk unreviewed text.
 - By contributing you agree that what is accepted is published under [CC BY-SA 4.0](LICENSE.md). Reviewers compare every proposal against the Hebrew, the rails, the references, and the alignment. Criticize the text, not the person.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
